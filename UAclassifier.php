@@ -8,6 +8,7 @@ class UAclassifier {
 	public $is_mobile	 = false;
 	public $is_tablet	 = false;
 	public $is_spider	 = false;
+	public $is_computer	 = true;
 	
 	public function __construct($parseResult)
 	{
@@ -32,6 +33,7 @@ class UAclassifier {
 		{
 			$this->is_tablet		 = true;
 			$this->is_mobileDevice	 = true;
+			$this->is_computer		 = false;
 			return;
 		}
 		
@@ -39,12 +41,14 @@ class UAclassifier {
 		{
 			$this->is_mobileDevice	 = true;
 			$this->is_mobile		 = true;
+			$this->is_computer		 = false;
 			return;
 		}
 		
 		if(strtolower($this->result->device->family) == 'spider')
 		{
 			$this->is_spider	 = true;
+			$this->is_computer	 = false;
 			return;
 		}
 		
@@ -52,6 +56,7 @@ class UAclassifier {
 		{
 			$this->is_mobileDevice	 = true;
 			$this->is_mobile		 = true;
+			$this->is_computer		 = false;
 			return;
 		}
 		
@@ -59,6 +64,7 @@ class UAclassifier {
 		{
 			$this->is_mobileDevice	 = true;
 			$this->is_mobile		 = true;
+			$this->is_computer		 = false;
 			return;
 		}
 		
