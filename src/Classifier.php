@@ -1,22 +1,24 @@
 <?php
 
+namespace UAClassifier;
 
-class UAclassifier {
+class Classifier
+{
 	private $result;
-	
+
 	public $is_mobileDevice	 = false;
 	public $is_mobile	 = false;
 	public $is_tablet	 = false;
 	public $is_spider	 = false;
 	public $is_computer	 = true;
-	
+
 	public function __construct($parseResult)
 	{
 		$this->result	 = $parseResult;
-		
+
 		$this->classify();
 	}
-	
+
 	protected function classify()
 	{
 		$mobileOSs		 = array('windows phone 6.5','windows ce','symbian os');
@@ -27,8 +29,8 @@ class UAclassifier {
 		$tablets		 = array('kindle','ipad','playbook','touchpad','dell streak','galaxy tab','xoom');
 		$mobileDevices	 = array('iphone','ipod','ipad','htc','kindle','lumia','amoi','asus','bird','dell','docomo','huawei','i-mate','kyocera',
 								 'lenovo','lg','kin','motorola','philips','samsung','softbank','palm','hp ','generic feature phone','generic smartphone');
-		
-		
+
+
 		if(in_array(strtolower($this->result->device->family), $tablets))
 		{
 			$this->is_tablet		 = true;
@@ -36,7 +38,7 @@ class UAclassifier {
 			$this->is_computer		 = false;
 			return;
 		}
-		
+
 		if(in_array(strtolower($this->result->device->family), $mobileDevices))
 		{
 			$this->is_mobileDevice	 = true;
@@ -44,14 +46,14 @@ class UAclassifier {
 			$this->is_computer		 = false;
 			return;
 		}
-		
+
 		if(strtolower($this->result->device->family) == 'spider')
 		{
 			$this->is_spider	 = true;
 			$this->is_computer	 = false;
 			return;
 		}
-		
+
 		if(in_array(strtolower($this->result->os->family), $mobileOSs))
 		{
 			$this->is_mobileDevice	 = true;
@@ -59,7 +61,7 @@ class UAclassifier {
 			$this->is_computer		 = false;
 			return;
 		}
-		
+
 		if(in_array(strtolower($this->result->ua->family), $mobileBrowsers))
 		{
 			$this->is_mobileDevice	 = true;
@@ -67,7 +69,7 @@ class UAclassifier {
 			$this->is_computer		 = false;
 			return;
 		}
-		
+
 		return;
 	}
 }
