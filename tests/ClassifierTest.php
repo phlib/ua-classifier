@@ -26,18 +26,38 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
     /**
      * @dataProvider providerClassifier
      */
-    public function testClassifier($ua, $isComputer, $isMobileDevice, $isMobile, $isTablet, $isSpider)
+    public function testClassifier($ua, $class)
     {
         $parseResult = $this->parser->parse($ua);
         $classifer = new Classifier($parseResult);
 
         $msgString = " check for '{$parseResult->toString()}' (match {$classifer->matchType})";
 
-        $this->assertEquals($isComputer, $classifer->is_computer, 'Computer' . $msgString);
-        $this->assertEquals($isMobileDevice, $classifer->is_mobileDevice, 'Mobile device' . $msgString);
-        $this->assertEquals($isMobile, $classifer->is_mobile, 'Mobile' . $msgString);
-        $this->assertEquals($isTablet, $classifer->is_tablet, 'Tablet' . $msgString);
-        $this->assertEquals($isSpider, $classifer->is_spider, 'Spider' . $msgString);
+        $this->assertEquals(
+            $class === 'desktop',
+            $classifer->is_computer,
+            'Computer' . $msgString
+        );
+        $this->assertEquals(
+            in_array($class, ['tablet', 'mobile']),
+            $classifer->is_mobileDevice,
+            'Mobile device' . $msgString
+        );
+        $this->assertEquals(
+            $class === 'tablet',
+            $classifer->is_tablet,
+            'Tablet' . $msgString
+        );
+        $this->assertEquals(
+            $class === 'mobile',
+            $classifer->is_mobile,
+            'Mobile' . $msgString
+        );
+        $this->assertEquals(
+            $class === 'spider',
+            $classifer->is_spider,
+            'Spider' . $msgString
+        );
     }
 
     public function providerClassifier()
@@ -48,11 +68,7 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
         foreach ($testCasesData['testCases'] as $testCase) {
             $data[] = [
                 $testCase['userAgent'],
-                $testCase['isComputer'],
-                $testCase['isMobileDevice'],
-                $testCase['isMobile'],
-                $testCase['isTablet'],
-                $testCase['isSpider']
+                $testCase['class']
             ];
         }
 
