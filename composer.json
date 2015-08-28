@@ -1,0 +1,36 @@
+{
+    "name": "phlib/ua-classifier",
+    "description": "A PHP ua-parser device classification project, to provide functionality that was removed in ua-parser 2.0",
+    "keywords": [
+        "phlib",
+        "ua-classifier",
+        "ua-parser",
+        "uap-php"
+    ],
+    "homepage": "https://github.com/phlib/ua-classifier",
+    "authors": [
+        {
+            "name": "Jan Luetke"
+        },
+        {
+            "name": "Chris Minett"
+        }
+    ],
+    "require": {
+        "php" : "^5.4",
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "suggest": {
+        "ua-parser/uap-php": "ua-classifier is designed to extend the results provided by ua-parser"
+    }
+}
