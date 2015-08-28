@@ -6,6 +6,10 @@ class Classifier
 {
     private $result;
 
+    /**
+     * @var string UA-Parser element used for match: 'device', 'os', 'ua'
+     */
+    public $matchType;
     public $is_mobileDevice = false;
     public $is_mobile   = false;
     public $is_tablet   = false;
@@ -31,39 +35,39 @@ class Classifier
                                 'lenovo','lg','kin','motorola','philips','samsung','softbank','palm','hp ','generic feature phone','generic smartphone');
 
 
-        if(in_array(strtolower($this->result->device->family), $tablets))
-        {
+        if (in_array(strtolower($this->result->device->family), $tablets)) {
+            $this->matchType = 'device';
             $this->is_tablet       = true;
             $this->is_mobileDevice = true;
             $this->is_computer     = false;
             return;
         }
 
-        if(in_array(strtolower($this->result->device->family), $mobileDevices))
-        {
+        if (in_array(strtolower($this->result->device->family), $mobileDevices)) {
+            $this->matchType = 'device';
             $this->is_mobileDevice = true;
             $this->is_mobile       = true;
             $this->is_computer     = false;
             return;
         }
 
-        if(strtolower($this->result->device->family) == 'spider')
-        {
+        if (strtolower($this->result->device->family) == 'spider') {
+            $this->matchType = 'device';
             $this->is_spider   = true;
             $this->is_computer = false;
             return;
         }
 
-        if(in_array(strtolower($this->result->os->family), $mobileOSs))
-        {
+        if (in_array(strtolower($this->result->os->family), $mobileOSs)) {
+            $this->matchType = 'os';
             $this->is_mobileDevice = true;
             $this->is_mobile       = true;
             $this->is_computer     = false;
             return;
         }
 
-        if(in_array(strtolower($this->result->ua->family), $mobileBrowsers))
-        {
+        if (in_array(strtolower($this->result->ua->family), $mobileBrowsers)) {
+            $this->matchType = 'ua';
             $this->is_mobileDevice = true;
             $this->is_mobile       = true;
             $this->is_computer     = false;
