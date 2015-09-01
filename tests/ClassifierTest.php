@@ -3,7 +3,6 @@
 namespace UAClassifer\Test;
 
 use UAClassifier\Classifier;
-use UAParser\Parser;
 use Symfony\Component\Yaml\Yaml;
 
 /**
@@ -14,24 +13,32 @@ use Symfony\Component\Yaml\Yaml;
 class ClassiferTest extends \PHPUnit_Framework_TestCase
 {
     /**
-     * @var Parser
+     * @var \UAParser\Result\Client|\PHPUnit_Framework_MockObject_MockObject
      */
-    protected $parser;
+    protected $mockResult;
 
     public function setUp()
     {
-        $this->parser = Parser::create();
+        $this->mockResult = $this->getMockBuilder('UAParser\Result\Client')
+            ->disableOriginalConstructor()
+            ->getMock();
+        $this->mockResult->device = $this->getMock('UAParser\Result\Device');
+        $this->mockResult->os = $this->getMock('UAParser\Result\OperatingSystem');
+        $this->mockResult->ua = $this->getMock('UAParser\Result\UserAgent');
     }
 
     /**
      * @dataProvider providerClassifier
      */
-    public function testClassifier($ua, $class)
+    public function testClassifier($key, $device, $os, $ua, $class)
     {
-        $parseResult = $this->parser->parse($ua);
-        $classifer = new Classifier($parseResult);
+        $this->mockResult->device->family = $device;
+        $this->mockResult->os->family = $os;
+        $this->mockResult->ua->family = $ua;
 
-        $msgString = " check for '{$parseResult->toString()}' (match {$classifer->matchType})";
+        $classifer = new Classifier($this->mockResult);
+
+        $msgString = " check for '{$key}' ('{$class}' match by '{$classifer->matchType}')";
 
         $this->assertEquals(
             $class === 'desktop',
@@ -62,12 +69,19 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
 
     public function providerClassifier()
     {
-        $testCasesData = Yaml::parse(__DIR__ . '/test-cases.yaml');
+        $testData = Yaml::parse(file_get_contents(__DIR__ . '/test-cases.yaml'));
 
+        $validClass = ['desktop', 'tablet', 'mobile', 'spider'];
         $data = [];
-        foreach ($testCasesData['testCases'] as $testCase) {
+        foreach ($testData as $key => $testCase) {
+            if (!empty($testCase['class']) && !in_array($testCase['class'], $validClass)) {
+                throw new \RuntimeException("Invalid class '{$testCase['class']}' for '{$key}'");
+            }
             $data[] = [
-                $testCase['userAgent'],
+                $key,
+                $testCase['device'],
+                $testCase['os'],
+                $testCase['ua'],
                 $testCase['class']
             ];
         }
