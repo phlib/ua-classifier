@@ -83,14 +83,14 @@ PJ83100/2.20.502.7-Android-Android: { source: uap-core-device, device: PJ83100/2
 'Samsung SCH-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SCH-L710', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung SGH-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SGH-L710', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung SM-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SM-L710', os: Android, ua: 'Chrome Mobile', class: '' }
-Spider-Other-Googlebot: { source: uap-core-device, device: Spider, os: Other, ua: Googlebot, class: '' }
+Spider-Other-Googlebot: { source: uap-core-device, device: Spider, os: Other, ua: Googlebot, class: spider }
 'TECNO T3-Android-Android': { source: uap-core-device, device: 'TECNO T3', os: Android, ua: Android, class: '' }
 'Tesla Model S-Linux-QtCarBrowser': { source: uap-core-device, device: 'Tesla Model S', os: Linux, ua: QtCarBrowser, class: '' }
 WebTV-WebTV-IE: { source: uap-core-device, device: WebTV, os: WebTV, ua: IE, class: '' }
-Spider-Other-AdsBot-Google: { source: uap-core-device, device: Spider, os: Other, ua: AdsBot-Google, class: '' }
-Spider-Linux-magpie-crawler: { source: uap-core-device, device: Spider, os: Linux, ua: magpie-crawler, class: '' }
-Spider-iOS-Googlebot-Mobile: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot-Mobile, class: '' }
-Spider-iOS-Googlebot: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot, class: '' }
+Spider-Other-AdsBot-Google: { source: uap-core-device, device: Spider, os: Other, ua: AdsBot-Google, class: spider }
+Spider-Linux-magpie-crawler: { source: uap-core-device, device: Spider, os: Linux, ua: magpie-crawler, class: spider }
+Spider-iOS-Googlebot-Mobile: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot-Mobile, class: spider }
+Spider-iOS-Googlebot: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot, class: spider }
 'Samsung GT-N7000-Android-Android': { source: uap-core-device, device: 'Samsung GT-N7000', os: Android, ua: Android, class: '' }
 HbbTV-Panasonic-HbbTV: { source: uap-core-device, device: HbbTV, os: Panasonic, ua: HbbTV, class: '' }
 HbbTV-LG-HbbTV: { source: uap-core-device, device: HbbTV, os: LG, ua: HbbTV, class: '' }
@@ -99,17 +99,17 @@ HbbTV-Samsung-HbbTV: { source: uap-core-device, device: HbbTV, os: Samsung, ua: 
 HbbTV-Philips-HbbTV: { source: uap-core-device, device: HbbTV, os: Philips, ua: HbbTV, class: '' }
 HbbTV-FireHbbTV-HbbTV: { source: uap-core-device, device: HbbTV, os: FireHbbTV, ua: HbbTV, class: '' }
 HbbTV-Linux-Opera: { source: uap-core-device, device: HbbTV, os: Linux, ua: Opera, class: '' }
-Spider-Other-Netvibes: { source: uap-core-device, device: Spider, os: Other, ua: Netvibes, class: '' }
-'Spider-Other-Sogou Pic Spider': { source: uap-core-device, device: Spider, os: Other, ua: 'Sogou Pic Spider', class: '' }
-Spider-Other-ICC-Crawler: { source: uap-core-device, device: Spider, os: Other, ua: ICC-Crawler, class: '' }
-Spider-Other-Nutch: { source: uap-core-device, device: Spider, os: Other, ua: Nutch, class: '' }
-Spider-Other-NING: { source: uap-core-device, device: Spider, os: Other, ua: NING, class: '' }
-'Spider-Windows 7-MsnBot': { source: uap-core-device, device: Spider, os: 'Windows 7', ua: MsnBot, class: '' }
-Spider-Windows-Daumoa: { source: uap-core-device, device: Spider, os: Windows, ua: Daumoa, class: '' }
-Spider-Other-EtaoSpider: { source: uap-core-device, device: Spider, os: Other, ua: EtaoSpider, class: '' }
-Spider-Other-A6-Indexer: { source: uap-core-device, device: Spider, os: Other, ua: A6-Indexer, class: '' }
-Spider-Other-YisouSpider: { source: uap-core-device, device: Spider, os: Other, ua: YisouSpider, class: '' }
-Spider-Other-Riddler: { source: uap-core-device, device: Spider, os: Other, ua: Riddler, class: '' }
+Spider-Other-Netvibes: { source: uap-core-device, device: Spider, os: Other, ua: Netvibes, class: spider }
+'Spider-Other-Sogou Pic Spider': { source: uap-core-device, device: Spider, os: Other, ua: 'Sogou Pic Spider', class: spider }
+Spider-Other-ICC-Crawler: { source: uap-core-device, device: Spider, os: Other, ua: ICC-Crawler, class: spider }
+Spider-Other-Nutch: { source: uap-core-device, device: Spider, os: Other, ua: Nutch, class: spider }
+Spider-Other-NING: { source: uap-core-device, device: Spider, os: Other, ua: NING, class: spider }
+'Spider-Windows 7-MsnBot': { source: uap-core-device, device: Spider, os: 'Windows 7', ua: MsnBot, class: spider }
+Spider-Windows-Daumoa: { source: uap-core-device, device: Spider, os: Windows, ua: Daumoa, class: spider }
+Spider-Other-EtaoSpider: { source: uap-core-device, device: Spider, os: Other, ua: EtaoSpider, class: spider }
+Spider-Other-A6-Indexer: { source: uap-core-device, device: Spider, os: Other, ua: A6-Indexer, class: spider }
+Spider-Other-YisouSpider: { source: uap-core-device, device: Spider, os: Other, ua: YisouSpider, class: spider }
+Spider-Other-Riddler: { source: uap-core-device, device: Spider, os: Other, ua: Riddler, class: spider }
 'Samsung SGH-I717-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SGH-I717', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I9100-Android-Android': { source: uap-core-device, device: 'Samsung GT-I9100', os: Android, ua: Android, class: '' }
 'Samsung SCH-I605-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SCH-I605', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -118,23 +118,23 @@ Spider-Other-Riddler: { source: uap-core-device, device: Spider, os: Other, ua: 
 F-10D-Android-Android: { source: uap-core-device, device: F-10D, os: Android, ua: Android, class: '' }
 'sprd SPHS-on-Hsdroid-Android-Android': { source: uap-core-device, device: 'sprd SPHS-on-Hsdroid', os: Android, ua: Android, class: '' }
 'Sony LT30p-Android-Android': { source: uap-core-device, device: 'Sony LT30p', os: Android, ua: Android, class: '' }
-Spider-Other-DBot: { source: uap-core-device, device: Spider, os: Other, ua: DBot, class: '' }
-Spider-Other-Other: { source: uap-core-device, device: Spider, os: Other, ua: Other, class: '' }
+Spider-Other-DBot: { source: uap-core-device, device: Spider, os: Other, ua: DBot, class: spider }
+Spider-Other-Other: { source: uap-core-device, device: Spider, os: Other, ua: Other, class: spider }
 'ZTE Z830-Android-Chrome Mobile': { source: uap-core-device, device: 'ZTE Z830', os: Android, ua: 'Chrome Mobile', class: '' }
 SBM200SH-Android-Android: { source: uap-core-device, device: SBM200SH, os: Android, ua: Android, class: '' }
 'Motorola DROID RAZR HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID RAZR HD', os: Android, ua: 'Chrome Mobile', class: '' }
 'Motorola DROID BIONIC 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID BIONIC 4G', os: Android, ua: Android, class: '' }
 'Motorola DROID RAZR-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR', os: Android, ua: Android, class: '' }
 'Motorola DROID2-Android-Android': { source: uap-core-device, device: 'Motorola DROID2', os: Android, ua: Android, class: '' }
-'Spider-Other-Xenu Link Sleuth': { source: uap-core-device, device: Spider, os: Other, ua: 'Xenu Link Sleuth', class: '' }
-Spider-Other-SeznamBot: { source: uap-core-device, device: Spider, os: Other, ua: SeznamBot, class: '' }
-Spider-Other-PaperLiBot: { source: uap-core-device, device: Spider, os: Other, ua: PaperLiBot, class: '' }
-Spider-Other-SputnikBot: { source: uap-core-device, device: Spider, os: Other, ua: SputnikBot, class: '' }
-Spider-Other-CCBot: { source: uap-core-device, device: Spider, os: Other, ua: CCBot, class: '' }
-Spider-Other-ProoXiBot: { source: uap-core-device, device: Spider, os: Other, ua: ProoXiBot, class: '' }
-Spider-Other-Scrapy: { source: uap-core-device, device: Spider, os: Other, ua: Scrapy, class: '' }
-Spider-Other-Genieo: { source: uap-core-device, device: Spider, os: Other, ua: Genieo, class: '' }
-'Spider-Other-Screaming Frog SEO Spider': { source: uap-core-device, device: Spider, os: Other, ua: 'Screaming Frog SEO Spider', class: '' }
+'Spider-Other-Xenu Link Sleuth': { source: uap-core-device, device: Spider, os: Other, ua: 'Xenu Link Sleuth', class: spider }
+Spider-Other-SeznamBot: { source: uap-core-device, device: Spider, os: Other, ua: SeznamBot, class: spider }
+Spider-Other-PaperLiBot: { source: uap-core-device, device: Spider, os: Other, ua: PaperLiBot, class: spider }
+Spider-Other-SputnikBot: { source: uap-core-device, device: Spider, os: Other, ua: SputnikBot, class: spider }
+Spider-Other-CCBot: { source: uap-core-device, device: Spider, os: Other, ua: CCBot, class: spider }
+Spider-Other-ProoXiBot: { source: uap-core-device, device: Spider, os: Other, ua: ProoXiBot, class: spider }
+Spider-Other-Scrapy: { source: uap-core-device, device: Spider, os: Other, ua: Scrapy, class: spider }
+Spider-Other-Genieo: { source: uap-core-device, device: Spider, os: Other, ua: Genieo, class: spider }
+'Spider-Other-Screaming Frog SEO Spider': { source: uap-core-device, device: Spider, os: Other, ua: 'Screaming Frog SEO Spider', class: spider }
 '3Q BC9710AM-Android-Chrome': { source: uap-core-device, device: '3Q BC9710AM', os: Android, ua: Chrome, class: '' }
 '3Q LC0720C-Android-Chrome': { source: uap-core-device, device: '3Q LC0720C', os: Android, ua: Chrome, class: '' }
 '3Q LC0723B-Android-Android': { source: uap-core-device, device: '3Q LC0723B', os: Android, ua: Android, class: '' }
@@ -14052,8 +14052,8 @@ CSL_Spice_MI700-Android-Android: { source: uap-core-device, device: CSL_Spice_MI
 Mi707-Android-Android: { source: uap-core-device, device: Mi707, os: Android, ua: Android, class: '' }
 mi720-Android-Chrome: { source: uap-core-device, device: mi720, os: Android, ua: Chrome, class: '' }
 'Spice Mi-725-Android-Chrome': { source: uap-core-device, device: 'Spice Mi-725', os: Android, ua: Chrome, class: '' }
-'Spider-Windows CE-OrangeBot': { source: uap-core-device, device: Spider, os: 'Windows CE', ua: OrangeBot, class: '' }
-Spider-Android-ichiro/mobile: { source: uap-core-device, device: Spider, os: Android, ua: ichiro/mobile, class: '' }
+'Spider-Windows CE-OrangeBot': { source: uap-core-device, device: Spider, os: 'Windows CE', ua: OrangeBot, class: spider }
+Spider-Android-ichiro/mobile: { source: uap-core-device, device: Spider, os: Android, ua: ichiro/mobile, class: spider }
 'sprd 7100-Android-Other': { source: uap-core-device, device: 'sprd 7100', os: Android, ua: Other, class: '' }
 'sprd 9220I-Android-Other': { source: uap-core-device, device: 'sprd 9220I', os: Android, ua: Other, class: '' }
 'sprd 9300-Android-Android': { source: uap-core-device, device: 'sprd 9300', os: Android, ua: Android, class: '' }
@@ -15129,19 +15129,19 @@ z1000-Android-Chrome: { source: uap-core-device, device: z1000, os: Android, ua:
 'LEO70-Windows Phone-IE Mobile': { source: uap-core-device, device: LEO70, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
 BOBBY-Android-Android: { source: uap-core-device, device: BOBBY, os: Android, ua: Android, class: '' }
 'Prestigio PMP7280C3G-Android-Android': { source: uap-core-device, device: 'Prestigio PMP7280C3G', os: Android, ua: Android, class: '' }
-Spider-Other-BlogBridge: { source: uap-core-device, device: Spider, os: Other, ua: BlogBridge, class: '' }
-Spider-Other-IlTrovatore-Setaccio: { source: uap-core-device, device: Spider, os: Other, ua: IlTrovatore-Setaccio, class: '' }
-Spider-Other-InternetArchive: { source: uap-core-device, device: Spider, os: Other, ua: InternetArchive, class: '' }
-Spider-Windows-GomezAgent: { source: uap-core-device, device: Spider, os: Windows, ua: GomezAgent, class: '' }
-Spider-Other-WebThumb: { source: uap-core-device, device: Spider, os: Other, ua: WebThumb, class: '' }
-Spider-Other-heritrix: { source: uap-core-device, device: Spider, os: Other, ua: heritrix, class: '' }
-'Spider-Other-NewsGator FetchLinks extension': { source: uap-core-device, device: Spider, os: Other, ua: 'NewsGator FetchLinks extension', class: '' }
-Spider-Other-NewsGator: { source: uap-core-device, device: Spider, os: Other, ua: NewsGator, class: '' }
-Spider-Other-NewsGatorOnline: { source: uap-core-device, device: Spider, os: Other, ua: NewsGatorOnline, class: '' }
-Spider-Other-PagePeeker: { source: uap-core-device, device: Spider, os: Other, ua: PagePeeker, class: '' }
-Spider-Other-Reaper: { source: uap-core-device, device: Spider, os: Other, ua: Reaper, class: '' }
-Spider-Other-ZooShot: { source: uap-core-device, device: Spider, os: Other, ua: ZooShot, class: '' }
-Spider-Other-holmes: { source: uap-core-device, device: Spider, os: Other, ua: holmes, class: '' }
+Spider-Other-BlogBridge: { source: uap-core-device, device: Spider, os: Other, ua: BlogBridge, class: spider }
+Spider-Other-IlTrovatore-Setaccio: { source: uap-core-device, device: Spider, os: Other, ua: IlTrovatore-Setaccio, class: spider }
+Spider-Other-InternetArchive: { source: uap-core-device, device: Spider, os: Other, ua: InternetArchive, class: spider }
+Spider-Windows-GomezAgent: { source: uap-core-device, device: Spider, os: Windows, ua: GomezAgent, class: spider }
+Spider-Other-WebThumb: { source: uap-core-device, device: Spider, os: Other, ua: WebThumb, class: spider }
+Spider-Other-heritrix: { source: uap-core-device, device: Spider, os: Other, ua: heritrix, class: spider }
+'Spider-Other-NewsGator FetchLinks extension': { source: uap-core-device, device: Spider, os: Other, ua: 'NewsGator FetchLinks extension', class: spider }
+Spider-Other-NewsGator: { source: uap-core-device, device: Spider, os: Other, ua: NewsGator, class: spider }
+Spider-Other-NewsGatorOnline: { source: uap-core-device, device: Spider, os: Other, ua: NewsGatorOnline, class: spider }
+Spider-Other-PagePeeker: { source: uap-core-device, device: Spider, os: Other, ua: PagePeeker, class: spider }
+Spider-Other-Reaper: { source: uap-core-device, device: Spider, os: Other, ua: Reaper, class: spider }
+Spider-Other-ZooShot: { source: uap-core-device, device: Spider, os: Other, ua: ZooShot, class: spider }
+Spider-Other-holmes: { source: uap-core-device, device: Spider, os: Other, ua: holmes, class: spider }
 'Other-Android-Chrome Mobile': { source: uap-core-device, device: Other, os: Android, ua: 'Chrome Mobile', class: '' }
 'Generic Tablet-Android-Opera Tablet': { source: uap-core-os, device: 'Generic Tablet', os: Android, ua: 'Opera Tablet', class: '' }
 Other-BSD-Rekonq: { source: uap-core-os, device: Other, os: BSD, ua: Rekonq, class: '' }
@@ -15256,16 +15256,16 @@ iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua
 'XiaoMi MI 2S-Android-QQ Browser Mobile': { source: uap-core-ua, device: 'XiaoMi MI 2S', os: Android, ua: 'QQ Browser Mobile', class: '' }
 'Nokia RM-910-Windows Phone-QQ Browser Mobile': { source: uap-core-ua, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'QQ Browser Mobile', class: '' }
 'Other-Windows XP-Chrome Frame': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Chrome Frame', class: '' }
-Spider-Other-FacebookBot: { source: uap-core-ua, device: Spider, os: Other, ua: FacebookBot, class: '' }
-Spider-Other-LinkedInBot: { source: uap-core-ua, device: Spider, os: Other, ua: LinkedInBot, class: '' }
-Spider-Other-GooglePlusBot: { source: uap-core-ua, device: Spider, os: Other, ua: GooglePlusBot, class: '' }
+Spider-Other-FacebookBot: { source: uap-core-ua, device: Spider, os: Other, ua: FacebookBot, class: spider }
+Spider-Other-LinkedInBot: { source: uap-core-ua, device: Spider, os: Other, ua: LinkedInBot, class: spider }
+Spider-Other-GooglePlusBot: { source: uap-core-ua, device: Spider, os: Other, ua: GooglePlusBot, class: spider }
 Other-Other-Espial: { source: uap-core-ua, device: Other, os: Other, ua: Espial, class: '' }
-Spider-Other-Java: { source: uap-core-ua, device: Spider, os: Other, ua: Java, class: '' }
+Spider-Other-Java: { source: uap-core-ua, device: Spider, os: Other, ua: Java, class: spider }
 'Other-Windows XP-Mail.ru Chromium Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Mail.ru Chromium Browser', class: '' }
 'Other-Mac OS X-Opera': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Opera, class: '' }
 'Samsung GT-I9100-Android-Opera Mobile': { source: uap-core-ua, device: 'Samsung GT-I9100', os: Android, ua: 'Opera Mobile', class: '' }
 'iPhone-iOS-Opera Coast': { source: uap-core-ua, device: iPhone, os: iOS, ua: 'Opera Coast', class: mobile }
-Spider-Other-PingdomBot: { source: uap-core-ua, device: Spider, os: Other, ua: PingdomBot, class: '' }
+Spider-Other-PingdomBot: { source: uap-core-ua, device: Spider, os: Other, ua: PingdomBot, class: spider }
 Other-Other-PyAMF: { source: uap-core-ua, device: Other, os: Other, ua: PyAMF, class: '' }
 Other-Other-RackspaceBot: { source: uap-core-ua, device: Other, os: Other, ua: RackspaceBot, class: '' }
 Other-Linux-Rekonq: { source: uap-core-ua, device: Other, os: Linux, ua: Rekonq, class: '' }
@@ -15315,661 +15315,661 @@ Other-Linux-Puffin: { source: uap-core-ua, device: Other, os: Linux, ua: Puffin,
 iPad-iOS-Puffin: { source: uap-core-ua, device: iPad, os: iOS, ua: Puffin, class: tablet }
 iPhone-iOS-Puffin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Puffin, class: mobile }
 iPod-iOS-Puffin: { source: uap-core-ua, device: iPod, os: iOS, ua: Puffin, class: mobile }
-Spider-Other-Ant-Nutch: { source: uap-core-ua, device: Spider, os: Other, ua: Ant-Nutch, class: '' }
-Spider-Other-Axtaris: { source: uap-core-ua, device: Spider, os: Other, ua: Axtaris, class: '' }
-Spider-Other-CazoodleBot: { source: uap-core-ua, device: Spider, os: Other, ua: CazoodleBot, class: '' }
-Spider-Other-Isara: { source: uap-core-ua, device: Spider, os: Other, ua: Isara, class: '' }
-Spider-Other-Noobot: { source: uap-core-ua, device: Spider, os: Other, ua: Noobot, class: '' }
-Spider-Other-SheenBot: { source: uap-core-ua, device: Spider, os: Other, ua: SheenBot, class: '' }
-Spider-Other-ShopSalad: { source: uap-core-ua, device: Spider, os: Other, ua: ShopSalad, class: '' }
-Spider-Other-Tailsweep: { source: uap-core-ua, device: Spider, os: Other, ua: Tailsweep, class: '' }
-Spider-Other-fetchurl: { source: uap-core-ua, device: Spider, os: Other, ua: fetchurl, class: '' }
-Spider-Other-redbot: { source: uap-core-ua, device: Spider, os: Other, ua: redbot, class: '' }
-Spider-Other-zcspider: { source: uap-core-ua, device: Spider, os: Other, ua: zcspider, class: '' }
-Spider-Other-008: { source: uap-core-ua, device: Spider, os: Other, ua: '008', class: '' }
-Spider-Other-Altresium: { source: uap-core-ua, device: Spider, os: Other, ua: Altresium, class: '' }
-Spider-Other-Argus: { source: uap-core-ua, device: Spider, os: Other, ua: Argus, class: '' }
-Spider-Other-BaiduMobaider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiduMobaider, class: '' }
-Spider-Other-BoardReader: { source: uap-core-ua, device: Spider, os: Other, ua: BoardReader, class: '' }
-Spider-Other-DNSGroup: { source: uap-core-ua, device: Spider, os: Other, ua: DNSGroup, class: '' }
-Spider-Other-DataparkSearch: { source: uap-core-ua, device: Spider, os: Other, ua: DataparkSearch, class: '' }
-Spider-Other-EDI: { source: uap-core-ua, device: Spider, os: Other, ua: EDI, class: '' }
-Spider-Other-Goodzer: { source: uap-core-ua, device: Spider, os: Other, ua: Goodzer, class: '' }
-Spider-Other-Grub: { source: uap-core-ua, device: Spider, os: Other, ua: Grub, class: '' }
-Spider-Other-INGRID: { source: uap-core-ua, device: Spider, os: Other, ua: INGRID, class: '' }
-Spider-Other-Infohelfer: { source: uap-core-ua, device: Spider, os: Other, ua: Infohelfer, class: '' }
-Spider-Other-LOOQ: { source: uap-core-ua, device: Spider, os: Other, ua: LOOQ, class: '' }
-Spider-Other-PathDefender: { source: uap-core-ua, device: Spider, os: Other, ua: PathDefender, class: '' }
-Spider-Other-Peew: { source: uap-core-ua, device: Spider, os: Other, ua: Peew, class: '' }
-Spider-Other-PostPost: { source: uap-core-ua, device: Spider, os: Other, ua: PostPost, class: '' }
-Spider-Other-Steeler: { source: uap-core-ua, device: Spider, os: Other, ua: Steeler, class: '' }
-Spider-Other-VSE: { source: uap-core-ua, device: Spider, os: Other, ua: VSE, class: '' }
-Spider-Other-WebCrunch: { source: uap-core-ua, device: Spider, os: Other, ua: WebCrunch, class: '' }
-Spider-Other-WebZIP: { source: uap-core-ua, device: Spider, os: Other, ua: WebZIP, class: '' }
-Spider-Other-Y!J-BRI: { source: uap-core-ua, device: Spider, os: Other, ua: Y!J-BRI, class: '' }
-Spider-Other-Y!J-BRW: { source: uap-core-ua, device: Spider, os: Other, ua: Y!J-BRW, class: '' }
-Spider-Other-YahooSeeker: { source: uap-core-ua, device: Spider, os: Other, ua: YahooSeeker, class: '' }
-Spider-Other-envolk: { source: uap-core-ua, device: Spider, os: Other, ua: envolk, class: '' }
-Spider-Other-sproose: { source: uap-core-ua, device: Spider, os: Other, ua: sproose, class: '' }
-Spider-Other-wminer: { source: uap-core-ua, device: Spider, os: Other, ua: wminer, class: '' }
-'Spider-Windows 95-MSIECrawler': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: MSIECrawler, class: '' }
-'Spider-Windows 7-MSIECrawler': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: MSIECrawler, class: '' }
+Spider-Other-Ant-Nutch: { source: uap-core-ua, device: Spider, os: Other, ua: Ant-Nutch, class: spider }
+Spider-Other-Axtaris: { source: uap-core-ua, device: Spider, os: Other, ua: Axtaris, class: spider }
+Spider-Other-CazoodleBot: { source: uap-core-ua, device: Spider, os: Other, ua: CazoodleBot, class: spider }
+Spider-Other-Isara: { source: uap-core-ua, device: Spider, os: Other, ua: Isara, class: spider }
+Spider-Other-Noobot: { source: uap-core-ua, device: Spider, os: Other, ua: Noobot, class: spider }
+Spider-Other-SheenBot: { source: uap-core-ua, device: Spider, os: Other, ua: SheenBot, class: spider }
+Spider-Other-ShopSalad: { source: uap-core-ua, device: Spider, os: Other, ua: ShopSalad, class: spider }
+Spider-Other-Tailsweep: { source: uap-core-ua, device: Spider, os: Other, ua: Tailsweep, class: spider }
+Spider-Other-fetchurl: { source: uap-core-ua, device: Spider, os: Other, ua: fetchurl, class: spider }
+Spider-Other-redbot: { source: uap-core-ua, device: Spider, os: Other, ua: redbot, class: spider }
+Spider-Other-zcspider: { source: uap-core-ua, device: Spider, os: Other, ua: zcspider, class: spider }
+Spider-Other-008: { source: uap-core-ua, device: Spider, os: Other, ua: '008', class: spider }
+Spider-Other-Altresium: { source: uap-core-ua, device: Spider, os: Other, ua: Altresium, class: spider }
+Spider-Other-Argus: { source: uap-core-ua, device: Spider, os: Other, ua: Argus, class: spider }
+Spider-Other-BaiduMobaider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiduMobaider, class: spider }
+Spider-Other-BoardReader: { source: uap-core-ua, device: Spider, os: Other, ua: BoardReader, class: spider }
+Spider-Other-DNSGroup: { source: uap-core-ua, device: Spider, os: Other, ua: DNSGroup, class: spider }
+Spider-Other-DataparkSearch: { source: uap-core-ua, device: Spider, os: Other, ua: DataparkSearch, class: spider }
+Spider-Other-EDI: { source: uap-core-ua, device: Spider, os: Other, ua: EDI, class: spider }
+Spider-Other-Goodzer: { source: uap-core-ua, device: Spider, os: Other, ua: Goodzer, class: spider }
+Spider-Other-Grub: { source: uap-core-ua, device: Spider, os: Other, ua: Grub, class: spider }
+Spider-Other-INGRID: { source: uap-core-ua, device: Spider, os: Other, ua: INGRID, class: spider }
+Spider-Other-Infohelfer: { source: uap-core-ua, device: Spider, os: Other, ua: Infohelfer, class: spider }
+Spider-Other-LOOQ: { source: uap-core-ua, device: Spider, os: Other, ua: LOOQ, class: spider }
+Spider-Other-PathDefender: { source: uap-core-ua, device: Spider, os: Other, ua: PathDefender, class: spider }
+Spider-Other-Peew: { source: uap-core-ua, device: Spider, os: Other, ua: Peew, class: spider }
+Spider-Other-PostPost: { source: uap-core-ua, device: Spider, os: Other, ua: PostPost, class: spider }
+Spider-Other-Steeler: { source: uap-core-ua, device: Spider, os: Other, ua: Steeler, class: spider }
+Spider-Other-VSE: { source: uap-core-ua, device: Spider, os: Other, ua: VSE, class: spider }
+Spider-Other-WebCrunch: { source: uap-core-ua, device: Spider, os: Other, ua: WebCrunch, class: spider }
+Spider-Other-WebZIP: { source: uap-core-ua, device: Spider, os: Other, ua: WebZIP, class: spider }
+Spider-Other-Y!J-BRI: { source: uap-core-ua, device: Spider, os: Other, ua: Y!J-BRI, class: spider }
+Spider-Other-Y!J-BRW: { source: uap-core-ua, device: Spider, os: Other, ua: Y!J-BRW, class: spider }
+Spider-Other-YahooSeeker: { source: uap-core-ua, device: Spider, os: Other, ua: YahooSeeker, class: spider }
+Spider-Other-envolk: { source: uap-core-ua, device: Spider, os: Other, ua: envolk, class: spider }
+Spider-Other-sproose: { source: uap-core-ua, device: Spider, os: Other, ua: sproose, class: spider }
+Spider-Other-wminer: { source: uap-core-ua, device: Spider, os: Other, ua: wminer, class: spider }
+'Spider-Windows 95-MSIECrawler': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: MSIECrawler, class: spider }
+'Spider-Windows 7-MSIECrawler': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: MSIECrawler, class: spider }
 Other-Other-Apache-HttpClient: { source: uap-core-ua, device: Other, os: Other, ua: Apache-HttpClient, class: '' }
 E10i-Android-Google-HTTP-Java-Client: { source: uap-core-ua, device: E10i, os: Android, ua: Google-HTTP-Java-Client, class: '' }
-Spider-Other-Google-HTTP-Java-Client: { source: uap-core-ua, device: Spider, os: Other, ua: Google-HTTP-Java-Client, class: '' }
-Spider-Other-JNLP: { source: uap-core-ua, device: Spider, os: Other, ua: JNLP, class: '' }
-Spider-Other-Python-urllib: { source: uap-core-ua, device: Spider, os: Other, ua: Python-urllib, class: '' }
-Spider-Other-TLSProber: { source: uap-core-ua, device: Spider, os: Other, ua: TLSProber, class: '' }
-Spider-Other-WinHTTP: { source: uap-core-ua, device: Spider, os: Other, ua: WinHTTP, class: '' }
-'Spider-Other-1470.net crawler': { source: uap-core-ua, device: Spider, os: Other, ua: '1470.net crawler', class: '' }
-Spider-Other-50.nu: { source: uap-core-ua, device: Spider, os: Other, ua: 50.nu, class: '' }
-'Spider-Other-8bo Crawler Bot': { source: uap-core-ua, device: Spider, os: Other, ua: '8bo Crawler Bot', class: '' }
-Spider-Other-Aboundex: { source: uap-core-ua, device: Spider, os: Other, ua: Aboundex, class: '' }
-Spider-Other-Accoona-AI-Agent: { source: uap-core-ua, device: Spider, os: Other, ua: Accoona-AI-Agent, class: '' }
-Spider-Other-Accoona-Biz-Agent: { source: uap-core-ua, device: Spider, os: Other, ua: Accoona-Biz-Agent, class: '' }
-Spider-Other-AppEngine-Google: { source: uap-core-ua, device: Spider, os: Other, ua: AppEngine-Google, class: '' }
-'Spider-Other-Ask Jeeves': { source: uap-core-ua, device: Spider, os: Other, ua: 'Ask Jeeves', class: '' }
-Spider-Other-BaiDuSpider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiDuSpider, class: '' }
-Spider-Other-Baiduspider: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider, class: '' }
-Spider-Other-Baiduspider-cpro: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-cpro, class: '' }
-Spider-Other-Baiduspider-image: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-image, class: '' }
-Spider-Other-Baiduspider-testbranch: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-testbranch, class: '' }
+Spider-Other-Google-HTTP-Java-Client: { source: uap-core-ua, device: Spider, os: Other, ua: Google-HTTP-Java-Client, class: spider }
+Spider-Other-JNLP: { source: uap-core-ua, device: Spider, os: Other, ua: JNLP, class: spider }
+Spider-Other-Python-urllib: { source: uap-core-ua, device: Spider, os: Other, ua: Python-urllib, class: spider }
+Spider-Other-TLSProber: { source: uap-core-ua, device: Spider, os: Other, ua: TLSProber, class: spider }
+Spider-Other-WinHTTP: { source: uap-core-ua, device: Spider, os: Other, ua: WinHTTP, class: spider }
+'Spider-Other-1470.net crawler': { source: uap-core-ua, device: Spider, os: Other, ua: '1470.net crawler', class: spider }
+Spider-Other-50.nu: { source: uap-core-ua, device: Spider, os: Other, ua: 50.nu, class: spider }
+'Spider-Other-8bo Crawler Bot': { source: uap-core-ua, device: Spider, os: Other, ua: '8bo Crawler Bot', class: spider }
+Spider-Other-Aboundex: { source: uap-core-ua, device: Spider, os: Other, ua: Aboundex, class: spider }
+Spider-Other-Accoona-AI-Agent: { source: uap-core-ua, device: Spider, os: Other, ua: Accoona-AI-Agent, class: spider }
+Spider-Other-Accoona-Biz-Agent: { source: uap-core-ua, device: Spider, os: Other, ua: Accoona-Biz-Agent, class: spider }
+Spider-Other-AppEngine-Google: { source: uap-core-ua, device: Spider, os: Other, ua: AppEngine-Google, class: spider }
+'Spider-Other-Ask Jeeves': { source: uap-core-ua, device: Spider, os: Other, ua: 'Ask Jeeves', class: spider }
+Spider-Other-BaiDuSpider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiDuSpider, class: spider }
+Spider-Other-Baiduspider: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider, class: spider }
+Spider-Other-Baiduspider-cpro: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-cpro, class: spider }
+Spider-Other-Baiduspider-image: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-image, class: spider }
+Spider-Other-Baiduspider-testbranch: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-testbranch, class: spider }
 'Other-Windows 7-BingPreview': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: BingPreview, class: '' }
-'Spider-Other-BoardReader Blog Indexer': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Blog Indexer', class: '' }
-'Spider-Other-BoardReader Favicon Fetcher': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Favicon Fetcher', class: '' }
-Spider-Other-BotSeer: { source: uap-core-ua, device: Spider, os: Other, ua: BotSeer, class: '' }
-Spider-Other-CRAWL-E: { source: uap-core-ua, device: Spider, os: Other, ua: CRAWL-E, class: '' }
-Spider-Other-Charlotte: { source: uap-core-ua, device: Spider, os: Other, ua: Charlotte, class: '' }
-Spider-Other-Checklinks: { source: uap-core-ua, device: Spider, os: Other, ua: Checklinks, class: '' }
-'Spider-Other-Comodo HTTP(S) Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Comodo HTTP(S) Crawler', class: '' }
-Spider-Other-Comodo-Webinspector-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Comodo-Webinspector-Crawler, class: '' }
-Spider-Other-ConveraCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ConveraCrawler, class: '' }
-Spider-Other-CrawlConvera: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlConvera, class: '' }
-Spider-Other-Daumoa-feedfetcher: { source: uap-core-ua, device: Spider, os: Other, ua: Daumoa-feedfetcher, class: '' }
-'Spider-Other-Feed Seeker Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Feed Seeker Bot', class: '' }
-Spider-Other-Flamingo_SearchEngine: { source: uap-core-ua, device: Spider, os: Other, ua: Flamingo_SearchEngine, class: '' }
-'Spider-Other-FollowSite Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'FollowSite Bot', class: '' }
-Spider-Windows-Googlebot: { source: uap-core-ua, device: Spider, os: Windows, ua: Googlebot, class: '' }
-Spider-Other-Googlebot-Image: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Image, class: '' }
-Spider-Other-Googlebot-Mobile: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Mobile, class: '' }
-Spider-Other-Googlebot-News: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-News, class: '' }
-Spider-Other-Googlebot-Video: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Video, class: '' }
-Spider-Other-Googlebot-richsnippets: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-richsnippets, class: '' }
-Spider-Other-HiddenMarket: { source: uap-core-ua, device: Spider, os: Other, ua: HiddenMarket, class: '' }
-Spider-Other-HooWWWer: { source: uap-core-ua, device: Spider, os: Other, ua: HooWWWer, class: '' }
-Spider-Other-IconSurf: { source: uap-core-ua, device: Spider, os: Other, ua: IconSurf, class: '' }
-Spider-Other-IlTrovatore: { source: uap-core-ua, device: Spider, os: Other, ua: IlTrovatore, class: '' }
-Spider-Other-InfuzApp: { source: uap-core-ua, device: Spider, os: Other, ua: InfuzApp, class: '' }
-Spider-Other-KDDI-Googlebot-Mobile: { source: uap-core-ua, device: Spider, os: Other, ua: KDDI-Googlebot-Mobile, class: '' }
-Spider-Other-KaloogaBot: { source: uap-core-ua, device: Spider, os: Other, ua: KaloogaBot, class: '' }
-Spider-Other-Kraken: { source: uap-core-ua, device: Spider, os: Other, ua: Kraken, class: '' }
-Spider-Other-Kurzor: { source: uap-core-ua, device: Spider, os: Other, ua: Kurzor, class: '' }
-Spider-Other-LEIA: { source: uap-core-ua, device: Spider, os: Other, ua: LEIA, class: '' }
-Spider-Windows-LesnikBot: { source: uap-core-ua, device: Spider, os: Windows, ua: LesnikBot, class: '' }
-'Spider-Other-Linguee Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Linguee Bot', class: '' }
-Spider-Other-LinkAider: { source: uap-core-ua, device: Spider, os: Other, ua: LinkAider, class: '' }
-'Spider-Other-Lite Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lite Bot', class: '' }
-Spider-Other-Llaut: { source: uap-core-ua, device: Spider, os: Other, ua: Llaut, class: '' }
-Spider-Linux-Mail.RU_Bot: { source: uap-core-ua, device: Spider, os: Linux, ua: Mail.RU_Bot, class: '' }
+'Spider-Other-BoardReader Blog Indexer': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Blog Indexer', class: spider }
+'Spider-Other-BoardReader Favicon Fetcher': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Favicon Fetcher', class: spider }
+Spider-Other-BotSeer: { source: uap-core-ua, device: Spider, os: Other, ua: BotSeer, class: spider }
+Spider-Other-CRAWL-E: { source: uap-core-ua, device: Spider, os: Other, ua: CRAWL-E, class: spider }
+Spider-Other-Charlotte: { source: uap-core-ua, device: Spider, os: Other, ua: Charlotte, class: spider }
+Spider-Other-Checklinks: { source: uap-core-ua, device: Spider, os: Other, ua: Checklinks, class: spider }
+'Spider-Other-Comodo HTTP(S) Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Comodo HTTP(S) Crawler', class: spider }
+Spider-Other-Comodo-Webinspector-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Comodo-Webinspector-Crawler, class: spider }
+Spider-Other-ConveraCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ConveraCrawler, class: spider }
+Spider-Other-CrawlConvera: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlConvera, class: spider }
+Spider-Other-Daumoa-feedfetcher: { source: uap-core-ua, device: Spider, os: Other, ua: Daumoa-feedfetcher, class: spider }
+'Spider-Other-Feed Seeker Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Feed Seeker Bot', class: spider }
+Spider-Other-Flamingo_SearchEngine: { source: uap-core-ua, device: Spider, os: Other, ua: Flamingo_SearchEngine, class: spider }
+'Spider-Other-FollowSite Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'FollowSite Bot', class: spider }
+Spider-Windows-Googlebot: { source: uap-core-ua, device: Spider, os: Windows, ua: Googlebot, class: spider }
+Spider-Other-Googlebot-Image: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Image, class: spider }
+Spider-Other-Googlebot-Mobile: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Mobile, class: spider }
+Spider-Other-Googlebot-News: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-News, class: spider }
+Spider-Other-Googlebot-Video: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-Video, class: spider }
+Spider-Other-Googlebot-richsnippets: { source: uap-core-ua, device: Spider, os: Other, ua: Googlebot-richsnippets, class: spider }
+Spider-Other-HiddenMarket: { source: uap-core-ua, device: Spider, os: Other, ua: HiddenMarket, class: spider }
+Spider-Other-HooWWWer: { source: uap-core-ua, device: Spider, os: Other, ua: HooWWWer, class: spider }
+Spider-Other-IconSurf: { source: uap-core-ua, device: Spider, os: Other, ua: IconSurf, class: spider }
+Spider-Other-IlTrovatore: { source: uap-core-ua, device: Spider, os: Other, ua: IlTrovatore, class: spider }
+Spider-Other-InfuzApp: { source: uap-core-ua, device: Spider, os: Other, ua: InfuzApp, class: spider }
+Spider-Other-KDDI-Googlebot-Mobile: { source: uap-core-ua, device: Spider, os: Other, ua: KDDI-Googlebot-Mobile, class: spider }
+Spider-Other-KaloogaBot: { source: uap-core-ua, device: Spider, os: Other, ua: KaloogaBot, class: spider }
+Spider-Other-Kraken: { source: uap-core-ua, device: Spider, os: Other, ua: Kraken, class: spider }
+Spider-Other-Kurzor: { source: uap-core-ua, device: Spider, os: Other, ua: Kurzor, class: spider }
+Spider-Other-LEIA: { source: uap-core-ua, device: Spider, os: Other, ua: LEIA, class: spider }
+Spider-Windows-LesnikBot: { source: uap-core-ua, device: Spider, os: Windows, ua: LesnikBot, class: spider }
+'Spider-Other-Linguee Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Linguee Bot', class: spider }
+Spider-Other-LinkAider: { source: uap-core-ua, device: Spider, os: Other, ua: LinkAider, class: spider }
+'Spider-Other-Lite Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lite Bot', class: spider }
+Spider-Other-Llaut: { source: uap-core-ua, device: Spider, os: Other, ua: Llaut, class: spider }
+Spider-Linux-Mail.RU_Bot: { source: uap-core-ua, device: Spider, os: Linux, ua: Mail.RU_Bot, class: spider }
 'Generic Feature Phone-Other-Mediapartners-Google': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Mediapartners-Google, class: '' }
-Spider-Other-Mediapartners-Google: { source: uap-core-ua, device: Spider, os: Other, ua: Mediapartners-Google, class: '' }
-'Spider-Other-Microsoft Bing Mobile SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft Bing Mobile SocialStreams Bot', class: '' }
-'Spider-Other-Microsoft MSN SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft MSN SocialStreams Bot', class: '' }
-'Spider-Other-Nutch; http:': { source: uap-core-ua, device: Spider, os: Other, ua: 'Nutch; http:', class: '' }
-Spider-Other-NutchCVS: { source: uap-core-ua, device: Spider, os: Other, ua: NutchCVS, class: '' }
-Spider-Other-NutchOSUOSL: { source: uap-core-ua, device: Spider, os: Other, ua: NutchOSUOSL, class: '' }
-Spider-Other-NutchOrg: { source: uap-core-ua, device: Spider, os: Other, ua: NutchOrg, class: '' }
-Spider-Other-ObjectsSearch: { source: uap-core-ua, device: Spider, os: Other, ua: ObjectsSearch, class: '' }
-Spider-Other-Orbiter: { source: uap-core-ua, device: Spider, os: Other, ua: Orbiter, class: '' }
-Spider-Other-PagesInventory: { source: uap-core-ua, device: Spider, os: Other, ua: PagesInventory, class: '' }
-Spider-Other-PaxleFramework: { source: uap-core-ua, device: Spider, os: Other, ua: PaxleFramework, class: '' }
-'Spider-Other-Peeplo Screenshot Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Peeplo Screenshot Bot', class: '' }
-Spider-Other-PlantyNet_WebRobot: { source: uap-core-ua, device: Spider, os: Other, ua: PlantyNet_WebRobot, class: '' }
-Spider-Other-Pompos: { source: uap-core-ua, device: Spider, os: Other, ua: Pompos, class: '' }
+Spider-Other-Mediapartners-Google: { source: uap-core-ua, device: Spider, os: Other, ua: Mediapartners-Google, class: spider }
+'Spider-Other-Microsoft Bing Mobile SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft Bing Mobile SocialStreams Bot', class: spider }
+'Spider-Other-Microsoft MSN SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft MSN SocialStreams Bot', class: spider }
+'Spider-Other-Nutch; http:': { source: uap-core-ua, device: Spider, os: Other, ua: 'Nutch; http:', class: spider }
+Spider-Other-NutchCVS: { source: uap-core-ua, device: Spider, os: Other, ua: NutchCVS, class: spider }
+Spider-Other-NutchOSUOSL: { source: uap-core-ua, device: Spider, os: Other, ua: NutchOSUOSL, class: spider }
+Spider-Other-NutchOrg: { source: uap-core-ua, device: Spider, os: Other, ua: NutchOrg, class: spider }
+Spider-Other-ObjectsSearch: { source: uap-core-ua, device: Spider, os: Other, ua: ObjectsSearch, class: spider }
+Spider-Other-Orbiter: { source: uap-core-ua, device: Spider, os: Other, ua: Orbiter, class: spider }
+Spider-Other-PagesInventory: { source: uap-core-ua, device: Spider, os: Other, ua: PagesInventory, class: spider }
+Spider-Other-PaxleFramework: { source: uap-core-ua, device: Spider, os: Other, ua: PaxleFramework, class: spider }
+'Spider-Other-Peeplo Screenshot Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Peeplo Screenshot Bot', class: spider }
+Spider-Other-PlantyNet_WebRobot: { source: uap-core-ua, device: Spider, os: Other, ua: PlantyNet_WebRobot, class: spider }
+Spider-Other-Pompos: { source: uap-core-ua, device: Spider, os: Other, ua: Pompos, class: spider }
 'Samsung GT-I9300-Android-Reaper': { source: uap-core-ua, device: 'Samsung GT-I9300', os: Android, ua: Reaper, class: '' }
-Spider-Other-RedCarpet: { source: uap-core-ua, device: Spider, os: Other, ua: RedCarpet, class: '' }
-Spider-Other-Simpy: { source: uap-core-ua, device: Spider, os: Other, ua: Simpy, class: '' }
-Spider-Other-Slurp: { source: uap-core-ua, device: Spider, os: Other, ua: Slurp, class: '' }
-'Spider-Other-Speedy Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Speedy Spider', class: '' }
-'Spider-Other-Squrl Java': { source: uap-core-ua, device: Spider, os: Other, ua: 'Squrl Java', class: '' }
-Spider-Other-TheUsefulbot: { source: uap-core-ua, device: Spider, os: Other, ua: TheUsefulbot, class: '' }
-Spider-Linux-ThumbShotsBot: { source: uap-core-ua, device: Spider, os: Linux, ua: ThumbShotsBot, class: '' }
-Spider-Other-Thumbshots.ru: { source: uap-core-ua, device: Spider, os: Other, ua: Thumbshots.ru, class: '' }
-Spider-Other-Vagabondo: { source: uap-core-ua, device: Spider, os: Other, ua: Vagabondo, class: '' }
-'Spider-Windows 95-VoilaBot': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: VoilaBot, class: '' }
-'Spider-Other-Votay bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Votay bot', class: '' }
-'Spider-Other-WASALive Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'WASALive Bot', class: '' }
+Spider-Other-RedCarpet: { source: uap-core-ua, device: Spider, os: Other, ua: RedCarpet, class: spider }
+Spider-Other-Simpy: { source: uap-core-ua, device: Spider, os: Other, ua: Simpy, class: spider }
+Spider-Other-Slurp: { source: uap-core-ua, device: Spider, os: Other, ua: Slurp, class: spider }
+'Spider-Other-Speedy Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Speedy Spider', class: spider }
+'Spider-Other-Squrl Java': { source: uap-core-ua, device: Spider, os: Other, ua: 'Squrl Java', class: spider }
+Spider-Other-TheUsefulbot: { source: uap-core-ua, device: Spider, os: Other, ua: TheUsefulbot, class: spider }
+Spider-Linux-ThumbShotsBot: { source: uap-core-ua, device: Spider, os: Linux, ua: ThumbShotsBot, class: spider }
+Spider-Other-Thumbshots.ru: { source: uap-core-ua, device: Spider, os: Other, ua: Thumbshots.ru, class: spider }
+Spider-Other-Vagabondo: { source: uap-core-ua, device: Spider, os: Other, ua: Vagabondo, class: spider }
+'Spider-Windows 95-VoilaBot': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: VoilaBot, class: spider }
+'Spider-Other-Votay bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Votay bot', class: spider }
+'Spider-Other-WASALive Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'WASALive Bot', class: spider }
 iPad-iOS-WIRE: { source: uap-core-ua, device: iPad, os: iOS, ua: WIRE, class: tablet }
-Spider-Linux-WIRE: { source: uap-core-ua, device: Spider, os: Linux, ua: WIRE, class: '' }
-'Spider-Windows 7-Web-sniffer': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: Web-sniffer, class: '' }
+Spider-Linux-WIRE: { source: uap-core-ua, device: Spider, os: Linux, ua: WIRE, class: spider }
+'Spider-Windows 7-Web-sniffer': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: Web-sniffer, class: spider }
 Other-Linux-WebThumb: { source: uap-core-ua, device: Other, os: Linux, ua: WebThumb, class: '' }
-Spider-Other-WhatWeb: { source: uap-core-ua, device: Spider, os: Other, ua: WhatWeb, class: '' }
-Spider-Other-WordPress: { source: uap-core-ua, device: Spider, os: Other, ua: WordPress, class: '' }
-Spider-Other-Wotbox: { source: uap-core-ua, device: Spider, os: Other, ua: Wotbox, class: '' }
-'Spider-Other-Xenu''s Link Sleuth': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xenu''s Link Sleuth', class: '' }
-'Spider-Other-Xerka WebBot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xerka WebBot', class: '' }
-'Spider-Other-Yahoo! Slurp': { source: uap-core-ua, device: Spider, os: Other, ua: 'Yahoo! Slurp', class: '' }
-Spider-Other-YandexBot: { source: uap-core-ua, device: Spider, os: Other, ua: YandexBot, class: '' }
-Spider-Other-Yeti: { source: uap-core-ua, device: Spider, os: Other, ua: Yeti, class: '' }
-Spider-Other-YodaoBot: { source: uap-core-ua, device: Spider, os: Other, ua: YodaoBot, class: '' }
-Spider-Other-YodaoBot-Image: { source: uap-core-ua, device: Spider, os: Other, ua: YodaoBot-Image, class: '' }
-Spider-Other-Yowedo: { source: uap-core-ua, device: Spider, os: Other, ua: Yowedo, class: '' }
-Spider-Other-Zao: { source: uap-core-ua, device: Spider, os: Other, ua: Zao, class: '' }
-Spider-Other-ZeBot_www.ze.bz: { source: uap-core-ua, device: Spider, os: Other, ua: ZeBot_www.ze.bz, class: '' }
-'Spider-Windows 95-ZyBorg': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: ZyBorg, class: '' }
-Spider-Other-ZyBorg: { source: uap-core-ua, device: Spider, os: Other, ua: ZyBorg, class: '' }
-Spider-Other-altavista: { source: uap-core-ua, device: Spider, os: Other, ua: altavista, class: '' }
-Spider-Other-archive.bibalex.org_bot: { source: uap-core-ua, device: Spider, os: Other, ua: archive.bibalex.org_bot, class: '' }
-Spider-Other-archive.org_bot: { source: uap-core-ua, device: Spider, os: Other, ua: archive.org_bot, class: '' }
-Spider-Other-archiver: { source: uap-core-ua, device: Spider, os: Other, ua: archiver, class: '' }
-'Spider-Windows XP-baiduspider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: baiduspider, class: '' }
-Spider-Other-baiduspider-mobile-gate: { source: uap-core-ua, device: Spider, os: Other, ua: baiduspider-mobile-gate, class: '' }
-Spider-Other-bingbot: { source: uap-core-ua, device: Spider, os: Other, ua: bingbot, class: '' }
-Spider-Other-boitho.com-dc: { source: uap-core-ua, device: Spider, os: Other, ua: boitho.com-dc, class: '' }
-Spider-Other-clumboot: { source: uap-core-ua, device: Spider, os: Other, ua: clumboot, class: '' }
-Spider-Other-findlinks: { source: uap-core-ua, device: Spider, os: Other, ua: findlinks, class: '' }
-Spider-Other-furlbot: { source: uap-core-ua, device: Spider, os: Other, ua: furlbot, class: '' }
-Spider-Other-gonzo1: { source: uap-core-ua, device: Spider, os: Other, ua: gonzo1, class: '' }
-Spider-Other-grub-client: { source: uap-core-ua, device: Spider, os: Other, ua: grub-client, class: '' }
-Spider-Other-gsa-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: gsa-crawler, class: '' }
-Spider-Other-htdig: { source: uap-core-ua, device: Spider, os: Other, ua: htdig, class: '' }
-'Spider-Windows 2000-ia_archiver': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: ia_archiver, class: '' }
-Spider-Other-ichiro: { source: uap-core-ua, device: Spider, os: Other, ua: ichiro, class: '' }
-Spider-Other-ichiro/mobile: { source: uap-core-ua, device: Spider, os: Other, ua: ichiro/mobile, class: '' }
-Spider-Other-larbin: { source: uap-core-ua, device: Spider, os: Other, ua: larbin, class: '' }
-'Spider-Windows XP-lycos': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: lycos, class: '' }
-Spider-Other-masidani_bot: { source: uap-core-ua, device: Spider, os: Other, ua: masidani_bot, class: '' }
-Spider-Other-mozDex: { source: uap-core-ua, device: Spider, os: Other, ua: mozDex, class: '' }
-Spider-Other-msnbot: { source: uap-core-ua, device: Spider, os: Other, ua: msnbot, class: '' }
-'Spider-Windows XP-msnbot': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: msnbot, class: '' }
-Spider-Other-msnbot-media: { source: uap-core-ua, device: Spider, os: Other, ua: msnbot-media, class: '' }
-Spider-Other-msrbot: { source: uap-core-ua, device: Spider, os: Other, ua: msrbot, class: '' }
-'Spider-Windows 2000-scooter': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: scooter, class: '' }
-Spider-Other-seekbot: { source: uap-core-ua, device: Spider, os: Other, ua: seekbot, class: '' }
-Spider-Other-semanticdiscovery: { source: uap-core-ua, device: Spider, os: Other, ua: semanticdiscovery, class: '' }
-Spider-Other-voyager: { source: uap-core-ua, device: Spider, os: Other, ua: voyager, class: '' }
-Spider-Other-www.almaden.ibm.com: { source: uap-core-ua, device: Spider, os: Other, ua: www.almaden.ibm.com, class: '' }
-'Spider-Other-449 Overture-WebCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: '449 Overture-WebCrawler', class: '' }
-Spider-Other-80bot: { source: uap-core-ua, device: Spider, os: Other, ua: 80bot, class: '' }
-Spider-Other-AcquiloSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AcquiloSpider, class: '' }
-'Spider-Other-Aleksika Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Aleksika Spider', class: '' }
-Spider-Other-AmorankSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AmorankSpider, class: '' }
-Spider-Other-AnomaliesBot: { source: uap-core-ua, device: Spider, os: Other, ua: AnomaliesBot, class: '' }
-'Spider-Other-Automattic Analytics Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Automattic Analytics Crawler', class: '' }
-Spider-Other-BLEXBot: { source: uap-core-ua, device: Spider, os: Other, ua: BLEXBot, class: '' }
-Spider-Other-BabalooSpider: { source: uap-core-ua, device: Spider, os: Other, ua: BabalooSpider, class: '' }
-Spider-Other-BebopBot: { source: uap-core-ua, device: Spider, os: Other, ua: BebopBot, class: '' }
-Spider-Other-BlinkaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BlinkaCrawler, class: '' }
-Spider-Other-BlogRangerCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BlogRangerCrawler, class: '' }
-'Spider-Other-Brekiri crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Brekiri crawler', class: '' }
-Spider-Other-BurstFindCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BurstFindCrawler, class: '' }
-Spider-Other-CamontSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CamontSpider, class: '' }
-Spider-Other-CloudServerMarketSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CloudServerMarketSpider, class: '' }
-Spider-Other-CompSpyBot: { source: uap-core-ua, device: Spider, os: Other, ua: CompSpyBot, class: '' }
-Spider-Other-ConveraMultiMediaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ConveraMultiMediaCrawler, class: '' }
-Spider-Other-CosmixCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: CosmixCrawler, class: '' }
-Spider-Other-Crawl: { source: uap-core-ua, device: Spider, os: Other, ua: Crawl, class: '' }
-Spider-Other-CrawlBot: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlBot, class: '' }
-Spider-Other-Crawllybot: { source: uap-core-ua, device: Spider, os: Other, ua: Crawllybot, class: '' }
-Spider-Other-Crawly: { source: uap-core-ua, device: Spider, os: Other, ua: Crawly, class: '' }
-Spider-Other-Crawlzilla: { source: uap-core-ua, device: Spider, os: Other, ua: Crawlzilla, class: '' }
-Spider-Other-CydralSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CydralSpider, class: '' }
-'Spider-Other-DealGates Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'DealGates Bot', class: '' }
-'Spider-Other-Denodo IECrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Denodo IECrawler', class: '' }
-Spider-Other-Diffbot: { source: uap-core-ua, device: Spider, os: Other, ua: Diffbot, class: '' }
-Spider-Other-DomainCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: DomainCrawler, class: '' }
-Spider-Other-DotBot: { source: uap-core-ua, device: Spider, os: Other, ua: DotBot, class: '' }
-Spider-Other-DotSpotsBot: { source: uap-core-ua, device: Spider, os: Other, ua: DotSpotsBot, class: '' }
-Spider-Other-ERACrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ERACrawler, class: '' }
-Spider-Other-EventGuruBot: { source: uap-core-ua, device: Spider, os: Other, ua: EventGuruBot, class: '' }
-Spider-Other-Ex-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Ex-Crawler, class: '' }
-'Spider-Other-ExactSeek Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ExactSeek Crawler', class: '' }
-Spider-Other-ExactSeekCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ExactSeekCrawler, class: '' }
-Spider-Other-FANGCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: FANGCrawl, class: '' }
-'Spider-Other-FAST Enterprise Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST Enterprise Crawler', class: '' }
-Spider-Other-FAST-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FAST-WebCrawler, class: '' }
+Spider-Other-WhatWeb: { source: uap-core-ua, device: Spider, os: Other, ua: WhatWeb, class: spider }
+Spider-Other-WordPress: { source: uap-core-ua, device: Spider, os: Other, ua: WordPress, class: spider }
+Spider-Other-Wotbox: { source: uap-core-ua, device: Spider, os: Other, ua: Wotbox, class: spider }
+'Spider-Other-Xenu''s Link Sleuth': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xenu''s Link Sleuth', class: spider }
+'Spider-Other-Xerka WebBot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xerka WebBot', class: spider }
+'Spider-Other-Yahoo! Slurp': { source: uap-core-ua, device: Spider, os: Other, ua: 'Yahoo! Slurp', class: spider }
+Spider-Other-YandexBot: { source: uap-core-ua, device: Spider, os: Other, ua: YandexBot, class: spider }
+Spider-Other-Yeti: { source: uap-core-ua, device: Spider, os: Other, ua: Yeti, class: spider }
+Spider-Other-YodaoBot: { source: uap-core-ua, device: Spider, os: Other, ua: YodaoBot, class: spider }
+Spider-Other-YodaoBot-Image: { source: uap-core-ua, device: Spider, os: Other, ua: YodaoBot-Image, class: spider }
+Spider-Other-Yowedo: { source: uap-core-ua, device: Spider, os: Other, ua: Yowedo, class: spider }
+Spider-Other-Zao: { source: uap-core-ua, device: Spider, os: Other, ua: Zao, class: spider }
+Spider-Other-ZeBot_www.ze.bz: { source: uap-core-ua, device: Spider, os: Other, ua: ZeBot_www.ze.bz, class: spider }
+'Spider-Windows 95-ZyBorg': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: ZyBorg, class: spider }
+Spider-Other-ZyBorg: { source: uap-core-ua, device: Spider, os: Other, ua: ZyBorg, class: spider }
+Spider-Other-altavista: { source: uap-core-ua, device: Spider, os: Other, ua: altavista, class: spider }
+Spider-Other-archive.bibalex.org_bot: { source: uap-core-ua, device: Spider, os: Other, ua: archive.bibalex.org_bot, class: spider }
+Spider-Other-archive.org_bot: { source: uap-core-ua, device: Spider, os: Other, ua: archive.org_bot, class: spider }
+Spider-Other-archiver: { source: uap-core-ua, device: Spider, os: Other, ua: archiver, class: spider }
+'Spider-Windows XP-baiduspider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: baiduspider, class: spider }
+Spider-Other-baiduspider-mobile-gate: { source: uap-core-ua, device: Spider, os: Other, ua: baiduspider-mobile-gate, class: spider }
+Spider-Other-bingbot: { source: uap-core-ua, device: Spider, os: Other, ua: bingbot, class: spider }
+Spider-Other-boitho.com-dc: { source: uap-core-ua, device: Spider, os: Other, ua: boitho.com-dc, class: spider }
+Spider-Other-clumboot: { source: uap-core-ua, device: Spider, os: Other, ua: clumboot, class: spider }
+Spider-Other-findlinks: { source: uap-core-ua, device: Spider, os: Other, ua: findlinks, class: spider }
+Spider-Other-furlbot: { source: uap-core-ua, device: Spider, os: Other, ua: furlbot, class: spider }
+Spider-Other-gonzo1: { source: uap-core-ua, device: Spider, os: Other, ua: gonzo1, class: spider }
+Spider-Other-grub-client: { source: uap-core-ua, device: Spider, os: Other, ua: grub-client, class: spider }
+Spider-Other-gsa-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: gsa-crawler, class: spider }
+Spider-Other-htdig: { source: uap-core-ua, device: Spider, os: Other, ua: htdig, class: spider }
+'Spider-Windows 2000-ia_archiver': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: ia_archiver, class: spider }
+Spider-Other-ichiro: { source: uap-core-ua, device: Spider, os: Other, ua: ichiro, class: spider }
+Spider-Other-ichiro/mobile: { source: uap-core-ua, device: Spider, os: Other, ua: ichiro/mobile, class: spider }
+Spider-Other-larbin: { source: uap-core-ua, device: Spider, os: Other, ua: larbin, class: spider }
+'Spider-Windows XP-lycos': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: lycos, class: spider }
+Spider-Other-masidani_bot: { source: uap-core-ua, device: Spider, os: Other, ua: masidani_bot, class: spider }
+Spider-Other-mozDex: { source: uap-core-ua, device: Spider, os: Other, ua: mozDex, class: spider }
+Spider-Other-msnbot: { source: uap-core-ua, device: Spider, os: Other, ua: msnbot, class: spider }
+'Spider-Windows XP-msnbot': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: msnbot, class: spider }
+Spider-Other-msnbot-media: { source: uap-core-ua, device: Spider, os: Other, ua: msnbot-media, class: spider }
+Spider-Other-msrbot: { source: uap-core-ua, device: Spider, os: Other, ua: msrbot, class: spider }
+'Spider-Windows 2000-scooter': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: scooter, class: spider }
+Spider-Other-seekbot: { source: uap-core-ua, device: Spider, os: Other, ua: seekbot, class: spider }
+Spider-Other-semanticdiscovery: { source: uap-core-ua, device: Spider, os: Other, ua: semanticdiscovery, class: spider }
+Spider-Other-voyager: { source: uap-core-ua, device: Spider, os: Other, ua: voyager, class: spider }
+Spider-Other-www.almaden.ibm.com: { source: uap-core-ua, device: Spider, os: Other, ua: www.almaden.ibm.com, class: spider }
+'Spider-Other-449 Overture-WebCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: '449 Overture-WebCrawler', class: spider }
+Spider-Other-80bot: { source: uap-core-ua, device: Spider, os: Other, ua: 80bot, class: spider }
+Spider-Other-AcquiloSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AcquiloSpider, class: spider }
+'Spider-Other-Aleksika Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Aleksika Spider', class: spider }
+Spider-Other-AmorankSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AmorankSpider, class: spider }
+Spider-Other-AnomaliesBot: { source: uap-core-ua, device: Spider, os: Other, ua: AnomaliesBot, class: spider }
+'Spider-Other-Automattic Analytics Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Automattic Analytics Crawler', class: spider }
+Spider-Other-BLEXBot: { source: uap-core-ua, device: Spider, os: Other, ua: BLEXBot, class: spider }
+Spider-Other-BabalooSpider: { source: uap-core-ua, device: Spider, os: Other, ua: BabalooSpider, class: spider }
+Spider-Other-BebopBot: { source: uap-core-ua, device: Spider, os: Other, ua: BebopBot, class: spider }
+Spider-Other-BlinkaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BlinkaCrawler, class: spider }
+Spider-Other-BlogRangerCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BlogRangerCrawler, class: spider }
+'Spider-Other-Brekiri crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Brekiri crawler', class: spider }
+Spider-Other-BurstFindCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BurstFindCrawler, class: spider }
+Spider-Other-CamontSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CamontSpider, class: spider }
+Spider-Other-CloudServerMarketSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CloudServerMarketSpider, class: spider }
+Spider-Other-CompSpyBot: { source: uap-core-ua, device: Spider, os: Other, ua: CompSpyBot, class: spider }
+Spider-Other-ConveraMultiMediaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ConveraMultiMediaCrawler, class: spider }
+Spider-Other-CosmixCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: CosmixCrawler, class: spider }
+Spider-Other-Crawl: { source: uap-core-ua, device: Spider, os: Other, ua: Crawl, class: spider }
+Spider-Other-CrawlBot: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlBot, class: spider }
+Spider-Other-Crawllybot: { source: uap-core-ua, device: Spider, os: Other, ua: Crawllybot, class: spider }
+Spider-Other-Crawly: { source: uap-core-ua, device: Spider, os: Other, ua: Crawly, class: spider }
+Spider-Other-Crawlzilla: { source: uap-core-ua, device: Spider, os: Other, ua: Crawlzilla, class: spider }
+Spider-Other-CydralSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CydralSpider, class: spider }
+'Spider-Other-DealGates Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'DealGates Bot', class: spider }
+'Spider-Other-Denodo IECrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Denodo IECrawler', class: spider }
+Spider-Other-Diffbot: { source: uap-core-ua, device: Spider, os: Other, ua: Diffbot, class: spider }
+Spider-Other-DomainCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: DomainCrawler, class: spider }
+Spider-Other-DotBot: { source: uap-core-ua, device: Spider, os: Other, ua: DotBot, class: spider }
+Spider-Other-DotSpotsBot: { source: uap-core-ua, device: Spider, os: Other, ua: DotSpotsBot, class: spider }
+Spider-Other-ERACrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ERACrawler, class: spider }
+Spider-Other-EventGuruBot: { source: uap-core-ua, device: Spider, os: Other, ua: EventGuruBot, class: spider }
+Spider-Other-Ex-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Ex-Crawler, class: spider }
+'Spider-Other-ExactSeek Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ExactSeek Crawler', class: spider }
+Spider-Other-ExactSeekCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ExactSeekCrawler, class: spider }
+Spider-Other-FANGCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: FANGCrawl, class: spider }
+'Spider-Other-FAST Enterprise Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST Enterprise Crawler', class: spider }
+Spider-Other-FAST-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FAST-WebCrawler, class: spider }
 'Nokia N70-Other-FASTMobileCrawl': { source: uap-core-ua, device: 'Nokia N70', os: Other, ua: FASTMobileCrawl, class: '' }
-Spider-Other-FlaxCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FlaxCrawler, class: '' }
-Spider-Other-FyberSpider: { source: uap-core-ua, device: Spider, os: Other, ua: FyberSpider, class: '' }
-Spider-Other-GarlikCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GarlikCrawler, class: '' }
-Spider-Other-GematchCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GematchCrawler, class: '' }
-Spider-Other-Gigabot: { source: uap-core-ua, device: Spider, os: Other, ua: Gigabot, class: '' }
-Spider-Other-GingerCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GingerCrawler, class: '' }
-Spider-Other-GoGuidesBot: { source: uap-core-ua, device: Spider, os: Other, ua: GoGuidesBot, class: '' }
-Spider-Other-GrapeshotCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GrapeshotCrawler, class: '' }
-'Spider-Other-HPI FeedCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'HPI FeedCrawler', class: '' }
-Spider-Other-HRCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: HRCrawler, class: '' }
-Spider-Other-Hailoobot: { source: uap-core-ua, device: Spider, os: Other, ua: Hailoobot, class: '' }
-'Spider-Other-Hatena::Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Hatena::Crawler', class: '' }
-Spider-Other-HiveCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: HiveCrawler, class: '' }
-'Spider-Other-Host-Spy Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Host-Spy Crawler', class: '' }
-Spider-Other-HttpSpider: { source: uap-core-ua, device: Spider, os: Other, ua: HttpSpider, class: '' }
+Spider-Other-FlaxCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FlaxCrawler, class: spider }
+Spider-Other-FyberSpider: { source: uap-core-ua, device: Spider, os: Other, ua: FyberSpider, class: spider }
+Spider-Other-GarlikCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GarlikCrawler, class: spider }
+Spider-Other-GematchCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GematchCrawler, class: spider }
+Spider-Other-Gigabot: { source: uap-core-ua, device: Spider, os: Other, ua: Gigabot, class: spider }
+Spider-Other-GingerCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GingerCrawler, class: spider }
+Spider-Other-GoGuidesBot: { source: uap-core-ua, device: Spider, os: Other, ua: GoGuidesBot, class: spider }
+Spider-Other-GrapeshotCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GrapeshotCrawler, class: spider }
+'Spider-Other-HPI FeedCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'HPI FeedCrawler', class: spider }
+Spider-Other-HRCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: HRCrawler, class: spider }
+Spider-Other-Hailoobot: { source: uap-core-ua, device: Spider, os: Other, ua: Hailoobot, class: spider }
+'Spider-Other-Hatena::Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Hatena::Crawler', class: spider }
+Spider-Other-HiveCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: HiveCrawler, class: spider }
+'Spider-Other-Host-Spy Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Host-Spy Crawler', class: spider }
+Spider-Other-HttpSpider: { source: uap-core-ua, device: Spider, os: Other, ua: HttpSpider, class: spider }
 'Huawei SymantecSpider-Windows XP-HuaweiSymantecSpider': { source: uap-core-ua, device: 'Huawei SymantecSpider', os: 'Windows XP', ua: HuaweiSymantecSpider, class: '' }
-Spider-Other-IRLbot: { source: uap-core-ua, device: Spider, os: Other, ua: IRLbot, class: '' }
-'Spider-Other-Iplexx Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Iplexx Spider', class: '' }
-Spider-Other-Jambot: { source: uap-core-ua, device: Spider, os: Other, ua: Jambot, class: '' }
-Spider-Other-Jomjaibot: { source: uap-core-ua, device: Spider, os: Other, ua: Jomjaibot, class: '' }
-'Spider-Other-KIT webcrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'KIT webcrawler', class: '' }
-Spider-Other-Kyoto-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Kyoto-Crawler, class: '' }
-Spider-Other-LB-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: LB-Crawler, class: '' }
-Spider-Other-LSSRocketCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LSSRocketCrawler, class: '' }
-'Spider-Windows XP-Lightningspider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: Lightningspider, class: '' }
-Spider-Other-LikaholixCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LikaholixCrawler, class: '' }
-'Spider-Other-Logict IPv6 Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Logict IPv6 Crawler', class: '' }
-Spider-Other-MPICrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MPICrawler, class: '' }
-'Spider-Other-MXit WebBot': { source: uap-core-ua, device: Spider, os: Other, ua: 'MXit WebBot', class: '' }
-Spider-Other-MetaGeneratorCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetaGeneratorCrawler, class: '' }
-Spider-Other-MetamojiCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetamojiCrawler, class: '' }
-Spider-Other-MonkeyCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: MonkeyCrawl, class: '' }
-'Spider-Other-Mozilla crawl': { source: uap-core-ua, device: Spider, os: Other, ua: 'Mozilla crawl', class: '' }
-Spider-Linux-NLCrawler: { source: uap-core-ua, device: Spider, os: Linux, ua: NLCrawler, class: '' }
-'Spider-Other-NMG Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'NMG Spider', class: '' }
-Spider-Other-NalezenCzBot: { source: uap-core-ua, device: Spider, os: Other, ua: NalezenCzBot, class: '' }
-Spider-Other-NationalDirectory-WebSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NationalDirectory-WebSpider, class: '' }
-'Spider-Other-NetSeer crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'NetSeer crawler', class: '' }
-Spider-Other-NetWhatCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NetWhatCrawler, class: '' }
-'Spider-Other-Netseer crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Netseer crawler', class: '' }
-'Spider-Windows 98-New-Sogou-Spider': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: New-Sogou-Spider, class: '' }
-Spider-Other-NewzCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NewzCrawler, class: '' }
-Spider-Other-NodejsSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NodejsSpider, class: '' }
-Spider-Other-None-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: None-Crawler, class: '' }
-Spider-Other-OmniExplorer_Bot: { source: uap-core-ua, device: Spider, os: Other, ua: OmniExplorer_Bot, class: '' }
-Spider-Other-OpenCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: OpenCrawler, class: '' }
-Spider-Other-OpenWebSpider: { source: uap-core-ua, device: Spider, os: Other, ua: OpenWebSpider, class: '' }
-Spider-Other-Overture-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Overture-WebCrawler, class: '' }
-Spider-Other-PArchiveCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PArchiveCrawler, class: '' }
-Spider-Other-PercolateCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PercolateCrawler, class: '' }
-Spider-Other-Pete-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Pete-Spider, class: '' }
-Spider-Other-PicSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PicSpider, class: '' }
-Spider-Other-PluckItCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PluckItCrawler, class: '' }
-Spider-Other-PornSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PornSpider, class: '' }
-Spider-Other-PortalBSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PortalBSpider, class: '' }
-Spider-Other-ProCogBot: { source: uap-core-ua, device: Spider, os: Other, ua: ProCogBot, class: '' }
-Spider-Other-ProloCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ProloCrawler, class: '' }
-Spider-Other-PsSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PsSpider, class: '' }
-Spider-Other-RSSIncludeBot: { source: uap-core-ua, device: Spider, os: Other, ua: RSSIncludeBot, class: '' }
-'Spider-Windows XP-RSScrawler': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: RSScrawler, class: '' }
-Spider-Other-RSpider: { source: uap-core-ua, device: Spider, os: Other, ua: RSpider, class: '' }
-Spider-Other-RyzeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: RyzeCrawler, class: '' }
-Spider-Other-SMXCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SMXCrawler, class: '' }
-Spider-Other-SRCCN!Spider: { source: uap-core-ua, device: Spider, os: Other, ua: SRCCN!Spider, class: '' }
-Spider-Other-SWEBot: { source: uap-core-ua, device: Spider, os: Other, ua: SWEBot, class: '' }
-'Spider-Other-Sangfor Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sangfor Spider', class: '' }
-Spider-Other-ScSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ScSpider, class: '' }
-Spider-Other-ScollSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ScollSpider, class: '' }
-Spider-Other-SearchSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SearchSpider, class: '' }
-Spider-Other-Searchspider: { source: uap-core-ua, device: Spider, os: Other, ua: Searchspider, class: '' }
-Spider-Other-SimpleCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SimpleCrawler, class: '' }
-'Spider-Other-SlugBug Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'SlugBug Spider', class: '' }
-Spider-Other-SmartAndSimpleWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SmartAndSimpleWebCrawler, class: '' }
-Spider-Linux-Socialradarbot: { source: uap-core-ua, device: Spider, os: Linux, ua: Socialradarbot, class: '' }
-'Spider-Other-Sogou Orion spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou Orion spider', class: '' }
-'Spider-Other-Sogou Push Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou Push Spider', class: '' }
-'Spider-Other-Sogou develop spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou develop spider', class: '' }
-'Spider-Other-Sogou head spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou head spider', class: '' }
-'Spider-Other-Sogou web spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou web spider', class: '' }
-'Spider-Windows 98-Sogou-Test-Spider': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: Sogou-Test-Spider, class: '' }
-Spider-Other-Sosoimagespider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosoimagespider, class: '' }
-Spider-Other-Sosospider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosospider, class: '' }
-Spider-Other-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Spider, class: '' }
-Spider-Other-SpokeSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SpokeSpider, class: '' }
-Spider-Other-StoneSunSpider: { source: uap-core-ua, device: Spider, os: Other, ua: StoneSunSpider, class: '' }
-Spider-Other-StreamScraper: { source: uap-core-ua, device: Spider, os: Other, ua: StreamScraper, class: '' }
-'Spider-Windows ME-SuperSpider': { source: uap-core-ua, device: Spider, os: 'Windows ME', ua: SuperSpider, class: '' }
-Spider-Other-T3census-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: T3census-Crawler, class: '' }
-Spider-Other-TECOMAC-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: TECOMAC-Crawler, class: '' }
-Spider-Other-Tasapspider: { source: uap-core-ua, device: Spider, os: Other, ua: Tasapspider, class: '' }
-Spider-Other-TinEye-bot: { source: uap-core-ua, device: Spider, os: Other, ua: TinEye-bot, class: '' }
-'Spider-Other-Top10Ranking Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Top10Ranking Spider', class: '' }
-'Spider-Other-TouTrix crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'TouTrix crawler', class: '' }
-Spider-Other-TridentSpider: { source: uap-core-ua, device: Spider, os: Other, ua: TridentSpider, class: '' }
-Spider-Other-TurnitinBot: { source: uap-core-ua, device: Spider, os: Other, ua: TurnitinBot, class: '' }
-Spider-Linux-URLfilterDB-crawler: { source: uap-core-ua, device: Spider, os: Linux, ua: URLfilterDB-crawler, class: '' }
-Spider-Other-URLfilterDB-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: URLfilterDB-crawler, class: '' }
-Spider-Other-VinjaVideoSpider: { source: uap-core-ua, device: Spider, os: Other, ua: VinjaVideoSpider, class: '' }
-Spider-Other-VisBot: { source: uap-core-ua, device: Spider, os: Other, ua: VisBot, class: '' }
-Spider-Other-VodpodCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: VodpodCrawler, class: '' }
-Spider-Other-WSDLSpider: { source: uap-core-ua, device: Spider, os: Other, ua: WSDLSpider, class: '' }
-Spider-Other-WangIDSpider: { source: uap-core-ua, device: Spider, os: Other, ua: WangIDSpider, class: '' }
-Spider-Other-Web-Robot: { source: uap-core-ua, device: Spider, os: Other, ua: Web-Robot, class: '' }
-'Spider-Windows XP-WebAlta Crawler': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: 'WebAlta Crawler', class: '' }
-Spider-Other-WebIndexer: { source: uap-core-ua, device: Spider, os: Other, ua: WebIndexer, class: '' }
-Spider-Other-Webbot: { source: uap-core-ua, device: Spider, os: Other, ua: Webbot, class: '' }
-Spider-Other-Webspider: { source: uap-core-ua, device: Spider, os: Other, ua: Webspider, class: '' }
-Spider-Other-WinWebBot: { source: uap-core-ua, device: Spider, os: Other, ua: WinWebBot, class: '' }
-Spider-Other-WinkBot: { source: uap-core-ua, device: Spider, os: Other, ua: WinkBot, class: '' }
-Spider-Other-Yahoo-MMCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-MMCrawler, class: '' }
-Spider-Other-Yahoo-Newscrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-Newscrawler, class: '' }
-Spider-Other-Yahoo-VerticalCrawler-FormerWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-VerticalCrawler-FormerWebCrawler, class: '' }
-Spider-Other-YoonoCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: YoonoCrawler, class: '' }
-Spider-Other-YoudaoBot: { source: uap-core-ua, device: Spider, os: Other, ua: YoudaoBot, class: '' }
-Spider-Other-ZemlyaCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: ZemlyaCrawl, class: '' }
-Spider-Other-Zeusbot: { source: uap-core-ua, device: Spider, os: Other, ua: Zeusbot, class: '' }
-Spider-Other-agbot: { source: uap-core-ua, device: Spider, os: Other, ua: agbot, class: '' }
-Spider-Other-archive_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: archive_crawler, class: '' }
-Spider-Other-audioCrawlerBot: { source: uap-core-ua, device: Spider, os: Other, ua: audioCrawlerBot, class: '' }
-Spider-Other-awesomebar_scraper: { source: uap-core-ua, device: Spider, os: Other, ua: awesomebar_scraper, class: '' }
-Spider-Other-blog_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: blog_crawler, class: '' }
-Spider-Other-ca-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ca-crawler, class: '' }
-Spider-Other-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: crawl, class: '' }
-Spider-Other-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: crawler, class: '' }
-Spider-Other-dCrawlBot: { source: uap-core-ua, device: Spider, os: Other, ua: dCrawlBot, class: '' }
-Spider-Other-deepcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: deepcrawler, class: '' }
-'Spider-Other-envolk[ITS]spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'envolk[ITS]spider', class: '' }
-Spider-Other-fastlwspider: { source: uap-core-ua, device: Spider, os: Other, ua: fastlwspider, class: '' }
-Spider-Other-i1searchbot: { source: uap-core-ua, device: Spider, os: Other, ua: i1searchbot, class: '' }
-Spider-Other-iaskspider: { source: uap-core-ua, device: Spider, os: Other, ua: iaskspider, class: '' }
-Spider-Other-it-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: it-Crawler, class: '' }
-Spider-Other-it2media-domain-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: it2media-domain-crawler, class: '' }
-Spider-Other-jrCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: jrCrawler, class: '' }
-Spider-Other-loc-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: loc-crawl, class: '' }
-Spider-Other-loc-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: loc-crawler, class: '' }
-Spider-Other-m65bot: { source: uap-core-ua, device: Spider, os: Other, ua: m65bot, class: '' }
-Spider-Other-noxtrumbot: { source: uap-core-ua, device: Spider, os: Other, ua: noxtrumbot, class: '' }
-Spider-Other-nyobot: { source: uap-core-ua, device: Spider, os: Other, ua: nyobot, class: '' }
-Spider-Other-oBot: { source: uap-core-ua, device: Spider, os: Other, ua: oBot, class: '' }
-Spider-Other-omgilibot: { source: uap-core-ua, device: Spider, os: Other, ua: omgilibot, class: '' }
-Spider-Other-rogerBot: { source: uap-core-ua, device: Spider, os: Other, ua: rogerBot, class: '' }
-Spider-Other-rogerbot: { source: uap-core-ua, device: Spider, os: Other, ua: rogerbot, class: '' }
-'Spider-Other-semantics webbot': { source: uap-core-ua, device: Spider, os: Other, ua: 'semantics webbot', class: '' }
-Spider-Other-socialbm_bot: { source: uap-core-ua, device: Spider, os: Other, ua: socialbm_bot, class: '' }
-Spider-Other-tCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: tCrawler, class: '' }
-Spider-Other-tivraSpider: { source: uap-core-ua, device: Spider, os: Other, ua: tivraSpider, class: '' }
-Spider-Other-webscraper: { source: uap-core-ua, device: Spider, os: Other, ua: webscraper, class: '' }
-Spider-Other-wume_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: wume_crawler, class: '' }
-'Spider-Other-3 Robot': { source: uap-core-ua, device: Spider, os: Other, ua: '3 Robot', class: '' }
-'Spider-Other-Apexoo Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Apexoo Spider', class: '' }
-'Spider-Other-BT Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BT Crawler', class: '' }
-'Spider-Other-Bot Blocker Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Bot Blocker Crawler', class: '' }
-'Spider-Other-BurstFind Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BurstFind Crawler', class: '' }
-'Spider-Other-Comodo Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Comodo Spider', class: '' }
-Spider-Other-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Crawler, class: '' }
-'Spider-Other-ExB Language Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ExB Language Crawler', class: '' }
-'Spider-Other-FAST Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST Crawler', class: '' }
-'Spider-Other-FAST EnterpriseCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST EnterpriseCrawler', class: '' }
-'Spider-Other-FAST FreshCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST FreshCrawler', class: '' }
-Spider-Other-FatBot: { source: uap-core-ua, device: Spider, os: Other, ua: FatBot, class: '' }
-'Spider-Other-Feedjit Favicon Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Feedjit Favicon Crawler', class: '' }
-'Spider-Other-HubSpot Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'HubSpot Crawler', class: '' }
-'Spider-Other-Jaxified Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Jaxified Crawler', class: '' }
-Spider-Other-LinksCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LinksCrawler, class: '' }
-'Spider-Other-Liquida Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Liquida Spider', class: '' }
-'Spider-Other-My Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'My Spider', class: '' }
-Spider-Other-NWSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NWSpider, class: '' }
-'Spider-Other-Netchart Adv Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Netchart Adv Crawler', class: '' }
-Spider-Other-NimbleCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NimbleCrawler, class: '' }
-Spider-Windows-NimbleCrawler: { source: uap-core-ua, device: Spider, os: Windows, ua: NimbleCrawler, class: '' }
-Spider-Other-OMGCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: OMGCrawler, class: '' }
-'Spider-Other-SeekOn Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'SeekOn Spider', class: '' }
-'Spider-Other-Toms Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Toms Spider', class: '' }
-'Spider-Other-Tutorial Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Tutorial Crawler', class: '' }
-'Spider-Other-Using Fast Enterprise Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Using Fast Enterprise Crawler', class: '' }
-'Spider-Other-Wocodi Web Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Wocodi Web Crawler', class: '' }
-'Spider-Windows 2000-WordSurfer Spider': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: 'WordSurfer Spider', class: '' }
-Spider-Other-XSpider: { source: uap-core-ua, device: Spider, os: Other, ua: XSpider, class: '' }
-Spider-Windows-XSpider: { source: uap-core-ua, device: Spider, os: Windows, ua: XSpider, class: '' }
-'Spider-Other-Xaldon WebSpider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xaldon WebSpider', class: '' }
-Spider-Other-echocrawl: { source: uap-core-ua, device: Spider, os: Other, ua: echocrawl, class: '' }
-'Spider-Other-enicura crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'enicura crawler', class: '' }
-'Spider-Windows XP-lworld spider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: 'lworld spider', class: '' }
-'Spider-Other-mSEARCH Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'mSEARCH Crawler', class: '' }
-Spider-Other-123metaspider: { source: uap-core-ua, device: Spider, os: Other, ua: 123metaspider, class: '' }
-Spider-Other-360Spider: { source: uap-core-ua, device: Spider, os: Other, ua: 360Spider, class: '' }
-'Spider-Windows 98-8webcrawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: 8webcrawler, class: '' }
-Spider-Other-AESOP_com_SpiderMan: { source: uap-core-ua, device: Spider, os: Other, ua: AESOP_com_SpiderMan, class: '' }
-Spider-Other-AISearchBot: { source: uap-core-ua, device: Spider, os: Other, ua: AISearchBot, class: '' }
-'Spider-Other-ANTIPLAG SPIDER': { source: uap-core-ua, device: Spider, os: Other, ua: 'ANTIPLAG SPIDER', class: '' }
-Spider-Other-AcquiaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: AcquiaCrawler, class: '' }
-'Spider-Other-Adaxas Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Adaxas Spider', class: '' }
-'Spider-Windows Vista-AddSugarSpiderBot': { source: uap-core-ua, device: Spider, os: 'Windows Vista', ua: AddSugarSpiderBot, class: '' }
-Spider-Other-AdnormCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: AdnormCrawler, class: '' }
-'Spider-Other-Analyzer Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Analyzer Crawler', class: '' }
-'Spider-Other-AppCodes crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'AppCodes crawler', class: '' }
-Spider-Other-ArchitextSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ArchitextSpider, class: '' }
-Spider-Other-Arikus_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Arikus_Spider, class: '' }
-'Spider-Other-Asterias Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Asterias Crawler', class: '' }
-Spider-Other-AstraSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AstraSpider, class: '' }
-'Spider-Other-Autonomy Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Autonomy Spider', class: '' }
-'Spider-Other-Axadine Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Axadine Crawler', class: '' }
-Spider-Other-BIXOCRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: BIXOCRAWLER, class: '' }
-'Spider-Other-BOTW Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'BOTW Spider', class: '' }
-Spider-Other-BacklinkCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BacklinkCrawler, class: '' }
-Spider-Other-BaiduImagespider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiduImagespider, class: '' }
-Spider-Other-BarraHomeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BarraHomeCrawler, class: '' }
-'Spider-Other-Beehive Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Beehive Crawler', class: '' }
-Spider-Other-BeijingCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BeijingCrawler, class: '' }
-Spider-Other-BejiBot: { source: uap-core-ua, device: Spider, os: Other, ua: BejiBot, class: '' }
-'Spider-Other-BravoBrian SpiderEngine': { source: uap-core-ua, device: Spider, os: Other, ua: 'BravoBrian SpiderEngine', class: '' }
-Spider-Other-BrightCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BrightCrawler, class: '' }
-'Spider-Other-BuildCMS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BuildCMS crawler', class: '' }
-Spider-Other-ByWebSite-Search-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ByWebSite-Search-Spider, class: '' }
-Spider-Other-CFG_SPIDER_USER_AGENT: { source: uap-core-ua, device: Spider, os: Other, ua: CFG_SPIDER_USER_AGENT, class: '' }
-'Spider-Other-CMS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'CMS Crawler', class: '' }
-'Spider-Other-CMS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'CMS crawler', class: '' }
-Spider-Other-CRAZYWEBCRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: CRAZYWEBCRAWLER, class: '' }
-Spider-Other-CSimpleSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CSimpleSpider, class: '' }
-'Spider-Other-Cityreview Robot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Cityreview Robot', class: '' }
-'Spider-Other-Cloudview Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Cloudview Crawler', class: '' }
-Spider-Other-Comodo-Certificates-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Comodo-Certificates-Spider, class: '' }
-Spider-Other-Computer_and_Automation_Research_Institute_Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Computer_and_Automation_Research_Institute_Crawler, class: '' }
-'Spider-Other-Content Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Content Crawler', class: '' }
-Spider-Other-CowCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: CowCrawler, class: '' }
-'Spider-Windows 7-CrawlDaddy': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: CrawlDaddy, class: '' }
-Spider-Other-CrawlFire: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlFire, class: '' }
-Spider-Other-CrawlWave: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlWave, class: '' }
-Spider-Other-CrawlerBoy: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlerBoy, class: '' }
-'Spider-Windows 98-Crayon Crawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: 'Crayon Crawler', class: '' }
-Spider-Other-DRKSpider: { source: uap-core-ua, device: Spider, os: Other, ua: DRKSpider, class: '' }
-Spider-Other-DefaultCrawlTest: { source: uap-core-ua, device: Spider, os: Other, ua: DefaultCrawlTest, class: '' }
-'Spider-Other-Door Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Door Spider', class: '' }
-'Spider-Other-DoubleVerify Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'DoubleVerify Crawler', class: '' }
-Spider-Other-EasouSpider: { source: uap-core-ua, device: Spider, os: Other, ua: EasouSpider, class: '' }
-'Spider-Other-EcoGrader Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'EcoGrader Crawler', class: '' }
-'Spider-Other-Engage Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Engage Crawler', class: '' }
-'Spider-Other-Engine Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Engine Spider', class: '' }
-Spider-Other-EverbeeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: EverbeeCrawler, class: '' }
-Spider-Other-ExactSeek_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ExactSeek_Spider, class: '' }
-Spider-Other-FastCrawler3: { source: uap-core-ua, device: Spider, os: Other, ua: FastCrawler3, class: '' }
-Spider-Other-Finderbots: { source: uap-core-ua, device: Spider, os: Other, ua: Finderbots, class: '' }
-'Spider-Other-Findexa Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Findexa Crawler', class: '' }
-'Spider-Other-Fluffy the spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Fluffy the spider', class: '' }
-'Spider-Windows 2000-FreeCrawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: FreeCrawl, class: '' }
-'Spider-Other-Fujiko Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Fujiko Spider', class: '' }
-Spider-Other-FunkyCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FunkyCrawler, class: '' }
-Spider-Other-GSiteCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GSiteCrawler, class: '' }
-'Spider-Other-GeekTools Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'GeekTools Crawler', class: '' }
-'Spider-Other-GetMeLinked Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'GetMeLinked Spider', class: '' }
-'Spider-Other-Gnam Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Gnam Spider', class: '' }
-Spider-Other-GoScraper: { source: uap-core-ua, device: Spider, os: Other, ua: GoScraper, class: '' }
-'Spider-Other-GrowerIdeas Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'GrowerIdeas Crawler', class: '' }
+Spider-Other-IRLbot: { source: uap-core-ua, device: Spider, os: Other, ua: IRLbot, class: spider }
+'Spider-Other-Iplexx Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Iplexx Spider', class: spider }
+Spider-Other-Jambot: { source: uap-core-ua, device: Spider, os: Other, ua: Jambot, class: spider }
+Spider-Other-Jomjaibot: { source: uap-core-ua, device: Spider, os: Other, ua: Jomjaibot, class: spider }
+'Spider-Other-KIT webcrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'KIT webcrawler', class: spider }
+Spider-Other-Kyoto-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Kyoto-Crawler, class: spider }
+Spider-Other-LB-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: LB-Crawler, class: spider }
+Spider-Other-LSSRocketCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LSSRocketCrawler, class: spider }
+'Spider-Windows XP-Lightningspider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: Lightningspider, class: spider }
+Spider-Other-LikaholixCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LikaholixCrawler, class: spider }
+'Spider-Other-Logict IPv6 Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Logict IPv6 Crawler', class: spider }
+Spider-Other-MPICrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MPICrawler, class: spider }
+'Spider-Other-MXit WebBot': { source: uap-core-ua, device: Spider, os: Other, ua: 'MXit WebBot', class: spider }
+Spider-Other-MetaGeneratorCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetaGeneratorCrawler, class: spider }
+Spider-Other-MetamojiCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetamojiCrawler, class: spider }
+Spider-Other-MonkeyCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: MonkeyCrawl, class: spider }
+'Spider-Other-Mozilla crawl': { source: uap-core-ua, device: Spider, os: Other, ua: 'Mozilla crawl', class: spider }
+Spider-Linux-NLCrawler: { source: uap-core-ua, device: Spider, os: Linux, ua: NLCrawler, class: spider }
+'Spider-Other-NMG Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'NMG Spider', class: spider }
+Spider-Other-NalezenCzBot: { source: uap-core-ua, device: Spider, os: Other, ua: NalezenCzBot, class: spider }
+Spider-Other-NationalDirectory-WebSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NationalDirectory-WebSpider, class: spider }
+'Spider-Other-NetSeer crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'NetSeer crawler', class: spider }
+Spider-Other-NetWhatCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NetWhatCrawler, class: spider }
+'Spider-Other-Netseer crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Netseer crawler', class: spider }
+'Spider-Windows 98-New-Sogou-Spider': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: New-Sogou-Spider, class: spider }
+Spider-Other-NewzCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NewzCrawler, class: spider }
+Spider-Other-NodejsSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NodejsSpider, class: spider }
+Spider-Other-None-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: None-Crawler, class: spider }
+Spider-Other-OmniExplorer_Bot: { source: uap-core-ua, device: Spider, os: Other, ua: OmniExplorer_Bot, class: spider }
+Spider-Other-OpenCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: OpenCrawler, class: spider }
+Spider-Other-OpenWebSpider: { source: uap-core-ua, device: Spider, os: Other, ua: OpenWebSpider, class: spider }
+Spider-Other-Overture-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Overture-WebCrawler, class: spider }
+Spider-Other-PArchiveCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PArchiveCrawler, class: spider }
+Spider-Other-PercolateCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PercolateCrawler, class: spider }
+Spider-Other-Pete-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Pete-Spider, class: spider }
+Spider-Other-PicSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PicSpider, class: spider }
+Spider-Other-PluckItCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: PluckItCrawler, class: spider }
+Spider-Other-PornSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PornSpider, class: spider }
+Spider-Other-PortalBSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PortalBSpider, class: spider }
+Spider-Other-ProCogBot: { source: uap-core-ua, device: Spider, os: Other, ua: ProCogBot, class: spider }
+Spider-Other-ProloCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ProloCrawler, class: spider }
+Spider-Other-PsSpider: { source: uap-core-ua, device: Spider, os: Other, ua: PsSpider, class: spider }
+Spider-Other-RSSIncludeBot: { source: uap-core-ua, device: Spider, os: Other, ua: RSSIncludeBot, class: spider }
+'Spider-Windows XP-RSScrawler': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: RSScrawler, class: spider }
+Spider-Other-RSpider: { source: uap-core-ua, device: Spider, os: Other, ua: RSpider, class: spider }
+Spider-Other-RyzeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: RyzeCrawler, class: spider }
+Spider-Other-SMXCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SMXCrawler, class: spider }
+Spider-Other-SRCCN!Spider: { source: uap-core-ua, device: Spider, os: Other, ua: SRCCN!Spider, class: spider }
+Spider-Other-SWEBot: { source: uap-core-ua, device: Spider, os: Other, ua: SWEBot, class: spider }
+'Spider-Other-Sangfor Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sangfor Spider', class: spider }
+Spider-Other-ScSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ScSpider, class: spider }
+Spider-Other-ScollSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ScollSpider, class: spider }
+Spider-Other-SearchSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SearchSpider, class: spider }
+Spider-Other-Searchspider: { source: uap-core-ua, device: Spider, os: Other, ua: Searchspider, class: spider }
+Spider-Other-SimpleCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SimpleCrawler, class: spider }
+'Spider-Other-SlugBug Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'SlugBug Spider', class: spider }
+Spider-Other-SmartAndSimpleWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SmartAndSimpleWebCrawler, class: spider }
+Spider-Linux-Socialradarbot: { source: uap-core-ua, device: Spider, os: Linux, ua: Socialradarbot, class: spider }
+'Spider-Other-Sogou Orion spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou Orion spider', class: spider }
+'Spider-Other-Sogou Push Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou Push Spider', class: spider }
+'Spider-Other-Sogou develop spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou develop spider', class: spider }
+'Spider-Other-Sogou head spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou head spider', class: spider }
+'Spider-Other-Sogou web spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Sogou web spider', class: spider }
+'Spider-Windows 98-Sogou-Test-Spider': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: Sogou-Test-Spider, class: spider }
+Spider-Other-Sosoimagespider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosoimagespider, class: spider }
+Spider-Other-Sosospider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosospider, class: spider }
+Spider-Other-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Spider, class: spider }
+Spider-Other-SpokeSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SpokeSpider, class: spider }
+Spider-Other-StoneSunSpider: { source: uap-core-ua, device: Spider, os: Other, ua: StoneSunSpider, class: spider }
+Spider-Other-StreamScraper: { source: uap-core-ua, device: Spider, os: Other, ua: StreamScraper, class: spider }
+'Spider-Windows ME-SuperSpider': { source: uap-core-ua, device: Spider, os: 'Windows ME', ua: SuperSpider, class: spider }
+Spider-Other-T3census-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: T3census-Crawler, class: spider }
+Spider-Other-TECOMAC-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: TECOMAC-Crawler, class: spider }
+Spider-Other-Tasapspider: { source: uap-core-ua, device: Spider, os: Other, ua: Tasapspider, class: spider }
+Spider-Other-TinEye-bot: { source: uap-core-ua, device: Spider, os: Other, ua: TinEye-bot, class: spider }
+'Spider-Other-Top10Ranking Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Top10Ranking Spider', class: spider }
+'Spider-Other-TouTrix crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'TouTrix crawler', class: spider }
+Spider-Other-TridentSpider: { source: uap-core-ua, device: Spider, os: Other, ua: TridentSpider, class: spider }
+Spider-Other-TurnitinBot: { source: uap-core-ua, device: Spider, os: Other, ua: TurnitinBot, class: spider }
+Spider-Linux-URLfilterDB-crawler: { source: uap-core-ua, device: Spider, os: Linux, ua: URLfilterDB-crawler, class: spider }
+Spider-Other-URLfilterDB-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: URLfilterDB-crawler, class: spider }
+Spider-Other-VinjaVideoSpider: { source: uap-core-ua, device: Spider, os: Other, ua: VinjaVideoSpider, class: spider }
+Spider-Other-VisBot: { source: uap-core-ua, device: Spider, os: Other, ua: VisBot, class: spider }
+Spider-Other-VodpodCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: VodpodCrawler, class: spider }
+Spider-Other-WSDLSpider: { source: uap-core-ua, device: Spider, os: Other, ua: WSDLSpider, class: spider }
+Spider-Other-WangIDSpider: { source: uap-core-ua, device: Spider, os: Other, ua: WangIDSpider, class: spider }
+Spider-Other-Web-Robot: { source: uap-core-ua, device: Spider, os: Other, ua: Web-Robot, class: spider }
+'Spider-Windows XP-WebAlta Crawler': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: 'WebAlta Crawler', class: spider }
+Spider-Other-WebIndexer: { source: uap-core-ua, device: Spider, os: Other, ua: WebIndexer, class: spider }
+Spider-Other-Webbot: { source: uap-core-ua, device: Spider, os: Other, ua: Webbot, class: spider }
+Spider-Other-Webspider: { source: uap-core-ua, device: Spider, os: Other, ua: Webspider, class: spider }
+Spider-Other-WinWebBot: { source: uap-core-ua, device: Spider, os: Other, ua: WinWebBot, class: spider }
+Spider-Other-WinkBot: { source: uap-core-ua, device: Spider, os: Other, ua: WinkBot, class: spider }
+Spider-Other-Yahoo-MMCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-MMCrawler, class: spider }
+Spider-Other-Yahoo-Newscrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-Newscrawler, class: spider }
+Spider-Other-Yahoo-VerticalCrawler-FormerWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Yahoo-VerticalCrawler-FormerWebCrawler, class: spider }
+Spider-Other-YoonoCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: YoonoCrawler, class: spider }
+Spider-Other-YoudaoBot: { source: uap-core-ua, device: Spider, os: Other, ua: YoudaoBot, class: spider }
+Spider-Other-ZemlyaCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: ZemlyaCrawl, class: spider }
+Spider-Other-Zeusbot: { source: uap-core-ua, device: Spider, os: Other, ua: Zeusbot, class: spider }
+Spider-Other-agbot: { source: uap-core-ua, device: Spider, os: Other, ua: agbot, class: spider }
+Spider-Other-archive_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: archive_crawler, class: spider }
+Spider-Other-audioCrawlerBot: { source: uap-core-ua, device: Spider, os: Other, ua: audioCrawlerBot, class: spider }
+Spider-Other-awesomebar_scraper: { source: uap-core-ua, device: Spider, os: Other, ua: awesomebar_scraper, class: spider }
+Spider-Other-blog_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: blog_crawler, class: spider }
+Spider-Other-ca-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ca-crawler, class: spider }
+Spider-Other-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: crawl, class: spider }
+Spider-Other-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: crawler, class: spider }
+Spider-Other-dCrawlBot: { source: uap-core-ua, device: Spider, os: Other, ua: dCrawlBot, class: spider }
+Spider-Other-deepcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: deepcrawler, class: spider }
+'Spider-Other-envolk[ITS]spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'envolk[ITS]spider', class: spider }
+Spider-Other-fastlwspider: { source: uap-core-ua, device: Spider, os: Other, ua: fastlwspider, class: spider }
+Spider-Other-i1searchbot: { source: uap-core-ua, device: Spider, os: Other, ua: i1searchbot, class: spider }
+Spider-Other-iaskspider: { source: uap-core-ua, device: Spider, os: Other, ua: iaskspider, class: spider }
+Spider-Other-it-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: it-Crawler, class: spider }
+Spider-Other-it2media-domain-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: it2media-domain-crawler, class: spider }
+Spider-Other-jrCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: jrCrawler, class: spider }
+Spider-Other-loc-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: loc-crawl, class: spider }
+Spider-Other-loc-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: loc-crawler, class: spider }
+Spider-Other-m65bot: { source: uap-core-ua, device: Spider, os: Other, ua: m65bot, class: spider }
+Spider-Other-noxtrumbot: { source: uap-core-ua, device: Spider, os: Other, ua: noxtrumbot, class: spider }
+Spider-Other-nyobot: { source: uap-core-ua, device: Spider, os: Other, ua: nyobot, class: spider }
+Spider-Other-oBot: { source: uap-core-ua, device: Spider, os: Other, ua: oBot, class: spider }
+Spider-Other-omgilibot: { source: uap-core-ua, device: Spider, os: Other, ua: omgilibot, class: spider }
+Spider-Other-rogerBot: { source: uap-core-ua, device: Spider, os: Other, ua: rogerBot, class: spider }
+Spider-Other-rogerbot: { source: uap-core-ua, device: Spider, os: Other, ua: rogerbot, class: spider }
+'Spider-Other-semantics webbot': { source: uap-core-ua, device: Spider, os: Other, ua: 'semantics webbot', class: spider }
+Spider-Other-socialbm_bot: { source: uap-core-ua, device: Spider, os: Other, ua: socialbm_bot, class: spider }
+Spider-Other-tCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: tCrawler, class: spider }
+Spider-Other-tivraSpider: { source: uap-core-ua, device: Spider, os: Other, ua: tivraSpider, class: spider }
+Spider-Other-webscraper: { source: uap-core-ua, device: Spider, os: Other, ua: webscraper, class: spider }
+Spider-Other-wume_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: wume_crawler, class: spider }
+'Spider-Other-3 Robot': { source: uap-core-ua, device: Spider, os: Other, ua: '3 Robot', class: spider }
+'Spider-Other-Apexoo Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Apexoo Spider', class: spider }
+'Spider-Other-BT Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BT Crawler', class: spider }
+'Spider-Other-Bot Blocker Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Bot Blocker Crawler', class: spider }
+'Spider-Other-BurstFind Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BurstFind Crawler', class: spider }
+'Spider-Other-Comodo Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Comodo Spider', class: spider }
+Spider-Other-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Crawler, class: spider }
+'Spider-Other-ExB Language Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ExB Language Crawler', class: spider }
+'Spider-Other-FAST Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST Crawler', class: spider }
+'Spider-Other-FAST EnterpriseCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST EnterpriseCrawler', class: spider }
+'Spider-Other-FAST FreshCrawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'FAST FreshCrawler', class: spider }
+Spider-Other-FatBot: { source: uap-core-ua, device: Spider, os: Other, ua: FatBot, class: spider }
+'Spider-Other-Feedjit Favicon Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Feedjit Favicon Crawler', class: spider }
+'Spider-Other-HubSpot Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'HubSpot Crawler', class: spider }
+'Spider-Other-Jaxified Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Jaxified Crawler', class: spider }
+Spider-Other-LinksCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LinksCrawler, class: spider }
+'Spider-Other-Liquida Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Liquida Spider', class: spider }
+'Spider-Other-My Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'My Spider', class: spider }
+Spider-Other-NWSpider: { source: uap-core-ua, device: Spider, os: Other, ua: NWSpider, class: spider }
+'Spider-Other-Netchart Adv Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Netchart Adv Crawler', class: spider }
+Spider-Other-NimbleCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: NimbleCrawler, class: spider }
+Spider-Windows-NimbleCrawler: { source: uap-core-ua, device: Spider, os: Windows, ua: NimbleCrawler, class: spider }
+Spider-Other-OMGCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: OMGCrawler, class: spider }
+'Spider-Other-SeekOn Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'SeekOn Spider', class: spider }
+'Spider-Other-Toms Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Toms Spider', class: spider }
+'Spider-Other-Tutorial Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Tutorial Crawler', class: spider }
+'Spider-Other-Using Fast Enterprise Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Using Fast Enterprise Crawler', class: spider }
+'Spider-Other-Wocodi Web Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Wocodi Web Crawler', class: spider }
+'Spider-Windows 2000-WordSurfer Spider': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: 'WordSurfer Spider', class: spider }
+Spider-Other-XSpider: { source: uap-core-ua, device: Spider, os: Other, ua: XSpider, class: spider }
+Spider-Windows-XSpider: { source: uap-core-ua, device: Spider, os: Windows, ua: XSpider, class: spider }
+'Spider-Other-Xaldon WebSpider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Xaldon WebSpider', class: spider }
+Spider-Other-echocrawl: { source: uap-core-ua, device: Spider, os: Other, ua: echocrawl, class: spider }
+'Spider-Other-enicura crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'enicura crawler', class: spider }
+'Spider-Windows XP-lworld spider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: 'lworld spider', class: spider }
+'Spider-Other-mSEARCH Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'mSEARCH Crawler', class: spider }
+Spider-Other-123metaspider: { source: uap-core-ua, device: Spider, os: Other, ua: 123metaspider, class: spider }
+Spider-Other-360Spider: { source: uap-core-ua, device: Spider, os: Other, ua: 360Spider, class: spider }
+'Spider-Windows 98-8webcrawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: 8webcrawler, class: spider }
+Spider-Other-AESOP_com_SpiderMan: { source: uap-core-ua, device: Spider, os: Other, ua: AESOP_com_SpiderMan, class: spider }
+Spider-Other-AISearchBot: { source: uap-core-ua, device: Spider, os: Other, ua: AISearchBot, class: spider }
+'Spider-Other-ANTIPLAG SPIDER': { source: uap-core-ua, device: Spider, os: Other, ua: 'ANTIPLAG SPIDER', class: spider }
+Spider-Other-AcquiaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: AcquiaCrawler, class: spider }
+'Spider-Other-Adaxas Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Adaxas Spider', class: spider }
+'Spider-Windows Vista-AddSugarSpiderBot': { source: uap-core-ua, device: Spider, os: 'Windows Vista', ua: AddSugarSpiderBot, class: spider }
+Spider-Other-AdnormCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: AdnormCrawler, class: spider }
+'Spider-Other-Analyzer Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Analyzer Crawler', class: spider }
+'Spider-Other-AppCodes crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'AppCodes crawler', class: spider }
+Spider-Other-ArchitextSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ArchitextSpider, class: spider }
+Spider-Other-Arikus_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Arikus_Spider, class: spider }
+'Spider-Other-Asterias Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Asterias Crawler', class: spider }
+Spider-Other-AstraSpider: { source: uap-core-ua, device: Spider, os: Other, ua: AstraSpider, class: spider }
+'Spider-Other-Autonomy Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Autonomy Spider', class: spider }
+'Spider-Other-Axadine Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Axadine Crawler', class: spider }
+Spider-Other-BIXOCRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: BIXOCRAWLER, class: spider }
+'Spider-Other-BOTW Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'BOTW Spider', class: spider }
+Spider-Other-BacklinkCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BacklinkCrawler, class: spider }
+Spider-Other-BaiduImagespider: { source: uap-core-ua, device: Spider, os: Other, ua: BaiduImagespider, class: spider }
+Spider-Other-BarraHomeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BarraHomeCrawler, class: spider }
+'Spider-Other-Beehive Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Beehive Crawler', class: spider }
+Spider-Other-BeijingCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BeijingCrawler, class: spider }
+Spider-Other-BejiBot: { source: uap-core-ua, device: Spider, os: Other, ua: BejiBot, class: spider }
+'Spider-Other-BravoBrian SpiderEngine': { source: uap-core-ua, device: Spider, os: Other, ua: 'BravoBrian SpiderEngine', class: spider }
+Spider-Other-BrightCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: BrightCrawler, class: spider }
+'Spider-Other-BuildCMS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'BuildCMS crawler', class: spider }
+Spider-Other-ByWebSite-Search-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ByWebSite-Search-Spider, class: spider }
+Spider-Other-CFG_SPIDER_USER_AGENT: { source: uap-core-ua, device: Spider, os: Other, ua: CFG_SPIDER_USER_AGENT, class: spider }
+'Spider-Other-CMS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'CMS Crawler', class: spider }
+'Spider-Other-CMS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'CMS crawler', class: spider }
+Spider-Other-CRAZYWEBCRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: CRAZYWEBCRAWLER, class: spider }
+Spider-Other-CSimpleSpider: { source: uap-core-ua, device: Spider, os: Other, ua: CSimpleSpider, class: spider }
+'Spider-Other-Cityreview Robot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Cityreview Robot', class: spider }
+'Spider-Other-Cloudview Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Cloudview Crawler', class: spider }
+Spider-Other-Comodo-Certificates-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Comodo-Certificates-Spider, class: spider }
+Spider-Other-Computer_and_Automation_Research_Institute_Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Computer_and_Automation_Research_Institute_Crawler, class: spider }
+'Spider-Other-Content Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Content Crawler', class: spider }
+Spider-Other-CowCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: CowCrawler, class: spider }
+'Spider-Windows 7-CrawlDaddy': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: CrawlDaddy, class: spider }
+Spider-Other-CrawlFire: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlFire, class: spider }
+Spider-Other-CrawlWave: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlWave, class: spider }
+Spider-Other-CrawlerBoy: { source: uap-core-ua, device: Spider, os: Other, ua: CrawlerBoy, class: spider }
+'Spider-Windows 98-Crayon Crawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: 'Crayon Crawler', class: spider }
+Spider-Other-DRKSpider: { source: uap-core-ua, device: Spider, os: Other, ua: DRKSpider, class: spider }
+Spider-Other-DefaultCrawlTest: { source: uap-core-ua, device: Spider, os: Other, ua: DefaultCrawlTest, class: spider }
+'Spider-Other-Door Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Door Spider', class: spider }
+'Spider-Other-DoubleVerify Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'DoubleVerify Crawler', class: spider }
+Spider-Other-EasouSpider: { source: uap-core-ua, device: Spider, os: Other, ua: EasouSpider, class: spider }
+'Spider-Other-EcoGrader Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'EcoGrader Crawler', class: spider }
+'Spider-Other-Engage Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Engage Crawler', class: spider }
+'Spider-Other-Engine Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Engine Spider', class: spider }
+Spider-Other-EverbeeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: EverbeeCrawler, class: spider }
+Spider-Other-ExactSeek_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ExactSeek_Spider, class: spider }
+Spider-Other-FastCrawler3: { source: uap-core-ua, device: Spider, os: Other, ua: FastCrawler3, class: spider }
+Spider-Other-Finderbots: { source: uap-core-ua, device: Spider, os: Other, ua: Finderbots, class: spider }
+'Spider-Other-Findexa Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Findexa Crawler', class: spider }
+'Spider-Other-Fluffy the spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Fluffy the spider', class: spider }
+'Spider-Windows 2000-FreeCrawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: FreeCrawl, class: spider }
+'Spider-Other-Fujiko Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Fujiko Spider', class: spider }
+Spider-Other-FunkyCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: FunkyCrawler, class: spider }
+Spider-Other-GSiteCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: GSiteCrawler, class: spider }
+'Spider-Other-GeekTools Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'GeekTools Crawler', class: spider }
+'Spider-Other-GetMeLinked Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'GetMeLinked Spider', class: spider }
+'Spider-Other-Gnam Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Gnam Spider', class: spider }
+Spider-Other-GoScraper: { source: uap-core-ua, device: Spider, os: Other, ua: GoScraper, class: spider }
+'Spider-Other-GrowerIdeas Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'GrowerIdeas Crawler', class: spider }
 'Huawei symantecspider-Windows XP-Huaweisymantecspider': { source: uap-core-ua, device: 'Huawei symantecspider', os: 'Windows XP', ua: Huaweisymantecspider, class: '' }
-Spider-Other-ISSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ISSpider, class: '' }
-'Spider-Other-IWE Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'IWE Spider', class: '' }
-'Spider-Other-IXE Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'IXE Crawler', class: '' }
-Spider-Other-Imperia-LinkSpider: { source: uap-core-ua, device: Spider, os: Other, ua: Imperia-LinkSpider, class: '' }
-Spider-Other-Impressumscrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Impressumscrawler, class: '' }
-Spider-Other-Inar_spider2: { source: uap-core-ua, device: Spider, os: Other, ua: Inar_spider2, class: '' }
-'Spider-Other-Index crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Index crawler', class: '' }
-'Spider-Windows 98-Infocrawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: Infocrawler, class: '' }
-Spider-Other-Inspyder-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Inspyder-Crawler, class: '' }
-'Spider-Other-Internet Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Internet Crawler', class: '' }
-'Spider-Other-Internet Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Internet Spider', class: '' }
-Spider-Other-IssueCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: IssueCrawler, class: '' }
-Spider-Other-JUST-CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: JUST-CRAWLER, class: '' }
-'Spider-Other-Jayde Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Jayde Crawler', class: '' }
-Spider-Other-JikeSpider: { source: uap-core-ua, device: Spider, os: Other, ua: JikeSpider, class: '' }
-'Spider-Other-Job Roboter': { source: uap-core-ua, device: Spider, os: Other, ua: 'Job Roboter', class: '' }
-Spider-Other-JobSpider_BA: { source: uap-core-ua, device: Spider, os: Other, ua: JobSpider_BA, class: '' }
-'Spider-Other-KiwiStatus Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'KiwiStatus Spider', class: '' }
-'Spider-Other-Kotoss Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Kotoss Crawler', class: '' }
-'Spider-Other-Kyluka crawl': { source: uap-core-ua, device: Spider, os: Other, ua: 'Kyluka crawl', class: '' }
-Spider-Other-LNSpiderguy: { source: uap-core-ua, device: Spider, os: Other, ua: LNSpiderguy, class: '' }
-Spider-Other-LarbinWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LarbinWebCrawler, class: '' }
-'Spider-Other-LargeSmall Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'LargeSmall Crawler', class: '' }
-'Spider-Other-Lijit Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lijit Crawler', class: '' }
-'Spider-Other-Link Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Link Crawler', class: '' }
-'Spider-Other-Lipperhey Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lipperhey Spider', class: '' }
-Spider-Other-LookUpCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LookUpCrawler, class: '' }
-Spider-Other-Lycos_Spider_: { source: uap-core-ua, device: Spider, os: Other, ua: Lycos_Spider_, class: '' }
-'Spider-Windows 2000-METASpider': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: METASpider, class: '' }
-Spider-Other-MQbot: { source: uap-core-ua, device: Spider, os: Other, ua: MQbot, class: '' }
-Spider-Other-MSIndianWebcrawl: { source: uap-core-ua, device: Spider, os: Other, ua: MSIndianWebcrawl, class: '' }
-Spider-Other-MSR-ISRCCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MSR-ISRCCrawler, class: '' }
-Spider-Other-MedSpider: { source: uap-core-ua, device: Spider, os: Other, ua: MedSpider, class: '' }
-'Spider-Other-Media Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Media Crawler', class: '' }
-'Spider-Other-Medialab Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Medialab Spider', class: '' }
-Spider-Other-MetaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetaCrawler, class: '' }
-'Spider-Other-MetaWeb Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'MetaWeb Crawler', class: '' }
-Spider-Other-Metadata_Scraper: { source: uap-core-ua, device: Spider, os: Other, ua: Metadata_Scraper, class: '' }
-Spider-Other-MicrosoftPrototypeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MicrosoftPrototypeCrawler, class: '' }
-Spider-Other-MixrankBot: { source: uap-core-ua, device: Spider, os: Other, ua: MixrankBot, class: '' }
-'Spider-Other-Mobile Spider1': { source: uap-core-ua, device: Spider, os: Other, ua: 'Mobile Spider1', class: '' }
-Spider-Other-Mozilla-Firefox-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Mozilla-Firefox-Spider, class: '' }
-Spider-Other-MultiCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MultiCrawler, class: '' }
-'Spider-Windows 7-MySpaceScraper': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: MySpaceScraper, class: '' }
-'Spider-Other-Norbert the Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Norbert the Spider', class: '' }
-'Spider-Other-NuSearch Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'NuSearch Spider', class: '' }
-'Spider-Other-Nusearch Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Nusearch Spider', class: '' }
-'Spider-Other-OpenX Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'OpenX Spider', class: '' }
-Spider-Other-OpenindexSpider: { source: uap-core-ua, device: Spider, os: Other, ua: OpenindexSpider, class: '' }
-Spider-Other-Orgbybot: { source: uap-core-ua, device: Spider, os: Other, ua: Orgbybot, class: '' }
-Spider-Other-PDFBot: { source: uap-core-ua, device: Spider, os: Other, ua: PDFBot, class: '' }
-'Spider-Windows Vista-PHPCrawl': { source: uap-core-ua, device: Spider, os: 'Windows Vista', ua: PHPCrawl, class: '' }
-'Spider-Other-PartnerSite Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'PartnerSite Crawler', class: '' }
-Spider-Other-Patwebbot: { source: uap-core-ua, device: Spider, os: Other, ua: Patwebbot, class: '' }
-'Spider-Other-PeerFactor Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'PeerFactor Crawler', class: '' }
-Spider-Other-PhoenixWebBot: { source: uap-core-ua, device: Spider, os: Other, ua: PhoenixWebBot, class: '' }
-'Spider-Other-PipeLine Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'PipeLine Spider', class: '' }
-Spider-Other-ProjectWF-java-test-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ProjectWF-java-test-crawler, class: '' }
-'Spider-Other-Punk Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Punk Spider', class: '' }
-Spider-Other-QuerySeekerSpider: { source: uap-core-ua, device: Spider, os: Other, ua: QuerySeekerSpider, class: '' }
-'Spider-Other-QuickFinder Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'QuickFinder Crawler', class: '' }
-'Spider-Other-RDF crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'RDF crawler', class: '' }
-'Spider-Other-RSS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'RSS Crawler', class: '' }
-Spider-Other-RSS-SPIDER: { source: uap-core-ua, device: Spider, os: Other, ua: RSS-SPIDER, class: '' }
-Spider-Other-RavenCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: RavenCrawler, class: '' }
-Spider-Other-ReadPath_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ReadPath_Spider, class: '' }
-'Spider-Other-Research Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Research Crawler', class: '' }
-'Spider-Other-Research spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Research spider', class: '' }
-Spider-Other-RoboCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: RoboCrawl, class: '' }
-'Spider-Windows 8-Runet-Research-Crawler': { source: uap-core-ua, device: Spider, os: 'Windows 8', ua: Runet-Research-Crawler, class: '' }
-'Spider-Other-SAS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SAS Crawler', class: '' }
-Spider-Other-SCrawlTest: { source: uap-core-ua, device: Spider, os: Other, ua: SCrawlTest, class: '' }
-'Spider-Other-SISTRIX Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SISTRIX Crawler', class: '' }
-Spider-Linux-SSL-Crawler: { source: uap-core-ua, device: Spider, os: Linux, ua: SSL-Crawler, class: '' }
-'Spider-Other-SWAT Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SWAT Crawler', class: '' }
-Spider-Other-SandCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SandCrawler, class: '' }
-Spider-Other-ScreenerBot: { source: uap-core-ua, device: Spider, os: Other, ua: ScreenerBot, class: '' }
-'Spider-Other-Server Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Server Crawler', class: '' }
-Spider-Other-Shim-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Shim-Crawler, class: '' }
-Spider-Other-ShowyouBot: { source: uap-core-ua, device: Spider, os: Other, ua: ShowyouBot, class: '' }
-'Spider-Windows 2000-SiteCheck-sitecrawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: SiteCheck-sitecrawl, class: '' }
-Spider-Other-SiteCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SiteCrawler, class: '' }
-'Spider-Windows XP-Sitespider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: Sitespider, class: '' }
-Spider-Other-SocialSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SocialSpider, class: '' }
-Spider-Other-Sosoblogspider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosoblogspider, class: '' }
-Spider-Other-SpeedySpider: { source: uap-core-ua, device: Spider, os: Other, ua: SpeedySpider, class: '' }
-Spider-Other-SpiderKU: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderKU, class: '' }
-Spider-Other-SpiderLing: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderLing, class: '' }
-Spider-Other-SpiderMan: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderMan, class: '' }
-Spider-Other-SpiderView: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderView, class: '' }
-Spider-Other-Spider_Monkey: { source: uap-core-ua, device: Spider, os: Other, ua: Spider_Monkey, class: '' }
-Spider-Other-Spiderlytics: { source: uap-core-ua, device: Spider, os: Other, ua: Spiderlytics, class: '' }
-'Spider-Other-Student Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Student Spider', class: '' }
-'Spider-Other-Symfony Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Symfony Spider', class: '' }
-'Spider-Other-Synthesio Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Synthesio Crawler', class: '' }
-Spider-Other-TAMU_CS_IRL_CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: TAMU_CS_IRL_CRAWLER, class: '' }
-Spider-Other-TTop-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: TTop-Crawler, class: '' }
-Spider-Other-TayaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: TayaCrawler, class: '' }
-Spider-Other-TelemetrySpider2: { source: uap-core-ua, device: Spider, os: Other, ua: TelemetrySpider2, class: '' }
-'Spider-Other-Theme Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Theme Spider', class: '' }
-Spider-Other-Thesis_php_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Thesis_php_crawler, class: '' }
-'Spider-Other-Trends Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Trends Crawler', class: '' }
-Spider-Other-TwitSpider: { source: uap-core-ua, device: Spider, os: Other, ua: TwitSpider, class: '' }
-'Spider-Other-Twitmunin Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Twitmunin Crawler', class: '' }
-Spider-Other-TwitterCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: TwitterCrawler, class: '' }
-'Spider-Other-UCMore Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'UCMore Crawler', class: '' }
-Spider-Other-UOLCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: UOLCrawler, class: '' }
-Spider-Other-US-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: US-Crawler, class: '' }
-Spider-Other-USyd-NLP-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: USyd-NLP-Spider, class: '' }
-Spider-Other-UnisterBot: { source: uap-core-ua, device: Spider, os: Other, ua: UnisterBot, class: '' }
-Spider-Other-VM-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: VM-Crawler, class: '' }
-'Spider-Other-WEBB Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'WEBB Crawler', class: '' }
-'Spider-Other-WSDL Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'WSDL Crawler', class: '' }
-Spider-Other-WebBot: { source: uap-core-ua, device: Spider, os: Other, ua: WebBot, class: '' }
-Spider-Other-WebCompanyCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: WebCompanyCrawler, class: '' }
-Spider-Other-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: WebCrawler, class: '' }
-Spider-Other-WebVulnCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: WebVulnCrawl, class: '' }
-'Spider-Other-Wireless Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Wireless Crawler', class: '' }
-Spider-Other-X-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: X-Crawler, class: '' }
-'Spider-Other-XYZ Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'XYZ Spider', class: '' }
-'Spider-Other-YATS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'YATS crawler', class: '' }
-'Spider-Other-YFSJ crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'YFSJ crawler', class: '' }
-Spider-Other-YRL_ODP_CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: YRL_ODP_CRAWLER, class: '' }
-Spider-Android-YRSpider: { source: uap-core-ua, device: Spider, os: Android, ua: YRSpider, class: '' }
-Spider-Other-YebolBot: { source: uap-core-ua, device: Spider, os: Other, ua: YebolBot, class: '' }
-Spider-Other-Yet-Another-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Yet-Another-Spider, class: '' }
-'Spider-Other-ZIBB Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ZIBB Crawler', class: '' }
-Spider-Other-ZillaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ZillaCrawler, class: '' }
-Spider-Other-ZoomSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ZoomSpider, class: '' }
-Spider-Other-Zspider: { source: uap-core-ua, device: Spider, os: Other, ua: Zspider, class: '' }
-'Spider-Other-acedo crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'acedo crawler', class: '' }
-Spider-Other-acquia-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: acquia-crawler, class: '' }
-'Spider-Windows 7-adspider': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: adspider, class: '' }
-'Spider-Other-amphetameme crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'amphetameme crawler', class: '' }
-Spider-Other-ayna-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ayna-crawler, class: '' }
-Spider-Other-bendercrawler: { source: uap-core-ua, device: Spider, os: Other, ua: bendercrawler, class: '' }
-'Spider-Other-beta crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'beta crawler', class: '' }
-Spider-Other-blackspider: { source: uap-core-ua, device: Spider, os: Other, ua: blackspider, class: '' }
-Spider-Other-bmdspider: { source: uap-core-ua, device: Spider, os: Other, ua: bmdspider, class: '' }
-'Spider-Other-boitho crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'boitho crawler', class: '' }
-Spider-Other-cis455crawler: { source: uap-core-ua, device: Spider, os: Other, ua: cis455crawler, class: '' }
-'Spider-Other-compatible crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'compatible crawler', class: '' }
-Spider-Other-crawler4j: { source: uap-core-ua, device: Spider, os: Other, ua: crawler4j, class: '' }
-Spider-Other-dtSearchSpider: { source: uap-core-ua, device: Spider, os: Other, ua: dtSearchSpider, class: '' }
-Spider-Other-es-spider: { source: uap-core-ua, device: Spider, os: Other, ua: es-spider, class: '' }
-Spider-Other-eseek-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: eseek-crawler, class: '' }
-'Spider-Other-exooba crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'exooba crawler', class: '' }
-Spider-Other-flatlandbot: { source: uap-core-ua, device: Spider, os: Other, ua: flatlandbot, class: '' }
-Spider-Other-haupia-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: haupia-crawler, class: '' }
-Spider-Other-hitcrawler_0: { source: uap-core-ua, device: Spider, os: Other, ua: hitcrawler_0, class: '' }
-Spider-Other-iaskspider2: { source: uap-core-ua, device: Spider, os: Other, ua: iaskspider2, class: '' }
-'Spider-Other-info Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'info Crawler', class: '' }
-Spider-Other-ip-web-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ip-web-crawler, class: '' }
-Spider-Other-jikespider: { source: uap-core-ua, device: Spider, os: Other, ua: jikespider, class: '' }
-'Spider-Windows 2000-kototoi-crawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: kototoi-crawl, class: '' }
-Spider-Other-lb-spider: { source: uap-core-ua, device: Spider, os: Other, ua: lb-spider, class: '' }
-Spider-Other-ldspider: { source: uap-core-ua, device: Spider, os: Other, ua: ldspider, class: '' }
-Spider-Other-lemurwebcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: lemurwebcrawler, class: '' }
-Spider-Other-lmspider: { source: uap-core-ua, device: Spider, os: Other, ua: lmspider, class: '' }
-Spider-Other-lworldspider: { source: uap-core-ua, device: Spider, os: Other, ua: lworldspider, class: '' }
-'Spider-Other-ly spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'ly spider', class: '' }
-Spider-Other-mCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: mCrawler, class: '' }
-Spider-Other-media-percbotspider: { source: uap-core-ua, device: Spider, os: Other, ua: media-percbotspider, class: '' }
+Spider-Other-ISSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ISSpider, class: spider }
+'Spider-Other-IWE Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'IWE Spider', class: spider }
+'Spider-Other-IXE Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'IXE Crawler', class: spider }
+Spider-Other-Imperia-LinkSpider: { source: uap-core-ua, device: Spider, os: Other, ua: Imperia-LinkSpider, class: spider }
+Spider-Other-Impressumscrawler: { source: uap-core-ua, device: Spider, os: Other, ua: Impressumscrawler, class: spider }
+Spider-Other-Inar_spider2: { source: uap-core-ua, device: Spider, os: Other, ua: Inar_spider2, class: spider }
+'Spider-Other-Index crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Index crawler', class: spider }
+'Spider-Windows 98-Infocrawler': { source: uap-core-ua, device: Spider, os: 'Windows 98', ua: Infocrawler, class: spider }
+Spider-Other-Inspyder-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Inspyder-Crawler, class: spider }
+'Spider-Other-Internet Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Internet Crawler', class: spider }
+'Spider-Other-Internet Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Internet Spider', class: spider }
+Spider-Other-IssueCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: IssueCrawler, class: spider }
+Spider-Other-JUST-CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: JUST-CRAWLER, class: spider }
+'Spider-Other-Jayde Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Jayde Crawler', class: spider }
+Spider-Other-JikeSpider: { source: uap-core-ua, device: Spider, os: Other, ua: JikeSpider, class: spider }
+'Spider-Other-Job Roboter': { source: uap-core-ua, device: Spider, os: Other, ua: 'Job Roboter', class: spider }
+Spider-Other-JobSpider_BA: { source: uap-core-ua, device: Spider, os: Other, ua: JobSpider_BA, class: spider }
+'Spider-Other-KiwiStatus Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'KiwiStatus Spider', class: spider }
+'Spider-Other-Kotoss Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Kotoss Crawler', class: spider }
+'Spider-Other-Kyluka crawl': { source: uap-core-ua, device: Spider, os: Other, ua: 'Kyluka crawl', class: spider }
+Spider-Other-LNSpiderguy: { source: uap-core-ua, device: Spider, os: Other, ua: LNSpiderguy, class: spider }
+Spider-Other-LarbinWebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LarbinWebCrawler, class: spider }
+'Spider-Other-LargeSmall Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'LargeSmall Crawler', class: spider }
+'Spider-Other-Lijit Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lijit Crawler', class: spider }
+'Spider-Other-Link Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Link Crawler', class: spider }
+'Spider-Other-Lipperhey Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lipperhey Spider', class: spider }
+Spider-Other-LookUpCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: LookUpCrawler, class: spider }
+Spider-Other-Lycos_Spider_: { source: uap-core-ua, device: Spider, os: Other, ua: Lycos_Spider_, class: spider }
+'Spider-Windows 2000-METASpider': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: METASpider, class: spider }
+Spider-Other-MQbot: { source: uap-core-ua, device: Spider, os: Other, ua: MQbot, class: spider }
+Spider-Other-MSIndianWebcrawl: { source: uap-core-ua, device: Spider, os: Other, ua: MSIndianWebcrawl, class: spider }
+Spider-Other-MSR-ISRCCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MSR-ISRCCrawler, class: spider }
+Spider-Other-MedSpider: { source: uap-core-ua, device: Spider, os: Other, ua: MedSpider, class: spider }
+'Spider-Other-Media Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Media Crawler', class: spider }
+'Spider-Other-Medialab Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Medialab Spider', class: spider }
+Spider-Other-MetaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MetaCrawler, class: spider }
+'Spider-Other-MetaWeb Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'MetaWeb Crawler', class: spider }
+Spider-Other-Metadata_Scraper: { source: uap-core-ua, device: Spider, os: Other, ua: Metadata_Scraper, class: spider }
+Spider-Other-MicrosoftPrototypeCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MicrosoftPrototypeCrawler, class: spider }
+Spider-Other-MixrankBot: { source: uap-core-ua, device: Spider, os: Other, ua: MixrankBot, class: spider }
+'Spider-Other-Mobile Spider1': { source: uap-core-ua, device: Spider, os: Other, ua: 'Mobile Spider1', class: spider }
+Spider-Other-Mozilla-Firefox-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Mozilla-Firefox-Spider, class: spider }
+Spider-Other-MultiCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: MultiCrawler, class: spider }
+'Spider-Windows 7-MySpaceScraper': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: MySpaceScraper, class: spider }
+'Spider-Other-Norbert the Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Norbert the Spider', class: spider }
+'Spider-Other-NuSearch Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'NuSearch Spider', class: spider }
+'Spider-Other-Nusearch Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Nusearch Spider', class: spider }
+'Spider-Other-OpenX Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'OpenX Spider', class: spider }
+Spider-Other-OpenindexSpider: { source: uap-core-ua, device: Spider, os: Other, ua: OpenindexSpider, class: spider }
+Spider-Other-Orgbybot: { source: uap-core-ua, device: Spider, os: Other, ua: Orgbybot, class: spider }
+Spider-Other-PDFBot: { source: uap-core-ua, device: Spider, os: Other, ua: PDFBot, class: spider }
+'Spider-Windows Vista-PHPCrawl': { source: uap-core-ua, device: Spider, os: 'Windows Vista', ua: PHPCrawl, class: spider }
+'Spider-Other-PartnerSite Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'PartnerSite Crawler', class: spider }
+Spider-Other-Patwebbot: { source: uap-core-ua, device: Spider, os: Other, ua: Patwebbot, class: spider }
+'Spider-Other-PeerFactor Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'PeerFactor Crawler', class: spider }
+Spider-Other-PhoenixWebBot: { source: uap-core-ua, device: Spider, os: Other, ua: PhoenixWebBot, class: spider }
+'Spider-Other-PipeLine Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'PipeLine Spider', class: spider }
+Spider-Other-ProjectWF-java-test-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ProjectWF-java-test-crawler, class: spider }
+'Spider-Other-Punk Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Punk Spider', class: spider }
+Spider-Other-QuerySeekerSpider: { source: uap-core-ua, device: Spider, os: Other, ua: QuerySeekerSpider, class: spider }
+'Spider-Other-QuickFinder Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'QuickFinder Crawler', class: spider }
+'Spider-Other-RDF crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'RDF crawler', class: spider }
+'Spider-Other-RSS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'RSS Crawler', class: spider }
+Spider-Other-RSS-SPIDER: { source: uap-core-ua, device: Spider, os: Other, ua: RSS-SPIDER, class: spider }
+Spider-Other-RavenCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: RavenCrawler, class: spider }
+Spider-Other-ReadPath_Spider: { source: uap-core-ua, device: Spider, os: Other, ua: ReadPath_Spider, class: spider }
+'Spider-Other-Research Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Research Crawler', class: spider }
+'Spider-Other-Research spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Research spider', class: spider }
+Spider-Other-RoboCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: RoboCrawl, class: spider }
+'Spider-Windows 8-Runet-Research-Crawler': { source: uap-core-ua, device: Spider, os: 'Windows 8', ua: Runet-Research-Crawler, class: spider }
+'Spider-Other-SAS Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SAS Crawler', class: spider }
+Spider-Other-SCrawlTest: { source: uap-core-ua, device: Spider, os: Other, ua: SCrawlTest, class: spider }
+'Spider-Other-SISTRIX Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SISTRIX Crawler', class: spider }
+Spider-Linux-SSL-Crawler: { source: uap-core-ua, device: Spider, os: Linux, ua: SSL-Crawler, class: spider }
+'Spider-Other-SWAT Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'SWAT Crawler', class: spider }
+Spider-Other-SandCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SandCrawler, class: spider }
+Spider-Other-ScreenerBot: { source: uap-core-ua, device: Spider, os: Other, ua: ScreenerBot, class: spider }
+'Spider-Other-Server Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Server Crawler', class: spider }
+Spider-Other-Shim-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Shim-Crawler, class: spider }
+Spider-Other-ShowyouBot: { source: uap-core-ua, device: Spider, os: Other, ua: ShowyouBot, class: spider }
+'Spider-Windows 2000-SiteCheck-sitecrawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: SiteCheck-sitecrawl, class: spider }
+Spider-Other-SiteCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: SiteCrawler, class: spider }
+'Spider-Windows XP-Sitespider': { source: uap-core-ua, device: Spider, os: 'Windows XP', ua: Sitespider, class: spider }
+Spider-Other-SocialSpider: { source: uap-core-ua, device: Spider, os: Other, ua: SocialSpider, class: spider }
+Spider-Other-Sosoblogspider: { source: uap-core-ua, device: Spider, os: Other, ua: Sosoblogspider, class: spider }
+Spider-Other-SpeedySpider: { source: uap-core-ua, device: Spider, os: Other, ua: SpeedySpider, class: spider }
+Spider-Other-SpiderKU: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderKU, class: spider }
+Spider-Other-SpiderLing: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderLing, class: spider }
+Spider-Other-SpiderMan: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderMan, class: spider }
+Spider-Other-SpiderView: { source: uap-core-ua, device: Spider, os: Other, ua: SpiderView, class: spider }
+Spider-Other-Spider_Monkey: { source: uap-core-ua, device: Spider, os: Other, ua: Spider_Monkey, class: spider }
+Spider-Other-Spiderlytics: { source: uap-core-ua, device: Spider, os: Other, ua: Spiderlytics, class: spider }
+'Spider-Other-Student Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Student Spider', class: spider }
+'Spider-Other-Symfony Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Symfony Spider', class: spider }
+'Spider-Other-Synthesio Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Synthesio Crawler', class: spider }
+Spider-Other-TAMU_CS_IRL_CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: TAMU_CS_IRL_CRAWLER, class: spider }
+Spider-Other-TTop-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: TTop-Crawler, class: spider }
+Spider-Other-TayaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: TayaCrawler, class: spider }
+Spider-Other-TelemetrySpider2: { source: uap-core-ua, device: Spider, os: Other, ua: TelemetrySpider2, class: spider }
+'Spider-Other-Theme Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'Theme Spider', class: spider }
+Spider-Other-Thesis_php_crawler: { source: uap-core-ua, device: Spider, os: Other, ua: Thesis_php_crawler, class: spider }
+'Spider-Other-Trends Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Trends Crawler', class: spider }
+Spider-Other-TwitSpider: { source: uap-core-ua, device: Spider, os: Other, ua: TwitSpider, class: spider }
+'Spider-Other-Twitmunin Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Twitmunin Crawler', class: spider }
+Spider-Other-TwitterCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: TwitterCrawler, class: spider }
+'Spider-Other-UCMore Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'UCMore Crawler', class: spider }
+Spider-Other-UOLCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: UOLCrawler, class: spider }
+Spider-Other-US-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: US-Crawler, class: spider }
+Spider-Other-USyd-NLP-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: USyd-NLP-Spider, class: spider }
+Spider-Other-UnisterBot: { source: uap-core-ua, device: Spider, os: Other, ua: UnisterBot, class: spider }
+Spider-Other-VM-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: VM-Crawler, class: spider }
+'Spider-Other-WEBB Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'WEBB Crawler', class: spider }
+'Spider-Other-WSDL Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'WSDL Crawler', class: spider }
+Spider-Other-WebBot: { source: uap-core-ua, device: Spider, os: Other, ua: WebBot, class: spider }
+Spider-Other-WebCompanyCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: WebCompanyCrawler, class: spider }
+Spider-Other-WebCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: WebCrawler, class: spider }
+Spider-Other-WebVulnCrawl: { source: uap-core-ua, device: Spider, os: Other, ua: WebVulnCrawl, class: spider }
+'Spider-Other-Wireless Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'Wireless Crawler', class: spider }
+Spider-Other-X-Crawler: { source: uap-core-ua, device: Spider, os: Other, ua: X-Crawler, class: spider }
+'Spider-Other-XYZ Spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'XYZ Spider', class: spider }
+'Spider-Other-YATS crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'YATS crawler', class: spider }
+'Spider-Other-YFSJ crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'YFSJ crawler', class: spider }
+Spider-Other-YRL_ODP_CRAWLER: { source: uap-core-ua, device: Spider, os: Other, ua: YRL_ODP_CRAWLER, class: spider }
+Spider-Android-YRSpider: { source: uap-core-ua, device: Spider, os: Android, ua: YRSpider, class: spider }
+Spider-Other-YebolBot: { source: uap-core-ua, device: Spider, os: Other, ua: YebolBot, class: spider }
+Spider-Other-Yet-Another-Spider: { source: uap-core-ua, device: Spider, os: Other, ua: Yet-Another-Spider, class: spider }
+'Spider-Other-ZIBB Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'ZIBB Crawler', class: spider }
+Spider-Other-ZillaCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: ZillaCrawler, class: spider }
+Spider-Other-ZoomSpider: { source: uap-core-ua, device: Spider, os: Other, ua: ZoomSpider, class: spider }
+Spider-Other-Zspider: { source: uap-core-ua, device: Spider, os: Other, ua: Zspider, class: spider }
+'Spider-Other-acedo crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'acedo crawler', class: spider }
+Spider-Other-acquia-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: acquia-crawler, class: spider }
+'Spider-Windows 7-adspider': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: adspider, class: spider }
+'Spider-Other-amphetameme crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'amphetameme crawler', class: spider }
+Spider-Other-ayna-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ayna-crawler, class: spider }
+Spider-Other-bendercrawler: { source: uap-core-ua, device: Spider, os: Other, ua: bendercrawler, class: spider }
+'Spider-Other-beta crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'beta crawler', class: spider }
+Spider-Other-blackspider: { source: uap-core-ua, device: Spider, os: Other, ua: blackspider, class: spider }
+Spider-Other-bmdspider: { source: uap-core-ua, device: Spider, os: Other, ua: bmdspider, class: spider }
+'Spider-Other-boitho crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'boitho crawler', class: spider }
+Spider-Other-cis455crawler: { source: uap-core-ua, device: Spider, os: Other, ua: cis455crawler, class: spider }
+'Spider-Other-compatible crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'compatible crawler', class: spider }
+Spider-Other-crawler4j: { source: uap-core-ua, device: Spider, os: Other, ua: crawler4j, class: spider }
+Spider-Other-dtSearchSpider: { source: uap-core-ua, device: Spider, os: Other, ua: dtSearchSpider, class: spider }
+Spider-Other-es-spider: { source: uap-core-ua, device: Spider, os: Other, ua: es-spider, class: spider }
+Spider-Other-eseek-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: eseek-crawler, class: spider }
+'Spider-Other-exooba crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'exooba crawler', class: spider }
+Spider-Other-flatlandbot: { source: uap-core-ua, device: Spider, os: Other, ua: flatlandbot, class: spider }
+Spider-Other-haupia-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: haupia-crawler, class: spider }
+Spider-Other-hitcrawler_0: { source: uap-core-ua, device: Spider, os: Other, ua: hitcrawler_0, class: spider }
+Spider-Other-iaskspider2: { source: uap-core-ua, device: Spider, os: Other, ua: iaskspider2, class: spider }
+'Spider-Other-info Crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'info Crawler', class: spider }
+Spider-Other-ip-web-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ip-web-crawler, class: spider }
+Spider-Other-jikespider: { source: uap-core-ua, device: Spider, os: Other, ua: jikespider, class: spider }
+'Spider-Windows 2000-kototoi-crawl': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: kototoi-crawl, class: spider }
+Spider-Other-lb-spider: { source: uap-core-ua, device: Spider, os: Other, ua: lb-spider, class: spider }
+Spider-Other-ldspider: { source: uap-core-ua, device: Spider, os: Other, ua: ldspider, class: spider }
+Spider-Other-lemurwebcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: lemurwebcrawler, class: spider }
+Spider-Other-lmspider: { source: uap-core-ua, device: Spider, os: Other, ua: lmspider, class: spider }
+Spider-Other-lworldspider: { source: uap-core-ua, device: Spider, os: Other, ua: lworldspider, class: spider }
+'Spider-Other-ly spider': { source: uap-core-ua, device: Spider, os: Other, ua: 'ly spider', class: spider }
+Spider-Other-mCrawler: { source: uap-core-ua, device: Spider, os: Other, ua: mCrawler, class: spider }
+Spider-Other-media-percbotspider: { source: uap-core-ua, device: Spider, os: Other, ua: media-percbotspider, class: spider }
 'DoCoMo N902iS-Other-moba-crawler': { source: uap-core-ua, device: 'DoCoMo N902iS', os: Other, ua: moba-crawler, class: '' }
 'Nokia 6680-Symbian OS-mobile crawler': { source: uap-core-ua, device: 'Nokia 6680', os: 'Symbian OS', ua: 'mobile crawler', class: '' }
-Spider-Other-n4p_bot: { source: uap-core-ua, device: Spider, os: Other, ua: n4p_bot, class: '' }
-Spider-Other-na-Webcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: na-Webcrawler, class: '' }
-'Spider-Windows-nuSearch Spider': { source: uap-core-ua, device: Spider, os: Windows, ua: 'nuSearch Spider', class: '' }
-Spider-Other-parallelContextFocusCrawler1: { source: uap-core-ua, device: Spider, os: Other, ua: parallelContextFocusCrawler1, class: '' }
-Spider-Other-persomm-spider: { source: uap-core-ua, device: Spider, os: Other, ua: persomm-spider, class: '' }
-'Spider-Windows 2000-pregnancycrawler': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: pregnancycrawler, class: '' }
-Spider-Other-ptd-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ptd-crawler, class: '' }
-Spider-Other-pub-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: pub-crawler, class: '' }
-Spider-Other-pythonic-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: pythonic-crawler, class: '' }
-'Spider-Windows 8-rating crawler': { source: uap-core-ua, device: Spider, os: 'Windows 8', ua: 'rating crawler', class: '' }
-'Spider-Other-search crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'search crawler', class: '' }
-Spider-Other-sgbot: { source: uap-core-ua, device: Spider, os: Other, ua: sgbot, class: '' }
-Spider-Other-spiderpig: { source: uap-core-ua, device: Spider, os: Other, ua: spiderpig, class: '' }
-Spider-Other-ssearch_bot: { source: uap-core-ua, device: Spider, os: Other, ua: ssearch_bot, class: '' }
-Spider-Other-suggybot: { source: uap-core-ua, device: Spider, os: Other, ua: suggybot, class: '' }
-Spider-Other-uMBot: { source: uap-core-ua, device: Spider, os: Other, ua: uMBot, class: '' }
-Spider-Other-unchaos_crawler_2: { source: uap-core-ua, device: Spider, os: Other, ua: unchaos_crawler_2, class: '' }
-'Spider-Other-updated crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'updated crawler', class: '' }
-Spider-Other-vertical-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: vertical-crawl, class: '' }
-Spider-Other-yp-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: yp-crawl, class: '' }
-Spider-Other-yrspider: { source: uap-core-ua, device: Spider, os: Other, ua: yrspider, class: '' }
-Spider-Other-ysm-keystone-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: ysm-keystone-crawl, class: '' }
-Spider-Other-zyklop-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: zyklop-crawler, class: '' }
+Spider-Other-n4p_bot: { source: uap-core-ua, device: Spider, os: Other, ua: n4p_bot, class: spider }
+Spider-Other-na-Webcrawler: { source: uap-core-ua, device: Spider, os: Other, ua: na-Webcrawler, class: spider }
+'Spider-Windows-nuSearch Spider': { source: uap-core-ua, device: Spider, os: Windows, ua: 'nuSearch Spider', class: spider }
+Spider-Other-parallelContextFocusCrawler1: { source: uap-core-ua, device: Spider, os: Other, ua: parallelContextFocusCrawler1, class: spider }
+Spider-Other-persomm-spider: { source: uap-core-ua, device: Spider, os: Other, ua: persomm-spider, class: spider }
+'Spider-Windows 2000-pregnancycrawler': { source: uap-core-ua, device: Spider, os: 'Windows 2000', ua: pregnancycrawler, class: spider }
+Spider-Other-ptd-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: ptd-crawler, class: spider }
+Spider-Other-pub-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: pub-crawler, class: spider }
+Spider-Other-pythonic-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: pythonic-crawler, class: spider }
+'Spider-Windows 8-rating crawler': { source: uap-core-ua, device: Spider, os: 'Windows 8', ua: 'rating crawler', class: spider }
+'Spider-Other-search crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'search crawler', class: spider }
+Spider-Other-sgbot: { source: uap-core-ua, device: Spider, os: Other, ua: sgbot, class: spider }
+Spider-Other-spiderpig: { source: uap-core-ua, device: Spider, os: Other, ua: spiderpig, class: spider }
+Spider-Other-ssearch_bot: { source: uap-core-ua, device: Spider, os: Other, ua: ssearch_bot, class: spider }
+Spider-Other-suggybot: { source: uap-core-ua, device: Spider, os: Other, ua: suggybot, class: spider }
+Spider-Other-uMBot: { source: uap-core-ua, device: Spider, os: Other, ua: uMBot, class: spider }
+Spider-Other-unchaos_crawler_2: { source: uap-core-ua, device: Spider, os: Other, ua: unchaos_crawler_2, class: spider }
+'Spider-Other-updated crawler': { source: uap-core-ua, device: Spider, os: Other, ua: 'updated crawler', class: spider }
+Spider-Other-vertical-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: vertical-crawl, class: spider }
+Spider-Other-yp-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: yp-crawl, class: spider }
+Spider-Other-yrspider: { source: uap-core-ua, device: Spider, os: Other, ua: yrspider, class: spider }
+Spider-Other-ysm-keystone-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: ysm-keystone-crawl, class: spider }
+Spider-Other-zyklop-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: zyklop-crawler, class: spider }
 ONE-Android-Android: { source: uap-core-ua, device: ONE, os: Android, ua: Android, class: '' }
 'Other-Mac OS X-Rival IQ': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: 'Rival IQ', class: '' }
