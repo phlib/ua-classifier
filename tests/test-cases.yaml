@@ -17,18 +17,18 @@
 'iPad-iOS-Mobile Safari': { source: uap-core-device, device: iPad, os: iOS, ua: 'Mobile Safari', class: tablet }
 'iPhone-iOS-Mobile Safari': { source: uap-core-device, device: iPhone, os: iOS, ua: 'Mobile Safari', class: mobile }
 'iPod-iOS-Mobile Safari': { source: uap-core-device, device: iPod, os: iOS, ua: 'Mobile Safari', class: mobile }
-Kindle-Kindle-NetFront: { source: uap-core-device, device: Kindle, os: Kindle, ua: NetFront, class: '' }
-'Kindle Fire-Android-Android': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: Android, class: '' }
-'Kindle Fire HD-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire HD-Android-Android': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: Android, class: '' }
-'Kindle Fire HD 7" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HD 7" WiFi', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire HDX 7" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 7" WiFi', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire HDX 7" 4G-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 7" 4G', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire HDX 8.9" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" WiFi', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire HDX 8.9" 4G-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" 4G', os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle-Android-Amazon Silk': { source: uap-core-device, device: Kindle, os: Android, ua: 'Amazon Silk', class: '' }
-'Kindle Fire-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: 'Amazon Silk', class: '' }
-Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua: Kindle, class: '' }
+Kindle-Kindle-NetFront: { source: uap-core-device, device: Kindle, os: Kindle, ua: NetFront, class: tablet }
+'Kindle Fire-Android-Android': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: Android, class: tablet }
+'Kindle Fire HD-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire HD-Android-Android': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: Android, class: tablet }
+'Kindle Fire HD 7" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HD 7" WiFi', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire HDX 7" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 7" WiFi', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire HDX 7" 4G-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 7" 4G', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire HDX 8.9" WiFi-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" WiFi', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire HDX 8.9" 4G-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" 4G', os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle-Android-Amazon Silk': { source: uap-core-device, device: Kindle, os: Android, ua: 'Amazon Silk', class: tablet }
+'Kindle Fire-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: 'Amazon Silk', class: tablet }
+Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua: Kindle, class: tablet }
 'Generic Feature Phone-Brew MP-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: 'Brew MP', ua: NetFront, class: mobile }
 'LG VN271-BREW-Opera Mini': { source: uap-core-device, device: 'LG VN271', os: BREW, ua: 'Opera Mini', class: '' }
 'LG T500-Other-Phantom Browser': { source: uap-core-device, device: 'LG T500', os: Other, ua: 'Phantom Browser', class: '' }
@@ -651,18 +651,18 @@ A701B-Android-Chrome: { source: uap-core-device, device: A701B, os: Android, ua:
 A702-Android-Android: { source: uap-core-device, device: A702, os: Android, ua: Android, class: '' }
 A801-Android-Opera: { source: uap-core-device, device: A801, os: Android, ua: Opera, class: '' }
 A803-Android-Android: { source: uap-core-device, device: A803, os: Android, ua: Android, class: '' }
-'Kindle Fire-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: Chrome, class: '' }
-'Kindle Fire 2-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire 2', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Kindle Fire HD 8.9" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD 8.9" WiFi', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HD 8.9" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD 8.9" 4G', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HD 7" WiFi-Android-Chrome Mobile': { source: uap-core-device, device: 'Kindle Fire HD 7" WiFi', os: Android, ua: 'Chrome Mobile', class: '' }
-'Kindle Fire HDX 7" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 7" WiFi', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HDX 7" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 7" 4G', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HDX 8.9" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" WiFi', os: Android, ua: Chrome, class: '' }
-'Kindle Fire HDX 8.9" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" 4G', os: Android, ua: Chrome, class: '' }
+'Kindle Fire-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire 2-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire 2', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Kindle Fire HD 8.9" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD 8.9" WiFi', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HD 8.9" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD 8.9" 4G', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HD 7" WiFi-Android-Chrome Mobile': { source: uap-core-device, device: 'Kindle Fire HD 7" WiFi', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Kindle Fire HDX 7" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 7" WiFi', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HDX 7" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 7" 4G', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HDX 8.9" WiFi-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" WiFi', os: Android, ua: Chrome, class: tablet }
+'Kindle Fire HDX 8.9" 4G-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HDX 8.9" 4G', os: Android, ua: Chrome, class: tablet }
 Jem-Android-Chrome: { source: uap-core-device, device: Jem, os: Android, ua: Chrome, class: '' }
-'Kindle Fire HD-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: Chrome, class: '' }
+'Kindle Fire HD-Android-Chrome': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: Chrome, class: tablet }
 Otter-Android-Chrome: { source: uap-core-device, device: Otter, os: Android, ua: Chrome, class: '' }
 Tate-Android-Chrome: { source: uap-core-device, device: Tate, os: Android, ua: Chrome, class: '' }
 'Amoi A920W-Android-UC Browser': { source: uap-core-device, device: 'Amoi A920W', os: Android, ua: 'UC Browser', class: '' }
