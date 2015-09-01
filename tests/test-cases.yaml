@@ -207,7 +207,7 @@ Liquid-Metal-S120-Android-Android: { source: uap-core-device, device: Liquid-Met
 'Acer E320-Android-Android': { source: uap-core-device, device: 'Acer E320', os: Android, ua: Android, class: '' }
 'Acer E320-orange-Android-Android': { source: uap-core-device, device: 'Acer E320-orange', os: Android, ua: Android, class: '' }
 'Acer E330-Android-Android': { source: uap-core-device, device: 'Acer E330', os: Android, ua: Android, class: '' }
-'Acer Iconia A500-Android-Android': { source: uap-core-device, device: 'Acer Iconia A500', os: Android, ua: Android, class: '' }
+'Acer Iconia A500-Android-Android': { source: uap-core-device, device: 'Acer Iconia A500', os: Android, ua: Android, class: tablet }
 'Acer Liquid-Android-Android': { source: uap-core-device, device: 'Acer Liquid', os: Android, ua: Android, class: '' }
 'ACER Liquid E2-Android-Chrome Mobile': { source: uap-core-device, device: 'ACER Liquid E2', os: Android, ua: 'Chrome Mobile', class: '' }
 'ACER LIQUID E2-Android-Android': { source: uap-core-device, device: 'ACER LIQUID E2', os: Android, ua: Android, class: '' }
@@ -790,114 +790,114 @@ MW0931-Android-Android: { source: uap-core-device, device: MW0931, os: Android, 
 'iPhone-Other-Mobile Safari': { source: uap-core-device, device: iPhone, os: Other, ua: 'Mobile Safari', class: mobile }
 iPad-Linux-Puffin: { source: uap-core-device, device: iPad, os: Linux, ua: Puffin, class: tablet }
 iPhone-Linux-Puffin: { source: uap-core-device, device: iPhone, os: Linux, ua: Puffin, class: mobile }
-'Archos GAMEPAD-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD', os: Android, ua: Chrome, class: '' }
-'Archos GAMEPAD2-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD2', os: Android, ua: Chrome, class: '' }
-'Archos 101 CHILDPAD-Android-Chrome': { source: uap-core-device, device: 'Archos 101 CHILDPAD', os: Android, ua: Chrome, class: '' }
-'Archos 101 Cobalt-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Cobalt', os: Android, ua: Chrome, class: '' }
-'Archos 101 Neon-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Neon', os: Android, ua: Chrome, class: '' }
-'Archos 101 PLATINUM-Android-Opera': { source: uap-core-device, device: 'Archos 101 PLATINUM', os: Android, ua: Opera, class: '' }
-'Archos 101 Titanium-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Titanium', os: Android, ua: Chrome, class: '' }
-'Archos 101 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Xenon', os: Android, ua: Chrome, class: '' }
-'Archos 101 XS 2-Android-Chrome': { source: uap-core-device, device: 'Archos 101 XS 2', os: Android, ua: Chrome, class: '' }
-'Archos 101G10-Android-Chrome': { source: uap-core-device, device: 'Archos 101G10', os: Android, ua: Chrome, class: '' }
-'Archos 101G9-Android-Chrome': { source: uap-core-device, device: 'Archos 101G9', os: Android, ua: Chrome, class: '' }
-'Archos 28 Internet Tablet-Other-Other': { source: uap-core-device, device: 'Archos 28 Internet Tablet', os: Other, ua: Other, class: '' }
-'Archos 35 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 35 Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 40 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 40 Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 40 Titanium mtka40ti-Android-Android': { source: uap-core-device, device: 'Archos 40 Titanium mtka40ti', os: Android, ua: Android, class: '' }
-'Archos 40b Titanium Surround-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 40b Titanium Surround', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 45 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 45 Platinum', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 45 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 45 Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 45_Platinum-Android-UC Browser': { source: uap-core-device, device: 'Archos 45_Platinum', os: Android, ua: 'UC Browser', class: '' }
-'Archos 5-Android-Android': { source: uap-core-device, device: 'Archos 5', os: Android, ua: Android, class: '' }
-'Archos 50 Helium 4G-Android-Android': { source: uap-core-device, device: 'Archos 50 Helium 4G', os: Android, ua: Android, class: '' }
-'Archos 50 Oxygen-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Oxygen', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 50 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Platinum', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 50 Platinum Firmware version: 4.1.2-Other-Other': { source: uap-core-device, device: 'Archos 50 Platinum Firmware version: 4.1.2', os: Other, ua: Other, class: '' }
-'Archos 50 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 50_Titanium-Android-UC Browser': { source: uap-core-device, device: 'Archos 50_Titanium', os: Android, ua: 'UC Browser', class: '' }
-'Archos 50PL-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50PL', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 53 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 53 Platinum', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 53 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 53 Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Archos 70 Cobalt-Android-Android': { source: uap-core-device, device: 'Archos 70 Cobalt', os: Android, ua: Android, class: '' }
-'Archos 70 Internet Tablet-Other-Other': { source: uap-core-device, device: 'Archos 70 Internet Tablet', os: Other, ua: Other, class: '' }
-'Archos 70 Titanium-Android-Chrome': { source: uap-core-device, device: 'Archos 70 Titanium', os: Android, ua: Chrome, class: '' }
-'Archos 70 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 70 Xenon', os: Android, ua: Chrome, class: '' }
-'Archos 70b TITANIUM-Android-Android': { source: uap-core-device, device: 'Archos 70b TITANIUM', os: Android, ua: Android, class: '' }
-'Archos 70it2-Android-Opera': { source: uap-core-device, device: 'Archos 70it2', os: Android, ua: Opera, class: '' }
-'Archos 79 Platinum-Android-Chrome': { source: uap-core-device, device: 'Archos 79 Platinum', os: Android, ua: Chrome, class: '' }
-'Archos 79 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 79 Xenon', os: Android, ua: Chrome, class: '' }
-'Archos 79XE-Android-Android': { source: uap-core-device, device: 'Archos 79XE', os: Android, ua: Android, class: '' }
-'Archos 80 CHILDPAD-Android-Chrome': { source: uap-core-device, device: 'Archos 80 CHILDPAD', os: Android, ua: Chrome, class: '' }
-'Archos 80 COBALT-Android-Chrome': { source: uap-core-device, device: 'Archos 80 COBALT', os: Android, ua: Chrome, class: '' }
-'Archos 80 Internet Tablet-Android-Android': { source: uap-core-device, device: 'Archos 80 Internet Tablet', os: Android, ua: Android, class: '' }
-'Archos 80 Platinum-Android-Opera': { source: uap-core-device, device: 'Archos 80 Platinum', os: Android, ua: Opera, class: '' }
-'Archos 80 TITANIUM-Android-Chrome': { source: uap-core-device, device: 'Archos 80 TITANIUM', os: Android, ua: Chrome, class: '' }
-'Archos 80 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 80 Xenon', os: Android, ua: Chrome, class: '' }
-'Archos 80 Xenon,  Android OS version: 3.4.0+, Device ID: c989a15e13a99ee08b5485dac5f68244, Origin: 170141051, Firmware Version: 16]-Android-Other': { source: uap-core-device, device: 'Archos 80 Xenon,  Android OS version: 3.4.0+, Device ID: c989a15e13a99ee08b5485dac5f68244, Origin: 170141051, Firmware Version: 16]', os: Android, ua: Other, class: '' }
-'Archos 80b PLATINUM-Android-Chrome': { source: uap-core-device, device: 'Archos 80b PLATINUM', os: Android, ua: Chrome, class: '' }
-'Archos 80G9-Android-Chrome': { source: uap-core-device, device: 'Archos 80G9', os: Android, ua: Chrome, class: '' }
-'Archos 80XSK-Android-Chrome': { source: uap-core-device, device: 'Archos 80XSK', os: Android, ua: Chrome, class: '' }
-'Archos 97 CARBON-Android-Chrome': { source: uap-core-device, device: 'Archos 97 CARBON', os: Android, ua: Chrome, class: '' }
-'Archos 97 Cobalt-Android-Chrome': { source: uap-core-device, device: 'Archos 97 Cobalt', os: Android, ua: Chrome, class: '' }
-'Archos 97 Neon-Android-Chrome': { source: uap-core-device, device: 'Archos 97 Neon', os: Android, ua: Chrome, class: '' }
-'Archos 97 Platinum-Android-Opera': { source: uap-core-device, device: 'Archos 97 Platinum', os: Android, ua: Opera, class: '' }
-'Archos 97 TITANIUMHD-Android-Chrome': { source: uap-core-device, device: 'Archos 97 TITANIUMHD', os: Android, ua: Chrome, class: '' }
-'Archos 97 XENON-Android-Chrome': { source: uap-core-device, device: 'Archos 97 XENON', os: Android, ua: Chrome, class: '' }
-'Archos 97_CARBON-Android-UC Browser': { source: uap-core-device, device: 'Archos 97_CARBON', os: Android, ua: 'UC Browser', class: '' }
-'Archos 97b PLATINUM-Android-Chrome': { source: uap-core-device, device: 'Archos 97b PLATINUM', os: Android, ua: Chrome, class: '' }
-'Archos 97B TITANIUM-Android-Chrome': { source: uap-core-device, device: 'Archos 97B TITANIUM', os: Android, ua: Chrome, class: '' }
-'Archos Chefpad-Android-Chrome': { source: uap-core-device, device: 'Archos Chefpad', os: Android, ua: Chrome, class: '' }
-'Archos FAMILYPAD 2-Android-Opera': { source: uap-core-device, device: 'Archos FAMILYPAD 2', os: Android, ua: Opera, class: '' }
-'Archos A5S-Other-Other': { source: uap-core-device, device: 'Archos A5S', os: Other, ua: Other, class: '' }
-'Archos a605f-Linux-Opera': { source: uap-core-device, device: 'Archos a605f', os: Linux, ua: Opera, class: '' }
-'Archos G6H-Linux-Opera': { source: uap-core-device, device: 'Archos G6H', os: Linux, ua: Opera, class: '' }
-'Archos G6L-Linux-Opera': { source: uap-core-device, device: 'Archos G6L', os: Linux, ua: Opera, class: '' }
-'Archos G6S-Linux-Opera': { source: uap-core-device, device: 'Archos G6S', os: Linux, ua: Opera, class: '' }
-'Archos AN10BG2-Android-Android': { source: uap-core-device, device: 'Archos AN10BG2', os: Android, ua: Android, class: '' }
-'Archos AN10BG2I-Android-Android': { source: uap-core-device, device: 'Archos AN10BG2I', os: Android, ua: Android, class: '' }
-'Archos AN10BG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10BG3', os: Android, ua: Chrome, class: '' }
-'Archos AN10CG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10CG3', os: Android, ua: Chrome, class: '' }
-'Archos AN10DG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10DG3', os: Android, ua: Chrome, class: '' }
-'Archos AN10G2-Android-Android': { source: uap-core-device, device: 'Archos AN10G2', os: Android, ua: Android, class: '' }
-'Archos AN10G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN10G2I', os: Android, ua: Chrome, class: '' }
-'Archos AN13FP-Android-Chrome': { source: uap-core-device, device: 'Archos AN13FP', os: Android, ua: Chrome, class: '' }
-'Archos AN7BG2-Android-Android': { source: uap-core-device, device: 'Archos AN7BG2', os: Android, ua: Android, class: '' }
-'Archos AN7BG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7BG3', os: Android, ua: Chrome, class: '' }
-'Archos AN7CG2-Android-Android': { source: uap-core-device, device: 'Archos AN7CG2', os: Android, ua: Android, class: '' }
-'Archos AN7CG3-Android-Android': { source: uap-core-device, device: 'Archos AN7CG3', os: Android, ua: Android, class: '' }
-'Archos AN7DG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7DG3', os: Android, ua: Chrome, class: '' }
-'Archos AN7DG3B-Android-Android': { source: uap-core-device, device: 'Archos AN7DG3B', os: Android, ua: Android, class: '' }
-'Archos AN7DG3C-Android-Android': { source: uap-core-device, device: 'Archos AN7DG3C', os: Android, ua: Android, class: '' }
-'Archos AN7FG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7FG3', os: Android, ua: Chrome, class: '' }
-'Archos AN7G2-Android-Android': { source: uap-core-device, device: 'Archos AN7G2', os: Android, ua: Android, class: '' }
-'Archos AN7G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN7G2I', os: Android, ua: Chrome, class: '' }
-'Archos AN7G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7G3', os: Android, ua: Chrome, class: '' }
-'Archos AN7HG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7HG3', os: Android, ua: Chrome, class: '' }
-'Archos AN7IG3-Android-Android': { source: uap-core-device, device: 'Archos AN7IG3', os: Android, ua: Android, class: '' }
-'Archos AN7SP-Android-Android': { source: uap-core-device, device: 'Archos AN7SP', os: Android, ua: Android, class: '' }
-'Archos AN8BG2-Android-Android': { source: uap-core-device, device: 'Archos AN8BG2', os: Android, ua: Android, class: '' }
-'Archos AN8BG3-Android-Android': { source: uap-core-device, device: 'Archos AN8BG3', os: Android, ua: Android, class: '' }
-'Archos AN8CG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN8CG3', os: Android, ua: Chrome, class: '' }
-'Archos AN8G2-Android-Android': { source: uap-core-device, device: 'Archos AN8G2', os: Android, ua: Android, class: '' }
-'Archos AN8G2I-Android-Android': { source: uap-core-device, device: 'Archos AN8G2I', os: Android, ua: Android, class: '' }
-'Archos AN8G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN8G3', os: Android, ua: Chrome, class: '' }
-'Archos AN9G2-Android-Android': { source: uap-core-device, device: 'Archos AN9G2', os: Android, ua: Android, class: '' }
-'Archos AN9G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN9G2I', os: Android, ua: Chrome, class: '' }
-'Archos AN9G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN9G3', os: Android, ua: Chrome, class: '' }
-'Archos A101B-Android-Android': { source: uap-core-device, device: 'Archos A101B', os: Android, ua: Android, class: '' }
-'Archos A101C-Android-Android': { source: uap-core-device, device: 'Archos A101C', os: Android, ua: Android, class: '' }
-'Archos A101IT-Android-Android': { source: uap-core-device, device: 'Archos A101IT', os: Android, ua: Android, class: '' }
-'Archos A28-Android-Android': { source: uap-core-device, device: 'Archos A28', os: Android, ua: Android, class: '' }
-'Archos A32-Android-Android': { source: uap-core-device, device: 'Archos A32', os: Android, ua: Android, class: '' }
-'Archos A43-Android-Android': { source: uap-core-device, device: 'Archos A43', os: Android, ua: Android, class: '' }
-'Archos A70BHT-Android-Android': { source: uap-core-device, device: 'Archos A70BHT', os: Android, ua: Android, class: '' }
-'Archos A70CHT-Android-Android': { source: uap-core-device, device: 'Archos A70CHT', os: Android, ua: Android, class: '' }
-'Archos A70HB-Android-Android': { source: uap-core-device, device: 'Archos A70HB', os: Android, ua: Android, class: '' }
-'Archos A70S-Android-Android': { source: uap-core-device, device: 'Archos A70S', os: Android, ua: Android, class: '' }
-'Archos A70X-Android-Android': { source: uap-core-device, device: 'Archos A70X', os: Android, ua: Android, class: '' }
-'Archos A7EB-Android-Android': { source: uap-core-device, device: 'Archos A7EB', os: Android, ua: Android, class: '' }
-'Archos A7EB-WK-Android-Android': { source: uap-core-device, device: 'Archos A7EB-WK', os: Android, ua: Android, class: '' }
+'Archos GAMEPAD-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD', os: Android, ua: Chrome, class: tablet }
+'Archos GAMEPAD2-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD2', os: Android, ua: Chrome, class: tablet }
+'Archos 101 CHILDPAD-Android-Chrome': { source: uap-core-device, device: 'Archos 101 CHILDPAD', os: Android, ua: Chrome, class: tablet }
+'Archos 101 Cobalt-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Cobalt', os: Android, ua: Chrome, class: tablet }
+'Archos 101 Neon-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Neon', os: Android, ua: Chrome, class: tablet }
+'Archos 101 PLATINUM-Android-Opera': { source: uap-core-device, device: 'Archos 101 PLATINUM', os: Android, ua: Opera, class: tablet }
+'Archos 101 Titanium-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Titanium', os: Android, ua: Chrome, class: tablet }
+'Archos 101 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 101 Xenon', os: Android, ua: Chrome, class: tablet }
+'Archos 101 XS 2-Android-Chrome': { source: uap-core-device, device: 'Archos 101 XS 2', os: Android, ua: Chrome, class: tablet }
+'Archos 101G10-Android-Chrome': { source: uap-core-device, device: 'Archos 101G10', os: Android, ua: Chrome, class: tablet }
+'Archos 101G9-Android-Chrome': { source: uap-core-device, device: 'Archos 101G9', os: Android, ua: Chrome, class: tablet }
+'Archos 28 Internet Tablet-Other-Other': { source: uap-core-device, device: 'Archos 28 Internet Tablet', os: Other, ua: Other, class: mobile }
+'Archos 35 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 35 Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 40 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 40 Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 40 Titanium mtka40ti-Android-Android': { source: uap-core-device, device: 'Archos 40 Titanium mtka40ti', os: Android, ua: Android, class: mobile }
+'Archos 40b Titanium Surround-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 40b Titanium Surround', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 45 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 45 Platinum', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 45 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 45 Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 45_Platinum-Android-UC Browser': { source: uap-core-device, device: 'Archos 45_Platinum', os: Android, ua: 'UC Browser', class: mobile }
+'Archos 5-Android-Android': { source: uap-core-device, device: 'Archos 5', os: Android, ua: Android, class: tablet }
+'Archos 50 Helium 4G-Android-Android': { source: uap-core-device, device: 'Archos 50 Helium 4G', os: Android, ua: Android, class: mobile }
+'Archos 50 Oxygen-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Oxygen', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 50 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Platinum', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 50 Platinum Firmware version: 4.1.2-Other-Other': { source: uap-core-device, device: 'Archos 50 Platinum Firmware version: 4.1.2', os: Other, ua: Other, class: mobile }
+'Archos 50 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50 Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 50_Titanium-Android-UC Browser': { source: uap-core-device, device: 'Archos 50_Titanium', os: Android, ua: 'UC Browser', class: mobile }
+'Archos 50PL-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 50PL', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 53 Platinum-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 53 Platinum', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 53 Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Archos 53 Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Archos 70 Cobalt-Android-Android': { source: uap-core-device, device: 'Archos 70 Cobalt', os: Android, ua: Android, class: tablet }
+'Archos 70 Internet Tablet-Other-Other': { source: uap-core-device, device: 'Archos 70 Internet Tablet', os: Other, ua: Other, class: tablet }
+'Archos 70 Titanium-Android-Chrome': { source: uap-core-device, device: 'Archos 70 Titanium', os: Android, ua: Chrome, class: tablet }
+'Archos 70 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 70 Xenon', os: Android, ua: Chrome, class: tablet }
+'Archos 70b TITANIUM-Android-Android': { source: uap-core-device, device: 'Archos 70b TITANIUM', os: Android, ua: Android, class: tablet }
+'Archos 70it2-Android-Opera': { source: uap-core-device, device: 'Archos 70it2', os: Android, ua: Opera, class: tablet }
+'Archos 79 Platinum-Android-Chrome': { source: uap-core-device, device: 'Archos 79 Platinum', os: Android, ua: Chrome, class: tablet }
+'Archos 79 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 79 Xenon', os: Android, ua: Chrome, class: tablet }
+'Archos 79XE-Android-Android': { source: uap-core-device, device: 'Archos 79XE', os: Android, ua: Android, class: tablet }
+'Archos 80 CHILDPAD-Android-Chrome': { source: uap-core-device, device: 'Archos 80 CHILDPAD', os: Android, ua: Chrome, class: tablet }
+'Archos 80 COBALT-Android-Chrome': { source: uap-core-device, device: 'Archos 80 COBALT', os: Android, ua: Chrome, class: tablet }
+'Archos 80 Internet Tablet-Android-Android': { source: uap-core-device, device: 'Archos 80 Internet Tablet', os: Android, ua: Android, class: tablet }
+'Archos 80 Platinum-Android-Opera': { source: uap-core-device, device: 'Archos 80 Platinum', os: Android, ua: Opera, class: tablet }
+'Archos 80 TITANIUM-Android-Chrome': { source: uap-core-device, device: 'Archos 80 TITANIUM', os: Android, ua: Chrome, class: tablet }
+'Archos 80 Xenon-Android-Chrome': { source: uap-core-device, device: 'Archos 80 Xenon', os: Android, ua: Chrome, class: tablet }
+'Archos 80 Xenon,  Android OS version: 3.4.0+, Device ID: c989a15e13a99ee08b5485dac5f68244, Origin: 170141051, Firmware Version: 16]-Android-Other': { source: uap-core-device, device: 'Archos 80 Xenon,  Android OS version: 3.4.0+, Device ID: c989a15e13a99ee08b5485dac5f68244, Origin: 170141051, Firmware Version: 16]', os: Android, ua: Other, class: tablet }
+'Archos 80b PLATINUM-Android-Chrome': { source: uap-core-device, device: 'Archos 80b PLATINUM', os: Android, ua: Chrome, class: tablet }
+'Archos 80G9-Android-Chrome': { source: uap-core-device, device: 'Archos 80G9', os: Android, ua: Chrome, class: tablet }
+'Archos 80XSK-Android-Chrome': { source: uap-core-device, device: 'Archos 80XSK', os: Android, ua: Chrome, class: tablet }
+'Archos 97 CARBON-Android-Chrome': { source: uap-core-device, device: 'Archos 97 CARBON', os: Android, ua: Chrome, class: tablet }
+'Archos 97 Cobalt-Android-Chrome': { source: uap-core-device, device: 'Archos 97 Cobalt', os: Android, ua: Chrome, class: tablet }
+'Archos 97 Neon-Android-Chrome': { source: uap-core-device, device: 'Archos 97 Neon', os: Android, ua: Chrome, class: tablet }
+'Archos 97 Platinum-Android-Opera': { source: uap-core-device, device: 'Archos 97 Platinum', os: Android, ua: Opera, class: tablet }
+'Archos 97 TITANIUMHD-Android-Chrome': { source: uap-core-device, device: 'Archos 97 TITANIUMHD', os: Android, ua: Chrome, class: tablet }
+'Archos 97 XENON-Android-Chrome': { source: uap-core-device, device: 'Archos 97 XENON', os: Android, ua: Chrome, class: tablet }
+'Archos 97_CARBON-Android-UC Browser': { source: uap-core-device, device: 'Archos 97_CARBON', os: Android, ua: 'UC Browser', class: tablet }
+'Archos 97b PLATINUM-Android-Chrome': { source: uap-core-device, device: 'Archos 97b PLATINUM', os: Android, ua: Chrome, class: tablet }
+'Archos 97B TITANIUM-Android-Chrome': { source: uap-core-device, device: 'Archos 97B TITANIUM', os: Android, ua: Chrome, class: tablet }
+'Archos Chefpad-Android-Chrome': { source: uap-core-device, device: 'Archos Chefpad', os: Android, ua: Chrome, class: tablet }
+'Archos FAMILYPAD 2-Android-Opera': { source: uap-core-device, device: 'Archos FAMILYPAD 2', os: Android, ua: Opera, class: tablet }
+'Archos A5S-Other-Other': { source: uap-core-device, device: 'Archos A5S', os: Other, ua: Other, class: tablet }
+'Archos a605f-Linux-Opera': { source: uap-core-device, device: 'Archos a605f', os: Linux, ua: Opera, class: tablet }
+'Archos G6H-Linux-Opera': { source: uap-core-device, device: 'Archos G6H', os: Linux, ua: Opera, class: tablet }
+'Archos G6L-Linux-Opera': { source: uap-core-device, device: 'Archos G6L', os: Linux, ua: Opera, class: tablet }
+'Archos G6S-Linux-Opera': { source: uap-core-device, device: 'Archos G6S', os: Linux, ua: Opera, class: tablet }
+'Archos AN10BG2-Android-Android': { source: uap-core-device, device: 'Archos AN10BG2', os: Android, ua: Android, class: tablet }
+'Archos AN10BG2I-Android-Android': { source: uap-core-device, device: 'Archos AN10BG2I', os: Android, ua: Android, class: tablet }
+'Archos AN10BG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10BG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN10CG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10CG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN10DG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN10DG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN10G2-Android-Android': { source: uap-core-device, device: 'Archos AN10G2', os: Android, ua: Android, class: tablet }
+'Archos AN10G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN10G2I', os: Android, ua: Chrome, class: tablet }
+'Archos AN13FP-Android-Chrome': { source: uap-core-device, device: 'Archos AN13FP', os: Android, ua: Chrome, class: tablet }
+'Archos AN7BG2-Android-Android': { source: uap-core-device, device: 'Archos AN7BG2', os: Android, ua: Android, class: tablet }
+'Archos AN7BG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7BG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN7CG2-Android-Android': { source: uap-core-device, device: 'Archos AN7CG2', os: Android, ua: Android, class: tablet }
+'Archos AN7CG3-Android-Android': { source: uap-core-device, device: 'Archos AN7CG3', os: Android, ua: Android, class: tablet }
+'Archos AN7DG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7DG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN7DG3B-Android-Android': { source: uap-core-device, device: 'Archos AN7DG3B', os: Android, ua: Android, class: tablet }
+'Archos AN7DG3C-Android-Android': { source: uap-core-device, device: 'Archos AN7DG3C', os: Android, ua: Android, class: tablet }
+'Archos AN7FG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7FG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN7G2-Android-Android': { source: uap-core-device, device: 'Archos AN7G2', os: Android, ua: Android, class: tablet }
+'Archos AN7G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN7G2I', os: Android, ua: Chrome, class: tablet }
+'Archos AN7G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7G3', os: Android, ua: Chrome, class: tablet }
+'Archos AN7HG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN7HG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN7IG3-Android-Android': { source: uap-core-device, device: 'Archos AN7IG3', os: Android, ua: Android, class: tablet }
+'Archos AN7SP-Android-Android': { source: uap-core-device, device: 'Archos AN7SP', os: Android, ua: Android, class: tablet }
+'Archos AN8BG2-Android-Android': { source: uap-core-device, device: 'Archos AN8BG2', os: Android, ua: Android, class: tablet }
+'Archos AN8BG3-Android-Android': { source: uap-core-device, device: 'Archos AN8BG3', os: Android, ua: Android, class: tablet }
+'Archos AN8CG3-Android-Chrome': { source: uap-core-device, device: 'Archos AN8CG3', os: Android, ua: Chrome, class: tablet }
+'Archos AN8G2-Android-Android': { source: uap-core-device, device: 'Archos AN8G2', os: Android, ua: Android, class: tablet }
+'Archos AN8G2I-Android-Android': { source: uap-core-device, device: 'Archos AN8G2I', os: Android, ua: Android, class: tablet }
+'Archos AN8G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN8G3', os: Android, ua: Chrome, class: tablet }
+'Archos AN9G2-Android-Android': { source: uap-core-device, device: 'Archos AN9G2', os: Android, ua: Android, class: tablet }
+'Archos AN9G2I-Android-Chrome': { source: uap-core-device, device: 'Archos AN9G2I', os: Android, ua: Chrome, class: tablet }
+'Archos AN9G3-Android-Chrome': { source: uap-core-device, device: 'Archos AN9G3', os: Android, ua: Chrome, class: tablet }
+'Archos A101B-Android-Android': { source: uap-core-device, device: 'Archos A101B', os: Android, ua: Android, class: tablet }
+'Archos A101C-Android-Android': { source: uap-core-device, device: 'Archos A101C', os: Android, ua: Android, class: tablet }
+'Archos A101IT-Android-Android': { source: uap-core-device, device: 'Archos A101IT', os: Android, ua: Android, class: tablet }
+'Archos A28-Android-Android': { source: uap-core-device, device: 'Archos A28', os: Android, ua: Android, class: tablet }
+'Archos A32-Android-Android': { source: uap-core-device, device: 'Archos A32', os: Android, ua: Android, class: tablet }
+'Archos A43-Android-Android': { source: uap-core-device, device: 'Archos A43', os: Android, ua: Android, class: tablet }
+'Archos A70BHT-Android-Android': { source: uap-core-device, device: 'Archos A70BHT', os: Android, ua: Android, class: tablet }
+'Archos A70CHT-Android-Android': { source: uap-core-device, device: 'Archos A70CHT', os: Android, ua: Android, class: tablet }
+'Archos A70HB-Android-Android': { source: uap-core-device, device: 'Archos A70HB', os: Android, ua: Android, class: tablet }
+'Archos A70S-Android-Android': { source: uap-core-device, device: 'Archos A70S', os: Android, ua: Android, class: tablet }
+'Archos A70X-Android-Android': { source: uap-core-device, device: 'Archos A70X', os: Android, ua: Android, class: tablet }
+'Archos A7EB-Android-Android': { source: uap-core-device, device: 'Archos A7EB', os: Android, ua: Android, class: tablet }
+'Archos A7EB-WK-Android-Android': { source: uap-core-device, device: 'Archos A7EB-WK', os: Android, ua: Android, class: tablet }
 PAD-FMD700HD-Android-Chrome: { source: uap-core-device, device: PAD-FMD700HD, os: Android, ua: Chrome, class: '' }
 PAD-FMD700P-Android-Chrome: { source: uap-core-device, device: PAD-FMD700P, os: Android, ua: Chrome, class: '' }
 'BioniQ 1001-Android-Opera': { source: uap-core-device, device: 'BioniQ 1001', os: Android, ua: Opera, class: '' }
@@ -4951,309 +4951,309 @@ Zio-Android-Android: { source: uap-core-device, device: Zio, os: Android, ua: An
 'Lenco TAB-832-Android-Android': { source: uap-core-device, device: 'Lenco TAB-832', os: Android, ua: Android, class: '' }
 'Lenco TAB-900-Android-Android': { source: uap-core-device, device: 'Lenco TAB-900', os: Android, ua: Android, class: '' }
 'Lenco TAB-9720-Android-Android': { source: uap-core-device, device: 'Lenco TAB-9720', os: Android, ua: Android, class: '' }
-'Lenovo S750-Android-Other': { source: uap-core-device, device: 'Lenovo S750', os: Android, ua: Other, class: '' }
-'Lenovo SmartTabII10-Android-Other': { source: uap-core-device, device: 'Lenovo SmartTabII10', os: Android, ua: Other, class: '' }
-A1_07-Android-Opera: { source: uap-core-device, device: A1_07, os: Android, ua: Opera, class: '' }
-A2107A-H-Android-Chrome: { source: uap-core-device, device: A2107A-H, os: Android, ua: Chrome, class: '' }
-S1-37AH0-Android-Android: { source: uap-core-device, device: S1-37AH0, os: Android, ua: Android, class: '' }
-'S2005A-H-Android-Chrome Mobile': { source: uap-core-device, device: S2005A-H, os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo IdeaTab A1107-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1107', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A2107A-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A2107A-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-H', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A3000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A3000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab S2007A-D-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2007A-D', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab S2007A-F-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2007A-F', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab S2010A-D-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2010A-D', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab S6000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab S6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo Ideapad K1-Android-Opera': { source: uap-core-device, device: 'Lenovo Ideapad K1', os: Android, ua: Opera, class: '' }
-'Lenovo Ideapad S10-3T-Android-Opera': { source: uap-core-device, device: 'Lenovo Ideapad S10-3T', os: Android, ua: Opera, class: '' }
-'Lenovo IdeaTab A1000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A1000-G-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000-G', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A1000L-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000L-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A2109A-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2109A', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A2207A-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A2207A-H', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab A5000-E-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A5000-E', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab S2109A-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2109A-F', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab S2110AF-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2110AF', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab S2110AH-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2110AH', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab V2010A-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab V2010A', os: Android, ua: Android, class: '' }
-'Lenovo ThinkPad Tablet-Android-Chrome': { source: uap-core-device, device: 'Lenovo ThinkPad Tablet', os: Android, ua: Chrome, class: '' }
-'Lenovo 3GC101-Android-Android': { source: uap-core-device, device: 'Lenovo 3GC101', os: Android, ua: Android, class: '' }
-'Lenovo 3GW100-Android-Android': { source: uap-core-device, device: 'Lenovo 3GW100', os: Android, ua: Android, class: '' }
-'Lenovo 3GW101-Android-Android': { source: uap-core-device, device: 'Lenovo 3GW101', os: Android, ua: Android, class: '' }
-'Lenovo A1-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A1', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A1 pad-Android-Android': { source: uap-core-device, device: 'Lenovo A1 pad', os: Android, ua: Android, class: '' }
-'Lenovo A1-32AB0-Android-Android': { source: uap-core-device, device: 'Lenovo A1-32AB0', os: Android, ua: Android, class: '' }
-'Lenovo A1-32AJ0-Android-Android': { source: uap-core-device, device: 'Lenovo A1-32AJ0', os: Android, ua: Android, class: '' }
-'Lenovo A10-Linux-UC Browser': { source: uap-core-device, device: 'Lenovo A10', os: Linux, ua: 'UC Browser', class: '' }
-'Lenovo A2_3g_data-Android-Android': { source: uap-core-device, device: 'Lenovo A2_3g_data', os: Android, ua: Android, class: '' }
-'Lenovo A2105-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A2105', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A2107-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A2107', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A2107A-H-Android-Android': { source: uap-core-device, device: 'Lenovo A2107A-H', os: Android, ua: Android, class: '' }
-'Lenovo A269-Android-Android': { source: uap-core-device, device: 'Lenovo A269', os: Android, ua: Android, class: '' }
-'Lenovo A269i-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A269i', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A278t-Android-Baidu Browser': { source: uap-core-device, device: 'Lenovo A278t', os: Android, ua: 'Baidu Browser', class: '' }
-'Lenovo A288t-Android-Android': { source: uap-core-device, device: 'Lenovo A288t', os: Android, ua: Android, class: '' }
-'Lenovo A298t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A298t', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A300-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A300', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A3000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo A3000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo A316i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A316i', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A318t-Android-Android': { source: uap-core-device, device: 'Lenovo A318t', os: Android, ua: Android, class: '' }
-'Lenovo A3300-GV-Android-Chrome': { source: uap-core-device, device: 'Lenovo A3300-GV', os: Android, ua: Chrome, class: '' }
-'Lenovo A356-Android-Android': { source: uap-core-device, device: 'Lenovo A356', os: Android, ua: Android, class: '' }
-'Lenovo A360-Android-Android': { source: uap-core-device, device: 'Lenovo A360', os: Android, ua: Android, class: '' }
-'Lenovo A366t-Android-Android': { source: uap-core-device, device: 'Lenovo A366t', os: Android, ua: Android, class: '' }
-'Lenovo A369-Android-Android': { source: uap-core-device, device: 'Lenovo A369', os: Android, ua: Android, class: '' }
-'Lenovo A369i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A369i', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A376-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A376', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A378t-Android-Android': { source: uap-core-device, device: 'Lenovo A378t', os: Android, ua: Android, class: '' }
-'Lenovo A390-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A390', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A390_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A390_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A390e-Android-Android': { source: uap-core-device, device: 'Lenovo A390e', os: Android, ua: Android, class: '' }
-'Lenovo A390t-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A390t', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo A500-Android-Android': { source: uap-core-device, device: 'Lenovo A500', os: Android, ua: Android, class: '' }
-'Lenovo A516-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A516', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A520-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A520', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A520GRAY-Android-Android': { source: uap-core-device, device: 'Lenovo A520GRAY', os: Android, ua: Android, class: '' }
-'Lenovo A5500-H-Android-Android': { source: uap-core-device, device: 'Lenovo A5500-H', os: Android, ua: Android, class: '' }
-'Lenovo A560e-Android-Android': { source: uap-core-device, device: 'Lenovo A560e', os: Android, ua: Android, class: '' }
-'Lenovo A580-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A580', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A590-Android-QQ Browser Mobile': { source: uap-core-device, device: 'Lenovo A590', os: Android, ua: 'QQ Browser Mobile', class: '' }
-'Lenovo A60-Android-Android': { source: uap-core-device, device: 'Lenovo A60', os: Android, ua: Android, class: '' }
-'Lenovo a60-Android-Android': { source: uap-core-device, device: 'Lenovo a60', os: Android, ua: Android, class: '' }
-'Lenovo A60+-Android-Android': { source: uap-core-device, device: 'Lenovo A60+', os: Android, ua: Android, class: '' }
-'Lenovo A600e-Android-Android': { source: uap-core-device, device: 'Lenovo A600e', os: Android, ua: Android, class: '' }
-'Lenovo A630-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A630', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A630t-Android-Android': { source: uap-core-device, device: 'Lenovo A630t', os: Android, ua: Android, class: '' }
-'Lenovo A65-Android-Android': { source: uap-core-device, device: 'Lenovo A65', os: Android, ua: Android, class: '' }
-'Lenovo A656-Android-Android': { source: uap-core-device, device: 'Lenovo A656', os: Android, ua: Android, class: '' }
-'Lenovo A658t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A658t', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A66-Android-Android': { source: uap-core-device, device: 'Lenovo A66', os: Android, ua: Android, class: '' }
-'Lenovo A660-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A660', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A668t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A668t', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A668t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A668t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A66t-Android-Android': { source: uap-core-device, device: 'Lenovo A66t', os: Android, ua: Android, class: '' }
-'Lenovo A670t-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A670t', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A680-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A680', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo A680_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A680_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A68e-Android-Android': { source: uap-core-device, device: 'Lenovo A68e', os: Android, ua: Android, class: '' }
-'Lenovo A690-Android-Android': { source: uap-core-device, device: 'Lenovo A690', os: Android, ua: Android, class: '' }
-'Lenovo A690 DEODEX-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A690 DEODEX', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A698t-Android-Android': { source: uap-core-device, device: 'Lenovo A698t', os: Android, ua: Android, class: '' }
-'Lenovo A706-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A706', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A706_ROW-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A706_ROW', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo A710e-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A710e', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A750-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A750', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A750 ICS-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A750 ICS', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A760-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A760', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A7600-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo A7600-F', os: Android, ua: Chrome, class: '' }
-'Lenovo A765e-Android-Android': { source: uap-core-device, device: 'Lenovo A765e', os: Android, ua: Android, class: '' }
-'Lenovo A766-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A766', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A780-Android-Android': { source: uap-core-device, device: 'Lenovo A780', os: Android, ua: Android, class: '' }
-'Lenovo A789-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A789', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A789 by KeDou-Android-Android': { source: uap-core-device, device: 'Lenovo A789 by KeDou', os: Android, ua: Android, class: '' }
-'Lenovo A789_by_KeDou-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A789_by_KeDou', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A789-orange-Android-Android': { source: uap-core-device, device: 'Lenovo A789-orange', os: Android, ua: Android, class: '' }
-'Lenovo A790e-Android-Android': { source: uap-core-device, device: 'Lenovo A790e', os: Android, ua: Android, class: '' }
-'Lenovo A798t-Android-Android': { source: uap-core-device, device: 'Lenovo A798t', os: Android, ua: Android, class: '' }
-'Lenovo A800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A800', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo a800-Android-UC Browser': { source: uap-core-device, device: 'Lenovo a800', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo A820-Android-Android': { source: uap-core-device, device: 'Lenovo A820', os: Android, ua: Android, class: '' }
-'Lenovo A820c-Android-Android': { source: uap-core-device, device: 'Lenovo A820c', os: Android, ua: Android, class: '' }
-'Lenovo A820e-Android-Android': { source: uap-core-device, device: 'Lenovo A820e', os: Android, ua: Android, class: '' }
-'Lenovo A820t-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo A820t', os: Android, ua: 'Opera Mobile', class: '' }
-'Lenovo A830-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A830', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A850-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A850', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo A850+-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A850+', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A859-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A859', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo A880-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A880', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo A889-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A889', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo amazon_w-Android-Android': { source: uap-core-device, device: 'Lenovo amazon_w', os: Android, ua: Android, class: '' }
-'Lenovo B6000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo B6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo B6000-HV-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-HV', os: Android, ua: Chrome, class: '' }
-'Lenovo B8000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo B8000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo B8000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo B8000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo IdeaTab A2107A-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-H', os: Android, ua: Other, class: '' }
-'Lenovo IdeaTab A3000-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-H', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab S6000-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-H', os: Android, ua: Android, class: '' }
-'Lenovo K1-Android-Android': { source: uap-core-device, device: 'Lenovo K1', os: Android, ua: Android, class: '' }
-'Lenovo K2-Android-UC Browser': { source: uap-core-device, device: 'Lenovo K2', os: Android, ua: 'UC Browser', class: '' }
-'Lenovo K800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K800', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo K860-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K860', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo k860-Android-Android': { source: uap-core-device, device: 'Lenovo k860', os: Android, ua: Android, class: '' }
-'Lenovo K860i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K860i', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo K900-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K900', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo K900_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K900_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo K910-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K910', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo lephone_sdk-Android-Android': { source: uap-core-device, device: 'Lenovo lephone_sdk', os: Android, ua: Android, class: '' }
-'Lenovo Micromax A800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo Micromax A800', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo p50-Other-UC Browser': { source: uap-core-device, device: 'Lenovo p50', os: Other, ua: 'UC Browser', class: '' }
-'Lenovo P70-Android-Android': { source: uap-core-device, device: 'Lenovo P70', os: Android, ua: Android, class: '' }
-'Lenovo P700-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P700', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo p700-Android-QQ Browser Mobile': { source: uap-core-device, device: 'Lenovo p700', os: Android, ua: 'QQ Browser Mobile', class: '' }
-'Lenovo P700i-Android-Android': { source: uap-core-device, device: 'Lenovo P700i', os: Android, ua: Android, class: '' }
-'Lenovo p700i-Android-Dolphin': { source: uap-core-device, device: 'Lenovo p700i', os: Android, ua: Dolphin, class: '' }
-'Lenovo P770-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P770', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo P770_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P770_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo P780-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P780', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo P780_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P780_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S1-37AH0-Android-Android': { source: uap-core-device, device: 'Lenovo S1-37AH0', os: Android, ua: Android, class: '' }
-'Lenovo S2-38AH0-Android-Chrome': { source: uap-core-device, device: 'Lenovo S2-38AH0', os: Android, ua: Chrome, class: '' }
-'Lenovo S5000-Android-Android': { source: uap-core-device, device: 'Lenovo S5000', os: Android, ua: Android, class: '' }
-'Lenovo S5000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo S5000-F', os: Android, ua: Chrome, class: '' }
-'Lenovo S5000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo S5000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo S560-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S560', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo S6000-H', os: Android, ua: Chrome, class: '' }
-'Lenovo S6000L-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo S6000L-F', os: Android, ua: Chrome, class: '' }
-'Lenovo S650-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S650', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S660-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S660', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S680-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S680', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S686-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo S686', os: Android, ua: 'Opera Mobile', class: '' }
-'Lenovo S696-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S696', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S720-Android-Android': { source: uap-core-device, device: 'Lenovo S720', os: Android, ua: Android, class: '' }
-'Lenovo S720i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S720i', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S750-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S750', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S760-Android-Android': { source: uap-core-device, device: 'Lenovo S760', os: Android, ua: Android, class: '' }
-'Lenovo S820-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S820', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S820_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S820_ROW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S850e-Android-Android': { source: uap-core-device, device: 'Lenovo S850e', os: Android, ua: Android, class: '' }
-'Lenovo S868t-Android-Android': { source: uap-core-device, device: 'Lenovo S868t', os: Android, ua: Android, class: '' }
-'Lenovo S870e-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo S870e', os: Android, ua: 'Opera Mobile', class: '' }
-'Lenovo S880-Android-Chrome': { source: uap-core-device, device: 'Lenovo S880', os: Android, ua: Chrome, class: '' }
-'Lenovo s880-Android-Android': { source: uap-core-device, device: 'Lenovo s880', os: Android, ua: Android, class: '' }
-'Lenovo S880 Maryanto-Android-Android': { source: uap-core-device, device: 'Lenovo S880 Maryanto', os: Android, ua: Android, class: '' }
-'Lenovo S880i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S880i', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S890-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S890', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo s890-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo s890', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S890_S123_121120-Other-Other': { source: uap-core-device, device: 'Lenovo S890_S123_121120', os: Other, ua: Other, class: '' }
-'Lenovo S898t-Android-Android': { source: uap-core-device, device: 'Lenovo S898t', os: Android, ua: Android, class: '' }
-'Lenovo S920-Android-Android': { source: uap-core-device, device: 'Lenovo S920', os: Android, ua: Android, class: '' }
-'Lenovo S920_ROW-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo S920_ROW', os: Android, ua: 'Yandex Browser', class: '' }
-'Lenovo S920_S505_131111-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S920_S505_131111', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S930-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S930', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S939-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S939', os: Android, ua: 'Chrome Mobile', class: '' }
-'Lenovo S960-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S960', os: Android, ua: 'Chrome Mobile', class: '' }
-Lenovo-Android-Android: { source: uap-core-device, device: Lenovo, os: Android, ua: Android, class: '' }
-'Lenovo SmartTab II 10-Android-Chrome': { source: uap-core-device, device: 'Lenovo SmartTab II 10', os: Android, ua: Chrome, class: '' }
-'Lenovo SmartTab II 7-Android-Chrome': { source: uap-core-device, device: 'Lenovo SmartTab II 7', os: Android, ua: Chrome, class: '' }
-3GW100-Android-Android: { source: uap-core-device, device: 3GW100, os: Android, ua: Android, class: '' }
-3GW101-Android-Android: { source: uap-core-device, device: 3GW101, os: Android, ua: Android, class: '' }
-A390-Android-Android: { source: uap-core-device, device: A390, os: Android, ua: Android, class: '' }
-'Lenovo a2_3g_data-a2_3g_data-IdeaTab-Android-Other': { source: uap-core-device, device: 'Lenovo a2_3g_data-a2_3g_data-IdeaTab', os: Android, ua: Other, class: '' }
-'Lenovo A210-Other-Obigo': { source: uap-core-device, device: 'Lenovo A210', os: Other, ua: Obigo, class: '' }
-'Lenovo A2105-Android-Other': { source: uap-core-device, device: 'Lenovo A2105', os: Android, ua: Other, class: '' }
-'Lenovo A218t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A218t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A269i-Android-Android': { source: uap-core-device, device: 'Lenovo A269i', os: Android, ua: Android, class: '' }
-'Lenovo A278t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A278t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A288t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A288t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A298t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A298t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A366t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A366t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A376-Android-Android': { source: uap-core-device, device: 'Lenovo A376', os: Android, ua: Android, class: '' }
-'Lenovo A390-Android-Android': { source: uap-core-device, device: 'Lenovo A390', os: Android, ua: Android, class: '' }
-'Lenovo A390_ROW-Android-Other': { source: uap-core-device, device: 'Lenovo A390_ROW', os: Android, ua: Other, class: '' }
-'Lenovo A390t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A390t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A398t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A398t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A500-Other-Other': { source: uap-core-device, device: 'Lenovo A500', os: Other, ua: Other, class: '' }
-'Lenovo A516-Android-Safari': { source: uap-core-device, device: 'Lenovo A516', os: Android, ua: Safari, class: '' }
-'Lenovo A590-Android-Android': { source: uap-core-device, device: 'Lenovo A590', os: Android, ua: Android, class: '' }
-'Lenovo A60-Android-Other': { source: uap-core-device, device: 'Lenovo A60', os: Android, ua: Other, class: '' }
-'Lenovo A60+-Android-Safari': { source: uap-core-device, device: 'Lenovo A60+', os: Android, ua: Safari, class: '' }
-'Lenovo A610-Other-Other': { source: uap-core-device, device: 'Lenovo A610', os: Other, ua: Other, class: '' }
-'Lenovo A65-Android-Other': { source: uap-core-device, device: 'Lenovo A65', os: Android, ua: Other, class: '' }
-'Lenovo A656_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A656_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A658t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A658t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A660-Android-Safari': { source: uap-core-device, device: 'Lenovo A660', os: Android, ua: Safari, class: '' }
-'Lenovo A66t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A66t_TD', os: Android, ua: Android, class: '' }
-'Lenovo A670t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A670t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A678t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A678t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A680-Android-Safari': { source: uap-core-device, device: 'Lenovo A680', os: Android, ua: Safari, class: '' }
-'Lenovo A690-Android-Safari': { source: uap-core-device, device: 'Lenovo A690', os: Android, ua: Safari, class: '' }
-'Lenovo A698t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A698t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A750-Android-Safari': { source: uap-core-device, device: 'Lenovo A750', os: Android, ua: Safari, class: '' }
-'Lenovo A780-Android-Other': { source: uap-core-device, device: 'Lenovo A780', os: Android, ua: Other, class: '' }
-'Lenovo A789-Android-Android': { source: uap-core-device, device: 'Lenovo A789', os: Android, ua: Android, class: '' }
-'Lenovo A790e_2.3.5_weibo_3.0.5_android-Other-Other': { source: uap-core-device, device: 'Lenovo A790e_2.3.5_weibo_3.0.5_android', os: Other, ua: Other, class: '' }
-'Lenovo A798t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A798t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A800-Android-Android': { source: uap-core-device, device: 'Lenovo A800', os: Android, ua: Android, class: '' }
-'Lenovo A820-Android-Safari': { source: uap-core-device, device: 'Lenovo A820', os: Android, ua: Safari, class: '' }
-'Lenovo A820_4.1.2_weibo_3.5.2_android-Other-Other': { source: uap-core-device, device: 'Lenovo A820_4.1.2_weibo_3.5.2_android', os: Other, ua: Other, class: '' }
-'Lenovo A820t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A820t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo A830-Android-Safari': { source: uap-core-device, device: 'Lenovo A830', os: Android, ua: Safari, class: '' }
-'Lenovo A850-Android-Safari': { source: uap-core-device, device: 'Lenovo A850', os: Android, ua: Safari, class: '' }
-'Lenovo A880-Android-Other': { source: uap-core-device, device: 'Lenovo A880', os: Android, ua: Other, class: '' }
-'Lenovo B6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo B6000-H', os: Android, ua: Other, class: '' }
-'Lenovo B8000-H-Other-Other': { source: uap-core-device, device: 'Lenovo B8000-H', os: Other, ua: Other, class: '' }
-'Lenovo B8000-H)-Android-Other': { source: uap-core-device, device: 'Lenovo B8000-H)', os: Android, ua: Other, class: '' }
-'Lenovo Brand-Android-Other': { source: uap-core-device, device: 'Lenovo Brand', os: Android, ua: Other, class: '' }
-'Lenovo E228-Other-Teleca Browser': { source: uap-core-device, device: 'Lenovo E228', os: Other, ua: 'Teleca Browser', class: '' }
-'Lenovo E303-Other-Other': { source: uap-core-device, device: 'Lenovo E303', os: Other, ua: Other, class: '' }
-'Lenovo E307-Other-Other': { source: uap-core-device, device: 'Lenovo E307', os: Other, ua: Other, class: '' }
-'Lenovo E307_ENG_FRE-Other-Other': { source: uap-core-device, device: 'Lenovo E307_ENG_FRE', os: Other, ua: Other, class: '' }
-'Lenovo E307_ENG_FRE_A-Other-Other': { source: uap-core-device, device: 'Lenovo E307_ENG_FRE_A', os: Other, ua: Other, class: '' }
-'Lenovo E368-Other-Other': { source: uap-core-device, device: 'Lenovo E368', os: Other, ua: Other, class: '' }
-'Lenovo E700-Other-Other': { source: uap-core-device, device: 'Lenovo E700', os: Other, ua: Other, class: '' }
-'Lenovo ET860-Windows Mobile-UC Browser': { source: uap-core-device, device: 'Lenovo ET860', os: 'Windows Mobile', ua: 'UC Browser', class: '' }
-'Lenovo ET980-Windows CE-IE': { source: uap-core-device, device: 'Lenovo ET980', os: 'Windows CE', ua: IE, class: '' }
-'Lenovo G900-Other-Other': { source: uap-core-device, device: 'Lenovo G900', os: Other, ua: Other, class: '' }
-'Lenovo GYM-Other-Other': { source: uap-core-device, device: 'Lenovo GYM', os: Other, ua: Other, class: '' }
-'Lenovo i300_VN-Other-Other': { source: uap-core-device, device: 'Lenovo i300_VN', os: Other, ua: Other, class: '' }
-'Lenovo i360-Other-Other': { source: uap-core-device, device: 'Lenovo i360', os: Other, ua: Other, class: '' }
-'Lenovo I660-Other-Other': { source: uap-core-device, device: 'Lenovo I660', os: Other, ua: Other, class: '' }
-'Lenovo I720-Other-Other': { source: uap-core-device, device: 'Lenovo I720', os: Other, ua: Other, class: '' }
-'Lenovo I817-Other-Other': { source: uap-core-device, device: 'Lenovo I817', os: Other, ua: Other, class: '' }
-'Lenovo I906-Other-Other': { source: uap-core-device, device: 'Lenovo I906', os: Other, ua: Other, class: '' }
-'Lenovo I908-Other-Other': { source: uap-core-device, device: 'Lenovo I908', os: Other, ua: Other, class: '' }
-'Lenovo i908-Other-Other': { source: uap-core-device, device: 'Lenovo i908', os: Other, ua: Other, class: '' }
-'Lenovo I908_CMCC-Other-Other': { source: uap-core-device, device: 'Lenovo I908_CMCC', os: Other, ua: Other, class: '' }
-'Lenovo I909-Other-Other': { source: uap-core-device, device: 'Lenovo I909', os: Other, ua: Other, class: '' }
-'Lenovo I919-Other-Other': { source: uap-core-device, device: 'Lenovo I919', os: Other, ua: Other, class: '' }
-'Lenovo i919-Other-Other': { source: uap-core-device, device: 'Lenovo i919', os: Other, ua: Other, class: '' }
-'Lenovo I921-Other-Other': { source: uap-core-device, device: 'Lenovo I921', os: Other, ua: Other, class: '' }
-'Lenovo i921-Other-Other': { source: uap-core-device, device: 'Lenovo i921', os: Other, ua: Other, class: '' }
-'Lenovo IdeaTab-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab', os: Android, ua: Android, class: '' }
-'Lenovo IdeaTab_A2107A-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_A2107A-H', os: Android, ua: Other, class: '' }
-'Lenovo IdeaTab_A3000-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_A3000-H', os: Android, ua: Other, class: '' }
-'Lenovo IdeaTab_S6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_S6000-H', os: Android, ua: Other, class: '' }
-'Lenovo K800-Android-Safari': { source: uap-core-device, device: 'Lenovo K800', os: Android, ua: Safari, class: '' }
-'Lenovo Lenovo_B6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_B6000-H', os: Android, ua: Other, class: '' }
-'Lenovo Lenovo_B8000-H-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_B8000-H', os: Android, ua: Other, class: '' }
-'Lenovo Lenovo_P780-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_P780', os: Android, ua: Other, class: '' }
-'Lenovo Lenovo-A288t-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo-A288t', os: Android, ua: Other, class: '' }
-'Lenovo LIFETAB_E10312-Android-Android': { source: uap-core-device, device: 'Lenovo LIFETAB_E10312', os: Android, ua: Android, class: '' }
-'Lenovo LIFETAB_E10316-Android-Other': { source: uap-core-device, device: 'Lenovo LIFETAB_E10316', os: Android, ua: Other, class: '' }
-'Lenovo O3_TD-Android-Android': { source: uap-core-device, device: 'Lenovo O3_TD', os: Android, ua: Android, class: '' }
-'Lenovo P50-Other-Other': { source: uap-core-device, device: 'Lenovo P50', os: Other, ua: Other, class: '' }
-'Lenovo P50-VN-Other-Other': { source: uap-core-device, device: 'Lenovo P50-VN', os: Other, ua: Other, class: '' }
-'Lenovo P700-Android-Safari': { source: uap-core-device, device: 'Lenovo P700', os: Android, ua: Safari, class: '' }
-'Lenovo P700iLenovo-P700i-Android-Other': { source: uap-core-device, device: 'Lenovo P700iLenovo-P700i', os: Android, ua: Other, class: '' }
-'Lenovo P708-Other-Other': { source: uap-core-device, device: 'Lenovo P708', os: Other, ua: Other, class: '' }
-'Lenovo P708_ENG_FRE_A-Other-Other': { source: uap-core-device, device: 'Lenovo P708_ENG_FRE_A', os: Other, ua: Other, class: '' }
-'Lenovo P708_ENG_RUS_S280-Other-Other': { source: uap-core-device, device: 'Lenovo P708_ENG_RUS_S280', os: Other, ua: Other, class: '' }
-'Lenovo P768-Other-Other': { source: uap-core-device, device: 'Lenovo P768', os: Other, ua: Other, class: '' }
-'Lenovo P770-Android-Android': { source: uap-core-device, device: 'Lenovo P770', os: Android, ua: Android, class: '' }
-'Lenovo P780-Other-Other': { source: uap-core-device, device: 'Lenovo P780', os: Other, ua: Other, class: '' }
-'Lenovo P902-Other-Other': { source: uap-core-device, device: 'Lenovo P902', os: Other, ua: Other, class: '' }
-'Lenovo S5-Other-Other': { source: uap-core-device, device: 'Lenovo S5', os: Other, ua: Other, class: '' }
-'Lenovo S50-Other-Other': { source: uap-core-device, device: 'Lenovo S50', os: Other, ua: Other, class: '' }
-'Lenovo S520-Other-Other': { source: uap-core-device, device: 'Lenovo S520', os: Other, ua: Other, class: '' }
-'Lenovo S560-Android-Safari': { source: uap-core-device, device: 'Lenovo S560', os: Android, ua: Safari, class: '' }
-'Lenovo S720-Android-Safari': { source: uap-core-device, device: 'Lenovo S720', os: Android, ua: Safari, class: '' }
-'Lenovo S720i-Android-Safari': { source: uap-core-device, device: 'Lenovo S720i', os: Android, ua: Safari, class: '' }
-'Lenovo S868t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo S868t_TD', os: Android, ua: Android, class: '' }
-'Lenovo S880-Android-Other': { source: uap-core-device, device: 'Lenovo S880', os: Android, ua: Other, class: '' }
-'Lenovo S880i-Android-Safari': { source: uap-core-device, device: 'Lenovo S880i', os: Android, ua: Safari, class: '' }
-'Lenovo S890-Android-Safari': { source: uap-core-device, device: 'Lenovo S890', os: Android, ua: Safari, class: '' }
-'Lenovo S898t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo S898t_TD', os: Android, ua: Safari, class: '' }
-'Lenovo S9-Other-Other': { source: uap-core-device, device: 'Lenovo S9', os: Other, ua: Other, class: '' }
-'Lenovo S920-Android-Safari': { source: uap-core-device, device: 'Lenovo S920', os: Android, ua: Safari, class: '' }
-'Lenovo S960-Android-Other': { source: uap-core-device, device: 'Lenovo S960', os: Android, ua: Other, class: '' }
-'Lenovo SmartTabII7-Android-Other': { source: uap-core-device, device: 'Lenovo SmartTabII7', os: Android, ua: Other, class: '' }
-'Lenovo V800-Other-Other': { source: uap-core-device, device: 'Lenovo V800', os: Other, ua: Other, class: '' }
-'Lenovo V806-Other-Other': { source: uap-core-device, device: 'Lenovo V806', os: Other, ua: Other, class: '' }
-'Lenovo Vodafone_Smart_Tab_III_7-Android-Other': { source: uap-core-device, device: 'Lenovo Vodafone_Smart_Tab_III_7', os: Android, ua: Other, class: '' }
+'Lenovo S750-Android-Other': { source: uap-core-device, device: 'Lenovo S750', os: Android, ua: Other, class: mobile }
+'Lenovo SmartTabII10-Android-Other': { source: uap-core-device, device: 'Lenovo SmartTabII10', os: Android, ua: Other, class: tablet }
+A1_07-Android-Opera: { source: uap-core-device, device: A1_07, os: Android, ua: Opera, class: tablet }
+A2107A-H-Android-Chrome: { source: uap-core-device, device: A2107A-H, os: Android, ua: Chrome, class: tablet }
+S1-37AH0-Android-Android: { source: uap-core-device, device: S1-37AH0, os: Android, ua: Android, class: mobile }
+'S2005A-H-Android-Chrome Mobile': { source: uap-core-device, device: S2005A-H, os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo IdeaTab A1107-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1107', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A2107A-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A2107A-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A3000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A3000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab S2007A-D-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2007A-D', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab S2007A-F-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2007A-F', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab S2010A-D-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S2010A-D', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab S6000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab S6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo Ideapad K1-Android-Opera': { source: uap-core-device, device: 'Lenovo Ideapad K1', os: Android, ua: Opera, class: tablet }
+'Lenovo Ideapad S10-3T-Android-Opera': { source: uap-core-device, device: 'Lenovo Ideapad S10-3T', os: Android, ua: Opera, class: tablet }
+'Lenovo IdeaTab A1000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A1000-G-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000-G', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A1000L-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A1000L-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A2109A-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab A2109A', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A2207A-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A2207A-H', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab A5000-E-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A5000-E', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab S2109A-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2109A-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab S2110AF-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2110AF', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab S2110AH-Android-Chrome': { source: uap-core-device, device: 'Lenovo IdeaTab S2110AH', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab V2010A-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab V2010A', os: Android, ua: Android, class: tablet }
+'Lenovo ThinkPad Tablet-Android-Chrome': { source: uap-core-device, device: 'Lenovo ThinkPad Tablet', os: Android, ua: Chrome, class: tablet }
+'Lenovo 3GC101-Android-Android': { source: uap-core-device, device: 'Lenovo 3GC101', os: Android, ua: Android, class: mobile }
+'Lenovo 3GW100-Android-Android': { source: uap-core-device, device: 'Lenovo 3GW100', os: Android, ua: Android, class: mobile }
+'Lenovo 3GW101-Android-Android': { source: uap-core-device, device: 'Lenovo 3GW101', os: Android, ua: Android, class: mobile }
+'Lenovo A1-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A1', os: Android, ua: 'UC Browser', class: tablet }
+'Lenovo A1 pad-Android-Android': { source: uap-core-device, device: 'Lenovo A1 pad', os: Android, ua: Android, class: tablet }
+'Lenovo A1-32AB0-Android-Android': { source: uap-core-device, device: 'Lenovo A1-32AB0', os: Android, ua: Android, class: tablet }
+'Lenovo A1-32AJ0-Android-Android': { source: uap-core-device, device: 'Lenovo A1-32AJ0', os: Android, ua: Android, class: tablet }
+'Lenovo A10-Linux-UC Browser': { source: uap-core-device, device: 'Lenovo A10', os: Linux, ua: 'UC Browser', class: desktop }
+'Lenovo A2_3g_data-Android-Android': { source: uap-core-device, device: 'Lenovo A2_3g_data', os: Android, ua: Android, class: tablet }
+'Lenovo A2105-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A2105', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A2107-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A2107', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Lenovo A2107A-H-Android-Android': { source: uap-core-device, device: 'Lenovo A2107A-H', os: Android, ua: Android, class: tablet }
+'Lenovo A269-Android-Android': { source: uap-core-device, device: 'Lenovo A269', os: Android, ua: Android, class: mobile }
+'Lenovo A269i-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A269i', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A278t-Android-Baidu Browser': { source: uap-core-device, device: 'Lenovo A278t', os: Android, ua: 'Baidu Browser', class: mobile }
+'Lenovo A288t-Android-Android': { source: uap-core-device, device: 'Lenovo A288t', os: Android, ua: Android, class: mobile }
+'Lenovo A298t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A298t', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A300-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A300', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A3000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo A3000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo A316i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A316i', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A318t-Android-Android': { source: uap-core-device, device: 'Lenovo A318t', os: Android, ua: Android, class: mobile }
+'Lenovo A3300-GV-Android-Chrome': { source: uap-core-device, device: 'Lenovo A3300-GV', os: Android, ua: Chrome, class: tablet }
+'Lenovo A356-Android-Android': { source: uap-core-device, device: 'Lenovo A356', os: Android, ua: Android, class: mobile }
+'Lenovo A360-Android-Android': { source: uap-core-device, device: 'Lenovo A360', os: Android, ua: Android, class: mobile }
+'Lenovo A366t-Android-Android': { source: uap-core-device, device: 'Lenovo A366t', os: Android, ua: Android, class: mobile }
+'Lenovo A369-Android-Android': { source: uap-core-device, device: 'Lenovo A369', os: Android, ua: Android, class: mobile }
+'Lenovo A369i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A369i', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A376-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A376', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A378t-Android-Android': { source: uap-core-device, device: 'Lenovo A378t', os: Android, ua: Android, class: mobile }
+'Lenovo A390-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A390', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A390_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A390_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A390e-Android-Android': { source: uap-core-device, device: 'Lenovo A390e', os: Android, ua: Android, class: mobile }
+'Lenovo A390t-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A390t', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo A500-Android-Android': { source: uap-core-device, device: 'Lenovo A500', os: Android, ua: Android, class: mobile }
+'Lenovo A516-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A516', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A520-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A520', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A520GRAY-Android-Android': { source: uap-core-device, device: 'Lenovo A520GRAY', os: Android, ua: Android, class: mobile }
+'Lenovo A5500-H-Android-Android': { source: uap-core-device, device: 'Lenovo A5500-H', os: Android, ua: Android, class: tablet }
+'Lenovo A560e-Android-Android': { source: uap-core-device, device: 'Lenovo A560e', os: Android, ua: Android, class: mobile }
+'Lenovo A580-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A580', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A590-Android-QQ Browser Mobile': { source: uap-core-device, device: 'Lenovo A590', os: Android, ua: 'QQ Browser Mobile', class: mobile }
+'Lenovo A60-Android-Android': { source: uap-core-device, device: 'Lenovo A60', os: Android, ua: Android, class: mobile }
+'Lenovo a60-Android-Android': { source: uap-core-device, device: 'Lenovo a60', os: Android, ua: Android, class: mobile }
+'Lenovo A60+-Android-Android': { source: uap-core-device, device: 'Lenovo A60+', os: Android, ua: Android, class: mobile }
+'Lenovo A600e-Android-Android': { source: uap-core-device, device: 'Lenovo A600e', os: Android, ua: Android, class: mobile }
+'Lenovo A630-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A630', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A630t-Android-Android': { source: uap-core-device, device: 'Lenovo A630t', os: Android, ua: Android, class: mobile }
+'Lenovo A65-Android-Android': { source: uap-core-device, device: 'Lenovo A65', os: Android, ua: Android, class: mobile }
+'Lenovo A656-Android-Android': { source: uap-core-device, device: 'Lenovo A656', os: Android, ua: Android, class: mobile }
+'Lenovo A658t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A658t', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A66-Android-Android': { source: uap-core-device, device: 'Lenovo A66', os: Android, ua: Android, class: mobile }
+'Lenovo A660-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A660', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A668t-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A668t', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A668t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A668t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A66t-Android-Android': { source: uap-core-device, device: 'Lenovo A66t', os: Android, ua: Android, class: mobile }
+'Lenovo A670t-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A670t', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A680-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A680', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo A680_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A680_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A68e-Android-Android': { source: uap-core-device, device: 'Lenovo A68e', os: Android, ua: Android, class: mobile }
+'Lenovo A690-Android-Android': { source: uap-core-device, device: 'Lenovo A690', os: Android, ua: Android, class: mobile }
+'Lenovo A690 DEODEX-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A690 DEODEX', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A698t-Android-Android': { source: uap-core-device, device: 'Lenovo A698t', os: Android, ua: Android, class: mobile }
+'Lenovo A706-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A706', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A706_ROW-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A706_ROW', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo A710e-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A710e', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A750-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A750', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A750 ICS-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A750 ICS', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A760-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A760', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A7600-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo A7600-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo A765e-Android-Android': { source: uap-core-device, device: 'Lenovo A765e', os: Android, ua: Android, class: mobile }
+'Lenovo A766-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A766', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A780-Android-Android': { source: uap-core-device, device: 'Lenovo A780', os: Android, ua: Android, class: mobile }
+'Lenovo A789-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A789', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A789 by KeDou-Android-Android': { source: uap-core-device, device: 'Lenovo A789 by KeDou', os: Android, ua: Android, class: mobile }
+'Lenovo A789_by_KeDou-Android-UC Browser': { source: uap-core-device, device: 'Lenovo A789_by_KeDou', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A789-orange-Android-Android': { source: uap-core-device, device: 'Lenovo A789-orange', os: Android, ua: Android, class: mobile }
+'Lenovo A790e-Android-Android': { source: uap-core-device, device: 'Lenovo A790e', os: Android, ua: Android, class: mobile }
+'Lenovo A798t-Android-Android': { source: uap-core-device, device: 'Lenovo A798t', os: Android, ua: Android, class: mobile }
+'Lenovo A800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A800', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo a800-Android-UC Browser': { source: uap-core-device, device: 'Lenovo a800', os: Android, ua: 'UC Browser', class: mobile }
+'Lenovo A820-Android-Android': { source: uap-core-device, device: 'Lenovo A820', os: Android, ua: Android, class: mobile }
+'Lenovo A820c-Android-Android': { source: uap-core-device, device: 'Lenovo A820c', os: Android, ua: Android, class: mobile }
+'Lenovo A820e-Android-Android': { source: uap-core-device, device: 'Lenovo A820e', os: Android, ua: Android, class: mobile }
+'Lenovo A820t-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo A820t', os: Android, ua: 'Opera Mobile', class: mobile }
+'Lenovo A830-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A830', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A850-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A850', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo A850+-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A850+', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A859-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo A859', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo A880-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A880', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo A889-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo A889', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo amazon_w-Android-Android': { source: uap-core-device, device: 'Lenovo amazon_w', os: Android, ua: Android, class: mobile }
+'Lenovo B6000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo B6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo B6000-HV-Android-Chrome': { source: uap-core-device, device: 'Lenovo B6000-HV', os: Android, ua: Chrome, class: tablet }
+'Lenovo B8000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo B8000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo B8000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo B8000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo IdeaTab A2107A-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab A2107A-H', os: Android, ua: Other, class: tablet }
+'Lenovo IdeaTab A3000-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab A3000-H', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab S6000-H-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab S6000-H', os: Android, ua: Android, class: tablet }
+'Lenovo K1-Android-Android': { source: uap-core-device, device: 'Lenovo K1', os: Android, ua: Android, class: tablet }
+'Lenovo K2-Android-UC Browser': { source: uap-core-device, device: 'Lenovo K2', os: Android, ua: 'UC Browser', class: tablet }
+'Lenovo K800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K800', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo K860-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K860', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo k860-Android-Android': { source: uap-core-device, device: 'Lenovo k860', os: Android, ua: Android, class: mobile }
+'Lenovo K860i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K860i', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo K900-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K900', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo K900_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K900_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo K910-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo K910', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo lephone_sdk-Android-Android': { source: uap-core-device, device: 'Lenovo lephone_sdk', os: Android, ua: Android, class: mobile }
+'Lenovo Micromax A800-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo Micromax A800', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo p50-Other-UC Browser': { source: uap-core-device, device: 'Lenovo p50', os: Other, ua: 'UC Browser', class: mobile }
+'Lenovo P70-Android-Android': { source: uap-core-device, device: 'Lenovo P70', os: Android, ua: Android, class: mobile }
+'Lenovo P700-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P700', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo p700-Android-QQ Browser Mobile': { source: uap-core-device, device: 'Lenovo p700', os: Android, ua: 'QQ Browser Mobile', class: mobile }
+'Lenovo P700i-Android-Android': { source: uap-core-device, device: 'Lenovo P700i', os: Android, ua: Android, class: mobile }
+'Lenovo p700i-Android-Dolphin': { source: uap-core-device, device: 'Lenovo p700i', os: Android, ua: Dolphin, class: mobile }
+'Lenovo P770-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P770', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo P770_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P770_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo P780-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P780', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo P780_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo P780_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S1-37AH0-Android-Android': { source: uap-core-device, device: 'Lenovo S1-37AH0', os: Android, ua: Android, class: mobile }
+'Lenovo S2-38AH0-Android-Chrome': { source: uap-core-device, device: 'Lenovo S2-38AH0', os: Android, ua: Chrome, class: mobile }
+'Lenovo S5000-Android-Android': { source: uap-core-device, device: 'Lenovo S5000', os: Android, ua: Android, class: tablet }
+'Lenovo S5000-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo S5000-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo S5000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo S5000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo S560-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S560', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S6000-H-Android-Chrome': { source: uap-core-device, device: 'Lenovo S6000-H', os: Android, ua: Chrome, class: tablet }
+'Lenovo S6000L-F-Android-Chrome': { source: uap-core-device, device: 'Lenovo S6000L-F', os: Android, ua: Chrome, class: tablet }
+'Lenovo S650-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S650', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S660-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S660', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S680-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S680', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S686-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo S686', os: Android, ua: 'Opera Mobile', class: mobile }
+'Lenovo S696-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S696', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S720-Android-Android': { source: uap-core-device, device: 'Lenovo S720', os: Android, ua: Android, class: mobile }
+'Lenovo S720i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S720i', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S750-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S750', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S760-Android-Android': { source: uap-core-device, device: 'Lenovo S760', os: Android, ua: Android, class: mobile }
+'Lenovo S820-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S820', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S820_ROW-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S820_ROW', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S850e-Android-Android': { source: uap-core-device, device: 'Lenovo S850e', os: Android, ua: Android, class: mobile }
+'Lenovo S868t-Android-Android': { source: uap-core-device, device: 'Lenovo S868t', os: Android, ua: Android, class: mobile }
+'Lenovo S870e-Android-Opera Mobile': { source: uap-core-device, device: 'Lenovo S870e', os: Android, ua: 'Opera Mobile', class: mobile }
+'Lenovo S880-Android-Chrome': { source: uap-core-device, device: 'Lenovo S880', os: Android, ua: Chrome, class: mobile }
+'Lenovo s880-Android-Android': { source: uap-core-device, device: 'Lenovo s880', os: Android, ua: Android, class: mobile }
+'Lenovo S880 Maryanto-Android-Android': { source: uap-core-device, device: 'Lenovo S880 Maryanto', os: Android, ua: Android, class: mobile }
+'Lenovo S880i-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S880i', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S890-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S890', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo s890-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo s890', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S890_S123_121120-Other-Other': { source: uap-core-device, device: 'Lenovo S890_S123_121120', os: Other, ua: Other, class: mobile }
+'Lenovo S898t-Android-Android': { source: uap-core-device, device: 'Lenovo S898t', os: Android, ua: Android, class: mobile }
+'Lenovo S920-Android-Android': { source: uap-core-device, device: 'Lenovo S920', os: Android, ua: Android, class: mobile }
+'Lenovo S920_ROW-Android-Yandex Browser': { source: uap-core-device, device: 'Lenovo S920_ROW', os: Android, ua: 'Yandex Browser', class: mobile }
+'Lenovo S920_S505_131111-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S920_S505_131111', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S930-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S930', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S939-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S939', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Lenovo S960-Android-Chrome Mobile': { source: uap-core-device, device: 'Lenovo S960', os: Android, ua: 'Chrome Mobile', class: mobile }
+Lenovo-Android-Android: { source: uap-core-device, device: Lenovo, os: Android, ua: Android, class: mobile }
+'Lenovo SmartTab II 10-Android-Chrome': { source: uap-core-device, device: 'Lenovo SmartTab II 10', os: Android, ua: Chrome, class: tablet }
+'Lenovo SmartTab II 7-Android-Chrome': { source: uap-core-device, device: 'Lenovo SmartTab II 7', os: Android, ua: Chrome, class: tablet }
+3GW100-Android-Android: { source: uap-core-device, device: 3GW100, os: Android, ua: Android, class: mobile }
+3GW101-Android-Android: { source: uap-core-device, device: 3GW101, os: Android, ua: Android, class: mobile }
+A390-Android-Android: { source: uap-core-device, device: A390, os: Android, ua: Android, class: mobile }
+'Lenovo a2_3g_data-a2_3g_data-IdeaTab-Android-Other': { source: uap-core-device, device: 'Lenovo a2_3g_data-a2_3g_data-IdeaTab', os: Android, ua: Other, class: tablet }
+'Lenovo A210-Other-Obigo': { source: uap-core-device, device: 'Lenovo A210', os: Other, ua: Obigo, class: mobile }
+'Lenovo A2105-Android-Other': { source: uap-core-device, device: 'Lenovo A2105', os: Android, ua: Other, class: mobile }
+'Lenovo A218t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A218t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A269i-Android-Android': { source: uap-core-device, device: 'Lenovo A269i', os: Android, ua: Android, class: mobile }
+'Lenovo A278t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A278t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A288t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A288t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A298t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A298t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A366t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A366t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A376-Android-Android': { source: uap-core-device, device: 'Lenovo A376', os: Android, ua: Android, class: mobile }
+'Lenovo A390-Android-Android': { source: uap-core-device, device: 'Lenovo A390', os: Android, ua: Android, class: mobile }
+'Lenovo A390_ROW-Android-Other': { source: uap-core-device, device: 'Lenovo A390_ROW', os: Android, ua: Other, class: mobile }
+'Lenovo A390t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A390t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A398t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A398t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A500-Other-Other': { source: uap-core-device, device: 'Lenovo A500', os: Other, ua: Other, class: mobile }
+'Lenovo A516-Android-Safari': { source: uap-core-device, device: 'Lenovo A516', os: Android, ua: Safari, class: mobile }
+'Lenovo A590-Android-Android': { source: uap-core-device, device: 'Lenovo A590', os: Android, ua: Android, class: mobile }
+'Lenovo A60-Android-Other': { source: uap-core-device, device: 'Lenovo A60', os: Android, ua: Other, class: mobile }
+'Lenovo A60+-Android-Safari': { source: uap-core-device, device: 'Lenovo A60+', os: Android, ua: Safari, class: mobile }
+'Lenovo A610-Other-Other': { source: uap-core-device, device: 'Lenovo A610', os: Other, ua: Other, class: mobile }
+'Lenovo A65-Android-Other': { source: uap-core-device, device: 'Lenovo A65', os: Android, ua: Other, class: mobile }
+'Lenovo A656_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A656_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A658t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A658t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A660-Android-Safari': { source: uap-core-device, device: 'Lenovo A660', os: Android, ua: Safari, class: mobile }
+'Lenovo A66t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo A66t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo A670t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A670t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A678t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A678t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A680-Android-Safari': { source: uap-core-device, device: 'Lenovo A680', os: Android, ua: Safari, class: mobile }
+'Lenovo A690-Android-Safari': { source: uap-core-device, device: 'Lenovo A690', os: Android, ua: Safari, class: mobile }
+'Lenovo A698t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A698t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A750-Android-Safari': { source: uap-core-device, device: 'Lenovo A750', os: Android, ua: Safari, class: mobile }
+'Lenovo A780-Android-Other': { source: uap-core-device, device: 'Lenovo A780', os: Android, ua: Other, class: mobile }
+'Lenovo A789-Android-Android': { source: uap-core-device, device: 'Lenovo A789', os: Android, ua: Android, class: mobile }
+'Lenovo A790e_2.3.5_weibo_3.0.5_android-Other-Other': { source: uap-core-device, device: 'Lenovo A790e_2.3.5_weibo_3.0.5_android', os: Other, ua: Other, class: mobile }
+'Lenovo A798t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A798t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A800-Android-Android': { source: uap-core-device, device: 'Lenovo A800', os: Android, ua: Android, class: mobile }
+'Lenovo A820-Android-Safari': { source: uap-core-device, device: 'Lenovo A820', os: Android, ua: Safari, class: mobile }
+'Lenovo A820_4.1.2_weibo_3.5.2_android-Other-Other': { source: uap-core-device, device: 'Lenovo A820_4.1.2_weibo_3.5.2_android', os: Other, ua: Other, class: mobile }
+'Lenovo A820t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo A820t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo A830-Android-Safari': { source: uap-core-device, device: 'Lenovo A830', os: Android, ua: Safari, class: mobile }
+'Lenovo A850-Android-Safari': { source: uap-core-device, device: 'Lenovo A850', os: Android, ua: Safari, class: mobile }
+'Lenovo A880-Android-Other': { source: uap-core-device, device: 'Lenovo A880', os: Android, ua: Other, class: mobile }
+'Lenovo B6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo B6000-H', os: Android, ua: Other, class: tablet }
+'Lenovo B8000-H-Other-Other': { source: uap-core-device, device: 'Lenovo B8000-H', os: Other, ua: Other, class: tablet }
+'Lenovo B8000-H)-Android-Other': { source: uap-core-device, device: 'Lenovo B8000-H)', os: Android, ua: Other, class: mobile }
+'Lenovo Brand-Android-Other': { source: uap-core-device, device: 'Lenovo Brand', os: Android, ua: Other, class: mobile }
+'Lenovo E228-Other-Teleca Browser': { source: uap-core-device, device: 'Lenovo E228', os: Other, ua: 'Teleca Browser', class: mobile }
+'Lenovo E303-Other-Other': { source: uap-core-device, device: 'Lenovo E303', os: Other, ua: Other, class: mobile }
+'Lenovo E307-Other-Other': { source: uap-core-device, device: 'Lenovo E307', os: Other, ua: Other, class: mobile }
+'Lenovo E307_ENG_FRE-Other-Other': { source: uap-core-device, device: 'Lenovo E307_ENG_FRE', os: Other, ua: Other, class: mobile }
+'Lenovo E307_ENG_FRE_A-Other-Other': { source: uap-core-device, device: 'Lenovo E307_ENG_FRE_A', os: Other, ua: Other, class: mobile }
+'Lenovo E368-Other-Other': { source: uap-core-device, device: 'Lenovo E368', os: Other, ua: Other, class: mobile }
+'Lenovo E700-Other-Other': { source: uap-core-device, device: 'Lenovo E700', os: Other, ua: Other, class: mobile }
+'Lenovo ET860-Windows Mobile-UC Browser': { source: uap-core-device, device: 'Lenovo ET860', os: 'Windows Mobile', ua: 'UC Browser', class: mobile }
+'Lenovo ET980-Windows CE-IE': { source: uap-core-device, device: 'Lenovo ET980', os: 'Windows CE', ua: IE, class: mobile }
+'Lenovo G900-Other-Other': { source: uap-core-device, device: 'Lenovo G900', os: Other, ua: Other, class: mobile }
+'Lenovo GYM-Other-Other': { source: uap-core-device, device: 'Lenovo GYM', os: Other, ua: Other, class: mobile }
+'Lenovo i300_VN-Other-Other': { source: uap-core-device, device: 'Lenovo i300_VN', os: Other, ua: Other, class: mobile }
+'Lenovo i360-Other-Other': { source: uap-core-device, device: 'Lenovo i360', os: Other, ua: Other, class: mobile }
+'Lenovo I660-Other-Other': { source: uap-core-device, device: 'Lenovo I660', os: Other, ua: Other, class: mobile }
+'Lenovo I720-Other-Other': { source: uap-core-device, device: 'Lenovo I720', os: Other, ua: Other, class: mobile }
+'Lenovo I817-Other-Other': { source: uap-core-device, device: 'Lenovo I817', os: Other, ua: Other, class: mobile }
+'Lenovo I906-Other-Other': { source: uap-core-device, device: 'Lenovo I906', os: Other, ua: Other, class: mobile }
+'Lenovo I908-Other-Other': { source: uap-core-device, device: 'Lenovo I908', os: Other, ua: Other, class: mobile }
+'Lenovo i908-Other-Other': { source: uap-core-device, device: 'Lenovo i908', os: Other, ua: Other, class: mobile }
+'Lenovo I908_CMCC-Other-Other': { source: uap-core-device, device: 'Lenovo I908_CMCC', os: Other, ua: Other, class: mobile }
+'Lenovo I909-Other-Other': { source: uap-core-device, device: 'Lenovo I909', os: Other, ua: Other, class: mobile }
+'Lenovo I919-Other-Other': { source: uap-core-device, device: 'Lenovo I919', os: Other, ua: Other, class: mobile }
+'Lenovo i919-Other-Other': { source: uap-core-device, device: 'Lenovo i919', os: Other, ua: Other, class: mobile }
+'Lenovo I921-Other-Other': { source: uap-core-device, device: 'Lenovo I921', os: Other, ua: Other, class: mobile }
+'Lenovo i921-Other-Other': { source: uap-core-device, device: 'Lenovo i921', os: Other, ua: Other, class: mobile }
+'Lenovo IdeaTab-Android-Android': { source: uap-core-device, device: 'Lenovo IdeaTab', os: Android, ua: Android, class: tablet }
+'Lenovo IdeaTab_A2107A-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_A2107A-H', os: Android, ua: Other, class: tablet }
+'Lenovo IdeaTab_A3000-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_A3000-H', os: Android, ua: Other, class: tablet }
+'Lenovo IdeaTab_S6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo IdeaTab_S6000-H', os: Android, ua: Other, class: tablet }
+'Lenovo K800-Android-Safari': { source: uap-core-device, device: 'Lenovo K800', os: Android, ua: Safari, class: mobile }
+'Lenovo Lenovo_B6000-H-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_B6000-H', os: Android, ua: Other, class: tablet }
+'Lenovo Lenovo_B8000-H-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_B8000-H', os: Android, ua: Other, class: tablet }
+'Lenovo Lenovo_P780-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo_P780', os: Android, ua: Other, class: mobile }
+'Lenovo Lenovo-A288t-Android-Other': { source: uap-core-device, device: 'Lenovo Lenovo-A288t', os: Android, ua: Other, class: mobile }
+'Lenovo LIFETAB_E10312-Android-Android': { source: uap-core-device, device: 'Lenovo LIFETAB_E10312', os: Android, ua: Android, class: tablet }
+'Lenovo LIFETAB_E10316-Android-Other': { source: uap-core-device, device: 'Lenovo LIFETAB_E10316', os: Android, ua: Other, class: tablet }
+'Lenovo O3_TD-Android-Android': { source: uap-core-device, device: 'Lenovo O3_TD', os: Android, ua: Android, class: mobile }
+'Lenovo P50-Other-Other': { source: uap-core-device, device: 'Lenovo P50', os: Other, ua: Other, class: mobile }
+'Lenovo P50-VN-Other-Other': { source: uap-core-device, device: 'Lenovo P50-VN', os: Other, ua: Other, class: mobile }
+'Lenovo P700-Android-Safari': { source: uap-core-device, device: 'Lenovo P700', os: Android, ua: Safari, class: mobile }
+'Lenovo P700iLenovo-P700i-Android-Other': { source: uap-core-device, device: 'Lenovo P700iLenovo-P700i', os: Android, ua: Other, class: mobile }
+'Lenovo P708-Other-Other': { source: uap-core-device, device: 'Lenovo P708', os: Other, ua: Other, class: mobile }
+'Lenovo P708_ENG_FRE_A-Other-Other': { source: uap-core-device, device: 'Lenovo P708_ENG_FRE_A', os: Other, ua: Other, class: mobile }
+'Lenovo P708_ENG_RUS_S280-Other-Other': { source: uap-core-device, device: 'Lenovo P708_ENG_RUS_S280', os: Other, ua: Other, class: mobile }
+'Lenovo P768-Other-Other': { source: uap-core-device, device: 'Lenovo P768', os: Other, ua: Other, class: mobile }
+'Lenovo P770-Android-Android': { source: uap-core-device, device: 'Lenovo P770', os: Android, ua: Android, class: mobile }
+'Lenovo P780-Other-Other': { source: uap-core-device, device: 'Lenovo P780', os: Other, ua: Other, class: mobile }
+'Lenovo P902-Other-Other': { source: uap-core-device, device: 'Lenovo P902', os: Other, ua: Other, class: mobile }
+'Lenovo S5-Other-Other': { source: uap-core-device, device: 'Lenovo S5', os: Other, ua: Other, class: mobile }
+'Lenovo S50-Other-Other': { source: uap-core-device, device: 'Lenovo S50', os: Other, ua: Other, class: mobile }
+'Lenovo S520-Other-Other': { source: uap-core-device, device: 'Lenovo S520', os: Other, ua: Other, class: mobile }
+'Lenovo S560-Android-Safari': { source: uap-core-device, device: 'Lenovo S560', os: Android, ua: Safari, class: mobile }
+'Lenovo S720-Android-Safari': { source: uap-core-device, device: 'Lenovo S720', os: Android, ua: Safari, class: mobile }
+'Lenovo S720i-Android-Safari': { source: uap-core-device, device: 'Lenovo S720i', os: Android, ua: Safari, class: mobile }
+'Lenovo S868t_TD-Android-Android': { source: uap-core-device, device: 'Lenovo S868t_TD', os: Android, ua: Android, class: mobile }
+'Lenovo S880-Android-Other': { source: uap-core-device, device: 'Lenovo S880', os: Android, ua: Other, class: mobile }
+'Lenovo S880i-Android-Safari': { source: uap-core-device, device: 'Lenovo S880i', os: Android, ua: Safari, class: mobile }
+'Lenovo S890-Android-Safari': { source: uap-core-device, device: 'Lenovo S890', os: Android, ua: Safari, class: mobile }
+'Lenovo S898t_TD-Android-Safari': { source: uap-core-device, device: 'Lenovo S898t_TD', os: Android, ua: Safari, class: mobile }
+'Lenovo S9-Other-Other': { source: uap-core-device, device: 'Lenovo S9', os: Other, ua: Other, class: mobile }
+'Lenovo S920-Android-Safari': { source: uap-core-device, device: 'Lenovo S920', os: Android, ua: Safari, class: mobile }
+'Lenovo S960-Android-Other': { source: uap-core-device, device: 'Lenovo S960', os: Android, ua: Other, class: mobile }
+'Lenovo SmartTabII7-Android-Other': { source: uap-core-device, device: 'Lenovo SmartTabII7', os: Android, ua: Other, class: tablet }
+'Lenovo V800-Other-Other': { source: uap-core-device, device: 'Lenovo V800', os: Other, ua: Other, class: mobile }
+'Lenovo V806-Other-Other': { source: uap-core-device, device: 'Lenovo V806', os: Other, ua: Other, class: mobile }
+'Lenovo Vodafone_Smart_Tab_III_7-Android-Other': { source: uap-core-device, device: 'Lenovo Vodafone_Smart_Tab_III_7', os: Android, ua: Other, class: tablet }
 MFC150X-Android-Android: { source: uap-core-device, device: MFC150X, os: Android, ua: Android, class: '' }
 MFC155-Android-Android: { source: uap-core-device, device: MFC155, os: Android, ua: Android, class: '' }
 MFC155_09-Android-Android: { source: uap-core-device, device: MFC155_09, os: Android, ua: Android, class: '' }
@@ -15192,8 +15192,8 @@ Other-Mandriva-Firefox: { source: uap-core-os, device: Other, os: Mandriva, ua: 
 'Nokia N96-Symbian OS-UC Browser': { source: uap-core-os, device: 'Nokia N96', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia 5230-Symbian OS-QQ Browser Mini': { source: uap-core-os, device: 'Nokia 5230', os: 'Symbian OS', ua: 'QQ Browser Mini', class: '' }
 'Generic Smartphone-Bada-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: Bada, ua: 'Opera Mini', class: mobile }
-'Lenovo A288t_TD-Android-iBrowser': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: iBrowser, class: '' }
-'Lenovo A288t_TD-Android-Baidu Explorer': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: 'Baidu Explorer', class: '' }
+'Lenovo A288t_TD-Android-iBrowser': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: iBrowser, class: mobile }
+'Lenovo A288t_TD-Android-Baidu Explorer': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: 'Baidu Explorer', class: mobile }
 'Generic Smartphone-Android-QQ Browser Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: 'QQ Browser Mobile', class: mobile }
 'Generic Smartphone-Android-Other': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: Other, class: mobile }
 Other-Linux-ELinks: { source: uap-core-os, device: Other, os: Linux, ua: ELinks, class: '' }
