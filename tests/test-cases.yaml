@@ -6,7 +6,7 @@
 'BlackBerry 9320-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
 'BlackBerry Playbook-BlackBerry Tablet OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Playbook', os: 'BlackBerry Tablet OS', ua: 'BlackBerry WebKit', class: '' }
 'BlackBerry Touch-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Touch', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'Samsung Galaxy Nexus-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Galaxy Nexus', os: Android, ua: 'Chrome Mobile', class: '' }
+'Samsung Galaxy Nexus-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Galaxy Nexus', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung GT-P7510-Android-Android': { source: uap-core-device, device: 'Samsung GT-P7510', os: Android, ua: Android, class: '' }
 'HP TouchPad-webOS-webOS Browser': { source: uap-core-device, device: 'HP TouchPad', os: webOS, ua: 'webOS Browser', class: '' }
 'HTC Desire-Android-Android': { source: uap-core-device, device: 'HTC Desire', os: Android, ua: Android, class: mobile }
@@ -34,7 +34,7 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'LG T500-Other-Phantom Browser': { source: uap-core-device, device: 'LG T500', os: Other, ua: 'Phantom Browser', class: '' }
 'Lumia 800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
 'Lumia 920-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nexus 5-Android-Chrome Mobile': { source: uap-core-device, device: 'Nexus 5', os: Android, ua: 'Chrome Mobile', class: '' }
+'Nexus 5-Android-Chrome Mobile': { source: uap-core-device, device: 'Nexus 5', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Nintendo DS-Other-Bunjalloo': { source: uap-core-device, device: 'Nintendo DS', os: Other, ua: Bunjalloo, class: '' }
 'Nintendo DSi-Other-Opera': { source: uap-core-device, device: 'Nintendo DSi', os: Other, ua: Opera, class: '' }
 'Nintendo 3DS-Other-NetFront NX': { source: uap-core-device, device: 'Nintendo 3DS', os: Other, ua: 'NetFront NX', class: '' }
@@ -948,120 +948,120 @@ PAD-FMD700P-Android-Chrome: { source: uap-core-device, device: PAD-FMD700P, os: 
 'Assistant AP-803-Android-Android': { source: uap-core-device, device: 'Assistant AP-803', os: Android, ua: Android, class: '' }
 'Assistant AP-804-Android-Android': { source: uap-core-device, device: 'Assistant AP-804', os: Android, ua: Android, class: '' }
 'Assistant AP-941-Android-Android': { source: uap-core-device, device: 'Assistant AP-941', os: Android, ua: Android, class: '' }
-'asus PadFone 2-Android-Other': { source: uap-core-device, device: 'asus PadFone 2', os: Android, ua: Other, class: '' }
-'Asus eeepc-Android-Opera': { source: uap-core-device, device: 'Asus eeepc', os: Android, ua: Opera, class: '' }
-'Asus K00C-Android-Chrome': { source: uap-core-device, device: 'Asus K00C', os: Android, ua: Chrome, class: '' }
-'Asus K00E-Android-Chrome': { source: uap-core-device, device: 'Asus K00E', os: Android, ua: Chrome, class: '' }
-'Asus K00F-Android-Chrome': { source: uap-core-device, device: 'Asus K00F', os: Android, ua: Chrome, class: '' }
-'Asus K00G-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus K00G', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus K00L-Android-Chrome': { source: uap-core-device, device: 'Asus K00L', os: Android, ua: Chrome, class: '' }
-'Asus K00U-Android-Chrome': { source: uap-core-device, device: 'Asus K00U', os: Android, ua: Chrome, class: '' }
-'Asus K00Z-Android-Chrome': { source: uap-core-device, device: 'Asus K00Z', os: Android, ua: Chrome, class: '' }
-'Asus ME171-Android-Chrome': { source: uap-core-device, device: 'Asus ME171', os: Android, ua: Chrome, class: '' }
-'Asus ME172V-Android-Chrome': { source: uap-core-device, device: 'Asus ME172V', os: Android, ua: Chrome, class: '' }
-'Asus ME173X-Android-Chrome': { source: uap-core-device, device: 'Asus ME173X', os: Android, ua: Chrome, class: '' }
-'Asus ME301T-Android-Android': { source: uap-core-device, device: 'Asus ME301T', os: Android, ua: Android, class: '' }
-'Asus ME302C-Android-Chrome': { source: uap-core-device, device: 'Asus ME302C', os: Android, ua: Chrome, class: '' }
-'Asus ME302KL-Android-Chrome': { source: uap-core-device, device: 'Asus ME302KL', os: Android, ua: Chrome, class: '' }
-'Asus ME370T-Android-Android': { source: uap-core-device, device: 'Asus ME370T', os: Android, ua: Android, class: '' }
-'Asus ME371MG-Android-Chrome': { source: uap-core-device, device: 'Asus ME371MG', os: Android, ua: Chrome, class: '' }
-'Asus Nexus 10-Android-Chrome': { source: uap-core-device, device: 'Asus Nexus 10', os: Android, ua: Chrome, class: '' }
-'Asus Nexus 7-Android-Android': { source: uap-core-device, device: 'Asus Nexus 7', os: Android, ua: Android, class: '' }
-'Asus Nexus 7 2013-Android-Chrome': { source: uap-core-device, device: 'Asus Nexus 7 2013', os: Android, ua: Chrome, class: '' }
-'Asus PadFone-Android-Chrome': { source: uap-core-device, device: 'Asus PadFone', os: Android, ua: Chrome, class: '' }
-'Asus PadFone 2-Android-Chrome': { source: uap-core-device, device: 'Asus PadFone 2', os: Android, ua: Chrome, class: '' }
-'Asus PadFone Infinity-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone Infinity', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus PadFone Infinity A86-Android-Android': { source: uap-core-device, device: 'Asus PadFone Infinity A86', os: Android, ua: Android, class: '' }
-'Asus PadFone T004-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T004', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus PadFone T008-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T008', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus PadFone T00C-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T00C', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus TF101-Android-Chrome': { source: uap-core-device, device: 'Asus TF101', os: Android, ua: Chrome, class: '' }
-'Asus TF101-WiMAX-Android-Android': { source: uap-core-device, device: 'Asus TF101-WiMAX', os: Android, ua: Android, class: '' }
-'Asus TF201-Android-Chrome': { source: uap-core-device, device: 'Asus TF201', os: Android, ua: Chrome, class: '' }
-'Asus TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus TF300T', os: Android, ua: Chrome, class: '' }
-'Asus Transformer-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad Infinity TF700T-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad Infinity TF700T', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad TF700T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF700T', os: Android, ua: Android, class: '' }
-'Asus Transformer Prime-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Prime', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Prime TF201-Android-Android': { source: uap-core-device, device: 'Asus Transformer Prime TF201', os: Android, ua: Android, class: '' }
-'Asus Transformer Prime TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Prime TF300T', os: Android, ua: Android, class: '' }
-'Asus Transformer TF101-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF101', os: Android, ua: Chrome, class: '' }
-'Asus Transformer TF101G-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Chrome, class: '' }
-'Asus Transformer TF201G-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF201G', os: Android, ua: Android, class: '' }
-'Asus T00E-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus T00E', os: Android, ua: 'Chrome Mobile', class: '' }
-'Asus T00F-Android-Android': { source: uap-core-device, device: 'Asus T00F', os: Android, ua: Android, class: '' }
-'Asus A80-Android-Android': { source: uap-core-device, device: 'Asus A80', os: Android, ua: Android, class: '' }
-'Asus Eee Pad Transformer Prime TF201-Android-Android': { source: uap-core-device, device: 'Asus Eee Pad Transformer Prime TF201', os: Android, ua: Android, class: '' }
-'Asus K00S-Android-Android': { source: uap-core-device, device: 'Asus K00S', os: Android, ua: Android, class: '' }
-'Asus Pad ME370T-Android-UC Browser': { source: uap-core-device, device: 'Asus Pad ME370T', os: Android, ua: 'UC Browser', class: '' }
-'Asus Pad TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus Pad TF300T', os: Android, ua: Chrome, class: '' }
-'Asus Pad TF700T-Android-Chrome': { source: uap-core-device, device: 'Asus Pad TF700T', os: Android, ua: Chrome, class: '' }
-'Asus Tablet P1801-T-Android-Chrome': { source: uap-core-device, device: 'Asus Tablet P1801-T', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Android, class: '' }
-'Asus Transformer Pad TF300TG-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF300TG', os: Android, ua: Android, class: '' }
-'Asus Transformer Pad TF300TL-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF300TL', os: Android, ua: Chrome, class: '' }
-'Asus Transformer Pad TF700KL-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF700KL', os: Android, ua: Chrome, class: '' }
-'Asus Transformer TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF300T', os: Android, ua: Android, class: '' }
-'Asus Transformer TF300TG-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF300TG', os: Android, ua: Chrome, class: '' }
-'Asus E600-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Asus E600', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Asus Galaxy6-Windows Phone-IE': { source: uap-core-device, device: 'Asus Galaxy6', os: 'Windows Phone', ua: IE, class: '' }
-'Asus PadFone-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone', os: Linux, ua: Chrome, class: '' }
-'Asus PadFone 2-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone 2', os: Linux, ua: Chrome, class: '' }
-'Asus PadFone Infinity-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone Infinity', os: Linux, ua: Chrome, class: '' }
-'Asus PadFone T00C-Other-Other': { source: uap-core-device, device: 'Asus PadFone T00C', os: Other, ua: Other, class: '' }
-'Asus PadFone_2-Android-UC Browser': { source: uap-core-device, device: 'Asus PadFone_2', os: Android, ua: 'UC Browser', class: '' }
-'Asus Transformer TF101G-Android-Other': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Other, class: '' }
-'Asus 1210-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus 1210', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus A50-Android-Other': { source: uap-core-device, device: 'Asus A50', os: Android, ua: Other, class: '' }
-'Asus ASUS-Android-Other': { source: uap-core-device, device: 'Asus ASUS', os: Android, ua: Other, class: '' }
-'Asus DN-Android-Other': { source: uap-core-device, device: 'Asus DN', os: Android, ua: Other, class: '' }
-'Asus GALAXY6-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Asus GALAXY6', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Asus GalaxyII-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus GalaxyII', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus GALAXYII-Other-Other': { source: uap-core-device, device: 'Asus GALAXYII', os: Other, ua: Other, class: '' }
-'Asus GalaxyMini-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus GalaxyMini', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus J100-Other-Other': { source: uap-core-device, device: 'Asus J100', os: Other, ua: Other, class: '' }
-'Asus J101-Other-Other': { source: uap-core-device, device: 'Asus J101', os: Other, ua: Other, class: '' }
-'Asus J102-Other-Other': { source: uap-core-device, device: 'Asus J102', os: Other, ua: Other, class: '' }
-'Asus J501-Other-Other': { source: uap-core-device, device: 'Asus J501', os: Other, ua: Other, class: '' }
-'Asus K00E-Android-Other': { source: uap-core-device, device: 'Asus K00E', os: Android, ua: Other, class: '' }
-'Asus K00F-Android-Android': { source: uap-core-device, device: 'Asus K00F', os: Android, ua: Android, class: '' }
-'Asus K00G-Android-Other': { source: uap-core-device, device: 'Asus K00G', os: Android, ua: Other, class: '' }
-'Asus Live-Other-Other': { source: uap-core-device, device: 'Asus Live', os: Other, ua: Other, class: '' }
-'Asus M303-Other-Other': { source: uap-core-device, device: 'Asus M303', os: Other, ua: Other, class: '' }
-'Asus M530w-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus M530w', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus M530W-Other-Other': { source: uap-core-device, device: 'Asus M530W', os: Other, ua: Other, class: '' }
-'Asus M930-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus M930', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus ME173X-Android-Other': { source: uap-core-device, device: 'Asus ME173X', os: Android, ua: Other, class: '' }
-'Asus ME371MG-Other-Other': { source: uap-core-device, device: 'Asus ME371MG', os: Other, ua: Other, class: '' }
-'Asus Memo-Android-Android': { source: uap-core-device, device: 'Asus Memo', os: Android, ua: Android, class: '' }
-'Asus NEXUS-Other-Other': { source: uap-core-device, device: 'Asus NEXUS', os: Other, ua: Other, class: '' }
-'Asus Nexus_7-Android-Other': { source: uap-core-device, device: 'Asus Nexus_7', os: Android, ua: Other, class: '' }
-'Asus Nuvifone-Windows CE-IE': { source: uap-core-device, device: 'Asus Nuvifone', os: 'Windows CE', ua: IE, class: '' }
-'Asus P505-Other-Other': { source: uap-core-device, device: 'Asus P505', os: Other, ua: Other, class: '' }
-'Asus P525-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P525', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P526-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P526', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P527-Windows CE-Opera Mini': { source: uap-core-device, device: 'Asus P527', os: 'Windows CE', ua: 'Opera Mini', class: '' }
-'Asus P550-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P550', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P552-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P552', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P552w-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P552w', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P565-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P565', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P735-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P735', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus P750-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P750', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Asus PadFone-Android-Android': { source: uap-core-device, device: 'Asus PadFone', os: Android, ua: Android, class: '' }
-'Asus TeK-Windows-Other': { source: uap-core-device, device: 'Asus TeK', os: Windows, ua: Other, class: '' }
-'Asus Transformer Pad TF300T-Android-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Other, class: '' }
-'Asus Transformer Pad TF300TG-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300TG', os: Other, ua: Other, class: '' }
-'Asus Transformer Pad TF300TL-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300TL', os: Other, ua: Other, class: '' }
-'Asus Transformer Pad TF700KL-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF700KL', os: Other, ua: Other, class: '' }
-'Asus Transformer TF101G-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Android, class: '' }
-'Asus UPCTLoader-Other-Other': { source: uap-core-device, device: 'Asus UPCTLoader', os: Other, ua: Other, class: '' }
-'Asus V55-Other-Other': { source: uap-core-device, device: 'Asus V55', os: Other, ua: Other, class: '' }
-'Asus V66-Other-Other': { source: uap-core-device, device: 'Asus V66', os: Other, ua: Other, class: '' }
-'Asus V75-Other-Other': { source: uap-core-device, device: 'Asus V75', os: Other, ua: Other, class: '' }
-'Asus WW-Other-Other': { source: uap-core-device, device: 'Asus WW', os: Other, ua: Other, class: '' }
-'Asus Z801-Other-Other': { source: uap-core-device, device: 'Asus Z801', os: Other, ua: Other, class: '' }
+'asus PadFone 2-Android-Other': { source: uap-core-device, device: 'asus PadFone 2', os: Android, ua: Other, class: mobile }
+'Asus eeepc-Android-Opera': { source: uap-core-device, device: 'Asus eeepc', os: Android, ua: Opera, class: desktop }
+'Asus K00C-Android-Chrome': { source: uap-core-device, device: 'Asus K00C', os: Android, ua: Chrome, class: mobile }
+'Asus K00E-Android-Chrome': { source: uap-core-device, device: 'Asus K00E', os: Android, ua: Chrome, class: mobile }
+'Asus K00F-Android-Chrome': { source: uap-core-device, device: 'Asus K00F', os: Android, ua: Chrome, class: mobile }
+'Asus K00G-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus K00G', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus K00L-Android-Chrome': { source: uap-core-device, device: 'Asus K00L', os: Android, ua: Chrome, class: mobile }
+'Asus K00U-Android-Chrome': { source: uap-core-device, device: 'Asus K00U', os: Android, ua: Chrome, class: mobile }
+'Asus K00Z-Android-Chrome': { source: uap-core-device, device: 'Asus K00Z', os: Android, ua: Chrome, class: mobile }
+'Asus ME171-Android-Chrome': { source: uap-core-device, device: 'Asus ME171', os: Android, ua: Chrome, class: mobile }
+'Asus ME172V-Android-Chrome': { source: uap-core-device, device: 'Asus ME172V', os: Android, ua: Chrome, class: mobile }
+'Asus ME173X-Android-Chrome': { source: uap-core-device, device: 'Asus ME173X', os: Android, ua: Chrome, class: mobile }
+'Asus ME301T-Android-Android': { source: uap-core-device, device: 'Asus ME301T', os: Android, ua: Android, class: mobile }
+'Asus ME302C-Android-Chrome': { source: uap-core-device, device: 'Asus ME302C', os: Android, ua: Chrome, class: mobile }
+'Asus ME302KL-Android-Chrome': { source: uap-core-device, device: 'Asus ME302KL', os: Android, ua: Chrome, class: mobile }
+'Asus ME370T-Android-Android': { source: uap-core-device, device: 'Asus ME370T', os: Android, ua: Android, class: mobile }
+'Asus ME371MG-Android-Chrome': { source: uap-core-device, device: 'Asus ME371MG', os: Android, ua: Chrome, class: mobile }
+'Asus Nexus 10-Android-Chrome': { source: uap-core-device, device: 'Asus Nexus 10', os: Android, ua: Chrome, class: tablet }
+'Asus Nexus 7-Android-Android': { source: uap-core-device, device: 'Asus Nexus 7', os: Android, ua: Android, class: tablet }
+'Asus Nexus 7 2013-Android-Chrome': { source: uap-core-device, device: 'Asus Nexus 7 2013', os: Android, ua: Chrome, class: tablet }
+'Asus PadFone-Android-Chrome': { source: uap-core-device, device: 'Asus PadFone', os: Android, ua: Chrome, class: mobile }
+'Asus PadFone 2-Android-Chrome': { source: uap-core-device, device: 'Asus PadFone 2', os: Android, ua: Chrome, class: mobile }
+'Asus PadFone Infinity-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone Infinity', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus PadFone Infinity A86-Android-Android': { source: uap-core-device, device: 'Asus PadFone Infinity A86', os: Android, ua: Android, class: mobile }
+'Asus PadFone T004-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T004', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus PadFone T008-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T008', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus PadFone T00C-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus PadFone T00C', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus TF101-Android-Chrome': { source: uap-core-device, device: 'Asus TF101', os: Android, ua: Chrome, class: mobile }
+'Asus TF101-WiMAX-Android-Android': { source: uap-core-device, device: 'Asus TF101-WiMAX', os: Android, ua: Android, class: mobile }
+'Asus TF201-Android-Chrome': { source: uap-core-device, device: 'Asus TF201', os: Android, ua: Chrome, class: mobile }
+'Asus TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus TF300T', os: Android, ua: Chrome, class: mobile }
+'Asus Transformer-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad Infinity TF700T-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad Infinity TF700T', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad TF700T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF700T', os: Android, ua: Android, class: tablet }
+'Asus Transformer Prime-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Prime', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Prime TF201-Android-Android': { source: uap-core-device, device: 'Asus Transformer Prime TF201', os: Android, ua: Android, class: tablet }
+'Asus Transformer Prime TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Prime TF300T', os: Android, ua: Android, class: tablet }
+'Asus Transformer TF101-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF101', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer TF101G-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer TF201G-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF201G', os: Android, ua: Android, class: tablet }
+'Asus T00E-Android-Chrome Mobile': { source: uap-core-device, device: 'Asus T00E', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Asus T00F-Android-Android': { source: uap-core-device, device: 'Asus T00F', os: Android, ua: Android, class: mobile }
+'Asus A80-Android-Android': { source: uap-core-device, device: 'Asus A80', os: Android, ua: Android, class: mobile }
+'Asus Eee Pad Transformer Prime TF201-Android-Android': { source: uap-core-device, device: 'Asus Eee Pad Transformer Prime TF201', os: Android, ua: Android, class: tablet }
+'Asus K00S-Android-Android': { source: uap-core-device, device: 'Asus K00S', os: Android, ua: Android, class: mobile }
+'Asus Pad ME370T-Android-UC Browser': { source: uap-core-device, device: 'Asus Pad ME370T', os: Android, ua: 'UC Browser', class: tablet }
+'Asus Pad TF300T-Android-Chrome': { source: uap-core-device, device: 'Asus Pad TF300T', os: Android, ua: Chrome, class: tablet }
+'Asus Pad TF700T-Android-Chrome': { source: uap-core-device, device: 'Asus Pad TF700T', os: Android, ua: Chrome, class: tablet }
+'Asus Tablet P1801-T-Android-Chrome': { source: uap-core-device, device: 'Asus Tablet P1801-T', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Android, class: tablet }
+'Asus Transformer Pad TF300TG-Android-Android': { source: uap-core-device, device: 'Asus Transformer Pad TF300TG', os: Android, ua: Android, class: tablet }
+'Asus Transformer Pad TF300TL-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF300TL', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer Pad TF700KL-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer Pad TF700KL', os: Android, ua: Chrome, class: tablet }
+'Asus Transformer TF300T-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF300T', os: Android, ua: Android, class: tablet }
+'Asus Transformer TF300TG-Android-Chrome': { source: uap-core-device, device: 'Asus Transformer TF300TG', os: Android, ua: Chrome, class: tablet }
+'Asus E600-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Asus E600', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Asus Galaxy6-Windows Phone-IE': { source: uap-core-device, device: 'Asus Galaxy6', os: 'Windows Phone', ua: IE, class: mobile }
+'Asus PadFone-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone', os: Linux, ua: Chrome, class: mobile }
+'Asus PadFone 2-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone 2', os: Linux, ua: Chrome, class: mobile }
+'Asus PadFone Infinity-Linux-Chrome': { source: uap-core-device, device: 'Asus PadFone Infinity', os: Linux, ua: Chrome, class: mobile }
+'Asus PadFone T00C-Other-Other': { source: uap-core-device, device: 'Asus PadFone T00C', os: Other, ua: Other, class: mobile }
+'Asus PadFone_2-Android-UC Browser': { source: uap-core-device, device: 'Asus PadFone_2', os: Android, ua: 'UC Browser', class: mobile }
+'Asus Transformer TF101G-Android-Other': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Other, class: tablet }
+'Asus 1210-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus 1210', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus A50-Android-Other': { source: uap-core-device, device: 'Asus A50', os: Android, ua: Other, class: mobile }
+'Asus ASUS-Android-Other': { source: uap-core-device, device: 'Asus ASUS', os: Android, ua: Other, class: mobile }
+'Asus DN-Android-Other': { source: uap-core-device, device: 'Asus DN', os: Android, ua: Other, class: mobile }
+'Asus GALAXY6-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Asus GALAXY6', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Asus GalaxyII-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus GalaxyII', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus GALAXYII-Other-Other': { source: uap-core-device, device: 'Asus GALAXYII', os: Other, ua: Other, class: mobile }
+'Asus GalaxyMini-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus GalaxyMini', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus J100-Other-Other': { source: uap-core-device, device: 'Asus J100', os: Other, ua: Other, class: mobile }
+'Asus J101-Other-Other': { source: uap-core-device, device: 'Asus J101', os: Other, ua: Other, class: mobile }
+'Asus J102-Other-Other': { source: uap-core-device, device: 'Asus J102', os: Other, ua: Other, class: mobile }
+'Asus J501-Other-Other': { source: uap-core-device, device: 'Asus J501', os: Other, ua: Other, class: mobile }
+'Asus K00E-Android-Other': { source: uap-core-device, device: 'Asus K00E', os: Android, ua: Other, class: mobile }
+'Asus K00F-Android-Android': { source: uap-core-device, device: 'Asus K00F', os: Android, ua: Android, class: mobile }
+'Asus K00G-Android-Other': { source: uap-core-device, device: 'Asus K00G', os: Android, ua: Other, class: mobile }
+'Asus Live-Other-Other': { source: uap-core-device, device: 'Asus Live', os: Other, ua: Other, class: mobile }
+'Asus M303-Other-Other': { source: uap-core-device, device: 'Asus M303', os: Other, ua: Other, class: mobile }
+'Asus M530w-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus M530w', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus M530W-Other-Other': { source: uap-core-device, device: 'Asus M530W', os: Other, ua: Other, class: mobile }
+'Asus M930-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus M930', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus ME173X-Android-Other': { source: uap-core-device, device: 'Asus ME173X', os: Android, ua: Other, class: mobile }
+'Asus ME371MG-Other-Other': { source: uap-core-device, device: 'Asus ME371MG', os: Other, ua: Other, class: mobile }
+'Asus Memo-Android-Android': { source: uap-core-device, device: 'Asus Memo', os: Android, ua: Android, class: tablet }
+'Asus NEXUS-Other-Other': { source: uap-core-device, device: 'Asus NEXUS', os: Other, ua: Other, class: tablet }
+'Asus Nexus_7-Android-Other': { source: uap-core-device, device: 'Asus Nexus_7', os: Android, ua: Other, class: tablet }
+'Asus Nuvifone-Windows CE-IE': { source: uap-core-device, device: 'Asus Nuvifone', os: 'Windows CE', ua: IE, class: mobile }
+'Asus P505-Other-Other': { source: uap-core-device, device: 'Asus P505', os: Other, ua: Other, class: mobile }
+'Asus P525-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P525', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P526-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P526', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P527-Windows CE-Opera Mini': { source: uap-core-device, device: 'Asus P527', os: 'Windows CE', ua: 'Opera Mini', class: mobile }
+'Asus P550-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P550', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P552-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P552', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P552w-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P552w', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P565-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P565', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P735-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P735', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus P750-Windows CE-IE Mobile': { source: uap-core-device, device: 'Asus P750', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Asus PadFone-Android-Android': { source: uap-core-device, device: 'Asus PadFone', os: Android, ua: Android, class: mobile }
+'Asus TeK-Windows-Other': { source: uap-core-device, device: 'Asus TeK', os: Windows, ua: Other, class: mobile }
+'Asus Transformer Pad TF300T-Android-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300T', os: Android, ua: Other, class: tablet }
+'Asus Transformer Pad TF300TG-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300TG', os: Other, ua: Other, class: tablet }
+'Asus Transformer Pad TF300TL-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF300TL', os: Other, ua: Other, class: tablet }
+'Asus Transformer Pad TF700KL-Other-Other': { source: uap-core-device, device: 'Asus Transformer Pad TF700KL', os: Other, ua: Other, class: tablet }
+'Asus Transformer TF101G-Android-Android': { source: uap-core-device, device: 'Asus Transformer TF101G', os: Android, ua: Android, class: tablet }
+'Asus UPCTLoader-Other-Other': { source: uap-core-device, device: 'Asus UPCTLoader', os: Other, ua: Other, class: mobile }
+'Asus V55-Other-Other': { source: uap-core-device, device: 'Asus V55', os: Other, ua: Other, class: mobile }
+'Asus V66-Other-Other': { source: uap-core-device, device: 'Asus V66', os: Other, ua: Other, class: mobile }
+'Asus V75-Other-Other': { source: uap-core-device, device: 'Asus V75', os: Other, ua: Other, class: mobile }
+'Asus WW-Other-Other': { source: uap-core-device, device: 'Asus WW', os: Other, ua: Other, class: mobile }
+'Asus Z801-Other-Other': { source: uap-core-device, device: 'Asus Z801', os: Other, ua: Other, class: mobile }
 '@TAB-NINE-X2-B-Android-Opera': { source: uap-core-device, device: '@TAB-NINE-X2-B', os: Android, ua: Opera, class: '' }
 '@TAB-SEVEN-X2-B-Android-Opera': { source: uap-core-device, device: '@TAB-SEVEN-X2-B', os: Android, ua: Opera, class: '' }
 '@TAB-TEN.1-X2-B-Android-Android': { source: uap-core-device, device: '@TAB-TEN.1-X2-B', os: Android, ua: Android, class: '' }
@@ -4041,7 +4041,7 @@ Dual-Android-Android: { source: uap-core-device, device: Dual, os: Android, ua: 
 'HUAWEI_U8661-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8661, os: Android, ua: 'UC Browser', class: '' }
 GT-l9100-Android-Android: { source: uap-core-device, device: GT-l9100, os: Android, ua: Android, class: '' }
 'HUAWEI_U8666E-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8666E, os: Android, ua: 'UC Browser', class: '' }
-'Nexus S-Android-Android': { source: uap-core-device, device: 'Nexus S', os: Android, ua: Android, class: '' }
+'Nexus S-Android-Android': { source: uap-core-device, device: 'Nexus S', os: Android, ua: Android, class: mobile }
 'T-Mobile myTouch-Android-Opera Mobile': { source: uap-core-device, device: 'T-Mobile myTouch', os: Android, ua: 'Opera Mobile', class: '' }
 'GT-I9100-Android-Chrome Mobile': { source: uap-core-device, device: GT-I9100, os: Android, ua: 'Chrome Mobile', class: '' }
 'Prism II-Android-Chrome Mobile': { source: uap-core-device, device: 'Prism II', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -5306,7 +5306,7 @@ E400-Android-Android: { source: uap-core-device, device: E400, os: Android, ua: 
 GT540-Android-Android: { source: uap-core-device, device: GT540, os: Android, ua: Android, class: '' }
 GT540f-Android-Android: { source: uap-core-device, device: GT540f, os: Android, ua: Android, class: '' }
 LS670-Android-Android: { source: uap-core-device, device: LS670, os: Android, ua: Android, class: '' }
-'Nexus 4-Android-Android': { source: uap-core-device, device: 'Nexus 4', os: Android, ua: Android, class: '' }
+'Nexus 4-Android-Android': { source: uap-core-device, device: 'Nexus 4', os: Android, ua: Android, class: mobile }
 'Optimus 2X-Android-Opera Mobile': { source: uap-core-device, device: 'Optimus 2X', os: Android, ua: 'Opera Mobile', class: '' }
 'Optimus 4X HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Optimus 4X HD', os: Android, ua: 'Chrome Mobile', class: '' }
 'Optimus G-Android-Chrome Mobile': { source: uap-core-device, device: 'Optimus G', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -6468,7 +6468,7 @@ LG-E730-Android-Android: { source: uap-core-device, device: LG-E730, os: Android
 'LG MX8500-Other-Other': { source: uap-core-device, device: 'LG MX8500', os: Other, ua: Other, class: '' }
 'LG MX8700-Other-UP.Browser': { source: uap-core-device, device: 'LG MX8700', os: Other, ua: UP.Browser, class: '' }
 'LG NetFront-Other-NetFront': { source: uap-core-device, device: 'LG NetFront', os: Other, ua: NetFront, class: '' }
-'LG Nexus-Android-Android': { source: uap-core-device, device: 'LG Nexus', os: Android, ua: Android, class: '' }
+'LG Nexus-Android-Android': { source: uap-core-device, device: 'LG Nexus', os: Android, ua: Android, class: mobile }
 'LG NX550-Other-Other': { source: uap-core-device, device: 'LG NX550', os: Other, ua: Other, class: '' }
 'LG occam-Android-Android': { source: uap-core-device, device: 'LG occam', os: Android, ua: Android, class: '' }
 'LG OPTIMUS-Android-Android': { source: uap-core-device, device: 'LG OPTIMUS', os: Android, ua: Android, class: '' }
@@ -6733,8 +6733,8 @@ LG-V909-Android-Android: { source: uap-core-device, device: LG-V909, os: Android
 'LG 9100-Other-Other': { source: uap-core-device, device: 'LG 9100', os: Other, ua: Other, class: '' }
 'LG 9200-Other-Other': { source: uap-core-device, device: 'LG 9200', os: Other, ua: Other, class: '' }
 'LG 9700-Other-Other': { source: uap-core-device, device: 'LG 9700', os: Other, ua: Other, class: '' }
-'LGE Nexus 4-Android-Other': { source: uap-core-device, device: 'LGE Nexus 4', os: Android, ua: Other, class: '' }
-'LGE Nexus 5-Android-Other': { source: uap-core-device, device: 'LGE Nexus 5', os: Android, ua: Other, class: '' }
+'LGE Nexus 4-Android-Other': { source: uap-core-device, device: 'LGE Nexus 4', os: Android, ua: Other, class: mobile }
+'LGE Nexus 5-Android-Other': { source: uap-core-device, device: 'LGE Nexus 5', os: Android, ua: Other, class: mobile }
 'MAL N880E-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880E', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
 'MAL N880e WP7.8 V1 Plus-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880e WP7.8 V1 Plus', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
 smba1002-Android-Android: { source: uap-core-device, device: smba1002, os: Android, ua: Android, class: '' }
@@ -9710,8 +9710,8 @@ RK3188-Android-Android: { source: uap-core-device, device: RK3188, os: Android, 
 'RK702-Android-Chrome Mobile': { source: uap-core-device, device: RK702, os: Android, ua: 'Chrome Mobile', class: '' }
 RK732-Android-Android: { source: uap-core-device, device: RK732, os: Android, ua: Android, class: '' }
 'Runbo RunboX5-W-Android-Other': { source: uap-core-device, device: 'Runbo RunboX5-W', os: Android, ua: Other, class: '' }
-'Samsung Galaxy Nexus-Android-Other': { source: uap-core-device, device: 'Samsung Galaxy Nexus', os: Android, ua: Other, class: '' }
-'samsung Galaxy Nexus-Android-Other': { source: uap-core-device, device: 'samsung Galaxy Nexus', os: Android, ua: Other, class: '' }
+'Samsung Galaxy Nexus-Android-Other': { source: uap-core-device, device: 'Samsung Galaxy Nexus', os: Android, ua: Other, class: mobile }
+'samsung Galaxy Nexus-Android-Other': { source: uap-core-device, device: 'samsung Galaxy Nexus', os: Android, ua: Other, class: mobile }
 'Samsung GT-I5500-Android-Other': { source: uap-core-device, device: 'Samsung GT-I5500', os: Android, ua: Other, class: '' }
 'samsung GT-I5800-Android-Other': { source: uap-core-device, device: 'samsung GT-I5800', os: Android, ua: Other, class: '' }
 'samsung GT-I8150-Android-Other': { source: uap-core-device, device: 'samsung GT-I8150', os: Android, ua: Other, class: '' }
@@ -9842,9 +9842,9 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung GT-N7200-Android-Android': { source: uap-core-device, device: 'Samsung GT-N7200', os: Android, ua: Android, class: '' }
 'Samsung SAMSUNG SM-N9005-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SAMSUNG SM-N9005', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung SAMSUNG SM-N9005-ORANGE-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SAMSUNG SM-N9005-ORANGE', os: Android, ua: 'Chrome Mobile', class: '' }
-'Samsung Nexus S-Android-Chrome': { source: uap-core-device, device: 'Samsung Nexus S', os: Android, ua: Chrome, class: '' }
-'Samsung Nexus s-Android-Android': { source: uap-core-device, device: 'Samsung Nexus s', os: Android, ua: Android, class: '' }
-'Samsung Nexus S 4G-Android-Android': { source: uap-core-device, device: 'Samsung Nexus S 4G', os: Android, ua: Android, class: '' }
+'Samsung Nexus S-Android-Chrome': { source: uap-core-device, device: 'Samsung Nexus S', os: Android, ua: Chrome, class: mobile }
+'Samsung Nexus s-Android-Android': { source: uap-core-device, device: 'Samsung Nexus s', os: Android, ua: Android, class: mobile }
+'Samsung Nexus S 4G-Android-Android': { source: uap-core-device, device: 'Samsung Nexus S 4G', os: Android, ua: Android, class: mobile }
 'Samsung EK-GC100-Android-Android': { source: uap-core-device, device: 'Samsung EK-GC100', os: Android, ua: Android, class: '' }
 'Samsung GT-19300-Android-Android': { source: uap-core-device, device: 'Samsung GT-19300', os: Android, ua: Android, class: '' }
 'Samsung GT-B5330-Android-Android': { source: uap-core-device, device: 'Samsung GT-B5330', os: Android, ua: Android, class: '' }
@@ -9975,7 +9975,7 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung I9300-Android-Android': { source: uap-core-device, device: 'Samsung I9300', os: Android, ua: Android, class: '' }
 'Samsung I9505-Android-Android': { source: uap-core-device, device: 'Samsung I9505', os: Android, ua: Android, class: '' }
 'Samsung Intercept SPH-M910-Android-Safari': { source: uap-core-device, device: 'Samsung Intercept SPH-M910', os: Android, ua: Safari, class: '' }
-'Samsung Nexus S-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Nexus S', os: Android, ua: 'Chrome Mobile', class: '' }
+'Samsung Nexus S-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Nexus S', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung S3-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung S3', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung S4 aka MITO t510-Android-Android': { source: uap-core-device, device: 'Samsung S4 aka MITO t510', os: Android, ua: Android, class: '' }
 'Samsung Samsung Galaxy S III-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Samsung Galaxy S III', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -11703,8 +11703,8 @@ SM-N9005AO-Other-Other: { source: uap-core-device, device: SM-N9005AO, os: Other
 'Samsung NetFront-BREW-NetFront': { source: uap-core-device, device: 'Samsung NetFront', os: BREW, ua: NetFront, class: '' }
 'Samsung Network-Other-Other': { source: uap-core-device, device: 'Samsung Network', os: Other, ua: Other, class: '' }
 'Samsung Nevisp-Android-Android': { source: uap-core-device, device: 'Samsung Nevisp', os: Android, ua: Android, class: '' }
-'Samsung NEXUS-Android-Android': { source: uap-core-device, device: 'Samsung NEXUS', os: Android, ua: Android, class: '' }
-'Samsung Nexus-Android-Other': { source: uap-core-device, device: 'Samsung Nexus', os: Android, ua: Other, class: '' }
+'Samsung NEXUS-Android-Android': { source: uap-core-device, device: 'Samsung NEXUS', os: Android, ua: Android, class: mobile }
+'Samsung Nexus-Android-Other': { source: uap-core-device, device: 'Samsung Nexus', os: Android, ua: Other, class: mobile }
 'Samsung NOURLCMP-NOMIME-Other-Other': { source: uap-core-device, device: 'Samsung NOURLCMP-NOMIME', os: Other, ua: Other, class: '' }
 'Samsung OMNIA7-Windows CE-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA7', os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'Samsung OMNIA7-H3-Other-Other': { source: uap-core-device, device: 'Samsung OMNIA7-H3', os: Other, ua: Other, class: '' }
@@ -15304,7 +15304,7 @@ iPad-iOS-Dolphin: { source: uap-core-ua, device: iPad, os: iOS, ua: Dolphin, cla
 iPhone-iOS-Dolphin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Dolphin, class: mobile }
 XT701-Android-Dolphin: { source: uap-core-ua, device: XT701, os: Android, ua: Dolphin, class: '' }
 'Samsung GT-P1000-Android-Dolphin': { source: uap-core-ua, device: 'Samsung GT-P1000', os: Android, ua: Dolphin, class: '' }
-'Asus Nexus 7-Android-Dolphin': { source: uap-core-ua, device: 'Asus Nexus 7', os: Android, ua: Dolphin, class: '' }
+'Asus Nexus 7-Android-Dolphin': { source: uap-core-ua, device: 'Asus Nexus 7', os: Android, ua: Dolphin, class: tablet }
 'Other-Mac OS X-Dolphin': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Dolphin, class: desktop }
 Other-Linux-mDolphin: { source: uap-core-ua, device: Other, os: Linux, ua: mDolphin, class: '' }
 'iPhone4,1-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone4,1', os: iOS, ua: CFNetwork, class: mobile }
