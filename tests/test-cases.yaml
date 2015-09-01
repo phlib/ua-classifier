@@ -12,8 +12,8 @@
 'HTC Desire-Android-Android': { source: uap-core-device, device: 'HTC Desire', os: Android, ua: Android, class: mobile }
 'HTC WildfireS-Android-Android': { source: uap-core-device, device: 'HTC WildfireS', os: Android, ua: Android, class: mobile }
 'HTC Hero-Linux-QQ Browser': { source: uap-core-device, device: 'HTC Hero', os: Linux, ua: 'QQ Browser', class: mobile }
-'Huawei G2800-Other-Obigo': { source: uap-core-device, device: 'Huawei G2800', os: Other, ua: Obigo, class: '' }
-'Huawei M750-Other-NetFront': { source: uap-core-device, device: 'Huawei M750', os: Other, ua: NetFront, class: '' }
+'Huawei G2800-Other-Obigo': { source: uap-core-device, device: 'Huawei G2800', os: Other, ua: Obigo, class: mobile }
+'Huawei M750-Other-NetFront': { source: uap-core-device, device: 'Huawei M750', os: Other, ua: NetFront, class: mobile }
 'iPad-iOS-Mobile Safari': { source: uap-core-device, device: iPad, os: iOS, ua: 'Mobile Safari', class: tablet }
 'iPhone-iOS-Mobile Safari': { source: uap-core-device, device: iPhone, os: iOS, ua: 'Mobile Safari', class: mobile }
 'iPod-iOS-Mobile Safari': { source: uap-core-device, device: iPod, os: iOS, ua: 'Mobile Safari', class: mobile }
@@ -1080,21 +1080,21 @@ T-711D-Android-Chrome: { source: uap-core-device, device: T-711D, os: Android, u
 T-909-Android-Android: { source: uap-core-device, device: T-909, os: Android, ua: Android, class: '' }
 T-970-Android-Android: { source: uap-core-device, device: T-970, os: Android, ua: Android, class: '' }
 T-990A-Android-Android: { source: uap-core-device, device: T-990A, os: Android, ua: Android, class: '' }
-'Axioo Picopad 7-Android-Android': { source: uap-core-device, device: 'Axioo Picopad 7', os: Android, ua: Android, class: '' }
-'Axioo PICOpad GEA-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GEA', os: Android, ua: 'Chrome Mobile', class: '' }
-'Axioo PICOpad GEW-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GEW', os: Android, ua: 'Chrome Mobile', class: '' }
-'Axioo PICOpad GFI-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GFI', os: Android, ua: 'Chrome Mobile', class: '' }
-'Axioo Picopad GFI-Android-Android': { source: uap-core-device, device: 'Axioo Picopad GFI', os: Android, ua: Android, class: '' }
-'Axioo PICOpad GGD-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GGD', os: Android, ua: Chrome, class: '' }
-'Axioo PICOpad GGG-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GGG', os: Android, ua: Chrome, class: '' }
-'Axioo PICOpad GHM-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GHM', os: Android, ua: Chrome, class: '' }
-'Axioo PICOpad GIM-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GIM', os: Android, ua: Chrome, class: '' }
-'Axioo PICOpad GJT-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GJT', os: Android, ua: Chrome, class: '' }
-'Axioo PICOpad QGN-Android-Android': { source: uap-core-device, device: 'Axioo PICOpad QGN', os: Android, ua: Android, class: '' }
-'Axioo PICOpad_GIM-Android-UC Browser': { source: uap-core-device, device: 'Axioo PICOpad_GIM', os: Android, ua: 'UC Browser', class: '' }
-'Axioo Vigo 410-Android-Android': { source: uap-core-device, device: 'Axioo Vigo 410', os: Android, ua: Android, class: '' }
-'Axioo VIGO350-Android-Android': { source: uap-core-device, device: 'Axioo VIGO350', os: Android, ua: Android, class: '' }
-'Axioo VIGO410-Android-Opera Mobile': { source: uap-core-device, device: 'Axioo VIGO410', os: Android, ua: 'Opera Mobile', class: '' }
+'Axioo Picopad 7-Android-Android': { source: uap-core-device, device: 'Axioo Picopad 7', os: Android, ua: Android, class: tablet }
+'Axioo PICOpad GEA-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GEA', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Axioo PICOpad GEW-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GEW', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Axioo PICOpad GFI-Android-Chrome Mobile': { source: uap-core-device, device: 'Axioo PICOpad GFI', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Axioo Picopad GFI-Android-Android': { source: uap-core-device, device: 'Axioo Picopad GFI', os: Android, ua: Android, class: tablet }
+'Axioo PICOpad GGD-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GGD', os: Android, ua: Chrome, class: tablet }
+'Axioo PICOpad GGG-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GGG', os: Android, ua: Chrome, class: tablet }
+'Axioo PICOpad GHM-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GHM', os: Android, ua: Chrome, class: tablet }
+'Axioo PICOpad GIM-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GIM', os: Android, ua: Chrome, class: tablet }
+'Axioo PICOpad GJT-Android-Chrome': { source: uap-core-device, device: 'Axioo PICOpad GJT', os: Android, ua: Chrome, class: tablet }
+'Axioo PICOpad QGN-Android-Android': { source: uap-core-device, device: 'Axioo PICOpad QGN', os: Android, ua: Android, class: tablet }
+'Axioo PICOpad_GIM-Android-UC Browser': { source: uap-core-device, device: 'Axioo PICOpad_GIM', os: Android, ua: 'UC Browser', class: tablet }
+'Axioo Vigo 410-Android-Android': { source: uap-core-device, device: 'Axioo Vigo 410', os: Android, ua: Android, class: mobile }
+'Axioo VIGO350-Android-Android': { source: uap-core-device, device: 'Axioo VIGO350', os: Android, ua: Android, class: mobile }
+'Axioo VIGO410-Android-Opera Mobile': { source: uap-core-device, device: 'Axioo VIGO410', os: Android, ua: 'Opera Mobile', class: mobile }
 V700B-Android-Chrome: { source: uap-core-device, device: V700B, os: Android, ua: Chrome, class: '' }
 V700NA-Android-Android: { source: uap-core-device, device: V700NA, os: Android, ua: Android, class: '' }
 'V8000_USA_Cricket-Android-Chrome Mobile': { source: uap-core-device, device: V8000_USA_Cricket, os: Android, ua: 'Chrome Mobile', class: '' }
@@ -2195,7 +2195,7 @@ F-07D-Android-Android: { source: uap-core-device, device: F-07D, os: Android, ua
 'F-11D-Android-Chrome Mobile': { source: uap-core-device, device: F-11D, os: Android, ua: 'Chrome Mobile', class: '' }
 'F-12C-Android-Opera Mobile': { source: uap-core-device, device: F-12C, os: Android, ua: 'Opera Mobile', class: '' }
 'FJL21-Android-Chrome Mobile': { source: uap-core-device, device: FJL21, os: Android, ua: 'Chrome Mobile', class: '' }
-M532-Android-Chrome: { source: uap-core-device, device: M532, os: Android, ua: Chrome, class: '' }
+M532-Android-Chrome: { source: uap-core-device, device: M532, os: Android, ua: Chrome, class: mobile }
 'IS12F-Android-Opera Mobile': { source: uap-core-device, device: IS12F, os: Android, ua: 'Opera Mobile', class: '' }
 'ISW11F-Android-Opera Mobile': { source: uap-core-device, device: ISW11F, os: Android, ua: 'Opera Mobile', class: '' }
 G1-Android-Chrome: { source: uap-core-device, device: G1, os: Android, ua: Chrome, class: '' }
@@ -3822,560 +3822,560 @@ T-Mobile_Espresso-Android-Android: { source: uap-core-device, device: T-Mobile_E
 'HTC Windows_Phone_8X_by_HTC-H0002-Windows-Other': { source: uap-core-device, device: 'HTC Windows_Phone_8X_by_HTC-H0002', os: Windows, ua: Other, class: mobile }
 'HTC WIZARD-Windows CE-IE Mobile': { source: uap-core-device, device: 'HTC WIZARD', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
 'HTC wizard-Windows CE-IE': { source: uap-core-device, device: 'HTC wizard', os: 'Windows CE', ua: IE, class: mobile }
-'HUAWEI G510-0100-Android-Other': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: Other, class: '' }
-'HUAWEI P6-U06-Android-Other': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: Other, class: '' }
-'HUAWEI U8666E-Android-Other': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: Other, class: '' }
-'HUAWEI U8825-1-Android-Other': { source: uap-core-device, device: 'HUAWEI U8825-1', os: Android, ua: Other, class: '' }
-'HUAWEI U8850-Android-Other': { source: uap-core-device, device: 'HUAWEI U8850', os: Android, ua: Other, class: '' }
-'HUAWEI Y300-0100-Android-Other': { source: uap-core-device, device: 'HUAWEI Y300-0100', os: Android, ua: Other, class: '' }
-'HUAWEI U8180-Android-Other': { source: uap-core-device, device: 'HUAWEI U8180', os: Android, ua: Other, class: '' }
-'HUAWEI U8500-Android-Other': { source: uap-core-device, device: 'HUAWEI U8500', os: Android, ua: Other, class: '' }
-'HUAWEI U8510-Android-Other': { source: uap-core-device, device: 'HUAWEI U8510', os: Android, ua: Other, class: '' }
-'HUAWEI U8650-Android-Other': { source: uap-core-device, device: 'HUAWEI U8650', os: Android, ua: Other, class: '' }
-'HUAWEI U8655-1-Android-Other': { source: uap-core-device, device: 'HUAWEI U8655-1', os: Android, ua: Other, class: '' }
-'HUAWEI U8860-Android-Other': { source: uap-core-device, device: 'HUAWEI U8860', os: Android, ua: Other, class: '' }
-'HUAWEI U9200-Android-Other': { source: uap-core-device, device: 'HUAWEI U9200', os: Android, ua: Other, class: '' }
-U8110-Android-Android: { source: uap-core-device, device: U8110, os: Android, ua: Android, class: '' }
-U8180-Android-Android: { source: uap-core-device, device: U8180, os: Android, ua: Android, class: '' }
-'U8185-Android-Opera Mobile': { source: uap-core-device, device: U8185, os: Android, ua: 'Opera Mobile', class: '' }
-U8186-Android-Android: { source: uap-core-device, device: U8186, os: Android, ua: Android, class: '' }
-U8230-Android-Android: { source: uap-core-device, device: U8230, os: Android, ua: Android, class: '' }
-U8350-Android-Android: { source: uap-core-device, device: U8350, os: Android, ua: Android, class: '' }
-U8350-51-Android-Android: { source: uap-core-device, device: U8350-51, os: Android, ua: Android, class: '' }
-U8500-Android-Android: { source: uap-core-device, device: U8500, os: Android, ua: Android, class: '' }
-U8510-Android-Android: { source: uap-core-device, device: U8510, os: Android, ua: Android, class: '' }
-'U8510 mit EclipseROM-Android-Android': { source: uap-core-device, device: 'U8510 mit EclipseROM', os: Android, ua: Android, class: '' }
-U8510-1-Android-Android: { source: uap-core-device, device: U8510-1, os: Android, ua: Android, class: '' }
-U8520-Android-Android: { source: uap-core-device, device: U8520, os: Android, ua: Android, class: '' }
-'U8600-Android-Opera Mobile': { source: uap-core-device, device: U8600, os: Android, ua: 'Opera Mobile', class: '' }
-U8650-Android-Android: { source: uap-core-device, device: U8650, os: Android, ua: Android, class: '' }
-U8650-1-Android-Android: { source: uap-core-device, device: U8650-1, os: Android, ua: Android, class: '' }
-Huawei-U8651-Android-Android: { source: uap-core-device, device: Huawei-U8651, os: Android, ua: Android, class: '' }
-'U8651T-Android-Opera Mobile': { source: uap-core-device, device: U8651T, os: Android, ua: 'Opera Mobile', class: '' }
-U8652-Android-Android: { source: uap-core-device, device: U8652, os: Android, ua: Android, class: '' }
-U8652-51-Android-Android: { source: uap-core-device, device: U8652-51, os: Android, ua: Android, class: '' }
-U8655-Android-Android: { source: uap-core-device, device: U8655, os: Android, ua: Android, class: '' }
-U8655-1-Android-Android: { source: uap-core-device, device: U8655-1, os: Android, ua: Android, class: '' }
-U8655-51-Android-Android: { source: uap-core-device, device: U8655-51, os: Android, ua: Android, class: '' }
-U8660-Android-Android: { source: uap-core-device, device: U8660, os: Android, ua: Android, class: '' }
-'HUAWEI U8661-Android-Android': { source: uap-core-device, device: 'HUAWEI U8661', os: Android, ua: Android, class: '' }
-'Huawei-U8665-Android-Opera Mobile': { source: uap-core-device, device: Huawei-U8665, os: Android, ua: 'Opera Mobile', class: '' }
-U8666-1-Android-Android: { source: uap-core-device, device: U8666-1, os: Android, ua: Android, class: '' }
-U8666-51-Android-Android: { source: uap-core-device, device: U8666-51, os: Android, ua: Android, class: '' }
-'HUAWEI U8666E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8666E-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666E-51', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8666N-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666N', os: Android, ua: 'Chrome Mobile', class: '' }
-'U8667-Android-Opera Mobile': { source: uap-core-device, device: U8667, os: Android, ua: 'Opera Mobile', class: '' }
-'HUAWEI U8681-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8681', os: Android, ua: 'Chrome Mobile', class: '' }
-'Huawei-U8687-Android-Chrome Mobile': { source: uap-core-device, device: Huawei-U8687, os: Android, ua: 'Chrome Mobile', class: '' }
-'U8800-Android-Chrome Mobile': { source: uap-core-device, device: U8800, os: Android, ua: 'Chrome Mobile', class: '' }
-'U8800 Pro-Android-Android': { source: uap-core-device, device: 'U8800 Pro', os: Android, ua: Android, class: '' }
-'U8800-51-Android-UC Browser': { source: uap-core-device, device: U8800-51, os: Android, ua: 'UC Browser', class: '' }
-U8800+-Android-Android: { source: uap-core-device, device: U8800+, os: Android, ua: Android, class: '' }
-'U8800Pro-Android-Chrome Mobile': { source: uap-core-device, device: U8800Pro, os: Android, ua: 'Chrome Mobile', class: '' }
-U8800pro-Android-Android: { source: uap-core-device, device: U8800pro, os: Android, ua: Android, class: '' }
-'U8812D-Android-Opera Mobile': { source: uap-core-device, device: U8812D, os: Android, ua: 'Opera Mobile', class: '' }
-'HUAWEI U8815-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8815', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8815N-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8815N', os: Android, ua: 'Chrome Mobile', class: '' }
-U8816-Android-Android: { source: uap-core-device, device: U8816, os: Android, ua: Android, class: '' }
-'HUAWEI U8818-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8818', os: Android, ua: 'Chrome Mobile', class: '' }
-U8820-Android-Android: { source: uap-core-device, device: U8820, os: Android, ua: Android, class: '' }
-'HUAWEI U8825-1-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8825-1', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8825D-Android-Chrome': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: Chrome, class: '' }
-U8836D-Android-Chrome: { source: uap-core-device, device: U8836D, os: Android, ua: Chrome, class: '' }
-U8850-Android-Android: { source: uap-core-device, device: U8850, os: Android, ua: Android, class: '' }
-'U8860-Android-Opera Mobile': { source: uap-core-device, device: U8860, os: Android, ua: 'Opera Mobile', class: '' }
-'U8860-51-Android-Opera Mobile': { source: uap-core-device, device: U8860-51, os: Android, ua: 'Opera Mobile', class: '' }
-'HUAWEI U8950-Android-Android': { source: uap-core-device, device: 'HUAWEI U8950', os: Android, ua: Android, class: '' }
-'HUAWEI U8950-1-Android-Chrome': { source: uap-core-device, device: 'HUAWEI U8950-1', os: Android, ua: Chrome, class: '' }
-'HUAWEI U8950-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950-51', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8950D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950D', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8950N-1-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950N-1', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8950N-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950N-51', os: Android, ua: 'Chrome Mobile', class: '' }
-Huawei-U9000-Android-Android: { source: uap-core-device, device: Huawei-U9000, os: Android, ua: Android, class: '' }
-U90000-Android-Android: { source: uap-core-device, device: U90000, os: Android, ua: Android, class: '' }
-'U9200-Android-Chrome Mobile': { source: uap-core-device, device: U9200, os: Android, ua: 'Chrome Mobile', class: '' }
-U9200E-Android-Android: { source: uap-core-device, device: U9200E, os: Android, ua: Android, class: '' }
-'U9202L-1-Android-Chrome Mobile': { source: uap-core-device, device: U9202L-1, os: Android, ua: 'Chrome Mobile', class: '' }
-U9500-Android-Chrome: { source: uap-core-device, device: U9500, os: Android, ua: Chrome, class: '' }
-'U9500E-Android-UC Browser': { source: uap-core-device, device: U9500E, os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI U9508-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9508', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U9510-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9510', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U9510E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9510E', os: Android, ua: 'Chrome Mobile', class: '' }
-Ucell-Android-Android: { source: uap-core-device, device: Ucell, os: Android, ua: Android, class: '' }
-UM840-Android-Android: { source: uap-core-device, device: UM840, os: Android, ua: Android, class: '' }
-'HUAWEI Y210-0010-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0010', os: Android, ua: Android, class: '' }
-'HUAWEI Y210-0100-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0100', os: Android, ua: Android, class: '' }
-'HUAWEI Y210-0151-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0151', os: Android, ua: Android, class: '' }
-'HUAWEI Y210-0200-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI Y210-0200', os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI Y210-0251-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI Y210-0251', os: Android, ua: 'UC Browser', class: '' }
-Y220-U00-Android-Android: { source: uap-core-device, device: Y220-U00, os: Android, ua: Android, class: '' }
-Y220-U05-Android-Android: { source: uap-core-device, device: Y220-U05, os: Android, ua: Android, class: '' }
-Y220-U10-Android-Android: { source: uap-core-device, device: Y220-U10, os: Android, ua: Android, class: '' }
-'HUAWEI Y300-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300', os: Android, ua: Android, class: '' }
-'HUAWEI Y300-0000-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0000', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y300-0100-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0100', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y300-0151-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0151', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y300-100-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300-100', os: Android, ua: Android, class: '' }
-'Y301-A2-Android-Chrome Mobile': { source: uap-core-device, device: Y301-A2, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y310-5000-Android-Android': { source: uap-core-device, device: 'HUAWEI Y310-5000', os: Android, ua: Android, class: '' }
-'HUAWEI Y320-U01-Android-Android': { source: uap-core-device, device: 'HUAWEI Y320-U01', os: Android, ua: Android, class: '' }
-'HUAWEI Y320-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U10', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y320-U151-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U151', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y320-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U30', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y320-U351-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U351', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y321-C00-Android-Android': { source: uap-core-device, device: 'HUAWEI Y321-C00', os: Android, ua: Android, class: '' }
-'HUAWEI Y330-U01-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y330-U01', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y511-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI Y511-T00', os: Android, ua: Android, class: '' }
-'Y511-U00-Android-Chrome Mobile': { source: uap-core-device, device: Y511-U00, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y511-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U10', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y511-U251-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U251', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y511-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U30', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y530-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y530-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI Y600-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y600-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI A199-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI A199', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI B199-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI B199', os: Android, ua: 'UC Browser', class: '' }
-C8500-Android-Android: { source: uap-core-device, device: C8500, os: Android, ua: Android, class: '' }
-MTS-SP101-Android-Android: { source: uap-core-device, device: MTS-SP101, os: Android, ua: Android, class: '' }
-'C8512-Android-Baidu Explorer': { source: uap-core-device, device: C8512, os: Android, ua: 'Baidu Explorer', class: '' }
-C8600-Android-Android: { source: uap-core-device, device: C8600, os: Android, ua: Android, class: '' }
-C8650-Android-Android: { source: uap-core-device, device: C8650, os: Android, ua: Android, class: '' }
-C8800-Android-Android: { source: uap-core-device, device: C8800, os: Android, ua: Android, class: '' }
-'HUAWEI C8812-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8812', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI C8812E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8812E', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI C8813-Android-Android': { source: uap-core-device, device: 'HUAWEI C8813', os: Android, ua: Android, class: '' }
-'HUAWEI C8813D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813D', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI C8813Q-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813Q', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI C8815-Android-Android': { source: uap-core-device, device: 'HUAWEI C8815', os: Android, ua: Android, class: '' }
-'HUAWEI C8825D-Android-Android': { source: uap-core-device, device: 'HUAWEI C8825D', os: Android, ua: Android, class: '' }
-'HUAWEI C8860E-Android-Android': { source: uap-core-device, device: 'HUAWEI C8860E', os: Android, ua: Android, class: '' }
-'HUAWEI C8950D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8950D', os: Android, ua: 'Chrome Mobile', class: '' }
-'CM980-Android-Opera Mobile': { source: uap-core-device, device: CM980, os: Android, ua: 'Opera Mobile', class: '' }
-CM990-Android-Android: { source: uap-core-device, device: CM990, os: Android, ua: Android, class: '' }
-'HUAWEI D2-0082-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI D2-0082', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G510-0010-Android-Android': { source: uap-core-device, device: 'HUAWEI G510-0010', os: Android, ua: Android, class: '' }
-'HUAWEI G510-0100-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G510-0200-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0200', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G510-0251-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0251', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G520-0000-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G520-0000', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G520-5000-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-5000', os: Android, ua: Android, class: '' }
-'HUAWEI G520-T10-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-T10', os: Android, ua: Android, class: '' }
-'HUAWEI G525-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G525-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'G526-L11-Android-Chrome Mobile': { source: uap-core-device, device: G526-L11, os: Android, ua: 'Chrome Mobile', class: '' }
-'G526-L22-Android-Chrome Mobile': { source: uap-core-device, device: G526-L22, os: Android, ua: 'Chrome Mobile', class: '' }
-'G526-L33-Android-Chrome Mobile': { source: uap-core-device, device: G526-L33, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G6-L11-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G6-L11', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G6-U10-Android-Android': { source: uap-core-device, device: 'HUAWEI G6-U10', os: Android, ua: Android, class: '' }
-'HUAWEI G610-C00-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-C00', os: Android, ua: Android, class: '' }
-'HUAWEI G610-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-T00', os: Android, ua: Android, class: '' }
-'HUAWEI G610-T11-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-T11', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G610-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G610-U15-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U15', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G610-U20-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U20', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G610-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U30', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G700-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-T00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G700-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G700-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U10', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G700-U20-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U20', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G716-L070-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G716-L070', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G730-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI G730-T00', os: Android, ua: Android, class: '' }
-'HUAWEI G730-U00-Android-Android': { source: uap-core-device, device: 'HUAWEI G730-U00', os: Android, ua: Android, class: '' }
-'G740-L00-Android-Chrome Mobile': { source: uap-core-device, device: G740-L00, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G750-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G750-T00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G750-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G750-U10', os: Android, ua: 'Chrome Mobile', class: '' }
-H30-T00-Android-Android: { source: uap-core-device, device: H30-T00, os: Android, ua: Android, class: '' }
-'H30-U10-Android-Chrome Mobile': { source: uap-core-device, device: H30-U10, os: Android, ua: 'Chrome Mobile', class: '' }
-H866C-Android-Android: { source: uap-core-device, device: H866C, os: Android, ua: Android, class: '' }
-'Huawei-H867G-Android-Chrome Mobile': { source: uap-core-device, device: Huawei-H867G, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI H868C-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI H868C', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI H881C-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI H881C', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI HN3-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI HN3-U00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI HN3-U01-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI HN3-U01', os: Android, ua: 'Chrome Mobile', class: '' }
-M650-Android-Android: { source: uap-core-device, device: M650, os: Android, ua: Android, class: '' }
-'M660-Android-Opera Mobile': { source: uap-core-device, device: M660, os: Android, ua: 'Opera Mobile', class: '' }
-HUAWEI-M835-Android-Android: { source: uap-core-device, device: HUAWEI-M835, os: Android, ua: Android, class: '' }
-HUAWEI-M860-Android-Android: { source: uap-core-device, device: HUAWEI-M860, os: Android, ua: Android, class: '' }
-M865-Android-Android: { source: uap-core-device, device: M865, os: Android, ua: Android, class: '' }
-'M865C-Android-UC Browser': { source: uap-core-device, device: M865C, os: Android, ua: 'UC Browser', class: '' }
-USCCADR3310-Android-Android: { source: uap-core-device, device: USCCADR3310, os: Android, ua: Android, class: '' }
-'M886-Android-Opera Mobile': { source: uap-core-device, device: M886, os: Android, ua: 'Opera Mobile', class: '' }
-'GT-i9505-Android-Chrome Mobile': { source: uap-core-device, device: GT-i9505, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI MT1-T00-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI MT1-T00', os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI MT1-U06-Android-Chrome': { source: uap-core-device, device: 'HUAWEI MT1-U06', os: Android, ua: Chrome, class: '' }
-'HUAWEI MT2-L05-Android-Android': { source: uap-core-device, device: 'HUAWEI MT2-L05', os: Android, ua: Android, class: '' }
-'HUAWEI P2-6011-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P2-6011', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6-C00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-C00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6-U06-Android-Android': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: Android, class: '' }
-'HUAWEI P6-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-T00', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6-T00V-Android-Android': { source: uap-core-device, device: 'HUAWEI P6-T00V', os: Android, ua: Android, class: '' }
-'P6-U00-Android-Opera Mobile': { source: uap-core-device, device: P6-U00, os: Android, ua: 'Opera Mobile', class: '' }
-'GT - I9505-Android-Chrome Mobile': { source: uap-core-device, device: 'GT - I9505', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6 S-U06-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6 S-U06', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P7-L10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P7-L10', os: Android, ua: 'Chrome Mobile', class: '' }
-S42HW-Android-Android: { source: uap-core-device, device: S42HW, os: Android, ua: Android, class: '' }
-'Huawei S7-312u-Android-Android': { source: uap-core-device, device: 'Huawei S7-312u', os: Android, ua: Android, class: '' }
-S8600-Android-Android: { source: uap-core-device, device: S8600, os: Android, ua: Android, class: '' }
-'T102 PAD-Android-Chrome': { source: uap-core-device, device: 'T102 PAD', os: Android, ua: Chrome, class: '' }
-'T8620-Android-Chrome Mobile': { source: uap-core-device, device: T8620, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI_T8808D-Android-UC Browser': { source: uap-core-device, device: HUAWEI_T8808D, os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI T8828-Android-Android': { source: uap-core-device, device: 'HUAWEI T8828', os: Android, ua: Android, class: '' }
-T8830-Android-Android: { source: uap-core-device, device: T8830, os: Android, ua: Android, class: '' }
-'T8830Pro-Android-Chrome Mobile': { source: uap-core-device, device: T8830Pro, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI T8833-Android-Android': { source: uap-core-device, device: 'HUAWEI T8833', os: Android, ua: Android, class: '' }
-'HUAWEI T8950-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI T8950', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI T8950N-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI T8950N', os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI T8951-Android-Android': { source: uap-core-device, device: 'HUAWEI T8951', os: Android, ua: Android, class: '' }
-'T9200-Android-Chrome Mobile': { source: uap-core-device, device: T9200, os: Android, ua: 'Chrome Mobile', class: '' }
-Huawei_8100-9-Android-Android: { source: uap-core-device, device: Huawei_8100-9, os: Android, ua: Android, class: '' }
-'Huawei 858-Android-Android': { source: uap-core-device, device: 'Huawei 858', os: Android, ua: Android, class: '' }
-'IDEOS X1-Android-Android': { source: uap-core-device, device: 'IDEOS X1', os: Android, ua: Android, class: '' }
-AndroidXaofee-Android-Android: { source: uap-core-device, device: AndroidXaofee, os: Android, ua: Android, class: '' }
-'GM FOX-Android-Android': { source: uap-core-device, device: 'GM FOX', os: Android, ua: Android, class: '' }
-HuaweiU8500-Android-Android: { source: uap-core-device, device: HuaweiU8500, os: Android, ua: Android, class: '' }
-'Huawei IDEOS X3-Android-Android': { source: uap-core-device, device: 'Huawei IDEOS X3', os: Android, ua: Android, class: '' }
-Dual-Android-Android: { source: uap-core-device, device: Dual, os: Android, ua: Android, class: '' }
-'HUAWEI SONIC-Android-Android': { source: uap-core-device, device: 'HUAWEI SONIC', os: Android, ua: Android, class: '' }
-'Lucky Ultra Sonic U8650-Android-Android': { source: uap-core-device, device: 'Lucky Ultra Sonic U8650', os: Android, ua: Android, class: '' }
-'Prism-Android-Opera Mobile': { source: uap-core-device, device: Prism, os: Android, ua: 'Opera Mobile', class: '' }
-'STARTRAIL II-Android-Android': { source: uap-core-device, device: 'STARTRAIL II', os: Android, ua: Android, class: '' }
-'HUAWEI_U8661-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8661, os: Android, ua: 'UC Browser', class: '' }
-GT-l9100-Android-Android: { source: uap-core-device, device: GT-l9100, os: Android, ua: Android, class: '' }
-'HUAWEI_U8666E-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8666E, os: Android, ua: 'UC Browser', class: '' }
+'HUAWEI G510-0100-Android-Other': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: Other, class: mobile }
+'HUAWEI P6-U06-Android-Other': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: Other, class: mobile }
+'HUAWEI U8666E-Android-Other': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: Other, class: mobile }
+'HUAWEI U8825-1-Android-Other': { source: uap-core-device, device: 'HUAWEI U8825-1', os: Android, ua: Other, class: mobile }
+'HUAWEI U8850-Android-Other': { source: uap-core-device, device: 'HUAWEI U8850', os: Android, ua: Other, class: mobile }
+'HUAWEI Y300-0100-Android-Other': { source: uap-core-device, device: 'HUAWEI Y300-0100', os: Android, ua: Other, class: mobile }
+'HUAWEI U8180-Android-Other': { source: uap-core-device, device: 'HUAWEI U8180', os: Android, ua: Other, class: mobile }
+'HUAWEI U8500-Android-Other': { source: uap-core-device, device: 'HUAWEI U8500', os: Android, ua: Other, class: mobile }
+'HUAWEI U8510-Android-Other': { source: uap-core-device, device: 'HUAWEI U8510', os: Android, ua: Other, class: mobile }
+'HUAWEI U8650-Android-Other': { source: uap-core-device, device: 'HUAWEI U8650', os: Android, ua: Other, class: mobile }
+'HUAWEI U8655-1-Android-Other': { source: uap-core-device, device: 'HUAWEI U8655-1', os: Android, ua: Other, class: mobile }
+'HUAWEI U8860-Android-Other': { source: uap-core-device, device: 'HUAWEI U8860', os: Android, ua: Other, class: mobile }
+'HUAWEI U9200-Android-Other': { source: uap-core-device, device: 'HUAWEI U9200', os: Android, ua: Other, class: mobile }
+U8110-Android-Android: { source: uap-core-device, device: U8110, os: Android, ua: Android, class: mobile }
+U8180-Android-Android: { source: uap-core-device, device: U8180, os: Android, ua: Android, class: mobile }
+'U8185-Android-Opera Mobile': { source: uap-core-device, device: U8185, os: Android, ua: 'Opera Mobile', class: mobile }
+U8186-Android-Android: { source: uap-core-device, device: U8186, os: Android, ua: Android, class: mobile }
+U8230-Android-Android: { source: uap-core-device, device: U8230, os: Android, ua: Android, class: mobile }
+U8350-Android-Android: { source: uap-core-device, device: U8350, os: Android, ua: Android, class: mobile }
+U8350-51-Android-Android: { source: uap-core-device, device: U8350-51, os: Android, ua: Android, class: mobile }
+U8500-Android-Android: { source: uap-core-device, device: U8500, os: Android, ua: Android, class: mobile }
+U8510-Android-Android: { source: uap-core-device, device: U8510, os: Android, ua: Android, class: mobile }
+'U8510 mit EclipseROM-Android-Android': { source: uap-core-device, device: 'U8510 mit EclipseROM', os: Android, ua: Android, class: mobile }
+U8510-1-Android-Android: { source: uap-core-device, device: U8510-1, os: Android, ua: Android, class: mobile }
+U8520-Android-Android: { source: uap-core-device, device: U8520, os: Android, ua: Android, class: mobile }
+'U8600-Android-Opera Mobile': { source: uap-core-device, device: U8600, os: Android, ua: 'Opera Mobile', class: mobile }
+U8650-Android-Android: { source: uap-core-device, device: U8650, os: Android, ua: Android, class: mobile }
+U8650-1-Android-Android: { source: uap-core-device, device: U8650-1, os: Android, ua: Android, class: mobile }
+Huawei-U8651-Android-Android: { source: uap-core-device, device: Huawei-U8651, os: Android, ua: Android, class: mobile }
+'U8651T-Android-Opera Mobile': { source: uap-core-device, device: U8651T, os: Android, ua: 'Opera Mobile', class: mobile }
+U8652-Android-Android: { source: uap-core-device, device: U8652, os: Android, ua: Android, class: mobile }
+U8652-51-Android-Android: { source: uap-core-device, device: U8652-51, os: Android, ua: Android, class: mobile }
+U8655-Android-Android: { source: uap-core-device, device: U8655, os: Android, ua: Android, class: mobile }
+U8655-1-Android-Android: { source: uap-core-device, device: U8655-1, os: Android, ua: Android, class: mobile }
+U8655-51-Android-Android: { source: uap-core-device, device: U8655-51, os: Android, ua: Android, class: mobile }
+U8660-Android-Android: { source: uap-core-device, device: U8660, os: Android, ua: Android, class: mobile }
+'HUAWEI U8661-Android-Android': { source: uap-core-device, device: 'HUAWEI U8661', os: Android, ua: Android, class: mobile }
+'Huawei-U8665-Android-Opera Mobile': { source: uap-core-device, device: Huawei-U8665, os: Android, ua: 'Opera Mobile', class: mobile }
+U8666-1-Android-Android: { source: uap-core-device, device: U8666-1, os: Android, ua: Android, class: mobile }
+U8666-51-Android-Android: { source: uap-core-device, device: U8666-51, os: Android, ua: Android, class: mobile }
+'HUAWEI U8666E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8666E-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666E-51', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8666N-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8666N', os: Android, ua: 'Chrome Mobile', class: mobile }
+'U8667-Android-Opera Mobile': { source: uap-core-device, device: U8667, os: Android, ua: 'Opera Mobile', class: mobile }
+'HUAWEI U8681-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8681', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Huawei-U8687-Android-Chrome Mobile': { source: uap-core-device, device: Huawei-U8687, os: Android, ua: 'Chrome Mobile', class: mobile }
+'U8800-Android-Chrome Mobile': { source: uap-core-device, device: U8800, os: Android, ua: 'Chrome Mobile', class: mobile }
+'U8800 Pro-Android-Android': { source: uap-core-device, device: 'U8800 Pro', os: Android, ua: Android, class: mobile }
+'U8800-51-Android-UC Browser': { source: uap-core-device, device: U8800-51, os: Android, ua: 'UC Browser', class: mobile }
+U8800+-Android-Android: { source: uap-core-device, device: U8800+, os: Android, ua: Android, class: mobile }
+'U8800Pro-Android-Chrome Mobile': { source: uap-core-device, device: U8800Pro, os: Android, ua: 'Chrome Mobile', class: mobile }
+U8800pro-Android-Android: { source: uap-core-device, device: U8800pro, os: Android, ua: Android, class: mobile }
+'U8812D-Android-Opera Mobile': { source: uap-core-device, device: U8812D, os: Android, ua: 'Opera Mobile', class: mobile }
+'HUAWEI U8815-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8815', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8815N-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8815N', os: Android, ua: 'Chrome Mobile', class: mobile }
+U8816-Android-Android: { source: uap-core-device, device: U8816, os: Android, ua: Android, class: mobile }
+'HUAWEI U8818-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8818', os: Android, ua: 'Chrome Mobile', class: mobile }
+U8820-Android-Android: { source: uap-core-device, device: U8820, os: Android, ua: Android, class: mobile }
+'HUAWEI U8825-1-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8825-1', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8825D-Android-Chrome': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: Chrome, class: mobile }
+U8836D-Android-Chrome: { source: uap-core-device, device: U8836D, os: Android, ua: Chrome, class: mobile }
+U8850-Android-Android: { source: uap-core-device, device: U8850, os: Android, ua: Android, class: mobile }
+'U8860-Android-Opera Mobile': { source: uap-core-device, device: U8860, os: Android, ua: 'Opera Mobile', class: mobile }
+'U8860-51-Android-Opera Mobile': { source: uap-core-device, device: U8860-51, os: Android, ua: 'Opera Mobile', class: mobile }
+'HUAWEI U8950-Android-Android': { source: uap-core-device, device: 'HUAWEI U8950', os: Android, ua: Android, class: mobile }
+'HUAWEI U8950-1-Android-Chrome': { source: uap-core-device, device: 'HUAWEI U8950-1', os: Android, ua: Chrome, class: mobile }
+'HUAWEI U8950-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950-51', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8950D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950D', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8950N-1-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950N-1', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8950N-51-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8950N-51', os: Android, ua: 'Chrome Mobile', class: mobile }
+Huawei-U9000-Android-Android: { source: uap-core-device, device: Huawei-U9000, os: Android, ua: Android, class: mobile }
+U90000-Android-Android: { source: uap-core-device, device: U90000, os: Android, ua: Android, class: mobile }
+'U9200-Android-Chrome Mobile': { source: uap-core-device, device: U9200, os: Android, ua: 'Chrome Mobile', class: mobile }
+U9200E-Android-Android: { source: uap-core-device, device: U9200E, os: Android, ua: Android, class: mobile }
+'U9202L-1-Android-Chrome Mobile': { source: uap-core-device, device: U9202L-1, os: Android, ua: 'Chrome Mobile', class: mobile }
+U9500-Android-Chrome: { source: uap-core-device, device: U9500, os: Android, ua: Chrome, class: mobile }
+'U9500E-Android-UC Browser': { source: uap-core-device, device: U9500E, os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI U9508-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9508', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U9510-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9510', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U9510E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U9510E', os: Android, ua: 'Chrome Mobile', class: mobile }
+Ucell-Android-Android: { source: uap-core-device, device: Ucell, os: Android, ua: Android, class: mobile }
+UM840-Android-Android: { source: uap-core-device, device: UM840, os: Android, ua: Android, class: mobile }
+'HUAWEI Y210-0010-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0010', os: Android, ua: Android, class: mobile }
+'HUAWEI Y210-0100-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0100', os: Android, ua: Android, class: mobile }
+'HUAWEI Y210-0151-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0151', os: Android, ua: Android, class: mobile }
+'HUAWEI Y210-0200-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI Y210-0200', os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI Y210-0251-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI Y210-0251', os: Android, ua: 'UC Browser', class: mobile }
+Y220-U00-Android-Android: { source: uap-core-device, device: Y220-U00, os: Android, ua: Android, class: mobile }
+Y220-U05-Android-Android: { source: uap-core-device, device: Y220-U05, os: Android, ua: Android, class: mobile }
+Y220-U10-Android-Android: { source: uap-core-device, device: Y220-U10, os: Android, ua: Android, class: mobile }
+'HUAWEI Y300-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300', os: Android, ua: Android, class: mobile }
+'HUAWEI Y300-0000-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0000', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y300-0100-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0100', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y300-0151-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y300-0151', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y300-100-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300-100', os: Android, ua: Android, class: mobile }
+'Y301-A2-Android-Chrome Mobile': { source: uap-core-device, device: Y301-A2, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y310-5000-Android-Android': { source: uap-core-device, device: 'HUAWEI Y310-5000', os: Android, ua: Android, class: mobile }
+'HUAWEI Y320-U01-Android-Android': { source: uap-core-device, device: 'HUAWEI Y320-U01', os: Android, ua: Android, class: mobile }
+'HUAWEI Y320-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U10', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y320-U151-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U151', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y320-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U30', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y320-U351-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y320-U351', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y321-C00-Android-Android': { source: uap-core-device, device: 'HUAWEI Y321-C00', os: Android, ua: Android, class: mobile }
+'HUAWEI Y330-U01-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y330-U01', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y511-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI Y511-T00', os: Android, ua: Android, class: mobile }
+'Y511-U00-Android-Chrome Mobile': { source: uap-core-device, device: Y511-U00, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y511-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U10', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y511-U251-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U251', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y511-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y511-U30', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y530-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y530-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI Y600-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Y600-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI A199-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI A199', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI B199-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI B199', os: Android, ua: 'UC Browser', class: mobile }
+C8500-Android-Android: { source: uap-core-device, device: C8500, os: Android, ua: Android, class: mobile }
+MTS-SP101-Android-Android: { source: uap-core-device, device: MTS-SP101, os: Android, ua: Android, class: mobile }
+'C8512-Android-Baidu Explorer': { source: uap-core-device, device: C8512, os: Android, ua: 'Baidu Explorer', class: mobile }
+C8600-Android-Android: { source: uap-core-device, device: C8600, os: Android, ua: Android, class: mobile }
+C8650-Android-Android: { source: uap-core-device, device: C8650, os: Android, ua: Android, class: mobile }
+C8800-Android-Android: { source: uap-core-device, device: C8800, os: Android, ua: Android, class: mobile }
+'HUAWEI C8812-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8812', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI C8812E-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8812E', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI C8813-Android-Android': { source: uap-core-device, device: 'HUAWEI C8813', os: Android, ua: Android, class: mobile }
+'HUAWEI C8813D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813D', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI C8813Q-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813Q', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI C8815-Android-Android': { source: uap-core-device, device: 'HUAWEI C8815', os: Android, ua: Android, class: mobile }
+'HUAWEI C8825D-Android-Android': { source: uap-core-device, device: 'HUAWEI C8825D', os: Android, ua: Android, class: mobile }
+'HUAWEI C8860E-Android-Android': { source: uap-core-device, device: 'HUAWEI C8860E', os: Android, ua: Android, class: mobile }
+'HUAWEI C8950D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8950D', os: Android, ua: 'Chrome Mobile', class: mobile }
+'CM980-Android-Opera Mobile': { source: uap-core-device, device: CM980, os: Android, ua: 'Opera Mobile', class: mobile }
+CM990-Android-Android: { source: uap-core-device, device: CM990, os: Android, ua: Android, class: mobile }
+'HUAWEI D2-0082-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI D2-0082', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G510-0010-Android-Android': { source: uap-core-device, device: 'HUAWEI G510-0010', os: Android, ua: Android, class: mobile }
+'HUAWEI G510-0100-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G510-0200-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0200', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G510-0251-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0251', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G520-0000-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G520-0000', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G520-5000-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-5000', os: Android, ua: Android, class: mobile }
+'HUAWEI G520-T10-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-T10', os: Android, ua: Android, class: mobile }
+'HUAWEI G525-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G525-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'G526-L11-Android-Chrome Mobile': { source: uap-core-device, device: G526-L11, os: Android, ua: 'Chrome Mobile', class: mobile }
+'G526-L22-Android-Chrome Mobile': { source: uap-core-device, device: G526-L22, os: Android, ua: 'Chrome Mobile', class: mobile }
+'G526-L33-Android-Chrome Mobile': { source: uap-core-device, device: G526-L33, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G6-L11-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G6-L11', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G6-U10-Android-Android': { source: uap-core-device, device: 'HUAWEI G6-U10', os: Android, ua: Android, class: mobile }
+'HUAWEI G610-C00-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-C00', os: Android, ua: Android, class: mobile }
+'HUAWEI G610-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-T00', os: Android, ua: Android, class: mobile }
+'HUAWEI G610-T11-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-T11', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G610-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G610-U15-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U15', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G610-U20-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U20', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G610-U30-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G610-U30', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G700-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-T00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G700-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G700-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U10', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G700-U20-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G700-U20', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G716-L070-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G716-L070', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G730-T00-Android-Android': { source: uap-core-device, device: 'HUAWEI G730-T00', os: Android, ua: Android, class: mobile }
+'HUAWEI G730-U00-Android-Android': { source: uap-core-device, device: 'HUAWEI G730-U00', os: Android, ua: Android, class: mobile }
+'G740-L00-Android-Chrome Mobile': { source: uap-core-device, device: G740-L00, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G750-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G750-T00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G750-U10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G750-U10', os: Android, ua: 'Chrome Mobile', class: mobile }
+H30-T00-Android-Android: { source: uap-core-device, device: H30-T00, os: Android, ua: Android, class: mobile }
+'H30-U10-Android-Chrome Mobile': { source: uap-core-device, device: H30-U10, os: Android, ua: 'Chrome Mobile', class: mobile }
+H866C-Android-Android: { source: uap-core-device, device: H866C, os: Android, ua: Android, class: mobile }
+'Huawei-H867G-Android-Chrome Mobile': { source: uap-core-device, device: Huawei-H867G, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI H868C-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI H868C', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI H881C-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI H881C', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI HN3-U00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI HN3-U00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI HN3-U01-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI HN3-U01', os: Android, ua: 'Chrome Mobile', class: mobile }
+M650-Android-Android: { source: uap-core-device, device: M650, os: Android, ua: Android, class: mobile }
+'M660-Android-Opera Mobile': { source: uap-core-device, device: M660, os: Android, ua: 'Opera Mobile', class: mobile }
+HUAWEI-M835-Android-Android: { source: uap-core-device, device: HUAWEI-M835, os: Android, ua: Android, class: mobile }
+HUAWEI-M860-Android-Android: { source: uap-core-device, device: HUAWEI-M860, os: Android, ua: Android, class: mobile }
+M865-Android-Android: { source: uap-core-device, device: M865, os: Android, ua: Android, class: mobile }
+'M865C-Android-UC Browser': { source: uap-core-device, device: M865C, os: Android, ua: 'UC Browser', class: mobile }
+USCCADR3310-Android-Android: { source: uap-core-device, device: USCCADR3310, os: Android, ua: Android, class: mobile }
+'M886-Android-Opera Mobile': { source: uap-core-device, device: M886, os: Android, ua: 'Opera Mobile', class: mobile }
+'GT-i9505-Android-Chrome Mobile': { source: uap-core-device, device: GT-i9505, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI MT1-T00-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI MT1-T00', os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI MT1-U06-Android-Chrome': { source: uap-core-device, device: 'HUAWEI MT1-U06', os: Android, ua: Chrome, class: mobile }
+'HUAWEI MT2-L05-Android-Android': { source: uap-core-device, device: 'HUAWEI MT2-L05', os: Android, ua: Android, class: mobile }
+'HUAWEI P2-6011-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P2-6011', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6-C00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-C00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6-U06-Android-Android': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: Android, class: mobile }
+'HUAWEI P6-T00-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-T00', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6-T00V-Android-Android': { source: uap-core-device, device: 'HUAWEI P6-T00V', os: Android, ua: Android, class: mobile }
+'P6-U00-Android-Opera Mobile': { source: uap-core-device, device: P6-U00, os: Android, ua: 'Opera Mobile', class: mobile }
+'GT - I9505-Android-Chrome Mobile': { source: uap-core-device, device: 'GT - I9505', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6 S-U06-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6 S-U06', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P7-L10-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P7-L10', os: Android, ua: 'Chrome Mobile', class: mobile }
+S42HW-Android-Android: { source: uap-core-device, device: S42HW, os: Android, ua: Android, class: mobile }
+'Huawei S7-312u-Android-Android': { source: uap-core-device, device: 'Huawei S7-312u', os: Android, ua: Android, class: tablet }
+S8600-Android-Android: { source: uap-core-device, device: S8600, os: Android, ua: Android, class: mobile }
+'T102 PAD-Android-Chrome': { source: uap-core-device, device: 'T102 PAD', os: Android, ua: Chrome, class: tablet }
+'T8620-Android-Chrome Mobile': { source: uap-core-device, device: T8620, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI_T8808D-Android-UC Browser': { source: uap-core-device, device: HUAWEI_T8808D, os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI T8828-Android-Android': { source: uap-core-device, device: 'HUAWEI T8828', os: Android, ua: Android, class: mobile }
+T8830-Android-Android: { source: uap-core-device, device: T8830, os: Android, ua: Android, class: mobile }
+'T8830Pro-Android-Chrome Mobile': { source: uap-core-device, device: T8830Pro, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI T8833-Android-Android': { source: uap-core-device, device: 'HUAWEI T8833', os: Android, ua: Android, class: mobile }
+'HUAWEI T8950-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI T8950', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI T8950N-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI T8950N', os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI T8951-Android-Android': { source: uap-core-device, device: 'HUAWEI T8951', os: Android, ua: Android, class: mobile }
+'T9200-Android-Chrome Mobile': { source: uap-core-device, device: T9200, os: Android, ua: 'Chrome Mobile', class: mobile }
+Huawei_8100-9-Android-Android: { source: uap-core-device, device: Huawei_8100-9, os: Android, ua: Android, class: mobile }
+'Huawei 858-Android-Android': { source: uap-core-device, device: 'Huawei 858', os: Android, ua: Android, class: mobile }
+'IDEOS X1-Android-Android': { source: uap-core-device, device: 'IDEOS X1', os: Android, ua: Android, class: mobile }
+AndroidXaofee-Android-Android: { source: uap-core-device, device: AndroidXaofee, os: Android, ua: Android, class: mobile }
+'GM FOX-Android-Android': { source: uap-core-device, device: 'GM FOX', os: Android, ua: Android, class: mobile }
+HuaweiU8500-Android-Android: { source: uap-core-device, device: HuaweiU8500, os: Android, ua: Android, class: mobile }
+'Huawei IDEOS X3-Android-Android': { source: uap-core-device, device: 'Huawei IDEOS X3', os: Android, ua: Android, class: mobile }
+Dual-Android-Android: { source: uap-core-device, device: Dual, os: Android, ua: Android, class: tablet }
+'HUAWEI SONIC-Android-Android': { source: uap-core-device, device: 'HUAWEI SONIC', os: Android, ua: Android, class: mobile }
+'Lucky Ultra Sonic U8650-Android-Android': { source: uap-core-device, device: 'Lucky Ultra Sonic U8650', os: Android, ua: Android, class: mobile }
+'Prism-Android-Opera Mobile': { source: uap-core-device, device: Prism, os: Android, ua: 'Opera Mobile', class: mobile }
+'STARTRAIL II-Android-Android': { source: uap-core-device, device: 'STARTRAIL II', os: Android, ua: Android, class: mobile }
+'HUAWEI_U8661-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8661, os: Android, ua: 'UC Browser', class: mobile }
+GT-l9100-Android-Android: { source: uap-core-device, device: GT-l9100, os: Android, ua: Android, class: mobile }
+'HUAWEI_U8666E-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8666E, os: Android, ua: 'UC Browser', class: mobile }
 'Nexus S-Android-Android': { source: uap-core-device, device: 'Nexus S', os: Android, ua: Android, class: mobile }
-'T-Mobile myTouch-Android-Opera Mobile': { source: uap-core-device, device: 'T-Mobile myTouch', os: Android, ua: 'Opera Mobile', class: '' }
-'GT-I9100-Android-Chrome Mobile': { source: uap-core-device, device: GT-I9100, os: Android, ua: 'Chrome Mobile', class: '' }
-'Prism II-Android-Chrome Mobile': { source: uap-core-device, device: 'Prism II', os: Android, ua: 'Chrome Mobile', class: '' }
-'T-Mobile myTouch Q-Android-Opera Mobile': { source: uap-core-device, device: 'T-Mobile myTouch Q', os: Android, ua: 'Opera Mobile', class: '' }
-'IDEOS X5-Android-Android': { source: uap-core-device, device: 'IDEOS X5', os: Android, ua: Android, class: '' }
-'Huawei U8800-51-Android-Android': { source: uap-core-device, device: 'Huawei U8800-51', os: Android, ua: Android, class: '' }
-'Desire HD-Android-Android': { source: uap-core-device, device: 'Desire HD', os: Android, ua: Android, class: '' }
-hwu8812D-Android-Android: { source: uap-core-device, device: hwu8812D, os: Android, ua: Android, class: '' }
-'HUAWEI Ascend G 300-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Ascend G 300', os: Android, ua: 'Chrome Mobile', class: '' }
-'MTC Viva-Android-Android': { source: uap-core-device, device: 'MTC Viva', os: Android, ua: Android, class: '' }
-'HUAWEI_U8818-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8818, os: Android, ua: 'UC Browser', class: '' }
-u8820-Android-Android: { source: uap-core-device, device: u8820, os: Android, ua: Android, class: '' }
-'Bs 401-Android-Chrome Mobile': { source: uap-core-device, device: 'Bs 401', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI-U8850-Android-Opera Mobile': { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: 'Opera Mobile', class: '' }
-'TURKCELL MaxiPRO5-Android-Chrome': { source: uap-core-device, device: 'TURKCELL MaxiPRO5', os: Android, ua: Chrome, class: '' }
-HUAWEI-U9000-Android-Android: { source: uap-core-device, device: HUAWEI-U9000, os: Android, ua: Android, class: '' }
-'GS03-Android-Chrome Mobile': { source: uap-core-device, device: GS03, os: Android, ua: 'Chrome Mobile', class: '' }
-'201HW-Android-Chrome Mobile': { source: uap-core-device, device: 201HW, os: Android, ua: 'Chrome Mobile', class: '' }
-'HW-01E-Android-Chrome Mobile': { source: uap-core-device, device: HW-01E, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI_U9510E-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U9510E, os: Android, ua: 'UC Browser', class: '' }
-'GL07S-Android-Chrome Mobile': { source: uap-core-device, device: GL07S, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI_Y210-0100-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y210-0100, os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI_Y210-0151-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y210-0151, os: Android, ua: 'UC Browser', class: '' }
-'NATCOM N8302-Android-Android': { source: uap-core-device, device: 'NATCOM N8302', os: Android, ua: Android, class: '' }
-'HUAWEI_Y300-0000-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y300-0000, os: Android, ua: 'UC Browser', class: '' }
-'GT-I9505-Android-Chrome Mobile': { source: uap-core-device, device: GT-I9505, os: Android, ua: 'Chrome Mobile', class: '' }
-'Desire HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Desire HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Huawei Y301A1-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei Y301A1', os: Android, ua: 'Chrome Mobile', class: '' }
-'Huawei Y301A2-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei Y301A2', os: Android, ua: 'Chrome Mobile', class: '' }
-M860-Android-Android: { source: uap-core-device, device: M860, os: Android, ua: Android, class: '' }
-S7-Android-Chrome: { source: uap-core-device, device: S7, os: Android, ua: Chrome, class: '' }
-'HUAWEI MediaPad-Android-Chrome': { source: uap-core-device, device: 'HUAWEI MediaPad', os: Android, ua: Chrome, class: '' }
-'Ascend G-510-Android-Android': { source: uap-core-device, device: 'Ascend G-510', os: Android, ua: Android, class: '' }
-'Ascend G300-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend G300', os: Android, ua: 'Chrome Mobile', class: '' }
-'Ascend G330-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend G330', os: Android, ua: 'Chrome Mobile', class: '' }
-'Ascend G510-Android-Opera Mobile': { source: uap-core-device, device: 'Ascend G510', os: Android, ua: 'Opera Mobile', class: '' }
-'Ascend g510-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend g510', os: Android, ua: 'Chrome Mobile', class: '' }
-'Ascend G510-0251-Android-Android': { source: uap-core-device, device: 'Ascend G510-0251', os: Android, ua: Android, class: '' }
-'Ascend Y201 PRO-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend Y201 PRO', os: Android, ua: 'Chrome Mobile', class: '' }
-'Ascend Y201PRO-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend Y201PRO', os: Android, ua: 'Chrome Mobile', class: '' }
-'Ascend Y300-Android-Opera Mobile': { source: uap-core-device, device: 'Ascend Y300', os: Android, ua: 'Opera Mobile', class: '' }
-'Huawei Ascend-Android-Android': { source: uap-core-device, device: 'Huawei Ascend', os: Android, ua: Android, class: '' }
-'HUAWEI Asend Y 210D-Android-Android': { source: uap-core-device, device: 'HUAWEI Asend Y 210D', os: Android, ua: Android, class: '' }
-'Huawei C8500-Android-Android': { source: uap-core-device, device: 'Huawei C8500', os: Android, ua: Android, class: '' }
-'Huawei C8600-Android-UC Browser': { source: uap-core-device, device: 'Huawei C8600', os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI C8650-Android-Android': { source: uap-core-device, device: 'HUAWEI C8650', os: Android, ua: Android, class: '' }
-'HUAWEI C8650+-Android-Android': { source: uap-core-device, device: 'HUAWEI C8650+', os: Android, ua: Android, class: '' }
-'HUAWEI c8810-Android-Android': { source: uap-core-device, device: 'HUAWEI c8810', os: Android, ua: Android, class: '' }
-'HUAWEI C8810-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8810', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI c8810 C8650-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI c8810 C8650', os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI C8810_c8650-Android-Android': { source: uap-core-device, device: 'HUAWEI C8810_c8650', os: Android, ua: Android, class: '' }
-'HUAWEI C8812-Android-Chrome': { source: uap-core-device, device: 'HUAWEI C8812', os: Android, ua: Chrome, class: '' }
-'HUAWEI C8813d-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813d', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI C8813D-Android-Baidu Browser': { source: uap-core-device, device: 'HUAWEI C8813D', os: Android, ua: 'Baidu Browser', class: '' }
-'HUAWEI C8813Q-Android-Baidu Browser': { source: uap-core-device, device: 'HUAWEI C8813Q', os: Android, ua: 'Baidu Browser', class: '' }
-'HUAWEI C8950D-Android-Android': { source: uap-core-device, device: 'HUAWEI C8950D', os: Android, ua: Android, class: '' }
-'HUAWEI D2-0082-Android-Android': { source: uap-core-device, device: 'HUAWEI D2-0082', os: Android, ua: Android, class: '' }
-'HUAWEI G510-0010-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0010', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G510-0100-Android-Android': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: Android, class: '' }
-HuaweiG510-0100-orange-Android-Android: { source: uap-core-device, device: HuaweiG510-0100-orange, os: Android, ua: Android, class: '' }
-'HUAWEI_G510-0200-Android-UC Browser': { source: uap-core-device, device: HUAWEI_G510-0200, os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI G520-0000-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-0000', os: Android, ua: Android, class: '' }
-'HUAWEI G525-U00-Android-Android': { source: uap-core-device, device: 'HUAWEI G525-U00', os: Android, ua: Android, class: '' }
-'HUAWEI G525-Uncom-Android-Android': { source: uap-core-device, device: 'HUAWEI G525-Uncom', os: Android, ua: Android, class: '' }
-'HUAWEI G610-C00-Linux-QQ Browser Mobile': { source: uap-core-device, device: 'HUAWEI G610-C00', os: Linux, ua: 'QQ Browser Mobile', class: '' }
-'HUAWEI G610-U20-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-U20', os: Android, ua: Android, class: '' }
-'Huawei G700-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei G700', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI G7500-Android-Android': { source: uap-core-device, device: 'HUAWEI G7500', os: Android, ua: Android, class: '' }
-Huawei-H867G-Android-Android: { source: uap-core-device, device: Huawei-H867G, os: Android, ua: Android, class: '' }
-'HUAWEI H868C-Android-Android': { source: uap-core-device, device: 'HUAWEI H868C', os: Android, ua: Android, class: '' }
-'HUAWEI H881C-Android-Android': { source: uap-core-device, device: 'HUAWEI H881C', os: Android, ua: Android, class: '' }
-'Huawei Ideos-Android-Android': { source: uap-core-device, device: 'Huawei Ideos', os: Android, ua: Android, class: '' }
-'HUAWEI IDEOS U8500-Android-Android': { source: uap-core-device, device: 'HUAWEI IDEOS U8500', os: Android, ua: Android, class: '' }
-'Huawei Ideos X3-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X3', os: Android, ua: Android, class: '' }
-'Huawei Ideos X5-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X5', os: Android, ua: Android, class: '' }
-'Huawei Ideos X5 1.12.9(ret4rt)-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X5 1.12.9(ret4rt)', os: Android, ua: Android, class: '' }
-HUAWEI_IDEOS_U8500-Android-Android: { source: uap-core-device, device: HUAWEI_IDEOS_U8500, os: Android, ua: Android, class: '' }
-'HUAWEI M866-Android-Android': { source: uap-core-device, device: 'HUAWEI M866', os: Android, ua: Android, class: '' }
-HUAWEI-M920-Android-Android: { source: uap-core-device, device: HUAWEI-M920, os: Android, ua: Android, class: '' }
-HUAWEI-M931-Android-Android: { source: uap-core-device, device: HUAWEI-M931, os: Android, ua: Android, class: '' }
-'HUAWEI MT1-U06-Android-Android': { source: uap-core-device, device: 'HUAWEI MT1-U06', os: Android, ua: Android, class: '' }
-'HUAWEI OsiMood MediaPad-Android-Android': { source: uap-core-device, device: 'HUAWEI OsiMood MediaPad', os: Android, ua: Android, class: '' }
-'HUAWEI P2-6011-orange-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P2-6011-orange', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6-U06-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI P6s-Android-Android': { source: uap-core-device, device: 'HUAWEI P6s', os: Android, ua: Android, class: '' }
-HUAWEI-S7-Android-Android: { source: uap-core-device, device: HUAWEI-S7, os: Android, ua: Android, class: '' }
-'HUAWEI T8100-Android-Android': { source: uap-core-device, device: 'HUAWEI T8100', os: Android, ua: Android, class: '' }
-'HUAWEI T8300-Android-Android': { source: uap-core-device, device: 'HUAWEI T8300', os: Android, ua: Android, class: '' }
-'HUAWEI T8500-Android-Android': { source: uap-core-device, device: 'HUAWEI T8500', os: Android, ua: Android, class: '' }
-'HUAWEI T8600-Android-Baidu Explorer': { source: uap-core-device, device: 'HUAWEI T8600', os: Android, ua: 'Baidu Explorer', class: '' }
-'HUAWEI T8808D-Android-Android': { source: uap-core-device, device: 'HUAWEI T8808D', os: Android, ua: Android, class: '' }
-'HUAWEI_T8950-Android-UC Browser': { source: uap-core-device, device: HUAWEI_T8950, os: Android, ua: 'UC Browser', class: '' }
-'HUAWEI Tina-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Tina', os: Android, ua: 'Chrome Mobile', class: '' }
-'Huawei U8120-Android-Android': { source: uap-core-device, device: 'Huawei U8120', os: Android, ua: Android, class: '' }
-'Huawei U8220-Android-Android': { source: uap-core-device, device: 'Huawei U8220', os: Android, ua: Android, class: '' }
-'HuaweiU8300-Android-UC Browser': { source: uap-core-device, device: HuaweiU8300, os: Android, ua: 'UC Browser', class: '' }
-Huawei-u8500-Android-Android: { source: uap-core-device, device: Huawei-u8500, os: Android, ua: Android, class: '' }
-'Huawei u8600-Android-Android': { source: uap-core-device, device: 'Huawei u8600', os: Android, ua: Android, class: '' }
-'Huawei u8650-Android-Android': { source: uap-core-device, device: 'Huawei u8650', os: Android, ua: Android, class: '' }
-Huawei-U8651S-Other-Safari: { source: uap-core-device, device: Huawei-U8651S, os: Other, ua: Safari, class: '' }
-Huawei-U8652-Android-Android: { source: uap-core-device, device: Huawei-U8652, os: Android, ua: Android, class: '' }
-'HUAWEI U8661-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8661', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8665-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8665', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8666E-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: Android, class: '' }
-'HUAWEI U8666E-1-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E-1', os: Android, ua: Android, class: '' }
-'HUAWEI U8666E-51-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E-51', os: Android, ua: Android, class: '' }
-'HUAWEI U8666N-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666N', os: Android, ua: Android, class: '' }
-'HUAWEI U8681-Android-Android': { source: uap-core-device, device: 'HUAWEI U8681', os: Android, ua: Android, class: '' }
-Huawei-U8687-Android-Android: { source: uap-core-device, device: Huawei-U8687, os: Android, ua: Android, class: '' }
-'Huawei u8800-Android-Android': { source: uap-core-device, device: 'Huawei u8800', os: Android, ua: Android, class: '' }
-'HUAWEI U8800 Pro-Android-Android': { source: uap-core-device, device: 'HUAWEI U8800 Pro', os: Android, ua: Android, class: '' }
-'HUAWEI U8825D-Android-Android': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: Android, class: '' }
-'HUAWEI U8833-Android-Other': { source: uap-core-device, device: 'HUAWEI U8833', os: Android, ua: Other, class: '' }
-'HUAWEI-U8850-Android-Chrome Mobile': { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI U8860-Android-Opera Mobile': { source: uap-core-device, device: 'HUAWEI U8860', os: Android, ua: 'Opera Mobile', class: '' }
-'HUAWEI U8950-1-Android-Android': { source: uap-core-device, device: 'HUAWEI U8950-1', os: Android, ua: Android, class: '' }
-'HUAWEI U8950D-Linux-QQ Browser Mobile': { source: uap-core-device, device: 'HUAWEI U8950D', os: Linux, ua: 'QQ Browser Mobile', class: '' }
-'HUAWEI U8951-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8951', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI u8951-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI u8951', os: Android, ua: 'Chrome Mobile', class: '' }
-'HUAWEI-U9000-Android-Opera Mobile': { source: uap-core-device, device: HUAWEI-U9000, os: Android, ua: 'Opera Mobile', class: '' }
-'HUAWEI U9510E-Android-Android': { source: uap-core-device, device: 'HUAWEI U9510E', os: Android, ua: Android, class: '' }
-'Huawei UM840-Android-Android': { source: uap-core-device, device: 'Huawei UM840', os: Android, ua: Android, class: '' }
-HuaweiVodafone858-Android-Android: { source: uap-core-device, device: HuaweiVodafone858, os: Android, ua: Android, class: '' }
-HUAWEI_Y210-0200-Android-Android: { source: uap-core-device, device: HUAWEI_Y210-0200, os: Android, ua: Android, class: '' }
-'HUAWEI Y210-0251-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0251', os: Android, ua: Android, class: '' }
-'HUAWEI Y300-0000-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300-0000', os: Android, ua: Android, class: '' }
-'HUAWEI Y300-0151-Android-Other': { source: uap-core-device, device: 'HUAWEI Y300-0151', os: Android, ua: Other, class: '' }
-'Huawei Y301A1-Android-Android': { source: uap-core-device, device: 'Huawei Y301A1', os: Android, ua: Android, class: '' }
-'Huawei Y301A2-Android-Android': { source: uap-core-device, device: 'Huawei Y301A2', os: Android, ua: Android, class: '' }
-'MediaPad 10 FHD-Android-Chrome': { source: uap-core-device, device: 'MediaPad 10 FHD', os: Android, ua: Chrome, class: '' }
-'MediaPad 10 LINK-Android-Chrome': { source: uap-core-device, device: 'MediaPad 10 LINK', os: Android, ua: Chrome, class: '' }
-'MediaPad 10 Link+-Android-Android': { source: uap-core-device, device: 'MediaPad 10 Link+', os: Android, ua: Android, class: '' }
-'MediaPad 7 Lite-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Lite', os: Android, ua: Chrome, class: '' }
-'MediaPad 7 Lite II-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Lite II', os: Android, ua: Chrome, class: '' }
-'MediaPad 7 Vogue-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Vogue', os: Android, ua: Chrome, class: '' }
-'MediaPad 7 Youth-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Youth', os: Android, ua: Chrome, class: '' }
-'MediaPad M1 8.0-Android-Android': { source: uap-core-device, device: 'MediaPad M1 8.0', os: Android, ua: Android, class: '' }
-'MediaPad X1 7.0-Android-Chrome': { source: uap-core-device, device: 'MediaPad X1 7.0', os: Android, ua: Chrome, class: '' }
-'MediaPad_10_FHD-Android-UC Browser': { source: uap-core-device, device: MediaPad_10_FHD, os: Android, ua: 'UC Browser', class: '' }
-SpringBoard-Android-Chrome: { source: uap-core-device, device: SpringBoard, os: Android, ua: Chrome, class: '' }
-201HW-Android-Android: { source: uap-core-device, device: 201HW, os: Android, ua: Android, class: '' }
-'Bs 401-Android-Android': { source: uap-core-device, device: 'Bs 401', os: Android, ua: Android, class: '' }
-C8512-Android-Android: { source: uap-core-device, device: C8512, os: Android, ua: Android, class: '' }
-'C8600-Android-UC Browser': { source: uap-core-device, device: C8600, os: Android, ua: 'UC Browser', class: '' }
-'C8650-Android-UC Browser': { source: uap-core-device, device: C8650, os: Android, ua: 'UC Browser', class: '' }
-'CM980-Android-UC Browser': { source: uap-core-device, device: CM980, os: Android, ua: 'UC Browser', class: '' }
-dtab01-Android-Android: { source: uap-core-device, device: dtab01, os: Android, ua: Android, class: '' }
-GT01-Android-Android: { source: uap-core-device, device: GT01, os: Android, ua: Android, class: '' }
-M660-Android-Android: { source: uap-core-device, device: M660, os: Android, ua: Android, class: '' }
-M866-Android-Android: { source: uap-core-device, device: M866, os: Android, ua: Android, class: '' }
-M886-Android-Android: { source: uap-core-device, device: M886, os: Android, ua: Android, class: '' }
-MediaPad-Android-Android: { source: uap-core-device, device: MediaPad, os: Android, ua: Android, class: '' }
-'MTC 950-Android-Android': { source: uap-core-device, device: 'MTC 950', os: Android, ua: Android, class: '' }
-'MTC Mini-Android-Android': { source: uap-core-device, device: 'MTC Mini', os: Android, ua: Android, class: '' }
-'MTS-SP101-Android-UC Browser': { source: uap-core-device, device: MTS-SP101, os: Android, ua: 'UC Browser', class: '' }
-Phoenix-Android-Android: { source: uap-core-device, device: Phoenix, os: Android, ua: Android, class: '' }
-Prism-Android-Android: { source: uap-core-device, device: Prism, os: Android, ua: Android, class: '' }
-'Prism II-Android-Android': { source: uap-core-device, device: 'Prism II', os: Android, ua: Android, class: '' }
-'Samsung Galaxy Tab-Android-Android': { source: uap-core-device, device: 'Samsung Galaxy Tab', os: Android, ua: Android, class: '' }
-'T-Mobile myTouch-Android-Android': { source: uap-core-device, device: 'T-Mobile myTouch', os: Android, ua: Android, class: '' }
-'T-Mobile myTouch Q-Android-Android': { source: uap-core-device, device: 'T-Mobile myTouch Q', os: Android, ua: Android, class: '' }
-'T8620-Android-UC Browser': { source: uap-core-device, device: T8620, os: Android, ua: 'UC Browser', class: '' }
-T8830Pro-Android-Android: { source: uap-core-device, device: T8830Pro, os: Android, ua: Android, class: '' }
-'Telpad Dual S-Android-Android': { source: uap-core-device, device: 'Telpad Dual S', os: Android, ua: Android, class: '' }
-U8185-Android-Android: { source: uap-core-device, device: U8185, os: Android, ua: Android, class: '' }
-'U8510 w/ EclipseROM-Android-Android': { source: uap-core-device, device: 'U8510 w/ EclipseROM', os: Android, ua: Android, class: '' }
-'U8510 w/ M.E.R.-Android-Android': { source: uap-core-device, device: 'U8510 w/ M.E.R.', os: Android, ua: Android, class: '' }
-U8600-Android-Android: { source: uap-core-device, device: U8600, os: Android, ua: Android, class: '' }
-'U8651T-Android-UC Browser': { source: uap-core-device, device: U8651T, os: Android, ua: 'UC Browser', class: '' }
-U8665-Android-Android: { source: uap-core-device, device: U8665, os: Android, ua: Android, class: '' }
-'U8667-Android-UC Browser': { source: uap-core-device, device: U8667, os: Android, ua: 'UC Browser', class: '' }
-'U8812D-Android-UC Browser': { source: uap-core-device, device: U8812D, os: Android, ua: 'UC Browser', class: '' }
-U8818-Android-Android: { source: uap-core-device, device: U8818, os: Android, ua: Android, class: '' }
-U8836D-Android-Android: { source: uap-core-device, device: U8836D, os: Android, ua: Android, class: '' }
-U8860-51-Android-Android: { source: uap-core-device, device: U8860-51, os: Android, ua: Android, class: '' }
-U9200-Android-Android: { source: uap-core-device, device: U9200, os: Android, ua: Android, class: '' }
-U9202L-1-Android-Android: { source: uap-core-device, device: U9202L-1, os: Android, ua: Android, class: '' }
-U9500-Android-Android: { source: uap-core-device, device: U9500, os: Android, ua: Android, class: '' }
-'UM840-Android-UC Browser': { source: uap-core-device, device: UM840, os: Android, ua: 'UC Browser', class: '' }
-U8100-Android-Android: { source: uap-core-device, device: U8100, os: Android, ua: Android, class: '' }
-U8120-Android-Android: { source: uap-core-device, device: U8120, os: Android, ua: Android, class: '' }
-U8150-Android-Android: { source: uap-core-device, device: U8150, os: Android, ua: Android, class: '' }
-U8160-Android-Android: { source: uap-core-device, device: U8160, os: Android, ua: Android, class: '' }
-U8220-Android-Android: { source: uap-core-device, device: U8220, os: Android, ua: Android, class: '' }
-U8300-Android-Android: { source: uap-core-device, device: U8300, os: Android, ua: Android, class: '' }
-u8600-Android-Android: { source: uap-core-device, device: u8600, os: Android, ua: Android, class: '' }
-'U8665-Android-Chrome Mobile': { source: uap-core-device, device: U8665, os: Android, ua: 'Chrome Mobile', class: '' }
-u8800-Android-Android: { source: uap-core-device, device: u8800, os: Android, ua: Android, class: '' }
-U8815-Android-Android: { source: uap-core-device, device: U8815, os: Android, ua: Android, class: '' }
-'U8860-Android-Chrome Mobile': { source: uap-core-device, device: U8860, os: Android, ua: 'Chrome Mobile', class: '' }
-'U9000-Android-Opera Mobile': { source: uap-core-device, device: U9000, os: Android, ua: 'Opera Mobile', class: '' }
-'U9500-Android-Chrome Mobile': { source: uap-core-device, device: U9500, os: Android, ua: 'Chrome Mobile', class: '' }
-U9508-Android-Android: { source: uap-core-device, device: U9508, os: Android, ua: Android, class: '' }
-'Huawei IdeosS7-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7', os: Android, ua: Android, class: '' }
-'Huawei IdeosS7 Slim-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7 Slim', os: Android, ua: Android, class: '' }
-'Huawei IdeosS7-10X-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7-10X', os: Android, ua: Android, class: '' }
-'Huawei IdeosX5-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei IdeosX5', os: Android, ua: 'Chrome Mobile', class: '' }
-'Huawei IdeosX5 PRO-Android-Android': { source: uap-core-device, device: 'Huawei IdeosX5 PRO', os: Android, ua: Android, class: '' }
-'Huawei C8600-Android-Android': { source: uap-core-device, device: 'Huawei C8600', os: Android, ua: Android, class: '' }
-'Huawei C8650-Android-Android': { source: uap-core-device, device: 'Huawei C8650', os: Android, ua: Android, class: '' }
-'Huawei C8660-Android-Android': { source: uap-core-device, device: 'Huawei C8660', os: Android, ua: Android, class: '' }
-'Huawei Orange Daytona-Android-Android': { source: uap-core-device, device: 'Huawei Orange Daytona', os: Android, ua: Android, class: '' }
-'Huawei Pulse-Android-Android': { source: uap-core-device, device: 'Huawei Pulse', os: Android, ua: Android, class: '' }
-'Huawei Pulse Mini-Android-Android': { source: uap-core-device, device: 'Huawei Pulse Mini', os: Android, ua: Android, class: '' }
-'Huawei Vodafone 858-Android-Android': { source: uap-core-device, device: 'Huawei Vodafone 858', os: Android, ua: Android, class: '' }
-'Huawei 4Afrika-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei 4Afrika', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei Acsend W1 A4BA5B9A-2CD4-430D-B216-EA57BAF03A15-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei Acsend W1 A4BA5B9A-2CD4-430D-B216-EA57BAF03A15', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei W1-C00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-C00', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei W1-U00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-U00', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei W2-T01-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W2-T01', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei W2-U00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W2-U00', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei H883G-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei H883G', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei W1-U34-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-U34', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Huawei C6100-Other-Other': { source: uap-core-device, device: 'Huawei C6100', os: Other, ua: Other, class: '' }
-'Huawei CM980-Android-Android': { source: uap-core-device, device: 'Huawei CM980', os: Android, ua: Android, class: '' }
-'Huawei G3501-Other-Obigo': { source: uap-core-device, device: 'Huawei G3501', os: Other, ua: Obigo, class: '' }
-'Huawei G3610-Other-Obigo': { source: uap-core-device, device: 'Huawei G3610', os: Other, ua: Obigo, class: '' }
-'Huawei G3620-Other-Obigo': { source: uap-core-device, device: 'Huawei G3620', os: Other, ua: Obigo, class: '' }
-'Huawei G5010-Other-Obigo': { source: uap-core-device, device: 'Huawei G5010', os: Other, ua: Obigo, class: '' }
-'Huawei G510-Other-Other': { source: uap-core-device, device: 'Huawei G510', os: Other, ua: Other, class: '' }
-'Huawei G525-Android-Android': { source: uap-core-device, device: 'Huawei G525', os: Android, ua: Android, class: '' }
-'Huawei G5500-Other-Obigo': { source: uap-core-device, device: 'Huawei G5500', os: Other, ua: Obigo, class: '' }
-'Huawei G6610-Other-Obigo': { source: uap-core-device, device: 'Huawei G6610', os: Other, ua: Obigo, class: '' }
-'Huawei G6610V-Other-Obigo': { source: uap-core-device, device: 'Huawei G6610V', os: Other, ua: Obigo, class: '' }
-'Huawei G6620-Other-Obigo': { source: uap-core-device, device: 'Huawei G6620', os: Other, ua: Obigo, class: '' }
-'Huawei HUAWEI-Android-Other': { source: uap-core-device, device: 'Huawei HUAWEI', os: Android, ua: Other, class: '' }
-'Huawei Java-Other-Obigo': { source: uap-core-device, device: 'Huawei Java', os: Other, ua: Obigo, class: '' }
-'Huawei M615-Other-Obigo': { source: uap-core-device, device: 'Huawei M615', os: Other, ua: Obigo, class: '' }
-'Huawei MediaPad-Android-Android': { source: uap-core-device, device: 'Huawei MediaPad', os: Android, ua: Android, class: '' }
-'Huawei P6-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei P6', os: Android, ua: 'Chrome Mobile', class: '' }
+'T-Mobile myTouch-Android-Opera Mobile': { source: uap-core-device, device: 'T-Mobile myTouch', os: Android, ua: 'Opera Mobile', class: mobile }
+'GT-I9100-Android-Chrome Mobile': { source: uap-core-device, device: GT-I9100, os: Android, ua: 'Chrome Mobile', class: mobile }
+'Prism II-Android-Chrome Mobile': { source: uap-core-device, device: 'Prism II', os: Android, ua: 'Chrome Mobile', class: mobile }
+'T-Mobile myTouch Q-Android-Opera Mobile': { source: uap-core-device, device: 'T-Mobile myTouch Q', os: Android, ua: 'Opera Mobile', class: mobile }
+'IDEOS X5-Android-Android': { source: uap-core-device, device: 'IDEOS X5', os: Android, ua: Android, class: mobile }
+'Huawei U8800-51-Android-Android': { source: uap-core-device, device: 'Huawei U8800-51', os: Android, ua: Android, class: mobile }
+'Desire HD-Android-Android': { source: uap-core-device, device: 'Desire HD', os: Android, ua: Android, class: mobile }
+hwu8812D-Android-Android: { source: uap-core-device, device: hwu8812D, os: Android, ua: Android, class: mobile }
+'HUAWEI Ascend G 300-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Ascend G 300', os: Android, ua: 'Chrome Mobile', class: mobile }
+'MTC Viva-Android-Android': { source: uap-core-device, device: 'MTC Viva', os: Android, ua: Android, class: mobile }
+'HUAWEI_U8818-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U8818, os: Android, ua: 'UC Browser', class: mobile }
+u8820-Android-Android: { source: uap-core-device, device: u8820, os: Android, ua: Android, class: mobile }
+'Bs 401-Android-Chrome Mobile': { source: uap-core-device, device: 'Bs 401', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI-U8850-Android-Opera Mobile': { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: 'Opera Mobile', class: mobile }
+'TURKCELL MaxiPRO5-Android-Chrome': { source: uap-core-device, device: 'TURKCELL MaxiPRO5', os: Android, ua: Chrome, class: mobile }
+HUAWEI-U9000-Android-Android: { source: uap-core-device, device: HUAWEI-U9000, os: Android, ua: Android, class: mobile }
+'GS03-Android-Chrome Mobile': { source: uap-core-device, device: GS03, os: Android, ua: 'Chrome Mobile', class: mobile }
+'201HW-Android-Chrome Mobile': { source: uap-core-device, device: 201HW, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HW-01E-Android-Chrome Mobile': { source: uap-core-device, device: HW-01E, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI_U9510E-Android-UC Browser': { source: uap-core-device, device: HUAWEI_U9510E, os: Android, ua: 'UC Browser', class: mobile }
+'GL07S-Android-Chrome Mobile': { source: uap-core-device, device: GL07S, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI_Y210-0100-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y210-0100, os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI_Y210-0151-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y210-0151, os: Android, ua: 'UC Browser', class: mobile }
+'NATCOM N8302-Android-Android': { source: uap-core-device, device: 'NATCOM N8302', os: Android, ua: Android, class: mobile }
+'HUAWEI_Y300-0000-Android-UC Browser': { source: uap-core-device, device: HUAWEI_Y300-0000, os: Android, ua: 'UC Browser', class: mobile }
+'GT-I9505-Android-Chrome Mobile': { source: uap-core-device, device: GT-I9505, os: Android, ua: 'Chrome Mobile', class: mobile }
+'Desire HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Desire HD', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Huawei Y301A1-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei Y301A1', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Huawei Y301A2-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei Y301A2', os: Android, ua: 'Chrome Mobile', class: mobile }
+M860-Android-Android: { source: uap-core-device, device: M860, os: Android, ua: Android, class: mobile }
+S7-Android-Chrome: { source: uap-core-device, device: S7, os: Android, ua: Chrome, class: tablet }
+'HUAWEI MediaPad-Android-Chrome': { source: uap-core-device, device: 'HUAWEI MediaPad', os: Android, ua: Chrome, class: tablet }
+'Ascend G-510-Android-Android': { source: uap-core-device, device: 'Ascend G-510', os: Android, ua: Android, class: mobile }
+'Ascend G300-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend G300', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Ascend G330-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend G330', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Ascend G510-Android-Opera Mobile': { source: uap-core-device, device: 'Ascend G510', os: Android, ua: 'Opera Mobile', class: mobile }
+'Ascend g510-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend g510', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Ascend G510-0251-Android-Android': { source: uap-core-device, device: 'Ascend G510-0251', os: Android, ua: Android, class: mobile }
+'Ascend Y201 PRO-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend Y201 PRO', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Ascend Y201PRO-Android-Chrome Mobile': { source: uap-core-device, device: 'Ascend Y201PRO', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Ascend Y300-Android-Opera Mobile': { source: uap-core-device, device: 'Ascend Y300', os: Android, ua: 'Opera Mobile', class: mobile }
+'Huawei Ascend-Android-Android': { source: uap-core-device, device: 'Huawei Ascend', os: Android, ua: Android, class: mobile }
+'HUAWEI Asend Y 210D-Android-Android': { source: uap-core-device, device: 'HUAWEI Asend Y 210D', os: Android, ua: Android, class: mobile }
+'Huawei C8500-Android-Android': { source: uap-core-device, device: 'Huawei C8500', os: Android, ua: Android, class: mobile }
+'Huawei C8600-Android-UC Browser': { source: uap-core-device, device: 'Huawei C8600', os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI C8650-Android-Android': { source: uap-core-device, device: 'HUAWEI C8650', os: Android, ua: Android, class: mobile }
+'HUAWEI C8650+-Android-Android': { source: uap-core-device, device: 'HUAWEI C8650+', os: Android, ua: Android, class: mobile }
+'HUAWEI c8810-Android-Android': { source: uap-core-device, device: 'HUAWEI c8810', os: Android, ua: Android, class: mobile }
+'HUAWEI C8810-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8810', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI c8810 C8650-Android-UC Browser': { source: uap-core-device, device: 'HUAWEI c8810 C8650', os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI C8810_c8650-Android-Android': { source: uap-core-device, device: 'HUAWEI C8810_c8650', os: Android, ua: Android, class: mobile }
+'HUAWEI C8812-Android-Chrome': { source: uap-core-device, device: 'HUAWEI C8812', os: Android, ua: Chrome, class: mobile }
+'HUAWEI C8813d-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI C8813d', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI C8813D-Android-Baidu Browser': { source: uap-core-device, device: 'HUAWEI C8813D', os: Android, ua: 'Baidu Browser', class: mobile }
+'HUAWEI C8813Q-Android-Baidu Browser': { source: uap-core-device, device: 'HUAWEI C8813Q', os: Android, ua: 'Baidu Browser', class: mobile }
+'HUAWEI C8950D-Android-Android': { source: uap-core-device, device: 'HUAWEI C8950D', os: Android, ua: Android, class: mobile }
+'HUAWEI D2-0082-Android-Android': { source: uap-core-device, device: 'HUAWEI D2-0082', os: Android, ua: Android, class: mobile }
+'HUAWEI G510-0010-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI G510-0010', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G510-0100-Android-Android': { source: uap-core-device, device: 'HUAWEI G510-0100', os: Android, ua: Android, class: mobile }
+HuaweiG510-0100-orange-Android-Android: { source: uap-core-device, device: HuaweiG510-0100-orange, os: Android, ua: Android, class: mobile }
+'HUAWEI_G510-0200-Android-UC Browser': { source: uap-core-device, device: HUAWEI_G510-0200, os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI G520-0000-Android-Android': { source: uap-core-device, device: 'HUAWEI G520-0000', os: Android, ua: Android, class: mobile }
+'HUAWEI G525-U00-Android-Android': { source: uap-core-device, device: 'HUAWEI G525-U00', os: Android, ua: Android, class: mobile }
+'HUAWEI G525-Uncom-Android-Android': { source: uap-core-device, device: 'HUAWEI G525-Uncom', os: Android, ua: Android, class: mobile }
+'HUAWEI G610-C00-Linux-QQ Browser Mobile': { source: uap-core-device, device: 'HUAWEI G610-C00', os: Linux, ua: 'QQ Browser Mobile', class: mobile }
+'HUAWEI G610-U20-Android-Android': { source: uap-core-device, device: 'HUAWEI G610-U20', os: Android, ua: Android, class: mobile }
+'Huawei G700-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei G700', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI G7500-Android-Android': { source: uap-core-device, device: 'HUAWEI G7500', os: Android, ua: Android, class: mobile }
+Huawei-H867G-Android-Android: { source: uap-core-device, device: Huawei-H867G, os: Android, ua: Android, class: mobile }
+'HUAWEI H868C-Android-Android': { source: uap-core-device, device: 'HUAWEI H868C', os: Android, ua: Android, class: mobile }
+'HUAWEI H881C-Android-Android': { source: uap-core-device, device: 'HUAWEI H881C', os: Android, ua: Android, class: mobile }
+'Huawei Ideos-Android-Android': { source: uap-core-device, device: 'Huawei Ideos', os: Android, ua: Android, class: mobile }
+'HUAWEI IDEOS U8500-Android-Android': { source: uap-core-device, device: 'HUAWEI IDEOS U8500', os: Android, ua: Android, class: mobile }
+'Huawei Ideos X3-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X3', os: Android, ua: Android, class: mobile }
+'Huawei Ideos X5-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X5', os: Android, ua: Android, class: mobile }
+'Huawei Ideos X5 1.12.9(ret4rt)-Android-Android': { source: uap-core-device, device: 'Huawei Ideos X5 1.12.9(ret4rt)', os: Android, ua: Android, class: mobile }
+HUAWEI_IDEOS_U8500-Android-Android: { source: uap-core-device, device: HUAWEI_IDEOS_U8500, os: Android, ua: Android, class: mobile }
+'HUAWEI M866-Android-Android': { source: uap-core-device, device: 'HUAWEI M866', os: Android, ua: Android, class: mobile }
+HUAWEI-M920-Android-Android: { source: uap-core-device, device: HUAWEI-M920, os: Android, ua: Android, class: mobile }
+HUAWEI-M931-Android-Android: { source: uap-core-device, device: HUAWEI-M931, os: Android, ua: Android, class: mobile }
+'HUAWEI MT1-U06-Android-Android': { source: uap-core-device, device: 'HUAWEI MT1-U06', os: Android, ua: Android, class: mobile }
+'HUAWEI OsiMood MediaPad-Android-Android': { source: uap-core-device, device: 'HUAWEI OsiMood MediaPad', os: Android, ua: Android, class: tablet }
+'HUAWEI P2-6011-orange-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P2-6011-orange', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6-U06-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI P6-U06', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI P6s-Android-Android': { source: uap-core-device, device: 'HUAWEI P6s', os: Android, ua: Android, class: mobile }
+HUAWEI-S7-Android-Android: { source: uap-core-device, device: HUAWEI-S7, os: Android, ua: Android, class: tablet }
+'HUAWEI T8100-Android-Android': { source: uap-core-device, device: 'HUAWEI T8100', os: Android, ua: Android, class: mobile }
+'HUAWEI T8300-Android-Android': { source: uap-core-device, device: 'HUAWEI T8300', os: Android, ua: Android, class: mobile }
+'HUAWEI T8500-Android-Android': { source: uap-core-device, device: 'HUAWEI T8500', os: Android, ua: Android, class: mobile }
+'HUAWEI T8600-Android-Baidu Explorer': { source: uap-core-device, device: 'HUAWEI T8600', os: Android, ua: 'Baidu Explorer', class: mobile }
+'HUAWEI T8808D-Android-Android': { source: uap-core-device, device: 'HUAWEI T8808D', os: Android, ua: Android, class: mobile }
+'HUAWEI_T8950-Android-UC Browser': { source: uap-core-device, device: HUAWEI_T8950, os: Android, ua: 'UC Browser', class: mobile }
+'HUAWEI Tina-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI Tina', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Huawei U8120-Android-Android': { source: uap-core-device, device: 'Huawei U8120', os: Android, ua: Android, class: mobile }
+'Huawei U8220-Android-Android': { source: uap-core-device, device: 'Huawei U8220', os: Android, ua: Android, class: mobile }
+'HuaweiU8300-Android-UC Browser': { source: uap-core-device, device: HuaweiU8300, os: Android, ua: 'UC Browser', class: mobile }
+Huawei-u8500-Android-Android: { source: uap-core-device, device: Huawei-u8500, os: Android, ua: Android, class: mobile }
+'Huawei u8600-Android-Android': { source: uap-core-device, device: 'Huawei u8600', os: Android, ua: Android, class: mobile }
+'Huawei u8650-Android-Android': { source: uap-core-device, device: 'Huawei u8650', os: Android, ua: Android, class: mobile }
+Huawei-U8651S-Other-Safari: { source: uap-core-device, device: Huawei-U8651S, os: Other, ua: Safari, class: mobile }
+Huawei-U8652-Android-Android: { source: uap-core-device, device: Huawei-U8652, os: Android, ua: Android, class: mobile }
+'HUAWEI U8661-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8661', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8665-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8665', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8666E-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E', os: Android, ua: Android, class: mobile }
+'HUAWEI U8666E-1-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E-1', os: Android, ua: Android, class: mobile }
+'HUAWEI U8666E-51-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666E-51', os: Android, ua: Android, class: mobile }
+'HUAWEI U8666N-Android-Android': { source: uap-core-device, device: 'HUAWEI U8666N', os: Android, ua: Android, class: mobile }
+'HUAWEI U8681-Android-Android': { source: uap-core-device, device: 'HUAWEI U8681', os: Android, ua: Android, class: mobile }
+Huawei-U8687-Android-Android: { source: uap-core-device, device: Huawei-U8687, os: Android, ua: Android, class: mobile }
+'Huawei u8800-Android-Android': { source: uap-core-device, device: 'Huawei u8800', os: Android, ua: Android, class: mobile }
+'HUAWEI U8800 Pro-Android-Android': { source: uap-core-device, device: 'HUAWEI U8800 Pro', os: Android, ua: Android, class: mobile }
+'HUAWEI U8825D-Android-Android': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: Android, class: mobile }
+'HUAWEI U8833-Android-Other': { source: uap-core-device, device: 'HUAWEI U8833', os: Android, ua: Other, class: mobile }
+'HUAWEI-U8850-Android-Chrome Mobile': { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI U8860-Android-Opera Mobile': { source: uap-core-device, device: 'HUAWEI U8860', os: Android, ua: 'Opera Mobile', class: mobile }
+'HUAWEI U8950-1-Android-Android': { source: uap-core-device, device: 'HUAWEI U8950-1', os: Android, ua: Android, class: mobile }
+'HUAWEI U8950D-Linux-QQ Browser Mobile': { source: uap-core-device, device: 'HUAWEI U8950D', os: Linux, ua: 'QQ Browser Mobile', class: mobile }
+'HUAWEI U8951-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8951', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI u8951-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI u8951', os: Android, ua: 'Chrome Mobile', class: mobile }
+'HUAWEI-U9000-Android-Opera Mobile': { source: uap-core-device, device: HUAWEI-U9000, os: Android, ua: 'Opera Mobile', class: mobile }
+'HUAWEI U9510E-Android-Android': { source: uap-core-device, device: 'HUAWEI U9510E', os: Android, ua: Android, class: mobile }
+'Huawei UM840-Android-Android': { source: uap-core-device, device: 'Huawei UM840', os: Android, ua: Android, class: mobile }
+HuaweiVodafone858-Android-Android: { source: uap-core-device, device: HuaweiVodafone858, os: Android, ua: Android, class: mobile }
+HUAWEI_Y210-0200-Android-Android: { source: uap-core-device, device: HUAWEI_Y210-0200, os: Android, ua: Android, class: mobile }
+'HUAWEI Y210-0251-Android-Android': { source: uap-core-device, device: 'HUAWEI Y210-0251', os: Android, ua: Android, class: mobile }
+'HUAWEI Y300-0000-Android-Android': { source: uap-core-device, device: 'HUAWEI Y300-0000', os: Android, ua: Android, class: mobile }
+'HUAWEI Y300-0151-Android-Other': { source: uap-core-device, device: 'HUAWEI Y300-0151', os: Android, ua: Other, class: mobile }
+'Huawei Y301A1-Android-Android': { source: uap-core-device, device: 'Huawei Y301A1', os: Android, ua: Android, class: mobile }
+'Huawei Y301A2-Android-Android': { source: uap-core-device, device: 'Huawei Y301A2', os: Android, ua: Android, class: mobile }
+'MediaPad 10 FHD-Android-Chrome': { source: uap-core-device, device: 'MediaPad 10 FHD', os: Android, ua: Chrome, class: tablet }
+'MediaPad 10 LINK-Android-Chrome': { source: uap-core-device, device: 'MediaPad 10 LINK', os: Android, ua: Chrome, class: tablet }
+'MediaPad 10 Link+-Android-Android': { source: uap-core-device, device: 'MediaPad 10 Link+', os: Android, ua: Android, class: tablet }
+'MediaPad 7 Lite-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Lite', os: Android, ua: Chrome, class: tablet }
+'MediaPad 7 Lite II-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Lite II', os: Android, ua: Chrome, class: tablet }
+'MediaPad 7 Vogue-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Vogue', os: Android, ua: Chrome, class: tablet }
+'MediaPad 7 Youth-Android-Chrome': { source: uap-core-device, device: 'MediaPad 7 Youth', os: Android, ua: Chrome, class: tablet }
+'MediaPad M1 8.0-Android-Android': { source: uap-core-device, device: 'MediaPad M1 8.0', os: Android, ua: Android, class: tablet }
+'MediaPad X1 7.0-Android-Chrome': { source: uap-core-device, device: 'MediaPad X1 7.0', os: Android, ua: Chrome, class: tablet }
+'MediaPad_10_FHD-Android-UC Browser': { source: uap-core-device, device: MediaPad_10_FHD, os: Android, ua: 'UC Browser', class: tablet }
+SpringBoard-Android-Chrome: { source: uap-core-device, device: SpringBoard, os: Android, ua: Chrome, class: tablet }
+201HW-Android-Android: { source: uap-core-device, device: 201HW, os: Android, ua: Android, class: mobile }
+'Bs 401-Android-Android': { source: uap-core-device, device: 'Bs 401', os: Android, ua: Android, class: mobile }
+C8512-Android-Android: { source: uap-core-device, device: C8512, os: Android, ua: Android, class: mobile }
+'C8600-Android-UC Browser': { source: uap-core-device, device: C8600, os: Android, ua: 'UC Browser', class: mobile }
+'C8650-Android-UC Browser': { source: uap-core-device, device: C8650, os: Android, ua: 'UC Browser', class: mobile }
+'CM980-Android-UC Browser': { source: uap-core-device, device: CM980, os: Android, ua: 'UC Browser', class: mobile }
+dtab01-Android-Android: { source: uap-core-device, device: dtab01, os: Android, ua: Android, class: tablet }
+GT01-Android-Android: { source: uap-core-device, device: GT01, os: Android, ua: Android, class: tablet }
+M660-Android-Android: { source: uap-core-device, device: M660, os: Android, ua: Android, class: mobile }
+M866-Android-Android: { source: uap-core-device, device: M866, os: Android, ua: Android, class: mobile }
+M886-Android-Android: { source: uap-core-device, device: M886, os: Android, ua: Android, class: mobile }
+MediaPad-Android-Android: { source: uap-core-device, device: MediaPad, os: Android, ua: Android, class: tablet }
+'MTC 950-Android-Android': { source: uap-core-device, device: 'MTC 950', os: Android, ua: Android, class: mobile }
+'MTC Mini-Android-Android': { source: uap-core-device, device: 'MTC Mini', os: Android, ua: Android, class: mobile }
+'MTS-SP101-Android-UC Browser': { source: uap-core-device, device: MTS-SP101, os: Android, ua: 'UC Browser', class: mobile }
+Phoenix-Android-Android: { source: uap-core-device, device: Phoenix, os: Android, ua: Android, class: mobile }
+Prism-Android-Android: { source: uap-core-device, device: Prism, os: Android, ua: Android, class: mobile }
+'Prism II-Android-Android': { source: uap-core-device, device: 'Prism II', os: Android, ua: Android, class: mobile }
+'Samsung Galaxy Tab-Android-Android': { source: uap-core-device, device: 'Samsung Galaxy Tab', os: Android, ua: Android, class: tablet }
+'T-Mobile myTouch-Android-Android': { source: uap-core-device, device: 'T-Mobile myTouch', os: Android, ua: Android, class: mobile }
+'T-Mobile myTouch Q-Android-Android': { source: uap-core-device, device: 'T-Mobile myTouch Q', os: Android, ua: Android, class: mobile }
+'T8620-Android-UC Browser': { source: uap-core-device, device: T8620, os: Android, ua: 'UC Browser', class: mobile }
+T8830Pro-Android-Android: { source: uap-core-device, device: T8830Pro, os: Android, ua: Android, class: mobile }
+'Telpad Dual S-Android-Android': { source: uap-core-device, device: 'Telpad Dual S', os: Android, ua: Android, class: tablet }
+U8185-Android-Android: { source: uap-core-device, device: U8185, os: Android, ua: Android, class: mobile }
+'U8510 w/ EclipseROM-Android-Android': { source: uap-core-device, device: 'U8510 w/ EclipseROM', os: Android, ua: Android, class: mobile }
+'U8510 w/ M.E.R.-Android-Android': { source: uap-core-device, device: 'U8510 w/ M.E.R.', os: Android, ua: Android, class: mobile }
+U8600-Android-Android: { source: uap-core-device, device: U8600, os: Android, ua: Android, class: mobile }
+'U8651T-Android-UC Browser': { source: uap-core-device, device: U8651T, os: Android, ua: 'UC Browser', class: mobile }
+U8665-Android-Android: { source: uap-core-device, device: U8665, os: Android, ua: Android, class: mobile }
+'U8667-Android-UC Browser': { source: uap-core-device, device: U8667, os: Android, ua: 'UC Browser', class: mobile }
+'U8812D-Android-UC Browser': { source: uap-core-device, device: U8812D, os: Android, ua: 'UC Browser', class: mobile }
+U8818-Android-Android: { source: uap-core-device, device: U8818, os: Android, ua: Android, class: mobile }
+U8836D-Android-Android: { source: uap-core-device, device: U8836D, os: Android, ua: Android, class: mobile }
+U8860-51-Android-Android: { source: uap-core-device, device: U8860-51, os: Android, ua: Android, class: mobile }
+U9200-Android-Android: { source: uap-core-device, device: U9200, os: Android, ua: Android, class: mobile }
+U9202L-1-Android-Android: { source: uap-core-device, device: U9202L-1, os: Android, ua: Android, class: mobile }
+U9500-Android-Android: { source: uap-core-device, device: U9500, os: Android, ua: Android, class: mobile }
+'UM840-Android-UC Browser': { source: uap-core-device, device: UM840, os: Android, ua: 'UC Browser', class: mobile }
+U8100-Android-Android: { source: uap-core-device, device: U8100, os: Android, ua: Android, class: mobile }
+U8120-Android-Android: { source: uap-core-device, device: U8120, os: Android, ua: Android, class: mobile }
+U8150-Android-Android: { source: uap-core-device, device: U8150, os: Android, ua: Android, class: mobile }
+U8160-Android-Android: { source: uap-core-device, device: U8160, os: Android, ua: Android, class: mobile }
+U8220-Android-Android: { source: uap-core-device, device: U8220, os: Android, ua: Android, class: mobile }
+U8300-Android-Android: { source: uap-core-device, device: U8300, os: Android, ua: Android, class: mobile }
+u8600-Android-Android: { source: uap-core-device, device: u8600, os: Android, ua: Android, class: mobile }
+'U8665-Android-Chrome Mobile': { source: uap-core-device, device: U8665, os: Android, ua: 'Chrome Mobile', class: mobile }
+u8800-Android-Android: { source: uap-core-device, device: u8800, os: Android, ua: Android, class: mobile }
+U8815-Android-Android: { source: uap-core-device, device: U8815, os: Android, ua: Android, class: mobile }
+'U8860-Android-Chrome Mobile': { source: uap-core-device, device: U8860, os: Android, ua: 'Chrome Mobile', class: mobile }
+'U9000-Android-Opera Mobile': { source: uap-core-device, device: U9000, os: Android, ua: 'Opera Mobile', class: mobile }
+'U9500-Android-Chrome Mobile': { source: uap-core-device, device: U9500, os: Android, ua: 'Chrome Mobile', class: mobile }
+U9508-Android-Android: { source: uap-core-device, device: U9508, os: Android, ua: Android, class: mobile }
+'Huawei IdeosS7-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7', os: Android, ua: Android, class: tablet }
+'Huawei IdeosS7 Slim-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7 Slim', os: Android, ua: Android, class: tablet }
+'Huawei IdeosS7-10X-Android-Android': { source: uap-core-device, device: 'Huawei IdeosS7-10X', os: Android, ua: Android, class: tablet }
+'Huawei IdeosX5-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei IdeosX5', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Huawei IdeosX5 PRO-Android-Android': { source: uap-core-device, device: 'Huawei IdeosX5 PRO', os: Android, ua: Android, class: mobile }
+'Huawei C8600-Android-Android': { source: uap-core-device, device: 'Huawei C8600', os: Android, ua: Android, class: mobile }
+'Huawei C8650-Android-Android': { source: uap-core-device, device: 'Huawei C8650', os: Android, ua: Android, class: mobile }
+'Huawei C8660-Android-Android': { source: uap-core-device, device: 'Huawei C8660', os: Android, ua: Android, class: mobile }
+'Huawei Orange Daytona-Android-Android': { source: uap-core-device, device: 'Huawei Orange Daytona', os: Android, ua: Android, class: mobile }
+'Huawei Pulse-Android-Android': { source: uap-core-device, device: 'Huawei Pulse', os: Android, ua: Android, class: mobile }
+'Huawei Pulse Mini-Android-Android': { source: uap-core-device, device: 'Huawei Pulse Mini', os: Android, ua: Android, class: mobile }
+'Huawei Vodafone 858-Android-Android': { source: uap-core-device, device: 'Huawei Vodafone 858', os: Android, ua: Android, class: mobile }
+'Huawei 4Afrika-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei 4Afrika', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei Acsend W1 A4BA5B9A-2CD4-430D-B216-EA57BAF03A15-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei Acsend W1 A4BA5B9A-2CD4-430D-B216-EA57BAF03A15', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei W1-C00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-C00', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei W1-U00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-U00', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei W2-T01-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W2-T01', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei W2-U00-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W2-U00', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei H883G-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei H883G', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei W1-U34-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Huawei W1-U34', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Huawei C6100-Other-Other': { source: uap-core-device, device: 'Huawei C6100', os: Other, ua: Other, class: mobile }
+'Huawei CM980-Android-Android': { source: uap-core-device, device: 'Huawei CM980', os: Android, ua: Android, class: mobile }
+'Huawei G3501-Other-Obigo': { source: uap-core-device, device: 'Huawei G3501', os: Other, ua: Obigo, class: mobile }
+'Huawei G3610-Other-Obigo': { source: uap-core-device, device: 'Huawei G3610', os: Other, ua: Obigo, class: mobile }
+'Huawei G3620-Other-Obigo': { source: uap-core-device, device: 'Huawei G3620', os: Other, ua: Obigo, class: mobile }
+'Huawei G5010-Other-Obigo': { source: uap-core-device, device: 'Huawei G5010', os: Other, ua: Obigo, class: mobile }
+'Huawei G510-Other-Other': { source: uap-core-device, device: 'Huawei G510', os: Other, ua: Other, class: mobile }
+'Huawei G525-Android-Android': { source: uap-core-device, device: 'Huawei G525', os: Android, ua: Android, class: mobile }
+'Huawei G5500-Other-Obigo': { source: uap-core-device, device: 'Huawei G5500', os: Other, ua: Obigo, class: mobile }
+'Huawei G6610-Other-Obigo': { source: uap-core-device, device: 'Huawei G6610', os: Other, ua: Obigo, class: mobile }
+'Huawei G6610V-Other-Obigo': { source: uap-core-device, device: 'Huawei G6610V', os: Other, ua: Obigo, class: mobile }
+'Huawei G6620-Other-Obigo': { source: uap-core-device, device: 'Huawei G6620', os: Other, ua: Obigo, class: mobile }
+'Huawei HUAWEI-Android-Other': { source: uap-core-device, device: 'Huawei HUAWEI', os: Android, ua: Other, class: mobile }
+'Huawei Java-Other-Obigo': { source: uap-core-device, device: 'Huawei Java', os: Other, ua: Obigo, class: mobile }
+'Huawei M615-Other-Obigo': { source: uap-core-device, device: 'Huawei M615', os: Other, ua: Obigo, class: mobile }
+'Huawei MediaPad-Android-Android': { source: uap-core-device, device: 'Huawei MediaPad', os: Android, ua: Android, class: tablet }
+'Huawei P6-Android-Chrome Mobile': { source: uap-core-device, device: 'Huawei P6', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Huawei symantecspider-Other-Huaweisymantecspider': { source: uap-core-device, device: 'Huawei symantecspider', os: Other, ua: Huaweisymantecspider, class: '' }
-'Huawei T7200-Other-Obigo': { source: uap-core-device, device: 'Huawei T7200', os: Other, ua: Obigo, class: '' }
-'Huawei T8100-Android-Other': { source: uap-core-device, device: 'Huawei T8100', os: Android, ua: Other, class: '' }
-'Huawei T8301-Android-Other': { source: uap-core-device, device: 'Huawei T8301', os: Android, ua: Other, class: '' }
-'Huawei T8500-Android-Android': { source: uap-core-device, device: 'Huawei T8500', os: Android, ua: Android, class: '' }
-'Huawei U120-Other-Obigo': { source: uap-core-device, device: 'Huawei U120', os: Other, ua: Obigo, class: '' }
-'Huawei U1250-Other-Obigo': { source: uap-core-device, device: 'Huawei U1250', os: Other, ua: Obigo, class: '' }
-'Huawei U1270-Other-NetFront': { source: uap-core-device, device: 'Huawei U1270', os: Other, ua: NetFront, class: '' }
-'Huawei U1300-Other-Obigo': { source: uap-core-device, device: 'Huawei U1300', os: Other, ua: Obigo, class: '' }
-'Huawei U1305-Other-Obigo': { source: uap-core-device, device: 'Huawei U1305', os: Other, ua: Obigo, class: '' }
-'Huawei U1307-Other-Obigo': { source: uap-core-device, device: 'Huawei U1307', os: Other, ua: Obigo, class: '' }
-'Huawei U1310-Other-Obigo': { source: uap-core-device, device: 'Huawei U1310', os: Other, ua: Obigo, class: '' }
-'Huawei U1315-Other-Obigo': { source: uap-core-device, device: 'Huawei U1315', os: Other, ua: Obigo, class: '' }
-'Huawei U2800-Other-Obigo': { source: uap-core-device, device: 'Huawei U2800', os: Other, ua: Obigo, class: '' }
-'Huawei U3100-Other-Obigo': { source: uap-core-device, device: 'Huawei U3100', os: Other, ua: Obigo, class: '' }
-'Huawei U3200-Other-NetFront': { source: uap-core-device, device: 'Huawei U3200', os: Other, ua: NetFront, class: '' }
-'Huawei U3200s-Other-NetFront': { source: uap-core-device, device: 'Huawei U3200s', os: Other, ua: NetFront, class: '' }
-'Huawei U3300-Other-Obigo': { source: uap-core-device, device: 'Huawei U3300', os: Other, ua: Obigo, class: '' }
-'Huawei U3311-Other-Obigo': { source: uap-core-device, device: 'Huawei U3311', os: Other, ua: Obigo, class: '' }
-'Huawei U3315-Other-Obigo': { source: uap-core-device, device: 'Huawei U3315', os: Other, ua: Obigo, class: '' }
-'Huawei U3315h-Other-Obigo': { source: uap-core-device, device: 'Huawei U3315h', os: Other, ua: Obigo, class: '' }
-'Huawei U3317-Other-Obigo': { source: uap-core-device, device: 'Huawei U3317', os: Other, ua: Obigo, class: '' }
-'Huawei U5700-Other-Obigo': { source: uap-core-device, device: 'Huawei U5700', os: Other, ua: Obigo, class: '' }
-'Huawei U5705-Other-Obigo': { source: uap-core-device, device: 'Huawei U5705', os: Other, ua: Obigo, class: '' }
-'Huawei U5900-Other-Obigo': { source: uap-core-device, device: 'Huawei U5900', os: Other, ua: Obigo, class: '' }
-'Huawei U7200-Other-Obigo': { source: uap-core-device, device: 'Huawei U7200', os: Other, ua: Obigo, class: '' }
-'Huawei U7510-Other-NetFront': { source: uap-core-device, device: 'Huawei U7510', os: Other, ua: NetFront, class: '' }
-'Huawei U7515-Other-NetFront': { source: uap-core-device, device: 'Huawei U7515', os: Other, ua: NetFront, class: '' }
-'Huawei U7517-Other-NetFront': { source: uap-core-device, device: 'Huawei U7517', os: Other, ua: NetFront, class: '' }
-'Huawei U7519-Other-NetFront': { source: uap-core-device, device: 'Huawei U7519', os: Other, ua: NetFront, class: '' }
-'Huawei U7520-Other-Other': { source: uap-core-device, device: 'Huawei U7520', os: Other, ua: Other, class: '' }
-'Huawei U7525-Other-NetFront': { source: uap-core-device, device: 'Huawei U7525', os: Other, ua: NetFront, class: '' }
-'Huawei U7527-Other-NetFront': { source: uap-core-device, device: 'Huawei U7527', os: Other, ua: NetFront, class: '' }
-'Huawei U8185-Android-Other': { source: uap-core-device, device: 'Huawei U8185', os: Android, ua: Other, class: '' }
-'Huawei U8186-Android-Other': { source: uap-core-device, device: 'Huawei U8186', os: Android, ua: Other, class: '' }
-'Huawei U8300-Android-UC Browser': { source: uap-core-device, device: 'Huawei U8300', os: Android, ua: 'UC Browser', class: '' }
-'Huawei U8350-Android-Other': { source: uap-core-device, device: 'Huawei U8350', os: Android, ua: Other, class: '' }
-'Huawei U8520-Android-Android': { source: uap-core-device, device: 'Huawei U8520', os: Android, ua: Android, class: '' }
-'Huawei U8600-Android-Other': { source: uap-core-device, device: 'Huawei U8600', os: Android, ua: Other, class: '' }
-'Huawei U8650-Android-Other': { source: uap-core-device, device: 'Huawei U8650', os: Android, ua: Other, class: '' }
-'Huawei U8650B836-Android-Other': { source: uap-core-device, device: 'Huawei U8650B836', os: Android, ua: Other, class: '' }
-'Huawei U8651-Android-Other': { source: uap-core-device, device: 'Huawei U8651', os: Android, ua: Other, class: '' }
-'Huawei U8652-Android-Android': { source: uap-core-device, device: 'Huawei U8652', os: Android, ua: Android, class: '' }
-'Huawei U8655-Android-Other': { source: uap-core-device, device: 'Huawei U8655', os: Android, ua: Other, class: '' }
-'Huawei U8666-Android-Other': { source: uap-core-device, device: 'Huawei U8666', os: Android, ua: Other, class: '' }
-'Huawei U8666E-Android-Other': { source: uap-core-device, device: 'Huawei U8666E', os: Android, ua: Other, class: '' }
-'Huawei U8730-Android-Other': { source: uap-core-device, device: 'Huawei U8730', os: Android, ua: Other, class: '' }
-U8812D-Android-Android: { source: uap-core-device, device: U8812D, os: Android, ua: Android, class: '' }
-'HUAWEI U8815-Android-Android': { source: uap-core-device, device: 'HUAWEI U8815', os: Android, ua: Android, class: '' }
-'Huawei U8815C02B895-Android-Other': { source: uap-core-device, device: 'Huawei U8815C02B895', os: Android, ua: Other, class: '' }
-'Huawei U8815C02B952-Android-Other': { source: uap-core-device, device: 'Huawei U8815C02B952', os: Android, ua: Other, class: '' }
-U8815N-Android-Android: { source: uap-core-device, device: U8815N, os: Android, ua: Android, class: '' }
-'Huawei U8825-Android-Other': { source: uap-core-device, device: 'Huawei U8825', os: Android, ua: Other, class: '' }
-'HUAWEI U8825D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: 'Chrome Mobile', class: '' }
-HUAWEI-U8850-Android-Android: { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: Android, class: '' }
-U8860-Android-Android: { source: uap-core-device, device: U8860, os: Android, ua: Android, class: '' }
-'Huawei U8950N-Android-Other': { source: uap-core-device, device: 'Huawei U8950N', os: Android, ua: Other, class: '' }
-'Huawei U9130-Other-NetFront': { source: uap-core-device, device: 'Huawei U9130', os: Other, ua: NetFront, class: '' }
-'Huawei U9200-Android-Other': { source: uap-core-device, device: 'Huawei U9200', os: Android, ua: Other, class: '' }
-'Huawei U9508-Android-Other': { source: uap-core-device, device: 'Huawei U9508', os: Android, ua: Other, class: '' }
-'Huawei V840-Other-NetFront': { source: uap-core-device, device: 'Huawei V840', os: Other, ua: NetFront, class: '' }
-'Huawei Y210-Android-Other': { source: uap-core-device, device: 'Huawei Y210', os: Android, ua: Other, class: '' }
-'Huawei Y300-Android-Android': { source: uap-core-device, device: 'Huawei Y300', os: Android, ua: Android, class: '' }
-'Huawei C6100-Other-Netfront': { source: uap-core-device, device: 'Huawei C6100', os: Other, ua: Netfront, class: '' }
-'Huawei G5520-Other-Obigo': { source: uap-core-device, device: 'Huawei G5520', os: Other, ua: Obigo, class: '' }
-'Huawei G6600-Other-Other': { source: uap-core-device, device: 'Huawei G6600', os: Other, ua: Other, class: '' }
-'Huawei G6609-Other-Opera Mobile': { source: uap-core-device, device: 'Huawei G6609', os: Other, ua: 'Opera Mobile', class: '' }
-'Huawei G6626-Other-Other': { source: uap-core-device, device: 'Huawei G6626', os: Other, ua: Other, class: '' }
-'Huawei G7002-Other-Other': { source: uap-core-device, device: 'Huawei G7002', os: Other, ua: Other, class: '' }
-'Huawei G7010-Other-Other': { source: uap-core-device, device: 'Huawei G7010', os: Other, ua: Other, class: '' }
-'Huawei G7300-Other-Opera': { source: uap-core-device, device: 'Huawei G7300', os: Other, ua: Opera, class: '' }
-'Huawei Joy-Android-Android': { source: uap-core-device, device: 'Huawei Joy', os: Android, ua: Android, class: '' }
-'Huawei M228-Other-NetFront': { source: uap-core-device, device: 'Huawei M228', os: Other, ua: NetFront, class: '' }
-'Huawei M318-Other-NetFront': { source: uap-core-device, device: 'Huawei M318', os: Other, ua: NetFront, class: '' }
-'Huawei M328-Other-NetFront': { source: uap-core-device, device: 'Huawei M328', os: Other, ua: NetFront, class: '' }
-'Huawei M635-Other-Obigo': { source: uap-core-device, device: 'Huawei M635', os: Other, ua: Obigo, class: '' }
-'Huawei M636-Other-Obigo': { source: uap-core-device, device: 'Huawei M636', os: Other, ua: Obigo, class: '' }
-'Huawei M735-Other-Opera': { source: uap-core-device, device: 'Huawei M735', os: Other, ua: Opera, class: '' }
-'Huawei M835-Android-UC Browser': { source: uap-core-device, device: 'Huawei M835', os: Android, ua: 'UC Browser', class: '' }
-'Huawei M860-Android-UC Browser': { source: uap-core-device, device: 'Huawei M860', os: Android, ua: 'UC Browser', class: '' }
-'Huawei M920-Android-UC Browser': { source: uap-core-device, device: 'Huawei M920', os: Android, ua: 'UC Browser', class: '' }
-'Huawei M931-Android-UC Browser': { source: uap-core-device, device: 'Huawei M931', os: Android, ua: 'UC Browser', class: '' }
-'Huawei MediaPad-Android-Other': { source: uap-core-device, device: 'Huawei MediaPad', os: Android, ua: Other, class: '' }
-'Huawei T8300-Other-Other': { source: uap-core-device, device: 'Huawei T8300', os: Other, ua: Other, class: '' }
-'Huawei U120-Other-Other': { source: uap-core-device, device: 'Huawei U120', os: Other, ua: Other, class: '' }
-'Huawei U1205-Other-Other': { source: uap-core-device, device: 'Huawei U1205', os: Other, ua: Other, class: '' }
-'Huawei U121-Other-Other': { source: uap-core-device, device: 'Huawei U121', os: Other, ua: Other, class: '' }
-'Huawei U1211-Other-Other': { source: uap-core-device, device: 'Huawei U1211', os: Other, ua: Other, class: '' }
-'Huawei U1250-Other-Other': { source: uap-core-device, device: 'Huawei U1250', os: Other, ua: Other, class: '' }
-'Huawei U1280-Other-Other': { source: uap-core-device, device: 'Huawei U1280', os: Other, ua: Other, class: '' }
-'Huawei U2800-Other-Other': { source: uap-core-device, device: 'Huawei U2800', os: Other, ua: Other, class: '' }
-'Huawei U2800A-Other-Obigo': { source: uap-core-device, device: 'Huawei U2800A', os: Other, ua: Obigo, class: '' }
-'Huawei U3100-Other-Other': { source: uap-core-device, device: 'Huawei U3100', os: Other, ua: Other, class: '' }
-'Huawei U526-Other-Other': { source: uap-core-device, device: 'Huawei U526', os: Other, ua: Other, class: '' }
-'Huawei U528-Other-Other': { source: uap-core-device, device: 'Huawei U528', os: Other, ua: Other, class: '' }
-'Huawei U550-Other-Other': { source: uap-core-device, device: 'Huawei U550', os: Other, ua: Other, class: '' }
-'Huawei U8510-Android-Other': { source: uap-core-device, device: 'Huawei U8510', os: Android, ua: Other, class: '' }
-'Huawei U8812D-Android-Safari': { source: uap-core-device, device: 'Huawei U8812D', os: Android, ua: Safari, class: '' }
-'Huawei U8850-Other-Other': { source: uap-core-device, device: 'Huawei U8850', os: Other, ua: Other, class: '' }
-'Huawei U9000-Android-UC Browser': { source: uap-core-device, device: 'Huawei U9000', os: Android, ua: 'UC Browser', class: '' }
-'Huawei U9100-Other-Other': { source: uap-core-device, device: 'Huawei U9100', os: Other, ua: Other, class: '' }
-'Huawei V736-Other-Other': { source: uap-core-device, device: 'Huawei V736', os: Other, ua: Other, class: '' }
-'Huawei Vodafone-Android-Other': { source: uap-core-device, device: 'Huawei Vodafone', os: Android, ua: Other, class: '' }
-'Huawei Vodafone 810-Other-Obigo': { source: uap-core-device, device: 'Huawei Vodafone 810', os: Other, ua: Obigo, class: '' }
+'Huawei T7200-Other-Obigo': { source: uap-core-device, device: 'Huawei T7200', os: Other, ua: Obigo, class: mobile }
+'Huawei T8100-Android-Other': { source: uap-core-device, device: 'Huawei T8100', os: Android, ua: Other, class: mobile }
+'Huawei T8301-Android-Other': { source: uap-core-device, device: 'Huawei T8301', os: Android, ua: Other, class: mobile }
+'Huawei T8500-Android-Android': { source: uap-core-device, device: 'Huawei T8500', os: Android, ua: Android, class: mobile }
+'Huawei U120-Other-Obigo': { source: uap-core-device, device: 'Huawei U120', os: Other, ua: Obigo, class: mobile }
+'Huawei U1250-Other-Obigo': { source: uap-core-device, device: 'Huawei U1250', os: Other, ua: Obigo, class: mobile }
+'Huawei U1270-Other-NetFront': { source: uap-core-device, device: 'Huawei U1270', os: Other, ua: NetFront, class: mobile }
+'Huawei U1300-Other-Obigo': { source: uap-core-device, device: 'Huawei U1300', os: Other, ua: Obigo, class: mobile }
+'Huawei U1305-Other-Obigo': { source: uap-core-device, device: 'Huawei U1305', os: Other, ua: Obigo, class: mobile }
+'Huawei U1307-Other-Obigo': { source: uap-core-device, device: 'Huawei U1307', os: Other, ua: Obigo, class: mobile }
+'Huawei U1310-Other-Obigo': { source: uap-core-device, device: 'Huawei U1310', os: Other, ua: Obigo, class: mobile }
+'Huawei U1315-Other-Obigo': { source: uap-core-device, device: 'Huawei U1315', os: Other, ua: Obigo, class: mobile }
+'Huawei U2800-Other-Obigo': { source: uap-core-device, device: 'Huawei U2800', os: Other, ua: Obigo, class: mobile }
+'Huawei U3100-Other-Obigo': { source: uap-core-device, device: 'Huawei U3100', os: Other, ua: Obigo, class: mobile }
+'Huawei U3200-Other-NetFront': { source: uap-core-device, device: 'Huawei U3200', os: Other, ua: NetFront, class: mobile }
+'Huawei U3200s-Other-NetFront': { source: uap-core-device, device: 'Huawei U3200s', os: Other, ua: NetFront, class: mobile }
+'Huawei U3300-Other-Obigo': { source: uap-core-device, device: 'Huawei U3300', os: Other, ua: Obigo, class: mobile }
+'Huawei U3311-Other-Obigo': { source: uap-core-device, device: 'Huawei U3311', os: Other, ua: Obigo, class: mobile }
+'Huawei U3315-Other-Obigo': { source: uap-core-device, device: 'Huawei U3315', os: Other, ua: Obigo, class: mobile }
+'Huawei U3315h-Other-Obigo': { source: uap-core-device, device: 'Huawei U3315h', os: Other, ua: Obigo, class: mobile }
+'Huawei U3317-Other-Obigo': { source: uap-core-device, device: 'Huawei U3317', os: Other, ua: Obigo, class: mobile }
+'Huawei U5700-Other-Obigo': { source: uap-core-device, device: 'Huawei U5700', os: Other, ua: Obigo, class: mobile }
+'Huawei U5705-Other-Obigo': { source: uap-core-device, device: 'Huawei U5705', os: Other, ua: Obigo, class: mobile }
+'Huawei U5900-Other-Obigo': { source: uap-core-device, device: 'Huawei U5900', os: Other, ua: Obigo, class: mobile }
+'Huawei U7200-Other-Obigo': { source: uap-core-device, device: 'Huawei U7200', os: Other, ua: Obigo, class: mobile }
+'Huawei U7510-Other-NetFront': { source: uap-core-device, device: 'Huawei U7510', os: Other, ua: NetFront, class: mobile }
+'Huawei U7515-Other-NetFront': { source: uap-core-device, device: 'Huawei U7515', os: Other, ua: NetFront, class: mobile }
+'Huawei U7517-Other-NetFront': { source: uap-core-device, device: 'Huawei U7517', os: Other, ua: NetFront, class: mobile }
+'Huawei U7519-Other-NetFront': { source: uap-core-device, device: 'Huawei U7519', os: Other, ua: NetFront, class: mobile }
+'Huawei U7520-Other-Other': { source: uap-core-device, device: 'Huawei U7520', os: Other, ua: Other, class: mobile }
+'Huawei U7525-Other-NetFront': { source: uap-core-device, device: 'Huawei U7525', os: Other, ua: NetFront, class: mobile }
+'Huawei U7527-Other-NetFront': { source: uap-core-device, device: 'Huawei U7527', os: Other, ua: NetFront, class: mobile }
+'Huawei U8185-Android-Other': { source: uap-core-device, device: 'Huawei U8185', os: Android, ua: Other, class: mobile }
+'Huawei U8186-Android-Other': { source: uap-core-device, device: 'Huawei U8186', os: Android, ua: Other, class: mobile }
+'Huawei U8300-Android-UC Browser': { source: uap-core-device, device: 'Huawei U8300', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei U8350-Android-Other': { source: uap-core-device, device: 'Huawei U8350', os: Android, ua: Other, class: mobile }
+'Huawei U8520-Android-Android': { source: uap-core-device, device: 'Huawei U8520', os: Android, ua: Android, class: mobile }
+'Huawei U8600-Android-Other': { source: uap-core-device, device: 'Huawei U8600', os: Android, ua: Other, class: mobile }
+'Huawei U8650-Android-Other': { source: uap-core-device, device: 'Huawei U8650', os: Android, ua: Other, class: mobile }
+'Huawei U8650B836-Android-Other': { source: uap-core-device, device: 'Huawei U8650B836', os: Android, ua: Other, class: mobile }
+'Huawei U8651-Android-Other': { source: uap-core-device, device: 'Huawei U8651', os: Android, ua: Other, class: mobile }
+'Huawei U8652-Android-Android': { source: uap-core-device, device: 'Huawei U8652', os: Android, ua: Android, class: mobile }
+'Huawei U8655-Android-Other': { source: uap-core-device, device: 'Huawei U8655', os: Android, ua: Other, class: mobile }
+'Huawei U8666-Android-Other': { source: uap-core-device, device: 'Huawei U8666', os: Android, ua: Other, class: mobile }
+'Huawei U8666E-Android-Other': { source: uap-core-device, device: 'Huawei U8666E', os: Android, ua: Other, class: mobile }
+'Huawei U8730-Android-Other': { source: uap-core-device, device: 'Huawei U8730', os: Android, ua: Other, class: mobile }
+U8812D-Android-Android: { source: uap-core-device, device: U8812D, os: Android, ua: Android, class: mobile }
+'HUAWEI U8815-Android-Android': { source: uap-core-device, device: 'HUAWEI U8815', os: Android, ua: Android, class: mobile }
+'Huawei U8815C02B895-Android-Other': { source: uap-core-device, device: 'Huawei U8815C02B895', os: Android, ua: Other, class: mobile }
+'Huawei U8815C02B952-Android-Other': { source: uap-core-device, device: 'Huawei U8815C02B952', os: Android, ua: Other, class: mobile }
+U8815N-Android-Android: { source: uap-core-device, device: U8815N, os: Android, ua: Android, class: mobile }
+'Huawei U8825-Android-Other': { source: uap-core-device, device: 'Huawei U8825', os: Android, ua: Other, class: mobile }
+'HUAWEI U8825D-Android-Chrome Mobile': { source: uap-core-device, device: 'HUAWEI U8825D', os: Android, ua: 'Chrome Mobile', class: mobile }
+HUAWEI-U8850-Android-Android: { source: uap-core-device, device: HUAWEI-U8850, os: Android, ua: Android, class: mobile }
+U8860-Android-Android: { source: uap-core-device, device: U8860, os: Android, ua: Android, class: mobile }
+'Huawei U8950N-Android-Other': { source: uap-core-device, device: 'Huawei U8950N', os: Android, ua: Other, class: mobile }
+'Huawei U9130-Other-NetFront': { source: uap-core-device, device: 'Huawei U9130', os: Other, ua: NetFront, class: mobile }
+'Huawei U9200-Android-Other': { source: uap-core-device, device: 'Huawei U9200', os: Android, ua: Other, class: mobile }
+'Huawei U9508-Android-Other': { source: uap-core-device, device: 'Huawei U9508', os: Android, ua: Other, class: mobile }
+'Huawei V840-Other-NetFront': { source: uap-core-device, device: 'Huawei V840', os: Other, ua: NetFront, class: mobile }
+'Huawei Y210-Android-Other': { source: uap-core-device, device: 'Huawei Y210', os: Android, ua: Other, class: mobile }
+'Huawei Y300-Android-Android': { source: uap-core-device, device: 'Huawei Y300', os: Android, ua: Android, class: mobile }
+'Huawei C6100-Other-Netfront': { source: uap-core-device, device: 'Huawei C6100', os: Other, ua: Netfront, class: mobile }
+'Huawei G5520-Other-Obigo': { source: uap-core-device, device: 'Huawei G5520', os: Other, ua: Obigo, class: mobile }
+'Huawei G6600-Other-Other': { source: uap-core-device, device: 'Huawei G6600', os: Other, ua: Other, class: mobile }
+'Huawei G6609-Other-Opera Mobile': { source: uap-core-device, device: 'Huawei G6609', os: Other, ua: 'Opera Mobile', class: mobile }
+'Huawei G6626-Other-Other': { source: uap-core-device, device: 'Huawei G6626', os: Other, ua: Other, class: mobile }
+'Huawei G7002-Other-Other': { source: uap-core-device, device: 'Huawei G7002', os: Other, ua: Other, class: mobile }
+'Huawei G7010-Other-Other': { source: uap-core-device, device: 'Huawei G7010', os: Other, ua: Other, class: mobile }
+'Huawei G7300-Other-Opera': { source: uap-core-device, device: 'Huawei G7300', os: Other, ua: Opera, class: mobile }
+'Huawei Joy-Android-Android': { source: uap-core-device, device: 'Huawei Joy', os: Android, ua: Android, class: mobile }
+'Huawei M228-Other-NetFront': { source: uap-core-device, device: 'Huawei M228', os: Other, ua: NetFront, class: mobile }
+'Huawei M318-Other-NetFront': { source: uap-core-device, device: 'Huawei M318', os: Other, ua: NetFront, class: mobile }
+'Huawei M328-Other-NetFront': { source: uap-core-device, device: 'Huawei M328', os: Other, ua: NetFront, class: mobile }
+'Huawei M635-Other-Obigo': { source: uap-core-device, device: 'Huawei M635', os: Other, ua: Obigo, class: mobile }
+'Huawei M636-Other-Obigo': { source: uap-core-device, device: 'Huawei M636', os: Other, ua: Obigo, class: mobile }
+'Huawei M735-Other-Opera': { source: uap-core-device, device: 'Huawei M735', os: Other, ua: Opera, class: mobile }
+'Huawei M835-Android-UC Browser': { source: uap-core-device, device: 'Huawei M835', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei M860-Android-UC Browser': { source: uap-core-device, device: 'Huawei M860', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei M920-Android-UC Browser': { source: uap-core-device, device: 'Huawei M920', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei M931-Android-UC Browser': { source: uap-core-device, device: 'Huawei M931', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei MediaPad-Android-Other': { source: uap-core-device, device: 'Huawei MediaPad', os: Android, ua: Other, class: tablet }
+'Huawei T8300-Other-Other': { source: uap-core-device, device: 'Huawei T8300', os: Other, ua: Other, class: mobile }
+'Huawei U120-Other-Other': { source: uap-core-device, device: 'Huawei U120', os: Other, ua: Other, class: mobile }
+'Huawei U1205-Other-Other': { source: uap-core-device, device: 'Huawei U1205', os: Other, ua: Other, class: mobile }
+'Huawei U121-Other-Other': { source: uap-core-device, device: 'Huawei U121', os: Other, ua: Other, class: mobile }
+'Huawei U1211-Other-Other': { source: uap-core-device, device: 'Huawei U1211', os: Other, ua: Other, class: mobile }
+'Huawei U1250-Other-Other': { source: uap-core-device, device: 'Huawei U1250', os: Other, ua: Other, class: mobile }
+'Huawei U1280-Other-Other': { source: uap-core-device, device: 'Huawei U1280', os: Other, ua: Other, class: mobile }
+'Huawei U2800-Other-Other': { source: uap-core-device, device: 'Huawei U2800', os: Other, ua: Other, class: mobile }
+'Huawei U2800A-Other-Obigo': { source: uap-core-device, device: 'Huawei U2800A', os: Other, ua: Obigo, class: mobile }
+'Huawei U3100-Other-Other': { source: uap-core-device, device: 'Huawei U3100', os: Other, ua: Other, class: mobile }
+'Huawei U526-Other-Other': { source: uap-core-device, device: 'Huawei U526', os: Other, ua: Other, class: mobile }
+'Huawei U528-Other-Other': { source: uap-core-device, device: 'Huawei U528', os: Other, ua: Other, class: mobile }
+'Huawei U550-Other-Other': { source: uap-core-device, device: 'Huawei U550', os: Other, ua: Other, class: mobile }
+'Huawei U8510-Android-Other': { source: uap-core-device, device: 'Huawei U8510', os: Android, ua: Other, class: mobile }
+'Huawei U8812D-Android-Safari': { source: uap-core-device, device: 'Huawei U8812D', os: Android, ua: Safari, class: mobile }
+'Huawei U8850-Other-Other': { source: uap-core-device, device: 'Huawei U8850', os: Other, ua: Other, class: mobile }
+'Huawei U9000-Android-UC Browser': { source: uap-core-device, device: 'Huawei U9000', os: Android, ua: 'UC Browser', class: mobile }
+'Huawei U9100-Other-Other': { source: uap-core-device, device: 'Huawei U9100', os: Other, ua: Other, class: mobile }
+'Huawei V736-Other-Other': { source: uap-core-device, device: 'Huawei V736', os: Other, ua: Other, class: mobile }
+'Huawei Vodafone-Android-Other': { source: uap-core-device, device: 'Huawei Vodafone', os: Android, ua: Other, class: mobile }
+'Huawei Vodafone 810-Other-Obigo': { source: uap-core-device, device: 'Huawei Vodafone 810', os: Other, ua: Obigo, class: mobile }
 HbbTV-Other-HbbTV: { source: uap-core-device, device: HbbTV, os: Other, ua: HbbTV, class: '' }
 'Hyundai T10-Android-Chrome': { source: uap-core-device, device: 'Hyundai T10', os: Android, ua: Chrome, class: '' }
 'Hyundai T7-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7', os: Android, ua: Chrome, class: '' }
@@ -4697,7 +4697,7 @@ IT-M709MR-Android-Android: { source: uap-core-device, device: IT-M709MR, os: And
 'ionik TP9.7-1500DC-Android-Opera': { source: uap-core-device, device: 'ionik TP9.7-1500DC', os: Android, ua: Opera, class: '' }
 'ionik TP9.7-1500DC Retina-Android-Android': { source: uap-core-device, device: 'ionik TP9.7-1500DC Retina', os: Android, ua: Android, class: '' }
 'ionik TP97.1-500DC-Android-Chrome': { source: uap-core-device, device: 'ionik TP97.1-500DC', os: Android, ua: Chrome, class: '' }
-M702pro-Android-Android: { source: uap-core-device, device: M702pro, os: Android, ua: Android, class: '' }
+M702pro-Android-Android: { source: uap-core-device, device: M702pro, os: Android, ua: Android, class: mobile }
 DE88Plus-Android-Android: { source: uap-core-device, device: DE88Plus, os: Android, ua: Android, class: '' }
 MD70-Android-Android: { source: uap-core-device, device: MD70, os: Android, ua: Android, class: '' }
 'DE38-Android-UC Browser': { source: uap-core-device, device: DE38, os: Android, ua: 'UC Browser', class: '' }
@@ -6756,9 +6756,9 @@ MID708-Android-Android: { source: uap-core-device, device: MID708, os: Android, 
 MID709-Android-Android: { source: uap-core-device, device: MID709, os: Android, ua: Android, class: '' }
 MID801-Android-Android: { source: uap-core-device, device: MID801, os: Android, ua: Android, class: '' }
 MID802-Android-Chrome: { source: uap-core-device, device: MID802, os: Android, ua: Chrome, class: '' }
-'M9000-Android-Chrome Mobile': { source: uap-core-device, device: M9000, os: Android, ua: 'Chrome Mobile', class: '' }
-M9100-Android-Android: { source: uap-core-device, device: M9100, os: Android, ua: Android, class: '' }
-M9701-Android-Chrome: { source: uap-core-device, device: M9701, os: Android, ua: Chrome, class: '' }
+'M9000-Android-Chrome Mobile': { source: uap-core-device, device: M9000, os: Android, ua: 'Chrome Mobile', class: mobile }
+M9100-Android-Android: { source: uap-core-device, device: M9100, os: Android, ua: Android, class: mobile }
+M9701-Android-Chrome: { source: uap-core-device, device: M9701, os: Android, ua: Chrome, class: mobile }
 MID713-Android-Android: { source: uap-core-device, device: MID713, os: Android, ua: Android, class: '' }
 'Maxx AX105-Android-Android': { source: uap-core-device, device: 'Maxx AX105', os: Android, ua: Android, class: '' }
 'Maxx AX123-Android-Chrome': { source: uap-core-device, device: 'Maxx AX123', os: Android, ua: Chrome, class: '' }
@@ -8004,7 +8004,7 @@ NEC-101TH-Android-Android: { source: uap-core-device, device: NEC-101TH, os: And
 NEC-0912-Android-Android: { source: uap-core-device, device: NEC-0912, os: Android, ua: Android, class: '' }
 LT-NA7-Android-Android: { source: uap-core-device, device: LT-NA7, os: Android, ua: Android, class: '' }
 DATAM803HC-Android-Android: { source: uap-core-device, device: DATAM803HC, os: Android, ua: Android, class: '' }
-M805-Android-Chrome: { source: uap-core-device, device: M805, os: Android, ua: Chrome, class: '' }
+M805-Android-Chrome: { source: uap-core-device, device: M805, os: Android, ua: Chrome, class: mobile }
 Next10P12-Android-Chrome: { source: uap-core-device, device: Next10P12, os: Android, ua: Chrome, class: '' }
 Next2-Android-Android: { source: uap-core-device, device: Next2, os: Android, ua: Android, class: '' }
 Next7C12F-Android-Chrome: { source: uap-core-device, device: Next7C12F, os: Android, ua: Chrome, class: '' }
