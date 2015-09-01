@@ -29,7 +29,7 @@ Kindle-Kindle-NetFront: { source: uap-core-device, device: Kindle, os: Kindle, u
 'Kindle-Android-Amazon Silk': { source: uap-core-device, device: Kindle, os: Android, ua: 'Amazon Silk', class: '' }
 'Kindle Fire-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: 'Amazon Silk', class: '' }
 Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua: Kindle, class: '' }
-'Generic Feature Phone-Brew MP-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: 'Brew MP', ua: NetFront, class: '' }
+'Generic Feature Phone-Brew MP-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: 'Brew MP', ua: NetFront, class: mobile }
 'LG VN271-BREW-Opera Mini': { source: uap-core-device, device: 'LG VN271', os: BREW, ua: 'Opera Mini', class: '' }
 'LG T500-Other-Phantom Browser': { source: uap-core-device, device: 'LG T500', os: Other, ua: 'Phantom Browser', class: '' }
 'Lumia 800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
@@ -53,10 +53,10 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'Nokia N8-Symbian^3-Nokia Browser': { source: uap-core-device, device: 'Nokia N8', os: Symbian^3, ua: 'Nokia Browser', class: '' }
 'Nokia N8-Symbian^3 Anna-Nokia Browser': { source: uap-core-device, device: 'Nokia N8', os: 'Symbian^3 Anna', ua: 'Nokia Browser', class: '' }
 'Nokia N9-MeeGo-Nokia Browser': { source: uap-core-device, device: 'Nokia N9', os: MeeGo, ua: 'Nokia Browser', class: '' }
-'Other-Windows Phone-IE Large Screen': { source: uap-core-device, device: Other, os: 'Windows Phone', ua: 'IE Large Screen', class: '' }
-'Other-iOS-UC Browser': { source: uap-core-device, device: Other, os: iOS, ua: 'UC Browser', class: 'mobile' }
-'Other-Other-UC Browser': { source: uap-core-device, device: Other, os: Other, ua: 'UC Browser', class: '' }
-'Generic Smartphone-BREW-NetFront': { source: uap-core-device, device: 'Generic Smartphone', os: BREW, ua: NetFront, class: '' }
+'Other-Windows Phone-IE Large Screen': { source: uap-core-device, device: Other, os: 'Windows Phone', ua: 'IE Large Screen', class: mobile }
+'Other-iOS-UC Browser': { source: uap-core-device, device: Other, os: iOS, ua: 'UC Browser', class: mobile }
+'Other-Other-UC Browser': { source: uap-core-device, device: Other, os: Other, ua: 'UC Browser', class: mobile }
+'Generic Smartphone-BREW-NetFront': { source: uap-core-device, device: 'Generic Smartphone', os: BREW, ua: NetFront, class: mobile }
 'SprintE4100-Brew MP-NetFront': { source: uap-core-device, device: SprintE4100, os: 'Brew MP', ua: NetFront, class: '' }
 SprintLN240-BREW-NetFront: { source: uap-core-device, device: SprintLN240, os: BREW, ua: NetFront, class: '' }
 'Other-Mac OS-IE': { source: uap-core-device, device: Other, os: 'Mac OS', ua: IE, class: desktop }
@@ -64,10 +64,10 @@ SprintLN240-BREW-NetFront: { source: uap-core-device, device: SprintLN240, os: B
 Other-Solaris-Firefox: { source: uap-core-device, device: Other, os: Solaris, ua: Firefox, class: '' }
 'Other-Windows 7-Baidu Browser': { source: uap-core-device, device: Other, os: 'Windows 7', ua: 'Baidu Browser', class: desktop }
 'Other-Windows 2000-ICE Browser': { source: uap-core-device, device: Other, os: 'Windows 2000', ua: 'ICE Browser', class: '' }
-'Generic Smartphone-iOS-QQ Browser Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: iOS, ua: 'QQ Browser Mobile', class: 'mobile' }
-'Generic Feature Phone-VRE-Opera Mini': { source: uap-core-device, device: 'Generic Feature Phone', os: VRE, ua: 'Opera Mini', class: '' }
-'Generic Smartphone-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: 'Firefox OS', ua: 'Firefox Mobile', class: '' }
-'Generic Tablet-Firefox OS-Firefox': { source: uap-core-device, device: 'Generic Tablet', os: 'Firefox OS', ua: Firefox, class: '' }
+'Generic Smartphone-iOS-QQ Browser Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: iOS, ua: 'QQ Browser Mobile', class: mobile }
+'Generic Feature Phone-VRE-Opera Mini': { source: uap-core-device, device: 'Generic Feature Phone', os: VRE, ua: 'Opera Mini', class: mobile }
+'Generic Smartphone-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: 'Firefox OS', ua: 'Firefox Mobile', class: mobile }
+'Generic Tablet-Firefox OS-Firefox': { source: uap-core-device, device: 'Generic Tablet', os: 'Firefox OS', ua: Firefox, class: tablet }
 'Pantech P6010-Brew MP-NetFront': { source: uap-core-device, device: 'Pantech P6010', os: 'Brew MP', ua: NetFront, class: '' }
 'Pantech P7040-Other-Obigo': { source: uap-core-device, device: 'Pantech P7040', os: Other, ua: Obigo, class: '' }
 PJ83100/2.20.502.7-Android-Android: { source: uap-core-device, device: PJ83100/2.20.502.7, os: Android, ua: Android, class: '' }
@@ -2205,13 +2205,13 @@ G1-Android-Chrome: { source: uap-core-device, device: G1, os: Android, ua: Chrom
 'Geeksphone ONE-Android-Android': { source: uap-core-device, device: 'Geeksphone ONE', os: Android, ua: Android, class: '' }
 'Geeksphone ZERO-Android-Android': { source: uap-core-device, device: 'Geeksphone ZERO', os: Android, ua: Android, class: '' }
 'Geeksphone Zero-Android-Android': { source: uap-core-device, device: 'Geeksphone Zero', os: Android, ua: Android, class: '' }
-'Generic Tablet-Android-Puffin': { source: uap-core-device, device: 'Generic Tablet', os: Android, ua: Puffin, class: '' }
-'Generic Smartphone-Android-Puffin': { source: uap-core-device, device: 'Generic Smartphone', os: Android, ua: Puffin, class: '' }
+'Generic Tablet-Android-Puffin': { source: uap-core-device, device: 'Generic Tablet', os: Android, ua: Puffin, class: tablet }
+'Generic Smartphone-Android-Puffin': { source: uap-core-device, device: 'Generic Smartphone', os: Android, ua: Puffin, class: mobile }
 'Vodafone Smart Tab III 7-Android-Android': { source: uap-core-device, device: 'Vodafone Smart Tab III 7', os: Android, ua: Android, class: '' }
-'Generic Smartphone-Other-Other': { source: uap-core-device, device: 'Generic Smartphone', os: Other, ua: Other, class: '' }
-'Generic Feature Phone-Other-Other': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: Other, class: '' }
-'Generic Feature Phone-Other-UP.Browser': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: UP.Browser, class: '' }
-'Generic Feature Phone-Other-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: NetFront, class: '' }
+'Generic Smartphone-Other-Other': { source: uap-core-device, device: 'Generic Smartphone', os: Other, ua: Other, class: mobile }
+'Generic Feature Phone-Other-Other': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: Other, class: mobile }
+'Generic Feature Phone-Other-UP.Browser': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: UP.Browser, class: mobile }
+'Generic Feature Phone-Other-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: Other, ua: NetFront, class: mobile }
 'EQ U8110-Android-Android': { source: uap-core-device, device: 'EQ U8110', os: Android, ua: Android, class: '' }
 Zt180-Android-Android: { source: uap-core-device, device: Zt180, os: Android, ua: Android, class: '' }
 3GC101-Android-Android: { source: uap-core-device, device: 3GC101, os: Android, ua: Android, class: '' }
@@ -15143,7 +15143,7 @@ Spider-Other-Reaper: { source: uap-core-device, device: Spider, os: Other, ua: R
 Spider-Other-ZooShot: { source: uap-core-device, device: Spider, os: Other, ua: ZooShot, class: spider }
 Spider-Other-holmes: { source: uap-core-device, device: Spider, os: Other, ua: holmes, class: spider }
 'Other-Android-Chrome Mobile': { source: uap-core-device, device: Other, os: Android, ua: 'Chrome Mobile', class: '' }
-'Generic Tablet-Android-Opera Tablet': { source: uap-core-os, device: 'Generic Tablet', os: Android, ua: 'Opera Tablet', class: '' }
+'Generic Tablet-Android-Opera Tablet': { source: uap-core-os, device: 'Generic Tablet', os: Android, ua: 'Opera Tablet', class: tablet }
 Other-BSD-Rekonq: { source: uap-core-os, device: Other, os: BSD, ua: Rekonq, class: '' }
 Other-Debian-Conkeror: { source: uap-core-os, device: Other, os: Debian, ua: Conkeror, class: '' }
 'iPhone-iOS-Opera Mini': { source: uap-core-os, device: iPhone, os: iOS, ua: 'Opera Mini', class: mobile }
@@ -15158,12 +15158,12 @@ Other-Linux-IceCat: { source: uap-core-os, device: Other, os: Linux, ua: IceCat,
 'Other-Mac OS X-Skyfire': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Skyfire, class: desktop }
 Other-Other-YottaaMonitor: { source: uap-core-os, device: Other, os: Other, ua: YottaaMonitor, class: '' }
 Other-Other-Other: { source: uap-core-os, device: Other, os: Other, ua: Other, class: '' }
-'Generic Smartphone-Symbian OS-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: 'Symbian OS', ua: 'Opera Mini', class: '' }
-'Generic Smartphone-Symbian OS-Opera Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: 'Symbian OS', ua: 'Opera Mobile', class: '' }
+'Generic Smartphone-Symbian OS-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: 'Symbian OS', ua: 'Opera Mini', class: mobile }
+'Generic Smartphone-Symbian OS-Opera Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: 'Symbian OS', ua: 'Opera Mobile', class: mobile }
 Other-Ubuntu-Firefox: { source: uap-core-os, device: Other, os: Ubuntu, ua: Firefox, class: '' }
 Other-Ubuntu-Chromium: { source: uap-core-os, device: Other, os: Ubuntu, ua: Chromium, class: '' }
 'Other-Ubuntu-Firefox (Shiretoko)': { source: uap-core-os, device: Other, os: Ubuntu, ua: 'Firefox (Shiretoko)', class: '' }
-'Generic Smartphone-webOS-webOS Browser': { source: uap-core-os, device: 'Generic Smartphone', os: webOS, ua: 'webOS Browser', class: '' }
+'Generic Smartphone-webOS-webOS Browser': { source: uap-core-os, device: 'Generic Smartphone', os: webOS, ua: 'webOS Browser', class: mobile }
 Other-Windows-AdobeAIR: { source: uap-core-os, device: Other, os: Windows, ua: AdobeAIR, class: '' }
 'Other-Windows 10-IE': { source: uap-core-os, device: Other, os: 'Windows 10', ua: IE, class: desktop }
 'Other-Windows 10-Edge': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Edge, class: desktop }
@@ -15191,11 +15191,11 @@ Other-Mandriva-Firefox: { source: uap-core-os, device: Other, os: Mandriva, ua: 
 'Nokia N97-Symbian OS-UC Browser': { source: uap-core-os, device: 'Nokia N97', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia N96-Symbian OS-UC Browser': { source: uap-core-os, device: 'Nokia N96', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia 5230-Symbian OS-QQ Browser Mini': { source: uap-core-os, device: 'Nokia 5230', os: 'Symbian OS', ua: 'QQ Browser Mini', class: '' }
-'Generic Smartphone-Bada-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: Bada, ua: 'Opera Mini', class: '' }
+'Generic Smartphone-Bada-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: Bada, ua: 'Opera Mini', class: mobile }
 'Lenovo A288t_TD-Android-iBrowser': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: iBrowser, class: '' }
 'Lenovo A288t_TD-Android-Baidu Explorer': { source: uap-core-os, device: 'Lenovo A288t_TD', os: Android, ua: 'Baidu Explorer', class: '' }
-'Generic Smartphone-Android-QQ Browser Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: 'QQ Browser Mobile', class: '' }
-'Generic Smartphone-Android-Other': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: Other, class: '' }
+'Generic Smartphone-Android-QQ Browser Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: 'QQ Browser Mobile', class: mobile }
+'Generic Smartphone-Android-Other': { source: uap-core-os, device: 'Generic Smartphone', os: Android, ua: Other, class: mobile }
 Other-Linux-ELinks: { source: uap-core-os, device: Other, os: Linux, ua: ELinks, class: '' }
 Other-OpenBSD-ELinks: { source: uap-core-os, device: Other, os: OpenBSD, ua: ELinks, class: '' }
 Other-FreeBSD-ELinks: { source: uap-core-os, device: Other, os: FreeBSD, ua: ELinks, class: '' }
@@ -15205,7 +15205,7 @@ Other-FreeBSD-Links: { source: uap-core-os, device: Other, os: FreeBSD, ua: Link
 Other-Linux-Netscape: { source: uap-core-os, device: Other, os: Linux, ua: Netscape, class: '' }
 Other-FreeBSD-Opera: { source: uap-core-os, device: Other, os: FreeBSD, ua: Opera, class: '' }
 Other-Linux-Opera: { source: uap-core-os, device: Other, os: Linux, ua: Opera, class: '' }
-'Generic Smartphone-Maemo-Opera Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: Maemo, ua: 'Opera Mobile', class: '' }
+'Generic Smartphone-Maemo-Opera Mobile': { source: uap-core-os, device: 'Generic Smartphone', os: Maemo, ua: 'Opera Mobile', class: mobile }
 Other-FreeBSD-Other: { source: uap-core-os, device: Other, os: FreeBSD, ua: Other, class: '' }
 Other-Gentoo-Konqueror: { source: uap-core-os, device: Other, os: Gentoo, ua: Konqueror, class: '' }
 Other-NetBSD-Konqueror: { source: uap-core-os, device: Other, os: NetBSD, ua: Konqueror, class: '' }
@@ -15285,9 +15285,9 @@ Other-Linux-Thunderbird: { source: uap-core-ua, device: Other, os: Linux, ua: Th
 'Other-Windows 7-IE': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: IE, class: desktop }
 'Other-Windows 7-Vivaldi': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: Vivaldi, class: desktop }
 'LG KC910-Other-Teleca Browser': { source: uap-core-ua, device: 'LG KC910', os: Other, ua: 'Teleca Browser', class: '' }
-'Generic Feature Phone-Other-Obigo': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Obigo, class: '' }
-'Generic Smartphone-Android-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: Android, ua: 'Opera Mobile', class: '' }
-'Generic Smartphone-Windows Mobile-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: 'Windows Mobile', ua: 'Opera Mobile', class: '' }
+'Generic Feature Phone-Other-Obigo': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Obigo, class: mobile }
+'Generic Smartphone-Android-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: Android, ua: 'Opera Mobile', class: mobile }
+'Generic Smartphone-Windows Mobile-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: 'Windows Mobile', ua: 'Opera Mobile', class: mobile }
 'HP iPAQ DataMessenger-Windows-Opera Mobile': { source: uap-core-ua, device: 'HP iPAQ DataMessenger', os: Windows, ua: 'Opera Mobile', class: '' }
 'HTC MAX 4G-Windows-Opera Mobile': { source: uap-core-ua, device: 'HTC MAX 4G', os: Windows, ua: 'Opera Mobile', class: '' }
 A2-Android-Android: { source: uap-core-ua, device: A2, os: Android, ua: Android, class: '' }
@@ -15310,8 +15310,8 @@ Other-Linux-mDolphin: { source: uap-core-ua, device: Other, os: Linux, ua: mDolp
 'iPhone4,1-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone4,1', os: iOS, ua: CFNetwork, class: mobile }
 'iPhone5,2-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone5,2', os: iOS, ua: CFNetwork, class: mobile }
 Other-Linux-Puffin: { source: uap-core-ua, device: Other, os: Linux, ua: Puffin, class: '' }
-'Generic Smartphone-Linux-Puffin': { source: uap-core-ua, device: 'Generic Smartphone', os: Linux, ua: Puffin, class: '' }
-'Generic Tablet-Linux-Puffin': { source: uap-core-ua, device: 'Generic Tablet', os: Linux, ua: Puffin, class: '' }
+'Generic Smartphone-Linux-Puffin': { source: uap-core-ua, device: 'Generic Smartphone', os: Linux, ua: Puffin, class: mobile }
+'Generic Tablet-Linux-Puffin': { source: uap-core-ua, device: 'Generic Tablet', os: Linux, ua: Puffin, class: tablet }
 iPad-iOS-Puffin: { source: uap-core-ua, device: iPad, os: iOS, ua: Puffin, class: tablet }
 iPhone-iOS-Puffin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Puffin, class: mobile }
 iPod-iOS-Puffin: { source: uap-core-ua, device: iPod, os: iOS, ua: Puffin, class: mobile }
@@ -15411,7 +15411,7 @@ Spider-Other-LinkAider: { source: uap-core-ua, device: Spider, os: Other, ua: Li
 'Spider-Other-Lite Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Lite Bot', class: spider }
 Spider-Other-Llaut: { source: uap-core-ua, device: Spider, os: Other, ua: Llaut, class: spider }
 Spider-Linux-Mail.RU_Bot: { source: uap-core-ua, device: Spider, os: Linux, ua: Mail.RU_Bot, class: spider }
-'Generic Feature Phone-Other-Mediapartners-Google': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Mediapartners-Google, class: '' }
+'Generic Feature Phone-Other-Mediapartners-Google': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Mediapartners-Google, class: mobile }
 Spider-Other-Mediapartners-Google: { source: uap-core-ua, device: Spider, os: Other, ua: Mediapartners-Google, class: spider }
 'Spider-Other-Microsoft Bing Mobile SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft Bing Mobile SocialStreams Bot', class: spider }
 'Spider-Other-Microsoft MSN SocialStreams Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Microsoft MSN SocialStreams Bot', class: spider }
