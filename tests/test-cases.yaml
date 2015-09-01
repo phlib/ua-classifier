@@ -14,9 +14,9 @@
 'HTC Hero-Linux-QQ Browser': { source: uap-core-device, device: 'HTC Hero', os: Linux, ua: 'QQ Browser', class: '' }
 'Huawei G2800-Other-Obigo': { source: uap-core-device, device: 'Huawei G2800', os: Other, ua: Obigo, class: '' }
 'Huawei M750-Other-NetFront': { source: uap-core-device, device: 'Huawei M750', os: Other, ua: NetFront, class: '' }
-'iPad-iOS-Mobile Safari': { source: uap-core-device, device: iPad, os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone-iOS-Mobile Safari': { source: uap-core-device, device: iPhone, os: iOS, ua: 'Mobile Safari', class: '' }
-'iPod-iOS-Mobile Safari': { source: uap-core-device, device: iPod, os: iOS, ua: 'Mobile Safari', class: '' }
+'iPad-iOS-Mobile Safari': { source: uap-core-device, device: iPad, os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPhone-iOS-Mobile Safari': { source: uap-core-device, device: iPhone, os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPod-iOS-Mobile Safari': { source: uap-core-device, device: iPod, os: iOS, ua: 'Mobile Safari', class: mobile }
 Kindle-Kindle-NetFront: { source: uap-core-device, device: Kindle, os: Kindle, ua: NetFront, class: '' }
 'Kindle Fire-Android-Android': { source: uap-core-device, device: 'Kindle Fire', os: Android, ua: Android, class: '' }
 'Kindle Fire HD-Android-Amazon Silk': { source: uap-core-device, device: 'Kindle Fire HD', os: Android, ua: 'Amazon Silk', class: '' }
@@ -54,7 +54,7 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'Nokia N8-Symbian^3 Anna-Nokia Browser': { source: uap-core-device, device: 'Nokia N8', os: 'Symbian^3 Anna', ua: 'Nokia Browser', class: '' }
 'Nokia N9-MeeGo-Nokia Browser': { source: uap-core-device, device: 'Nokia N9', os: MeeGo, ua: 'Nokia Browser', class: '' }
 'Other-Windows Phone-IE Large Screen': { source: uap-core-device, device: Other, os: 'Windows Phone', ua: 'IE Large Screen', class: '' }
-'Other-iOS-UC Browser': { source: uap-core-device, device: Other, os: iOS, ua: 'UC Browser', class: '' }
+'Other-iOS-UC Browser': { source: uap-core-device, device: Other, os: iOS, ua: 'UC Browser', class: 'mobile' }
 'Other-Other-UC Browser': { source: uap-core-device, device: Other, os: Other, ua: 'UC Browser', class: '' }
 'Generic Smartphone-BREW-NetFront': { source: uap-core-device, device: 'Generic Smartphone', os: BREW, ua: NetFront, class: '' }
 'SprintE4100-Brew MP-NetFront': { source: uap-core-device, device: SprintE4100, os: 'Brew MP', ua: NetFront, class: '' }
@@ -64,7 +64,7 @@ SprintLN240-BREW-NetFront: { source: uap-core-device, device: SprintLN240, os: B
 Other-Solaris-Firefox: { source: uap-core-device, device: Other, os: Solaris, ua: Firefox, class: '' }
 'Other-Windows 7-Baidu Browser': { source: uap-core-device, device: Other, os: 'Windows 7', ua: 'Baidu Browser', class: '' }
 'Other-Windows 2000-ICE Browser': { source: uap-core-device, device: Other, os: 'Windows 2000', ua: 'ICE Browser', class: '' }
-'Generic Smartphone-iOS-QQ Browser Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: iOS, ua: 'QQ Browser Mobile', class: '' }
+'Generic Smartphone-iOS-QQ Browser Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: iOS, ua: 'QQ Browser Mobile', class: 'mobile' }
 'Generic Feature Phone-VRE-Opera Mini': { source: uap-core-device, device: 'Generic Feature Phone', os: VRE, ua: 'Opera Mini', class: '' }
 'Generic Smartphone-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: 'Firefox OS', ua: 'Firefox Mobile', class: '' }
 'Generic Tablet-Firefox OS-Firefox': { source: uap-core-device, device: 'Generic Tablet', os: 'Firefox OS', ua: Firefox, class: '' }
@@ -753,43 +753,43 @@ MW0931-Android-Android: { source: uap-core-device, device: MW0931, os: Android, 
 'Aoson M33 3G-Android-Android': { source: uap-core-device, device: 'Aoson M33 3G', os: Android, ua: Android, class: '' }
 'Apanda A60-Android-Android': { source: uap-core-device, device: 'Apanda A60', os: Android, ua: Android, class: '' }
 'Apanda A80S-Android-UC Browser': { source: uap-core-device, device: 'Apanda A80S', os: Android, ua: 'UC Browser', class: '' }
-'iPad1,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad1,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,3', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,4', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,5', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,6-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,6', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad2,7-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,7', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad3,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad3,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,4', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad3,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,5', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad3,6-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,6', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad4,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad4,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad4,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,4', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPad4,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,5', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone1,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone1,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone1,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone1,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone2,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone3,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone3,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,3', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone4,1-Linux-Mobile Safari': { source: uap-core-device, device: 'iPhone4,1', os: Linux, ua: 'Mobile Safari', class: '' }
-'iPhone5,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone5,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,2', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone5,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,3', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone5,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,4', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone6,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone6,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone6,2-Linux-Mobile Safari': { source: uap-core-device, device: 'iPhone6,2', os: Linux, ua: 'Mobile Safari', class: '' }
-'iPod2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod2,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPod3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod3,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPod4,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod4,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPod5,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod5,1', os: iOS, ua: 'Mobile Safari', class: '' }
-'iPhone-Other-Mobile Safari': { source: uap-core-device, device: iPhone, os: Other, ua: 'Mobile Safari', class: '' }
-iPad-Linux-Puffin: { source: uap-core-device, device: iPad, os: Linux, ua: Puffin, class: '' }
-iPhone-Linux-Puffin: { source: uap-core-device, device: iPhone, os: Linux, ua: Puffin, class: '' }
+'iPad1,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad1,1', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,1', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,2', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,3', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,4', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,5', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,6-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,6', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad2,7-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad2,7', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,1', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad3,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,2', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad3,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,4', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad3,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,5', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad3,6-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad3,6', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad4,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,1', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad4,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,2', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad4,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,4', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPad4,5-iOS-Mobile Safari': { source: uap-core-device, device: 'iPad4,5', os: iOS, ua: 'Mobile Safari', class: tablet }
+'iPhone1,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone1,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone1,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone1,2', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone2,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone3,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,2', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone3,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone3,3', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone4,1-Linux-Mobile Safari': { source: uap-core-device, device: 'iPhone4,1', os: Linux, ua: 'Mobile Safari', class: mobile }
+'iPhone5,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone5,2-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,2', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone5,3-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,3', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone5,4-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone5,4', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone6,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPhone6,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone6,2-Linux-Mobile Safari': { source: uap-core-device, device: 'iPhone6,2', os: Linux, ua: 'Mobile Safari', class: mobile }
+'iPod2,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod2,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPod3,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod3,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPod4,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod4,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPod5,1-iOS-Mobile Safari': { source: uap-core-device, device: 'iPod5,1', os: iOS, ua: 'Mobile Safari', class: mobile }
+'iPhone-Other-Mobile Safari': { source: uap-core-device, device: iPhone, os: Other, ua: 'Mobile Safari', class: mobile }
+iPad-Linux-Puffin: { source: uap-core-device, device: iPad, os: Linux, ua: Puffin, class: tablet }
+iPhone-Linux-Puffin: { source: uap-core-device, device: iPhone, os: Linux, ua: Puffin, class: mobile }
 'Archos GAMEPAD-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD', os: Android, ua: Chrome, class: '' }
 'Archos GAMEPAD2-Android-Chrome': { source: uap-core-device, device: 'Archos GAMEPAD2', os: Android, ua: Chrome, class: '' }
 'Archos 101 CHILDPAD-Android-Chrome': { source: uap-core-device, device: 'Archos 101 CHILDPAD', os: Android, ua: Chrome, class: '' }
@@ -15146,7 +15146,7 @@ Spider-Other-holmes: { source: uap-core-device, device: Spider, os: Other, ua: h
 'Generic Tablet-Android-Opera Tablet': { source: uap-core-os, device: 'Generic Tablet', os: Android, ua: 'Opera Tablet', class: '' }
 Other-BSD-Rekonq: { source: uap-core-os, device: Other, os: BSD, ua: Rekonq, class: '' }
 Other-Debian-Conkeror: { source: uap-core-os, device: Other, os: Debian, ua: Conkeror, class: '' }
-'iPhone-iOS-Opera Mini': { source: uap-core-os, device: iPhone, os: iOS, ua: 'Opera Mini', class: '' }
+'iPhone-iOS-Opera Mini': { source: uap-core-os, device: iPhone, os: iOS, ua: 'Opera Mini', class: mobile }
 Other-Linux-LuaKit: { source: uap-core-os, device: Other, os: Linux, ua: LuaKit, class: '' }
 Other-Linux-Konqueror: { source: uap-core-os, device: Other, os: Linux, ua: Konqueror, class: '' }
 'Other-Linux-Python Requests': { source: uap-core-os, device: Other, os: Linux, ua: 'Python Requests', class: '' }
@@ -15221,7 +15221,7 @@ Other-Linux-Firefox: { source: uap-core-os, device: Other, os: Linux, ua: Firefo
 'Samsung GT-S5570-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-S5570', os: Android, ua: 'UC Browser', class: '' }
 'Dell Streak-Android-UC Browser': { source: uap-core-os, device: 'Dell Streak', os: Android, ua: 'UC Browser', class: '' }
 'Other-Windows Phone-UC Browser': { source: uap-core-os, device: Other, os: 'Windows Phone', ua: 'UC Browser', class: '' }
-'iPad2,5-iOS-UC Browser': { source: uap-core-os, device: 'iPad2,5', os: iOS, ua: 'UC Browser', class: '' }
+'iPad2,5-iOS-UC Browser': { source: uap-core-os, device: 'iPad2,5', os: iOS, ua: 'UC Browser', class: tablet }
 'Generic Smartphone-Windows Phone-IE': { source: uap-core-os, device: 'Generic Smartphone', os: 'Windows Phone', ua: IE, class: '' }
 'Other-Windows NT-Firefox': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Firefox, class: '' }
 'Other-Windows NT-Netscape': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Netscape, class: '' }
@@ -15242,11 +15242,11 @@ Other-Linux-Firefox: { source: uap-core-os, device: Other, os: Linux, ua: Firefo
 'MacBookPro7,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro7,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
 'MacBook3,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBook3,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
 'MacBookPro11,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro11,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua: CFNetwork, class: '' }
+iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua: CFNetwork, class: 'mobile' }
 'iOS-Device-Mac OS X-CFNetwork': { source: uap-core-os, device: iOS-Device, os: 'Mac OS X', ua: CFNetwork, class: '' }
 'Other-Mac OS X-Other': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Other, class: '' }
 'MacBookPro10,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro10,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'Generic Smartphone-iOS-Mobile Safari': { source: uap-core-os, device: 'Generic Smartphone', os: iOS, ua: 'Mobile Safari', class: '' }
+'Generic Smartphone-iOS-Mobile Safari': { source: uap-core-os, device: 'Generic Smartphone', os: iOS, ua: 'Mobile Safari', class: 'mobile' }
 'Other-Mac OS X-MacAppStore': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: MacAppStore, class: '' }
 'Other-Mac OS X-iTunes': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: iTunes, class: '' }
 'Other-Mac OS X-Chrome': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Chrome, class: '' }
@@ -15264,7 +15264,7 @@ Spider-Other-Java: { source: uap-core-ua, device: Spider, os: Other, ua: Java, c
 'Other-Windows XP-Mail.ru Chromium Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Mail.ru Chromium Browser', class: '' }
 'Other-Mac OS X-Opera': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Opera, class: '' }
 'Samsung GT-I9100-Android-Opera Mobile': { source: uap-core-ua, device: 'Samsung GT-I9100', os: Android, ua: 'Opera Mobile', class: '' }
-'iPhone-iOS-Opera Coast': { source: uap-core-ua, device: iPhone, os: iOS, ua: 'Opera Coast', class: '' }
+'iPhone-iOS-Opera Coast': { source: uap-core-ua, device: iPhone, os: iOS, ua: 'Opera Coast', class: mobile }
 Spider-Other-PingdomBot: { source: uap-core-ua, device: Spider, os: Other, ua: PingdomBot, class: '' }
 Other-Other-PyAMF: { source: uap-core-ua, device: Other, os: Other, ua: PyAMF, class: '' }
 Other-Other-RackspaceBot: { source: uap-core-ua, device: Other, os: Other, ua: RackspaceBot, class: '' }
@@ -15300,21 +15300,21 @@ A2-Android-Android: { source: uap-core-ua, device: A2, os: Android, ua: Android,
 'Other-Other-QQ Browser Mini': { source: uap-core-ua, device: Other, os: Other, ua: 'QQ Browser Mini', class: '' }
 'Ericsson J105i-Other-QQ Browser Mini': { source: uap-core-ua, device: 'Ericsson J105i', os: Other, ua: 'QQ Browser Mini', class: '' }
 'Other-Linux-QQ Browser': { source: uap-core-ua, device: Other, os: Linux, ua: 'QQ Browser', class: '' }
-iPad-iOS-Dolphin: { source: uap-core-ua, device: iPad, os: iOS, ua: Dolphin, class: '' }
-iPhone-iOS-Dolphin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Dolphin, class: '' }
+iPad-iOS-Dolphin: { source: uap-core-ua, device: iPad, os: iOS, ua: Dolphin, class: tablet }
+iPhone-iOS-Dolphin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Dolphin, class: mobile }
 XT701-Android-Dolphin: { source: uap-core-ua, device: XT701, os: Android, ua: Dolphin, class: '' }
 'Samsung GT-P1000-Android-Dolphin': { source: uap-core-ua, device: 'Samsung GT-P1000', os: Android, ua: Dolphin, class: '' }
 'Asus Nexus 7-Android-Dolphin': { source: uap-core-ua, device: 'Asus Nexus 7', os: Android, ua: Dolphin, class: '' }
 'Other-Mac OS X-Dolphin': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Dolphin, class: '' }
 Other-Linux-mDolphin: { source: uap-core-ua, device: Other, os: Linux, ua: mDolphin, class: '' }
-'iPhone4,1-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone4,1', os: iOS, ua: CFNetwork, class: '' }
-'iPhone5,2-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone5,2', os: iOS, ua: CFNetwork, class: '' }
+'iPhone4,1-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone4,1', os: iOS, ua: CFNetwork, class: mobile }
+'iPhone5,2-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone5,2', os: iOS, ua: CFNetwork, class: mobile }
 Other-Linux-Puffin: { source: uap-core-ua, device: Other, os: Linux, ua: Puffin, class: '' }
 'Generic Smartphone-Linux-Puffin': { source: uap-core-ua, device: 'Generic Smartphone', os: Linux, ua: Puffin, class: '' }
 'Generic Tablet-Linux-Puffin': { source: uap-core-ua, device: 'Generic Tablet', os: Linux, ua: Puffin, class: '' }
-iPad-iOS-Puffin: { source: uap-core-ua, device: iPad, os: iOS, ua: Puffin, class: '' }
-iPhone-iOS-Puffin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Puffin, class: '' }
-iPod-iOS-Puffin: { source: uap-core-ua, device: iPod, os: iOS, ua: Puffin, class: '' }
+iPad-iOS-Puffin: { source: uap-core-ua, device: iPad, os: iOS, ua: Puffin, class: tablet }
+iPhone-iOS-Puffin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Puffin, class: mobile }
+iPod-iOS-Puffin: { source: uap-core-ua, device: iPod, os: iOS, ua: Puffin, class: mobile }
 Spider-Other-Ant-Nutch: { source: uap-core-ua, device: Spider, os: Other, ua: Ant-Nutch, class: '' }
 Spider-Other-Axtaris: { source: uap-core-ua, device: Spider, os: Other, ua: Axtaris, class: '' }
 Spider-Other-CazoodleBot: { source: uap-core-ua, device: Spider, os: Other, ua: CazoodleBot, class: '' }
@@ -15439,7 +15439,7 @@ Spider-Other-Vagabondo: { source: uap-core-ua, device: Spider, os: Other, ua: Va
 'Spider-Windows 95-VoilaBot': { source: uap-core-ua, device: Spider, os: 'Windows 95', ua: VoilaBot, class: '' }
 'Spider-Other-Votay bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'Votay bot', class: '' }
 'Spider-Other-WASALive Bot': { source: uap-core-ua, device: Spider, os: Other, ua: 'WASALive Bot', class: '' }
-iPad-iOS-WIRE: { source: uap-core-ua, device: iPad, os: iOS, ua: WIRE, class: '' }
+iPad-iOS-WIRE: { source: uap-core-ua, device: iPad, os: iOS, ua: WIRE, class: tablet }
 Spider-Linux-WIRE: { source: uap-core-ua, device: Spider, os: Linux, ua: WIRE, class: '' }
 'Spider-Windows 7-Web-sniffer': { source: uap-core-ua, device: Spider, os: 'Windows 7', ua: Web-sniffer, class: '' }
 Other-Linux-WebThumb: { source: uap-core-ua, device: Other, os: Linux, ua: WebThumb, class: '' }
