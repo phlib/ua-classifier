@@ -59,10 +59,10 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'Generic Smartphone-BREW-NetFront': { source: uap-core-device, device: 'Generic Smartphone', os: BREW, ua: NetFront, class: '' }
 'SprintE4100-Brew MP-NetFront': { source: uap-core-device, device: SprintE4100, os: 'Brew MP', ua: NetFront, class: '' }
 SprintLN240-BREW-NetFront: { source: uap-core-device, device: SprintLN240, os: BREW, ua: NetFront, class: '' }
-'Other-Mac OS-IE': { source: uap-core-device, device: Other, os: 'Mac OS', ua: IE, class: '' }
-'Other-Windows 3.1-NCSA Mosaic': { source: uap-core-device, device: Other, os: 'Windows 3.1', ua: 'NCSA Mosaic', class: '' }
+'Other-Mac OS-IE': { source: uap-core-device, device: Other, os: 'Mac OS', ua: IE, class: desktop }
+'Other-Windows 3.1-NCSA Mosaic': { source: uap-core-device, device: Other, os: 'Windows 3.1', ua: 'NCSA Mosaic', class: desktop }
 Other-Solaris-Firefox: { source: uap-core-device, device: Other, os: Solaris, ua: Firefox, class: '' }
-'Other-Windows 7-Baidu Browser': { source: uap-core-device, device: Other, os: 'Windows 7', ua: 'Baidu Browser', class: '' }
+'Other-Windows 7-Baidu Browser': { source: uap-core-device, device: Other, os: 'Windows 7', ua: 'Baidu Browser', class: desktop }
 'Other-Windows 2000-ICE Browser': { source: uap-core-device, device: Other, os: 'Windows 2000', ua: 'ICE Browser', class: '' }
 'Generic Smartphone-iOS-QQ Browser Mobile': { source: uap-core-device, device: 'Generic Smartphone', os: iOS, ua: 'QQ Browser Mobile', class: 'mobile' }
 'Generic Feature Phone-VRE-Opera Mini': { source: uap-core-device, device: 'Generic Feature Phone', os: VRE, ua: 'Opera Mini', class: '' }
@@ -15154,8 +15154,8 @@ Other-Linux-Conkeror: { source: uap-core-os, device: Other, os: Linux, ua: Conke
 Other-Linux-Midori: { source: uap-core-os, device: Other, os: Linux, ua: Midori, class: '' }
 Other-Linux-IceCat: { source: uap-core-os, device: Other, os: Linux, ua: IceCat, class: '' }
 'Other-Linux-Firefox Beta': { source: uap-core-os, device: Other, os: Linux, ua: 'Firefox Beta', class: '' }
-'Other-Mac OS X-Safari': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Safari, class: '' }
-'Other-Mac OS X-Skyfire': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Skyfire, class: '' }
+'Other-Mac OS X-Safari': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Safari, class: desktop }
+'Other-Mac OS X-Skyfire': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Skyfire, class: desktop }
 Other-Other-YottaaMonitor: { source: uap-core-os, device: Other, os: Other, ua: YottaaMonitor, class: '' }
 Other-Other-Other: { source: uap-core-os, device: Other, os: Other, ua: Other, class: '' }
 'Generic Smartphone-Symbian OS-Opera Mini': { source: uap-core-os, device: 'Generic Smartphone', os: 'Symbian OS', ua: 'Opera Mini', class: '' }
@@ -15165,25 +15165,25 @@ Other-Ubuntu-Chromium: { source: uap-core-os, device: Other, os: Ubuntu, ua: Chr
 'Other-Ubuntu-Firefox (Shiretoko)': { source: uap-core-os, device: Other, os: Ubuntu, ua: 'Firefox (Shiretoko)', class: '' }
 'Generic Smartphone-webOS-webOS Browser': { source: uap-core-os, device: 'Generic Smartphone', os: webOS, ua: 'webOS Browser', class: '' }
 Other-Windows-AdobeAIR: { source: uap-core-os, device: Other, os: Windows, ua: AdobeAIR, class: '' }
-'Other-Windows 10-IE': { source: uap-core-os, device: Other, os: 'Windows 10', ua: IE, class: '' }
-'Other-Windows 10-Edge': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Edge, class: '' }
-'Other-Windows 10-Firefox': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Firefox, class: '' }
-'Other-Windows 8.1-IE': { source: uap-core-os, device: Other, os: 'Windows 8.1', ua: IE, class: '' }
-'Other-Windows RT 8.1-IE': { source: uap-core-os, device: Other, os: 'Windows RT 8.1', ua: IE, class: '' }
-'Other-Windows 7-ThunderBrowse': { source: uap-core-os, device: Other, os: 'Windows 7', ua: ThunderBrowse, class: '' }
-'Other-Windows 7-MozillaDeveloperPreview': { source: uap-core-os, device: Other, os: 'Windows 7', ua: MozillaDeveloperPreview, class: '' }
-'Other-Windows 7-FireWeb': { source: uap-core-os, device: Other, os: 'Windows 7', ua: FireWeb, class: '' }
-'Other-Windows 8-IE': { source: uap-core-os, device: Other, os: 'Windows 8', ua: IE, class: '' }
-'Other-Windows RT-IE': { source: uap-core-os, device: Other, os: 'Windows RT', ua: IE, class: '' }
-'Other-Windows Vista-IE': { source: uap-core-os, device: Other, os: 'Windows Vista', ua: IE, class: '' }
-'Other-Windows XP-Lightning': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Lightning, class: '' }
-'Other-Windows XP-Opera': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Opera, class: '' }
-'Other-Windows XP-BOLT': { source: uap-core-os, device: Other, os: 'Windows XP', ua: BOLT, class: '' }
-'Other-Windows XP-Sleipnir': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Sleipnir, class: '' }
-'Other-Windows XP-IE': { source: uap-core-os, device: Other, os: 'Windows XP', ua: IE, class: '' }
-'Other-Windows XP-RockMelt': { source: uap-core-os, device: Other, os: 'Windows XP', ua: RockMelt, class: '' }
-'Other-Windows XP-Comodo Dragon': { source: uap-core-os, device: Other, os: 'Windows XP', ua: 'Comodo Dragon', class: '' }
-'Other-Windows XP-Pale Moon (Firefox Variant)': { source: uap-core-os, device: Other, os: 'Windows XP', ua: 'Pale Moon (Firefox Variant)', class: '' }
+'Other-Windows 10-IE': { source: uap-core-os, device: Other, os: 'Windows 10', ua: IE, class: desktop }
+'Other-Windows 10-Edge': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Edge, class: desktop }
+'Other-Windows 10-Firefox': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Firefox, class: desktop }
+'Other-Windows 8.1-IE': { source: uap-core-os, device: Other, os: 'Windows 8.1', ua: IE, class: desktop }
+'Other-Windows RT 8.1-IE': { source: uap-core-os, device: Other, os: 'Windows RT 8.1', ua: IE, class: tablet }
+'Other-Windows 7-ThunderBrowse': { source: uap-core-os, device: Other, os: 'Windows 7', ua: ThunderBrowse, class: desktop }
+'Other-Windows 7-MozillaDeveloperPreview': { source: uap-core-os, device: Other, os: 'Windows 7', ua: MozillaDeveloperPreview, class: desktop }
+'Other-Windows 7-FireWeb': { source: uap-core-os, device: Other, os: 'Windows 7', ua: FireWeb, class: desktop }
+'Other-Windows 8-IE': { source: uap-core-os, device: Other, os: 'Windows 8', ua: IE, class: desktop }
+'Other-Windows RT-IE': { source: uap-core-os, device: Other, os: 'Windows RT', ua: IE, class: tablet }
+'Other-Windows Vista-IE': { source: uap-core-os, device: Other, os: 'Windows Vista', ua: IE, class: desktop }
+'Other-Windows XP-Lightning': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Lightning, class: desktop }
+'Other-Windows XP-Opera': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Opera, class: desktop }
+'Other-Windows XP-BOLT': { source: uap-core-os, device: Other, os: 'Windows XP', ua: BOLT, class: desktop }
+'Other-Windows XP-Sleipnir': { source: uap-core-os, device: Other, os: 'Windows XP', ua: Sleipnir, class: desktop }
+'Other-Windows XP-IE': { source: uap-core-os, device: Other, os: 'Windows XP', ua: IE, class: desktop }
+'Other-Windows XP-RockMelt': { source: uap-core-os, device: Other, os: 'Windows XP', ua: RockMelt, class: desktop }
+'Other-Windows XP-Comodo Dragon': { source: uap-core-os, device: Other, os: 'Windows XP', ua: 'Comodo Dragon', class: desktop }
+'Other-Windows XP-Pale Moon (Firefox Variant)': { source: uap-core-os, device: Other, os: 'Windows XP', ua: 'Pale Moon (Firefox Variant)', class: desktop }
 Other-Mandriva-Firefox: { source: uap-core-os, device: Other, os: Mandriva, ua: Firefox, class: '' }
 'Other-Windows ME-Other': { source: uap-core-os, device: Other, os: 'Windows ME', ua: Other, class: '' }
 'Samsung GT-S6012-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-S6012', os: Android, ua: 'UC Browser', class: '' }
@@ -15222,47 +15222,47 @@ Other-Linux-Firefox: { source: uap-core-os, device: Other, os: Linux, ua: Firefo
 'Dell Streak-Android-UC Browser': { source: uap-core-os, device: 'Dell Streak', os: Android, ua: 'UC Browser', class: '' }
 'Other-Windows Phone-UC Browser': { source: uap-core-os, device: Other, os: 'Windows Phone', ua: 'UC Browser', class: '' }
 'iPad2,5-iOS-UC Browser': { source: uap-core-os, device: 'iPad2,5', os: iOS, ua: 'UC Browser', class: tablet }
-'Generic Smartphone-Windows Phone-IE': { source: uap-core-os, device: 'Generic Smartphone', os: 'Windows Phone', ua: IE, class: '' }
-'Other-Windows NT-Firefox': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Firefox, class: '' }
-'Other-Windows NT-Netscape': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Netscape, class: '' }
-'Other-Windows ME-Firefox': { source: uap-core-os, device: Other, os: 'Windows ME', ua: Firefox, class: '' }
-'Other-Windows ME-Netscape': { source: uap-core-os, device: Other, os: 'Windows ME', ua: Netscape, class: '' }
-'Other-Windows 3.1-Safari': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Safari, class: '' }
-'Other-Windows 3.1-Other': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Other, class: '' }
-'Other-Windows 3.1-Firefox': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Firefox, class: '' }
-'Other-Windows 95-Other': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Other, class: '' }
-'Other-Windows 95-Netscape': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Netscape, class: '' }
-'Other-Windows 95-Firefox': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Firefox, class: '' }
-'Other-Windows CE-Firefox Mobile': { source: uap-core-os, device: Other, os: 'Windows CE', ua: 'Firefox Mobile', class: '' }
-'Other-Windows CE-Firefox': { source: uap-core-os, device: Other, os: 'Windows CE', ua: Firefox, class: '' }
-'Other-Windows CE-SeaMonkey': { source: uap-core-os, device: Other, os: 'Windows CE', ua: SeaMonkey, class: '' }
-'Samsung GT-B7350-Windows Mobile-Opera Mobile': { source: uap-core-os, device: 'Samsung GT-B7350', os: 'Windows Mobile', ua: 'Opera Mobile', class: '' }
-'Macmini2,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'Macmini2,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'MacBook5,2-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBook5,2', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'MacBookPro7,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro7,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'MacBook3,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBook3,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'MacBookPro11,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro11,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua: CFNetwork, class: 'mobile' }
-'iOS-Device-Mac OS X-CFNetwork': { source: uap-core-os, device: iOS-Device, os: 'Mac OS X', ua: CFNetwork, class: '' }
-'Other-Mac OS X-Other': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Other, class: '' }
-'MacBookPro10,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro10,1', os: 'Mac OS X', ua: CFNetwork, class: '' }
-'Generic Smartphone-iOS-Mobile Safari': { source: uap-core-os, device: 'Generic Smartphone', os: iOS, ua: 'Mobile Safari', class: 'mobile' }
-'Other-Mac OS X-MacAppStore': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: MacAppStore, class: '' }
-'Other-Mac OS X-iTunes': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: iTunes, class: '' }
-'Other-Mac OS X-Chrome': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Chrome, class: '' }
-'Other-Mac OS X-Firefox': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Firefox, class: '' }
-'Other-Windows XP-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'QQ Browser', class: '' }
-'Other-Windows 8-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows 8', ua: 'QQ Browser', class: '' }
+'Generic Smartphone-Windows Phone-IE': { source: uap-core-os, device: 'Generic Smartphone', os: 'Windows Phone', ua: IE, class: mobile }
+'Other-Windows NT-Firefox': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Firefox, class: desktop }
+'Other-Windows NT-Netscape': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Netscape, class: desktop }
+'Other-Windows ME-Firefox': { source: uap-core-os, device: Other, os: 'Windows ME', ua: Firefox, class: desktop }
+'Other-Windows ME-Netscape': { source: uap-core-os, device: Other, os: 'Windows ME', ua: Netscape, class: desktop }
+'Other-Windows 3.1-Safari': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Safari, class: desktop }
+'Other-Windows 3.1-Other': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Other, class: desktop }
+'Other-Windows 3.1-Firefox': { source: uap-core-os, device: Other, os: 'Windows 3.1', ua: Firefox, class: desktop }
+'Other-Windows 95-Other': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Other, class: desktop }
+'Other-Windows 95-Netscape': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Netscape, class: desktop }
+'Other-Windows 95-Firefox': { source: uap-core-os, device: Other, os: 'Windows 95', ua: Firefox, class: desktop }
+'Other-Windows CE-Firefox Mobile': { source: uap-core-os, device: Other, os: 'Windows CE', ua: 'Firefox Mobile', class: mobile }
+'Other-Windows CE-Firefox': { source: uap-core-os, device: Other, os: 'Windows CE', ua: Firefox, class: mobile }
+'Other-Windows CE-SeaMonkey': { source: uap-core-os, device: Other, os: 'Windows CE', ua: SeaMonkey, class: mobile }
+'Samsung GT-B7350-Windows Mobile-Opera Mobile': { source: uap-core-os, device: 'Samsung GT-B7350', os: 'Windows Mobile', ua: 'Opera Mobile', class: mobile }
+'Macmini2,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'Macmini2,1', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'MacBook5,2-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBook5,2', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'MacBookPro7,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro7,1', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'MacBook3,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBook3,1', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'MacBookPro11,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro11,1', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua: CFNetwork, class: mobile }
+'iOS-Device-Mac OS X-CFNetwork': { source: uap-core-os, device: iOS-Device, os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'Other-Mac OS X-Other': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Other, class: desktop }
+'MacBookPro10,1-Mac OS X-CFNetwork': { source: uap-core-os, device: 'MacBookPro10,1', os: 'Mac OS X', ua: CFNetwork, class: desktop }
+'Generic Smartphone-iOS-Mobile Safari': { source: uap-core-os, device: 'Generic Smartphone', os: iOS, ua: 'Mobile Safari', class: mobile }
+'Other-Mac OS X-MacAppStore': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: MacAppStore, class: desktop }
+'Other-Mac OS X-iTunes': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: iTunes, class: desktop }
+'Other-Mac OS X-Chrome': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Chrome, class: desktop }
+'Other-Mac OS X-Firefox': { source: uap-core-os, device: Other, os: 'Mac OS X', ua: Firefox, class: desktop }
+'Other-Windows XP-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'QQ Browser', class: desktop }
+'Other-Windows 8-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows 8', ua: 'QQ Browser', class: desktop }
 'XiaoMi MI 2S-Android-QQ Browser Mobile': { source: uap-core-ua, device: 'XiaoMi MI 2S', os: Android, ua: 'QQ Browser Mobile', class: '' }
 'Nokia RM-910-Windows Phone-QQ Browser Mobile': { source: uap-core-ua, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'QQ Browser Mobile', class: '' }
-'Other-Windows XP-Chrome Frame': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Chrome Frame', class: '' }
+'Other-Windows XP-Chrome Frame': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Chrome Frame', class: desktop }
 Spider-Other-FacebookBot: { source: uap-core-ua, device: Spider, os: Other, ua: FacebookBot, class: spider }
 Spider-Other-LinkedInBot: { source: uap-core-ua, device: Spider, os: Other, ua: LinkedInBot, class: spider }
 Spider-Other-GooglePlusBot: { source: uap-core-ua, device: Spider, os: Other, ua: GooglePlusBot, class: spider }
 Other-Other-Espial: { source: uap-core-ua, device: Other, os: Other, ua: Espial, class: '' }
 Spider-Other-Java: { source: uap-core-ua, device: Spider, os: Other, ua: Java, class: spider }
-'Other-Windows XP-Mail.ru Chromium Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Mail.ru Chromium Browser', class: '' }
-'Other-Mac OS X-Opera': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Opera, class: '' }
+'Other-Windows XP-Mail.ru Chromium Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Mail.ru Chromium Browser', class: desktop }
+'Other-Mac OS X-Opera': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Opera, class: desktop }
 'Samsung GT-I9100-Android-Opera Mobile': { source: uap-core-ua, device: 'Samsung GT-I9100', os: Android, ua: 'Opera Mobile', class: '' }
 'iPhone-iOS-Opera Coast': { source: uap-core-ua, device: iPhone, os: iOS, ua: 'Opera Coast', class: mobile }
 Spider-Other-PingdomBot: { source: uap-core-ua, device: Spider, os: Other, ua: PingdomBot, class: spider }
@@ -15272,18 +15272,18 @@ Other-Linux-Rekonq: { source: uap-core-ua, device: Other, os: Linux, ua: Rekonq,
 Other-Linux-Snowshoe: { source: uap-core-ua, device: Other, os: Linux, ua: Snowshoe, class: '' }
 Other-Linux-Lightning: { source: uap-core-ua, device: Other, os: Linux, ua: Lightning, class: '' }
 Other-Linux-Thunderbird: { source: uap-core-ua, device: Other, os: Linux, ua: Thunderbird, class: '' }
-'Other-Windows XP-Outlook': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: Outlook, class: '' }
-'Other-Windows Vista-Outlook': { source: uap-core-ua, device: Other, os: 'Windows Vista', ua: Outlook, class: '' }
-'Other-Windows 7-Outlook': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: Outlook, class: '' }
-'Other-Mac OS X-AppleMail': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: AppleMail, class: '' }
-'Other-Mac OS X-Airmail': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Airmail, class: '' }
-'Other-Windows 7-WebKit Nightly': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: 'WebKit Nightly', class: '' }
-'Other-Mac OS X-WebKit Nightly': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: 'WebKit Nightly', class: '' }
-'Other-Windows 7-Yandex Browser': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: 'Yandex Browser', class: '' }
-'Other-Mac OS X-PhantomJS': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: PhantomJS, class: '' }
-'Other-Windows 7-AOL': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: AOL, class: '' }
-'Other-Windows 7-IE': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: IE, class: '' }
-'Other-Windows 7-Vivaldi': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: Vivaldi, class: '' }
+'Other-Windows XP-Outlook': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: Outlook, class: desktop }
+'Other-Windows Vista-Outlook': { source: uap-core-ua, device: Other, os: 'Windows Vista', ua: Outlook, class: desktop }
+'Other-Windows 7-Outlook': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: Outlook, class: desktop }
+'Other-Mac OS X-AppleMail': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: AppleMail, class: desktop }
+'Other-Mac OS X-Airmail': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Airmail, class: desktop }
+'Other-Windows 7-WebKit Nightly': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: 'WebKit Nightly', class: desktop }
+'Other-Mac OS X-WebKit Nightly': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: 'WebKit Nightly', class: desktop }
+'Other-Windows 7-Yandex Browser': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: 'Yandex Browser', class: desktop }
+'Other-Mac OS X-PhantomJS': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: PhantomJS, class: desktop }
+'Other-Windows 7-AOL': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: AOL, class: desktop }
+'Other-Windows 7-IE': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: IE, class: desktop }
+'Other-Windows 7-Vivaldi': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: Vivaldi, class: desktop }
 'LG KC910-Other-Teleca Browser': { source: uap-core-ua, device: 'LG KC910', os: Other, ua: 'Teleca Browser', class: '' }
 'Generic Feature Phone-Other-Obigo': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Obigo, class: '' }
 'Generic Smartphone-Android-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: Android, ua: 'Opera Mobile', class: '' }
@@ -15305,7 +15305,7 @@ iPhone-iOS-Dolphin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Dolphin,
 XT701-Android-Dolphin: { source: uap-core-ua, device: XT701, os: Android, ua: Dolphin, class: '' }
 'Samsung GT-P1000-Android-Dolphin': { source: uap-core-ua, device: 'Samsung GT-P1000', os: Android, ua: Dolphin, class: '' }
 'Asus Nexus 7-Android-Dolphin': { source: uap-core-ua, device: 'Asus Nexus 7', os: Android, ua: Dolphin, class: '' }
-'Other-Mac OS X-Dolphin': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Dolphin, class: '' }
+'Other-Mac OS X-Dolphin': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: Dolphin, class: desktop }
 Other-Linux-mDolphin: { source: uap-core-ua, device: Other, os: Linux, ua: mDolphin, class: '' }
 'iPhone4,1-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone4,1', os: iOS, ua: CFNetwork, class: mobile }
 'iPhone5,2-iOS-CFNetwork': { source: uap-core-ua, device: 'iPhone5,2', os: iOS, ua: CFNetwork, class: mobile }
@@ -15374,7 +15374,7 @@ Spider-Other-Baiduspider: { source: uap-core-ua, device: Spider, os: Other, ua: 
 Spider-Other-Baiduspider-cpro: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-cpro, class: spider }
 Spider-Other-Baiduspider-image: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-image, class: spider }
 Spider-Other-Baiduspider-testbranch: { source: uap-core-ua, device: Spider, os: Other, ua: Baiduspider-testbranch, class: spider }
-'Other-Windows 7-BingPreview': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: BingPreview, class: '' }
+'Other-Windows 7-BingPreview': { source: uap-core-ua, device: Other, os: 'Windows 7', ua: BingPreview, class: desktop }
 'Spider-Other-BoardReader Blog Indexer': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Blog Indexer', class: spider }
 'Spider-Other-BoardReader Favicon Fetcher': { source: uap-core-ua, device: Spider, os: Other, ua: 'BoardReader Favicon Fetcher', class: spider }
 Spider-Other-BotSeer: { source: uap-core-ua, device: Spider, os: Other, ua: BotSeer, class: spider }
@@ -15972,4 +15972,4 @@ Spider-Other-yrspider: { source: uap-core-ua, device: Spider, os: Other, ua: yrs
 Spider-Other-ysm-keystone-crawl: { source: uap-core-ua, device: Spider, os: Other, ua: ysm-keystone-crawl, class: spider }
 Spider-Other-zyklop-crawler: { source: uap-core-ua, device: Spider, os: Other, ua: zyklop-crawler, class: spider }
 ONE-Android-Android: { source: uap-core-ua, device: ONE, os: Android, ua: Android, class: '' }
-'Other-Mac OS X-Rival IQ': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: 'Rival IQ', class: '' }
+'Other-Mac OS X-Rival IQ': { source: uap-core-ua, device: Other, os: 'Mac OS X', ua: 'Rival IQ', class: desktop }
