@@ -9140,21 +9140,21 @@ P-03E-Android-Android: { source: uap-core-device, device: P-03E, os: Android, ua
 'P-07C-Android-UC Browser': { source: uap-core-device, device: P-07C, os: Android, ua: 'UC Browser', class: '' }
 P-07D-Android-Android: { source: uap-core-device, device: P-07D, os: Android, ua: Android, class: '' }
 P-701-Android-Android: { source: uap-core-device, device: P-701, os: Android, ua: Android, class: '' }
-'Panasonic dL1-Android-Android': { source: uap-core-device, device: 'Panasonic dL1', os: Android, ua: Android, class: '' }
-'Panasonic KX-PRXA10-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic KX-PRXA10', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic KX-PRXA15-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic KX-PRXA15', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic P11-Android-Android': { source: uap-core-device, device: 'Panasonic P11', os: Android, ua: Android, class: '' }
-'Panasonic P51-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic P51', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic SV-MV100-Android-Android': { source: uap-core-device, device: 'Panasonic SV-MV100', os: Android, ua: Android, class: '' }
-'Panasonic T11-Android-Android': { source: uap-core-device, device: 'Panasonic T11', os: Android, ua: Android, class: '' }
-'Panasonic T21-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic T21', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic T31-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic T31', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic UN-W700-Android-Android': { source: uap-core-device, device: 'Panasonic UN-W700', os: Android, ua: Android, class: '' }
-'Panasonic UT-PB1-Android-Android': { source: uap-core-device, device: 'Panasonic UT-PB1', os: Android, ua: Android, class: '' }
-'Panasonic FZ-A1B-Android-Chrome': { source: uap-core-device, device: 'Panasonic FZ-A1B', os: Android, ua: Chrome, class: '' }
-'Panasonic JT-B1-Android-Chrome': { source: uap-core-device, device: 'Panasonic JT-B1', os: Android, ua: Chrome, class: '' }
-'Panasonic dL1-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic dL1', os: Android, ua: 'Chrome Mobile', class: '' }
-'Panasonic DL1-Android-Android': { source: uap-core-device, device: 'Panasonic DL1', os: Android, ua: Android, class: '' }
+'Panasonic dL1-Android-Android': { source: uap-core-device, device: 'Panasonic dL1', os: Android, ua: Android, class: mobile }
+'Panasonic KX-PRXA10-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic KX-PRXA10', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic KX-PRXA15-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic KX-PRXA15', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic P11-Android-Android': { source: uap-core-device, device: 'Panasonic P11', os: Android, ua: Android, class: mobile }
+'Panasonic P51-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic P51', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic SV-MV100-Android-Android': { source: uap-core-device, device: 'Panasonic SV-MV100', os: Android, ua: Android, class: mobile }
+'Panasonic T11-Android-Android': { source: uap-core-device, device: 'Panasonic T11', os: Android, ua: Android, class: mobile }
+'Panasonic T21-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic T21', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic T31-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic T31', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic UN-W700-Android-Android': { source: uap-core-device, device: 'Panasonic UN-W700', os: Android, ua: Android, class: tablet }
+'Panasonic UT-PB1-Android-Android': { source: uap-core-device, device: 'Panasonic UT-PB1', os: Android, ua: Android, class: tablet }
+'Panasonic FZ-A1B-Android-Chrome': { source: uap-core-device, device: 'Panasonic FZ-A1B', os: Android, ua: Chrome, class: tablet }
+'Panasonic JT-B1-Android-Chrome': { source: uap-core-device, device: 'Panasonic JT-B1', os: Android, ua: Chrome, class: tablet }
+'Panasonic dL1-Android-Chrome Mobile': { source: uap-core-device, device: 'Panasonic dL1', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Panasonic DL1-Android-Android': { source: uap-core-device, device: 'Panasonic DL1', os: Android, ua: Android, class: mobile }
 003P-Android-Android: { source: uap-core-device, device: 003P, os: Android, ua: Android, class: '' }
 101P-Android-Android: { source: uap-core-device, device: 101P, os: Android, ua: Android, class: '' }
 101P11C-Android-Opera: { source: uap-core-device, device: 101P11C, os: Android, ua: Opera, class: '' }
@@ -14472,9 +14472,9 @@ ViewPad97a-Android-Android: { source: uap-core-device, device: ViewPad97a, os: A
 ViewPhone3-Android-Android: { source: uap-core-device, device: ViewPhone3, os: Android, ua: Android, class: '' }
 VSD220-Android-Chrome: { source: uap-core-device, device: VSD220, os: Android, ua: Chrome, class: '' }
 VSD241-Android-Chrome: { source: uap-core-device, device: VSD241, os: Android, ua: Chrome, class: '' }
-'ViewSonic-V350-Android-UC Browser': { source: uap-core-device, device: ViewSonic-V350, os: Android, ua: 'UC Browser', class: '' }
-ViewSonic-ViewPad4-Android-Android: { source: uap-core-device, device: ViewSonic-ViewPad4, os: Android, ua: Android, class: '' }
-ViewSonic-ViewPad7e-Android-Android: { source: uap-core-device, device: ViewSonic-ViewPad7e, os: Android, ua: Android, class: '' }
+'ViewSonic-V350-Android-UC Browser': { source: uap-core-device, device: ViewSonic-V350, os: Android, ua: 'UC Browser', class: mobile }
+ViewSonic-ViewPad4-Android-Android: { source: uap-core-device, device: ViewSonic-ViewPad4, os: Android, ua: Android, class: mobile }
+ViewSonic-ViewPad7e-Android-Android: { source: uap-core-device, device: ViewSonic-ViewPad7e, os: Android, ua: Android, class: tablet }
 GTablet-Android-Android: { source: uap-core-device, device: GTablet, os: Android, ua: Android, class: '' }
 GTablet-TnT-Lite-Android-Android: { source: uap-core-device, device: GTablet-TnT-Lite, os: Android, ua: Android, class: '' }
 'vivo E1-Android-Android': { source: uap-core-device, device: 'vivo E1', os: Android, ua: Android, class: '' }
@@ -14544,7 +14544,7 @@ GTablet-TnT-Lite-Android-Android: { source: uap-core-device, device: GTablet-TnT
 'Wellcom A89-Android-Android': { source: uap-core-device, device: 'Wellcom A89', os: Android, ua: Android, class: '' }
 'Wellcom A89-Plus-Android-Android': { source: uap-core-device, device: 'Wellcom A89-Plus', os: Android, ua: Android, class: '' }
 'Wellcom A99-Android-Android': { source: uap-core-device, device: 'Wellcom A99', os: Android, ua: Android, class: '' }
-WeTab-WeTab-WeTab: { source: uap-core-device, device: WeTab, os: WeTab, ua: WeTab, class: '' }
+WeTab-WeTab-WeTab: { source: uap-core-device, device: WeTab, os: WeTab, ua: WeTab, class: tablet }
 'Wiko BARRY-Android-Chrome Mobile': { source: uap-core-device, device: 'Wiko BARRY', os: Android, ua: 'Chrome Mobile', class: '' }
 'Wiko CINK-Android-Android': { source: uap-core-device, device: 'Wiko CINK', os: Android, ua: Android, class: '' }
 'Wiko CINK FIVE-Android-Chrome Mobile': { source: uap-core-device, device: 'Wiko CINK FIVE', os: Android, ua: 'Chrome Mobile', class: '' }
