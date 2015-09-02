@@ -1739,35 +1739,35 @@ C7+-Android-Android: { source: uap-core-device, device: C7+, os: Android, ua: An
 'Dslide 703R-Android-Chrome': { source: uap-core-device, device: 'Dslide 703R', os: Android, ua: Chrome, class: '' }
 'Dslide 704-Android-Android': { source: uap-core-device, device: 'Dslide 704', os: Android, ua: Android, class: '' }
 'Dslide 706-Android-Android': { source: uap-core-device, device: 'Dslide 706', os: Android, ua: Android, class: '' }
-'Dell XCD28-Android-Android': { source: uap-core-device, device: 'Dell XCD28', os: Android, ua: Android, class: '' }
-'Dell XCD35-Android-Android': { source: uap-core-device, device: 'Dell XCD35', os: Android, ua: Android, class: '' }
-'Dell 001DL-Android-Safari': { source: uap-core-device, device: 'Dell 001DL', os: Android, ua: Safari, class: '' }
-'Dell Streak-Android-Android': { source: uap-core-device, device: 'Dell Streak', os: Android, ua: Android, class: '' }
-'Dell GS01-Android-Opera Mobile': { source: uap-core-device, device: 'Dell GS01', os: Android, ua: 'Opera Mobile', class: '' }
-'Dell Streak 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Dell Streak 7', os: Android, ua: 'Chrome Mobile', class: '' }
-'Dell Mini-3iX-Android-Android': { source: uap-core-device, device: 'Dell Mini-3iX', os: Android, ua: Android, class: '' }
-'Dell Aero-Android-Android': { source: uap-core-device, device: 'Dell Aero', os: Android, ua: Android, class: '' }
-'Dell Mini Duo-Android-Android': { source: uap-core-device, device: 'Dell Mini Duo', os: Android, ua: Android, class: '' }
-'Dell Streak Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro', os: Android, ua: Android, class: '' }
-'Dell Streak_Pro-Android-UC Browser': { source: uap-core-device, device: 'Dell Streak_Pro', os: Android, ua: 'UC Browser', class: '' }
-'Dell Thunder-Android-Android': { source: uap-core-device, device: 'Dell Thunder', os: Android, ua: Android, class: '' }
-'Dell Venue-Android-Android': { source: uap-core-device, device: 'Dell Venue', os: Android, ua: Android, class: '' }
-'Dell Grappa-Android-Android': { source: uap-core-device, device: 'Dell Grappa', os: Android, ua: Android, class: '' }
-'Dell Streak 10 Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak 10 Pro', os: Android, ua: Android, class: '' }
-'Dell streak 10 Pro-Android-Android': { source: uap-core-device, device: 'Dell streak 10 Pro', os: Android, ua: Android, class: '' }
-'Dell streak 10 Pro 940-Android-Android': { source: uap-core-device, device: 'Dell streak 10 Pro 940', os: Android, ua: Android, class: '' }
-'Dell Streak 7-Android-Opera': { source: uap-core-device, device: 'Dell Streak 7', os: Android, ua: Opera, class: '' }
-'Dell Streak mini5-Android-Android': { source: uap-core-device, device: 'Dell Streak mini5', os: Android, ua: Android, class: '' }
-'Dell Streak Pro (D43)-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro (D43)', os: Android, ua: Android, class: '' }
-'Dell Streak Pro (GS01)-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro (GS01)', os: Android, ua: Android, class: '' }
-'Dell Streak Pro D43-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro D43', os: Android, ua: Android, class: '' }
-'Dell Streak_10_Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak_10_Pro', os: Android, ua: Android, class: '' }
-'Dell V04B-Android-Android': { source: uap-core-device, device: 'Dell V04B', os: Android, ua: Android, class: '' }
-'Dell Advist-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Dell Advist', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Dell Venue Pro-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Dell Venue Pro', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Dell Aero-Android-Other': { source: uap-core-device, device: 'Dell Aero', os: Android, ua: Other, class: '' }
-'Dell Inc-Windows-Other': { source: uap-core-device, device: 'Dell Inc', os: Windows, ua: Other, class: '' }
-'Dell Streak-Android-Other': { source: uap-core-device, device: 'Dell Streak', os: Android, ua: Other, class: '' }
+'Dell XCD28-Android-Android': { source: uap-core-device, device: 'Dell XCD28', os: Android, ua: Android, class: mobile }
+'Dell XCD35-Android-Android': { source: uap-core-device, device: 'Dell XCD35', os: Android, ua: Android, class: mobile }
+'Dell 001DL-Android-Safari': { source: uap-core-device, device: 'Dell 001DL', os: Android, ua: Safari, class: mobile }
+'Dell Streak-Android-Android': { source: uap-core-device, device: 'Dell Streak', os: Android, ua: Android, class: mobile }
+'Dell GS01-Android-Opera Mobile': { source: uap-core-device, device: 'Dell GS01', os: Android, ua: 'Opera Mobile', class: mobile }
+'Dell Streak 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Dell Streak 7', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Dell Mini-3iX-Android-Android': { source: uap-core-device, device: 'Dell Mini-3iX', os: Android, ua: Android, class: mobile }
+'Dell Aero-Android-Android': { source: uap-core-device, device: 'Dell Aero', os: Android, ua: Android, class: mobile }
+'Dell Mini Duo-Android-Android': { source: uap-core-device, device: 'Dell Mini Duo', os: Android, ua: Android, class: tablet }
+'Dell Streak Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro', os: Android, ua: Android, class: tablet }
+'Dell Streak_Pro-Android-UC Browser': { source: uap-core-device, device: 'Dell Streak_Pro', os: Android, ua: 'UC Browser', class: tablet }
+'Dell Thunder-Android-Android': { source: uap-core-device, device: 'Dell Thunder', os: Android, ua: Android, class: mobile }
+'Dell Venue-Android-Android': { source: uap-core-device, device: 'Dell Venue', os: Android, ua: Android, class: mobile }
+'Dell Grappa-Android-Android': { source: uap-core-device, device: 'Dell Grappa', os: Android, ua: Android, class: mobile }
+'Dell Streak 10 Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak 10 Pro', os: Android, ua: Android, class: tablet }
+'Dell streak 10 Pro-Android-Android': { source: uap-core-device, device: 'Dell streak 10 Pro', os: Android, ua: Android, class: tablet }
+'Dell streak 10 Pro 940-Android-Android': { source: uap-core-device, device: 'Dell streak 10 Pro 940', os: Android, ua: Android, class: tablet }
+'Dell Streak 7-Android-Opera': { source: uap-core-device, device: 'Dell Streak 7', os: Android, ua: Opera, class: tablet }
+'Dell Streak mini5-Android-Android': { source: uap-core-device, device: 'Dell Streak mini5', os: Android, ua: Android, class: mobile }
+'Dell Streak Pro (D43)-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro (D43)', os: Android, ua: Android, class: tablet }
+'Dell Streak Pro (GS01)-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro (GS01)', os: Android, ua: Android, class: tablet }
+'Dell Streak Pro D43-Android-Android': { source: uap-core-device, device: 'Dell Streak Pro D43', os: Android, ua: Android, class: tablet }
+'Dell Streak_10_Pro-Android-Android': { source: uap-core-device, device: 'Dell Streak_10_Pro', os: Android, ua: Android, class: tablet }
+'Dell V04B-Android-Android': { source: uap-core-device, device: 'Dell V04B', os: Android, ua: Android, class: mobile }
+'Dell Advist-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Dell Advist', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Dell Venue Pro-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Dell Venue Pro', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Dell Aero-Android-Other': { source: uap-core-device, device: 'Dell Aero', os: Android, ua: Other, class: mobile }
+'Dell Inc-Windows-Other': { source: uap-core-device, device: 'Dell Inc', os: Windows, ua: Other, class: desktop }
+'Dell Streak-Android-Other': { source: uap-core-device, device: 'Dell Streak', os: Android, ua: Other, class: tablet }
 TAC-10011-Android-Android: { source: uap-core-device, device: TAC-10011, os: Android, ua: Android, class: '' }
 TAC-10031-Android-Android: { source: uap-core-device, device: TAC-10031, os: Android, ua: Android, class: '' }
 'TAC-10031 MK2-Android-Android': { source: uap-core-device, device: 'TAC-10031 MK2', os: Android, ua: Android, class: '' }
@@ -8998,20 +8998,20 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia S60 V5-Symbian OS-UC Browser': { source: uap-core-device, device: 'Nokia S60 V5', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia X7-00-Symbian^3-Safari': { source: uap-core-device, device: 'Nokia X7-00', os: Symbian^3, ua: Safari, class: '' }
 Nokia-Symbian^3-Safari: { source: uap-core-device, device: Nokia, os: Symbian^3, ua: Safari, class: '' }
-NookColor-Android-Chrome: { source: uap-core-device, device: NookColor, os: Android, ua: Chrome, class: '' }
-'Nook Color (zoom2)-Android-Android': { source: uap-core-device, device: 'Nook Color (zoom2)', os: Android, ua: Android, class: '' }
-'Barnes & Noble Nook HD-Android-Chrome': { source: uap-core-device, device: 'Barnes & Noble Nook HD', os: Android, ua: Chrome, class: '' }
-'Nook HD+-Android-Chrome': { source: uap-core-device, device: 'Nook HD+', os: Android, ua: Chrome, class: '' }
-'BN Nook HD-Android-Chrome': { source: uap-core-device, device: 'BN Nook HD', os: Android, ua: Chrome, class: '' }
-'BN NookHD+-Android-Opera': { source: uap-core-device, device: 'BN NookHD+', os: Android, ua: Opera, class: '' }
-'Barnes & Noble Nook Tablet-Android-Opera': { source: uap-core-device, device: 'Barnes & Noble Nook Tablet', os: Android, ua: Opera, class: '' }
-'NOOK BNRV200-Android-Android': { source: uap-core-device, device: 'NOOK BNRV200', os: Android, ua: Android, class: '' }
-BNTV250-Android-Android: { source: uap-core-device, device: BNTV250, os: Android, ua: Android, class: '' }
-BNTV250A-Android-Android: { source: uap-core-device, device: BNTV250A, os: Android, ua: Android, class: '' }
-BNTV400-Android-Chrome: { source: uap-core-device, device: BNTV400, os: Android, ua: Chrome, class: '' }
-BNTV600-Android-Chrome: { source: uap-core-device, device: BNTV600, os: Android, ua: Chrome, class: '' }
-'LogicPD Zoom2-Android-Android': { source: uap-core-device, device: 'LogicPD Zoom2', os: Android, ua: Android, class: '' }
-Nook-Android-Android: { source: uap-core-device, device: Nook, os: Android, ua: Android, class: '' }
+NookColor-Android-Chrome: { source: uap-core-device, device: NookColor, os: Android, ua: Chrome, class: tablet }
+'Nook Color (zoom2)-Android-Android': { source: uap-core-device, device: 'Nook Color (zoom2)', os: Android, ua: Android, class: tablet }
+'Barnes & Noble Nook HD-Android-Chrome': { source: uap-core-device, device: 'Barnes & Noble Nook HD', os: Android, ua: Chrome, class: tablet }
+'Nook HD+-Android-Chrome': { source: uap-core-device, device: 'Nook HD+', os: Android, ua: Chrome, class: tablet }
+'BN Nook HD-Android-Chrome': { source: uap-core-device, device: 'BN Nook HD', os: Android, ua: Chrome, class: tablet }
+'BN NookHD+-Android-Opera': { source: uap-core-device, device: 'BN NookHD+', os: Android, ua: Opera, class: tablet }
+'Barnes & Noble Nook Tablet-Android-Opera': { source: uap-core-device, device: 'Barnes & Noble Nook Tablet', os: Android, ua: Opera, class: tablet }
+'NOOK BNRV200-Android-Android': { source: uap-core-device, device: 'NOOK BNRV200', os: Android, ua: Android, class: tablet }
+BNTV250-Android-Android: { source: uap-core-device, device: BNTV250, os: Android, ua: Android, class: tablet }
+BNTV250A-Android-Android: { source: uap-core-device, device: BNTV250A, os: Android, ua: Android, class: tablet }
+BNTV400-Android-Chrome: { source: uap-core-device, device: BNTV400, os: Android, ua: Chrome, class: tablet }
+BNTV600-Android-Chrome: { source: uap-core-device, device: BNTV600, os: Android, ua: Chrome, class: tablet }
+'LogicPD Zoom2-Android-Android': { source: uap-core-device, device: 'LogicPD Zoom2', os: Android, ua: Android, class: tablet }
+Nook-Android-Android: { source: uap-core-device, device: Nook, os: Android, ua: Android, class: tablet }
 'Odys Chrono-Android-Android': { source: uap-core-device, device: 'Odys Chrono', os: Android, ua: Android, class: '' }
 'Odys EVO-Android-Chrome': { source: uap-core-device, device: 'Odys EVO', os: Android, ua: Chrome, class: '' }
 'Odys Loox-Android-Opera': { source: uap-core-device, device: 'Odys Loox', os: Android, ua: Opera, class: '' }
@@ -15219,7 +15219,7 @@ Other-Linux-Firefox: { source: uap-core-os, device: Other, os: Linux, ua: Firefo
 'Other-Android-UC Browser': { source: uap-core-os, device: Other, os: Android, ua: 'UC Browser', class: '' }
 'Samsung GT-I9308-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-I9308', os: Android, ua: 'UC Browser', class: '' }
 'Samsung GT-S5570-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-S5570', os: Android, ua: 'UC Browser', class: '' }
-'Dell Streak-Android-UC Browser': { source: uap-core-os, device: 'Dell Streak', os: Android, ua: 'UC Browser', class: '' }
+'Dell Streak-Android-UC Browser': { source: uap-core-os, device: 'Dell Streak', os: Android, ua: 'UC Browser', class: tablet }
 'Other-Windows Phone-UC Browser': { source: uap-core-os, device: Other, os: 'Windows Phone', ua: 'UC Browser', class: '' }
 'iPad2,5-iOS-UC Browser': { source: uap-core-os, device: 'iPad2,5', os: iOS, ua: 'UC Browser', class: tablet }
 'Generic Smartphone-Windows Phone-IE': { source: uap-core-os, device: 'Generic Smartphone', os: 'Windows Phone', ua: IE, class: mobile }
