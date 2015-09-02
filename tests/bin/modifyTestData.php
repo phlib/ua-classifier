@@ -10,7 +10,6 @@ $config = [
     'os'     => null, // regex, or null to skip
     'ua'     => null, // regex, or null to skip
     'class'  => 'desktop',  // new class: desktop, tablet, mobile, spider
-    'test'   => true,      // display matching entries without modifying
     'skipNonEmpty' => true // skip entries where class is already defined
 ];
 
@@ -22,11 +21,13 @@ if ($config['device'] === null && $config['os'] === null && $config['ua'] === nu
     throw new \RuntimeException('At least one match must be specified');
 }
 
+echo "Loading data...\n";
 $testData = \Symfony\Component\Yaml\Yaml::parse($outputFile);
+echo "Iterating entries...\n\n";
 
 $countTotal = 0;
 $countEmpty = 0;
-$countWritten = 0;
+$countModify = 0;
 foreach ($testData as $key => &$testCase) {
     $countTotal++;
     if (empty($testCase['class'])) {
@@ -46,7 +47,7 @@ foreach ($testData as $key => &$testCase) {
     }
 
     // We're going to update this one
-    $countWritten++;
+    $countModify++;
     if (empty($testCase['class'])) {
         $countEmpty--;
     }
@@ -56,9 +57,11 @@ foreach ($testData as $key => &$testCase) {
     $testCase['class'] = $config['class'];
 }
 
-echo "\n";
+echo "\nReady to write {$countModify} entries of {$countTotal} total, leaving {$countEmpty} empty\n\n";
 
-if ($config['test'] === false && $countWritten > 0) {
+if ($countModify > 0) {
+    echo "Press Enter to write to file, Ctrl+C to quit without saving changes\n";
+    fgets(STDIN);
     echo "Writing file...\n\n";
     file_put_contents(
         $outputFile,
@@ -67,7 +70,4 @@ if ($config['test'] === false && $countWritten > 0) {
 }
 
 $mem = round(memory_get_usage() /1024);
-if ($config['test'] !== false) {
-    echo "Testing. No data changed\n";
-}
-echo "Complete. Written {$countWritten} entries, totalling {$countTotal}, leaving {$countEmpty} empty, using {$mem}kb memory\n\n";
+echo "Complete. {$mem}kb memory\n\n";
