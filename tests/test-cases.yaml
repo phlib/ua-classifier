@@ -218,49 +218,49 @@ Liquid-Metal-S120-Android-Android: { source: uap-core-device, device: Liquid-Met
 Vega-Android-Chrome: { source: uap-core-device, device: Vega, os: Android, ua: Chrome, class: '' }
 VegaBean-Android-Chrome: { source: uap-core-device, device: VegaBean, os: Android, ua: Chrome, class: '' }
 VegaComb-Android-Android: { source: uap-core-device, device: VegaComb, os: Android, ua: Android, class: '' }
-'Novo 10 Hero-Android-Android': { source: uap-core-device, device: 'Novo 10 Hero', os: Android, ua: Android, class: '' }
-'Novo 10 Hero QuadCore-Android-Chrome': { source: uap-core-device, device: 'Novo 10 Hero QuadCore', os: Android, ua: Chrome, class: '' }
-'Novo 7 Aurora-Android-Android': { source: uap-core-device, device: 'Novo 7 Aurora', os: Android, ua: Android, class: '' }
-'Ainol Novo 7 Aurora (TabletWarehouseUSA.com)-Android-Android': { source: uap-core-device, device: 'Ainol Novo 7 Aurora (TabletWarehouseUSA.com)', os: Android, ua: Android, class: '' }
-'Novo 7 Crystal-Android-Android': { source: uap-core-device, device: 'Novo 7 Crystal', os: Android, ua: Android, class: '' }
-'Novo Captain-Android-Chrome': { source: uap-core-device, device: 'Novo Captain', os: Android, ua: Chrome, class: '' }
-'Novo10 Captain QuadCore-Android-Yandex Browser': { source: uap-core-device, device: 'Novo10 Captain QuadCore', os: Android, ua: 'Yandex Browser', class: '' }
-'Novo10 captain QuadCore-Android-Opera': { source: uap-core-device, device: 'Novo10 captain QuadCore', os: Android, ua: Opera, class: '' }
-'Novo10 Catpain QuadCore-Android-Chrome': { source: uap-core-device, device: 'Novo10 Catpain QuadCore', os: Android, ua: Chrome, class: '' }
-'Novo10 Hero-Android-Chrome': { source: uap-core-device, device: 'Novo10 Hero', os: Android, ua: Chrome, class: '' }
-'Novo10 Hero QuadCore-Android-Opera': { source: uap-core-device, device: 'Novo10 Hero QuadCore', os: Android, ua: Opera, class: '' }
-novo7-Android-Android: { source: uap-core-device, device: novo7, os: Android, ua: Android, class: '' }
-'NOVO7 Advanced-Android-Chrome': { source: uap-core-device, device: 'NOVO7 Advanced', os: Android, ua: Chrome, class: '' }
-'Novo7 Advanced-Android-Android': { source: uap-core-device, device: 'Novo7 Advanced', os: Android, ua: Android, class: '' }
-'Novo7 Aurora-Android-Chrome': { source: uap-core-device, device: 'Novo7 Aurora', os: Android, ua: Chrome, class: '' }
-'Novo7 ELF-Android-Chrome': { source: uap-core-device, device: 'Novo7 ELF', os: Android, ua: Chrome, class: '' }
-'Ainol Novo7 Flame-Android-Android': { source: uap-core-device, device: 'Ainol Novo7 Flame', os: Android, ua: Android, class: '' }
-'NOVO7 Mars-Android-UC Browser': { source: uap-core-device, device: 'NOVO7 Mars', os: Android, ua: 'UC Browser', class: '' }
-'NOVO7 Tornados-Android-UC Browser': { source: uap-core-device, device: 'NOVO7 Tornados', os: Android, ua: 'UC Browser', class: '' }
-'Novo7 Venus-Android-Chrome': { source: uap-core-device, device: 'Novo7 Venus', os: Android, ua: Chrome, class: '' }
-novo7_Advanced2-Android-Chrome: { source: uap-core-device, device: novo7_Advanced2, os: Android, ua: Chrome, class: '' }
-Novo7_Advanced2-Android-Android: { source: uap-core-device, device: Novo7_Advanced2, os: Android, ua: Android, class: '' }
-novo7_Aurora-Android-Android: { source: uap-core-device, device: novo7_Aurora, os: Android, ua: Android, class: '' }
-Novo7_Aurora-Android-Android: { source: uap-core-device, device: Novo7_Aurora, os: Android, ua: Android, class: '' }
-Novo7_ELF-Android-Opera: { source: uap-core-device, device: Novo7_ELF, os: Android, ua: Opera, class: '' }
-novo7_ELF-Android-Chrome: { source: uap-core-device, device: novo7_ELF, os: Android, ua: Chrome, class: '' }
-NOVO7_Mars-Android-Android: { source: uap-core-device, device: NOVO7_Mars, os: Android, ua: Android, class: '' }
-NOVO7_Tornados-Android-Android: { source: uap-core-device, device: NOVO7_Tornados, os: Android, ua: Android, class: '' }
-Novo7-Aurora-Android-Android: { source: uap-core-device, device: Novo7-Aurora, os: Android, ua: Android, class: '' }
-Novo7Advanced-Android-Android: { source: uap-core-device, device: Novo7Advanced, os: Android, ua: Android, class: '' }
-Novo7Advanced(Century@HK)-Android-Android: { source: uap-core-device, device: Novo7Advanced(Century@HK), os: Android, ua: Android, class: '' }
-Novo7Aurora-Android-Chrome: { source: uap-core-device, device: Novo7Aurora, os: Android, ua: Chrome, class: '' }
-Novo7Basic-Android-Android: { source: uap-core-device, device: Novo7Basic, os: Android, ua: Android, class: '' }
-Novo7Fire-Android-Chrome: { source: uap-core-device, device: Novo7Fire, os: Android, ua: Chrome, class: '' }
-Novo7Flame-Android-Chrome: { source: uap-core-device, device: Novo7Flame, os: Android, ua: Chrome, class: '' }
-novo7Legend-Android-Chrome: { source: uap-core-device, device: novo7Legend, os: Android, ua: Chrome, class: '' }
-'novo7Legend (Sinar timur services) by Renzo-Android-Android': { source: uap-core-device, device: 'novo7Legend (Sinar timur services) by Renzo', os: Android, ua: Android, class: '' }
-NOVO7PALADIN-Android-Android: { source: uap-core-device, device: NOVO7PALADIN, os: Android, ua: Android, class: '' }
-'Ainol Novo8 Advanced-Android-Android': { source: uap-core-device, device: 'Ainol Novo8 Advanced', os: Android, ua: Android, class: '' }
-'Novo8 Discover Quadcore-Android-Opera': { source: uap-core-device, device: 'Novo8 Discover Quadcore', os: Android, ua: Opera, class: '' }
-novo9-Spark-Android-Android: { source: uap-core-device, device: novo9-Spark, os: Android, ua: Android, class: '' }
-NovoCrystal-Android-Chrome: { source: uap-core-device, device: NovoCrystal, os: Android, ua: Chrome, class: '' }
-GN135-Android-Android: { source: uap-core-device, device: GN135, os: Android, ua: Android, class: '' }
+'Novo 10 Hero-Android-Android': { source: uap-core-device, device: 'Novo 10 Hero', os: Android, ua: Android, class: tablet }
+'Novo 10 Hero QuadCore-Android-Chrome': { source: uap-core-device, device: 'Novo 10 Hero QuadCore', os: Android, ua: Chrome, class: tablet }
+'Novo 7 Aurora-Android-Android': { source: uap-core-device, device: 'Novo 7 Aurora', os: Android, ua: Android, class: tablet }
+'Ainol Novo 7 Aurora (TabletWarehouseUSA.com)-Android-Android': { source: uap-core-device, device: 'Ainol Novo 7 Aurora (TabletWarehouseUSA.com)', os: Android, ua: Android, class: tablet }
+'Novo 7 Crystal-Android-Android': { source: uap-core-device, device: 'Novo 7 Crystal', os: Android, ua: Android, class: tablet }
+'Novo Captain-Android-Chrome': { source: uap-core-device, device: 'Novo Captain', os: Android, ua: Chrome, class: tablet }
+'Novo10 Captain QuadCore-Android-Yandex Browser': { source: uap-core-device, device: 'Novo10 Captain QuadCore', os: Android, ua: 'Yandex Browser', class: tablet }
+'Novo10 captain QuadCore-Android-Opera': { source: uap-core-device, device: 'Novo10 captain QuadCore', os: Android, ua: Opera, class: tablet }
+'Novo10 Catpain QuadCore-Android-Chrome': { source: uap-core-device, device: 'Novo10 Catpain QuadCore', os: Android, ua: Chrome, class: tablet }
+'Novo10 Hero-Android-Chrome': { source: uap-core-device, device: 'Novo10 Hero', os: Android, ua: Chrome, class: tablet }
+'Novo10 Hero QuadCore-Android-Opera': { source: uap-core-device, device: 'Novo10 Hero QuadCore', os: Android, ua: Opera, class: tablet }
+novo7-Android-Android: { source: uap-core-device, device: novo7, os: Android, ua: Android, class: tablet }
+'NOVO7 Advanced-Android-Chrome': { source: uap-core-device, device: 'NOVO7 Advanced', os: Android, ua: Chrome, class: tablet }
+'Novo7 Advanced-Android-Android': { source: uap-core-device, device: 'Novo7 Advanced', os: Android, ua: Android, class: tablet }
+'Novo7 Aurora-Android-Chrome': { source: uap-core-device, device: 'Novo7 Aurora', os: Android, ua: Chrome, class: tablet }
+'Novo7 ELF-Android-Chrome': { source: uap-core-device, device: 'Novo7 ELF', os: Android, ua: Chrome, class: tablet }
+'Ainol Novo7 Flame-Android-Android': { source: uap-core-device, device: 'Ainol Novo7 Flame', os: Android, ua: Android, class: tablet }
+'NOVO7 Mars-Android-UC Browser': { source: uap-core-device, device: 'NOVO7 Mars', os: Android, ua: 'UC Browser', class: tablet }
+'NOVO7 Tornados-Android-UC Browser': { source: uap-core-device, device: 'NOVO7 Tornados', os: Android, ua: 'UC Browser', class: tablet }
+'Novo7 Venus-Android-Chrome': { source: uap-core-device, device: 'Novo7 Venus', os: Android, ua: Chrome, class: tablet }
+novo7_Advanced2-Android-Chrome: { source: uap-core-device, device: novo7_Advanced2, os: Android, ua: Chrome, class: tablet }
+Novo7_Advanced2-Android-Android: { source: uap-core-device, device: Novo7_Advanced2, os: Android, ua: Android, class: tablet }
+novo7_Aurora-Android-Android: { source: uap-core-device, device: novo7_Aurora, os: Android, ua: Android, class: tablet }
+Novo7_Aurora-Android-Android: { source: uap-core-device, device: Novo7_Aurora, os: Android, ua: Android, class: tablet }
+Novo7_ELF-Android-Opera: { source: uap-core-device, device: Novo7_ELF, os: Android, ua: Opera, class: tablet }
+novo7_ELF-Android-Chrome: { source: uap-core-device, device: novo7_ELF, os: Android, ua: Chrome, class: tablet }
+NOVO7_Mars-Android-Android: { source: uap-core-device, device: NOVO7_Mars, os: Android, ua: Android, class: tablet }
+NOVO7_Tornados-Android-Android: { source: uap-core-device, device: NOVO7_Tornados, os: Android, ua: Android, class: tablet }
+Novo7-Aurora-Android-Android: { source: uap-core-device, device: Novo7-Aurora, os: Android, ua: Android, class: tablet }
+Novo7Advanced-Android-Android: { source: uap-core-device, device: Novo7Advanced, os: Android, ua: Android, class: tablet }
+Novo7Advanced(Century@HK)-Android-Android: { source: uap-core-device, device: Novo7Advanced(Century@HK), os: Android, ua: Android, class: tablet }
+Novo7Aurora-Android-Chrome: { source: uap-core-device, device: Novo7Aurora, os: Android, ua: Chrome, class: tablet }
+Novo7Basic-Android-Android: { source: uap-core-device, device: Novo7Basic, os: Android, ua: Android, class: tablet }
+Novo7Fire-Android-Chrome: { source: uap-core-device, device: Novo7Fire, os: Android, ua: Chrome, class: tablet }
+Novo7Flame-Android-Chrome: { source: uap-core-device, device: Novo7Flame, os: Android, ua: Chrome, class: tablet }
+novo7Legend-Android-Chrome: { source: uap-core-device, device: novo7Legend, os: Android, ua: Chrome, class: tablet }
+'novo7Legend (Sinar timur services) by Renzo-Android-Android': { source: uap-core-device, device: 'novo7Legend (Sinar timur services) by Renzo', os: Android, ua: Android, class: tablet }
+NOVO7PALADIN-Android-Android: { source: uap-core-device, device: NOVO7PALADIN, os: Android, ua: Android, class: tablet }
+'Ainol Novo8 Advanced-Android-Android': { source: uap-core-device, device: 'Ainol Novo8 Advanced', os: Android, ua: Android, class: tablet }
+'Novo8 Discover Quadcore-Android-Opera': { source: uap-core-device, device: 'Novo8 Discover Quadcore', os: Android, ua: Opera, class: tablet }
+novo9-Spark-Android-Android: { source: uap-core-device, device: novo9-Spark, os: Android, ua: Android, class: tablet }
+NovoCrystal-Android-Chrome: { source: uap-core-device, device: NovoCrystal, os: Android, ua: Chrome, class: tablet }
+GN135-Android-Android: { source: uap-core-device, device: GN135, os: Android, ua: Android, class: mobile }
 OnePAD-Android-Safari: { source: uap-core-device, device: OnePAD, os: Android, ua: Safari, class: '' }
 'OnePAD 725-Android-Chrome Mobile': { source: uap-core-device, device: 'OnePAD 725', os: Android, ua: 'Chrome Mobile', class: '' }
 'OnePAD 730-Android-Chrome Mobile': { source: uap-core-device, device: 'OnePAD 730', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -4377,17 +4377,17 @@ U8860-Android-Android: { source: uap-core-device, device: U8860, os: Android, ua
 'Huawei Vodafone-Android-Other': { source: uap-core-device, device: 'Huawei Vodafone', os: Android, ua: Other, class: mobile }
 'Huawei Vodafone 810-Other-Obigo': { source: uap-core-device, device: 'Huawei Vodafone 810', os: Other, ua: Obigo, class: mobile }
 HbbTV-Other-HbbTV: { source: uap-core-device, device: HbbTV, os: Other, ua: HbbTV, class: '' }
-'Hyundai T10-Android-Chrome': { source: uap-core-device, device: 'Hyundai T10', os: Android, ua: Chrome, class: '' }
-'Hyundai T7-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7', os: Android, ua: Chrome, class: '' }
-'Hyundai T7S-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7S', os: Android, ua: Chrome, class: '' }
-'Hyundai T7s-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7s', os: Android, ua: Chrome, class: '' }
-'Hyundai H10-Android-Android': { source: uap-core-device, device: 'Hyundai H10', os: Android, ua: Android, class: '' }
-'Hyundai H6-Android-Android': { source: uap-core-device, device: 'Hyundai H6', os: Android, ua: Android, class: '' }
-'Hyundai H6 B-Android-Android': { source: uap-core-device, device: 'Hyundai H6 B', os: Android, ua: Android, class: '' }
-'Hyundai X900-Android-Chrome': { source: uap-core-device, device: 'Hyundai X900', os: Android, ua: Chrome, class: '' }
-'Hyundai Hold X-Android-Android': { source: uap-core-device, device: 'Hyundai Hold X', os: Android, ua: Android, class: '' }
-'Hyundai MB-6900-Android-Android': { source: uap-core-device, device: 'Hyundai MB-6900', os: Android, ua: Android, class: '' }
-'Hyundai X700-Android-Opera Mobile': { source: uap-core-device, device: 'Hyundai X700', os: Android, ua: 'Opera Mobile', class: '' }
+'Hyundai T10-Android-Chrome': { source: uap-core-device, device: 'Hyundai T10', os: Android, ua: Chrome, class: tablet }
+'Hyundai T7-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7', os: Android, ua: Chrome, class: tablet }
+'Hyundai T7S-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7S', os: Android, ua: Chrome, class: tablet }
+'Hyundai T7s-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7s', os: Android, ua: Chrome, class: tablet }
+'Hyundai H10-Android-Android': { source: uap-core-device, device: 'Hyundai H10', os: Android, ua: Android, class: mobile }
+'Hyundai H6-Android-Android': { source: uap-core-device, device: 'Hyundai H6', os: Android, ua: Android, class: mobile }
+'Hyundai H6 B-Android-Android': { source: uap-core-device, device: 'Hyundai H6 B', os: Android, ua: Android, class: mobile }
+'Hyundai X900-Android-Chrome': { source: uap-core-device, device: 'Hyundai X900', os: Android, ua: Chrome, class: tablet }
+'Hyundai Hold X-Android-Android': { source: uap-core-device, device: 'Hyundai Hold X', os: Android, ua: Android, class: tablet }
+'Hyundai MB-6900-Android-Android': { source: uap-core-device, device: 'Hyundai MB-6900', os: Android, ua: Android, class: mobile }
+'Hyundai X700-Android-Opera Mobile': { source: uap-core-device, device: 'Hyundai X700', os: Android, ua: 'Opera Mobile', class: tablet }
 'i-mate 6150-Windows CE-UC Browser': { source: uap-core-device, device: 'i-mate 6150', os: 'Windows CE', ua: 'UC Browser', class: '' }
 'i-mate 8150-Windows CE-IE Mobile': { source: uap-core-device, device: 'i-mate 8150', os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'i-mate 8502-Windows CE-UC Browser': { source: uap-core-device, device: 'i-mate 8502', os: 'Windows CE', ua: 'UC Browser', class: '' }
@@ -4740,16 +4740,16 @@ JY-G5S-Android-Android: { source: uap-core-device, device: JY-G5S, os: Android, 
 'JY-S1-Android-Chrome Mobile': { source: uap-core-device, device: JY-S1, os: Android, ua: 'Chrome Mobile', class: '' }
 'Juggernaut Semaphore-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut Semaphore', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
 'Juggernaut 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut 0', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'JXD P1000-Android-Chrome': { source: uap-core-device, device: 'JXD P1000', os: Android, ua: Chrome, class: '' }
-'JXD P1000()-Android-Android': { source: uap-core-device, device: 'JXD P1000()', os: Android, ua: Android, class: '' }
-'JXD P200-Android-Baidu Browser': { source: uap-core-device, device: 'JXD P200', os: Android, ua: 'Baidu Browser', class: '' }
-'JXD S6600-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S6600', os: Android, ua: 'Chrome Mobile', class: '' }
-'JXD S6600-M6-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S6600-M6', os: Android, ua: 'Chrome Mobile', class: '' }
-'JXD S6600b-Android-Android': { source: uap-core-device, device: 'JXD S6600b', os: Android, ua: Android, class: '' }
-'JXD S8000-Android-Chrome': { source: uap-core-device, device: 'JXD S8000', os: Android, ua: Chrome, class: '' }
-'JXD S9000-Android-Chrome': { source: uap-core-device, device: 'JXD S9000', os: Android, ua: Chrome, class: '' }
-'JXD S9100-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S9100', os: Android, ua: 'Chrome Mobile', class: '' }
-'JXD V5200-Android-Android': { source: uap-core-device, device: 'JXD V5200', os: Android, ua: Android, class: '' }
+'JXD P1000-Android-Chrome': { source: uap-core-device, device: 'JXD P1000', os: Android, ua: Chrome, class: tablet }
+'JXD P1000()-Android-Android': { source: uap-core-device, device: 'JXD P1000()', os: Android, ua: Android, class: tablet }
+'JXD P200-Android-Baidu Browser': { source: uap-core-device, device: 'JXD P200', os: Android, ua: 'Baidu Browser', class: mobile }
+'JXD S6600-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S6600', os: Android, ua: 'Chrome Mobile', class: tablet }
+'JXD S6600-M6-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S6600-M6', os: Android, ua: 'Chrome Mobile', class: tablet }
+'JXD S6600b-Android-Android': { source: uap-core-device, device: 'JXD S6600b', os: Android, ua: Android, class: tablet }
+'JXD S8000-Android-Chrome': { source: uap-core-device, device: 'JXD S8000', os: Android, ua: Chrome, class: tablet }
+'JXD S9000-Android-Chrome': { source: uap-core-device, device: 'JXD S9000', os: Android, ua: Chrome, class: tablet }
+'JXD S9100-Android-Chrome Mobile': { source: uap-core-device, device: 'JXD S9100', os: Android, ua: 'Chrome Mobile', class: tablet }
+'JXD V5200-Android-Android': { source: uap-core-device, device: 'JXD V5200', os: Android, ua: Android, class: mobile }
 A1-Android-Android: { source: uap-core-device, device: A1, os: Android, ua: Android, class: '' }
 a1-Android-Android: { source: uap-core-device, device: a1, os: Android, ua: Android, class: '' }
 'A1 X-Tream Edition-Android-Android': { source: uap-core-device, device: 'A1 X-Tream Edition', os: Android, ua: Android, class: '' }
@@ -4800,31 +4800,31 @@ Arc-Android-Chrome: { source: uap-core-device, device: Arc, os: Android, ua: Chr
 K080-Android-Android: { source: uap-core-device, device: K080, os: Android, ua: Android, class: '' }
 'VOX-Android-Chrome Mobile': { source: uap-core-device, device: VOX, os: Android, ua: 'Chrome Mobile', class: '' }
 Vox-Android-Android: { source: uap-core-device, device: Vox, os: Android, ua: Android, class: '' }
-'Kobo Touch-Android-Android': { source: uap-core-device, device: 'Kobo Touch', os: Android, ua: Android, class: '' }
-'K-Touch C990-Android-Android': { source: uap-core-device, device: 'K-Touch C990', os: Android, ua: Android, class: '' }
-'K-Touch E619-Android-Android': { source: uap-core-device, device: 'K-Touch E619', os: Android, ua: Android, class: '' }
-'K-Touch Q4-Android-Chrome Mobile': { source: uap-core-device, device: 'K-Touch Q4', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-Touch T60-Android-Baidu Browser': { source: uap-core-device, device: 'K-Touch T60', os: Android, ua: 'Baidu Browser', class: '' }
-'K-Touch T660-Android-Android': { source: uap-core-device, device: 'K-Touch T660', os: Android, ua: Android, class: '' }
-'K-Touch Tou ch3-Android-Opera Mobile': { source: uap-core-device, device: 'K-Touch Tou ch3', os: Android, ua: 'Opera Mobile', class: '' }
-'K-Touch U6-Android-Android': { source: uap-core-device, device: 'K-Touch U6', os: Android, ua: Android, class: '' }
-'K-Touch U86-Android-Android': { source: uap-core-device, device: 'K-Touch U86', os: Android, ua: Android, class: '' }
-'K-Touch V5-Android-Android': { source: uap-core-device, device: 'K-Touch V5', os: Android, ua: Android, class: '' }
-'K-Touch V9-Android-Android': { source: uap-core-device, device: 'K-Touch V9', os: Android, ua: Android, class: '' }
-'K-Touch W610-Android-Android': { source: uap-core-device, device: 'K-Touch W610', os: Android, ua: Android, class: '' }
-'K-TOUCH W610D-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W610D', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-Touch W619-Android-Chrome Mobile': { source: uap-core-device, device: 'K-Touch W619', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-Touch W650-Android-Android': { source: uap-core-device, device: 'K-Touch W650', os: Android, ua: Android, class: '' }
-'K-touch w650-Android-UC Browser': { source: uap-core-device, device: 'K-touch w650', os: Android, ua: 'UC Browser', class: '' }
-'K-touch w650_592zn-Android-Chrome Mobile': { source: uap-core-device, device: 'K-touch w650_592zn', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-Touch W68-Android-Android': { source: uap-core-device, device: 'K-Touch W68', os: Android, ua: Android, class: '' }
-'K-Touch W688-Android-Android': { source: uap-core-device, device: 'K-Touch W688', os: Android, ua: Android, class: '' }
-'K-Touch W700+-Android-Android': { source: uap-core-device, device: 'K-Touch W700+', os: Android, ua: Android, class: '' }
-'K-Touch W710-Android-Android': { source: uap-core-device, device: 'K-Touch W710', os: Android, ua: Android, class: '' }
-'K-Touch W719-Android-Android': { source: uap-core-device, device: 'K-Touch W719', os: Android, ua: Android, class: '' }
-'K-TOUCH W780-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W780', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-TOUCH W806-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W806', os: Android, ua: 'Chrome Mobile', class: '' }
-'K-Touch W806+-Android-Opera Mobile': { source: uap-core-device, device: 'K-Touch W806+', os: Android, ua: 'Opera Mobile', class: '' }
+'Kobo Touch-Android-Android': { source: uap-core-device, device: 'Kobo Touch', os: Android, ua: Android, class: tablet }
+'K-Touch C990-Android-Android': { source: uap-core-device, device: 'K-Touch C990', os: Android, ua: Android, class: mobile }
+'K-Touch E619-Android-Android': { source: uap-core-device, device: 'K-Touch E619', os: Android, ua: Android, class: mobile }
+'K-Touch Q4-Android-Chrome Mobile': { source: uap-core-device, device: 'K-Touch Q4', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-Touch T60-Android-Baidu Browser': { source: uap-core-device, device: 'K-Touch T60', os: Android, ua: 'Baidu Browser', class: mobile }
+'K-Touch T660-Android-Android': { source: uap-core-device, device: 'K-Touch T660', os: Android, ua: Android, class: mobile }
+'K-Touch Tou ch3-Android-Opera Mobile': { source: uap-core-device, device: 'K-Touch Tou ch3', os: Android, ua: 'Opera Mobile', class: mobile }
+'K-Touch U6-Android-Android': { source: uap-core-device, device: 'K-Touch U6', os: Android, ua: Android, class: mobile }
+'K-Touch U86-Android-Android': { source: uap-core-device, device: 'K-Touch U86', os: Android, ua: Android, class: mobile }
+'K-Touch V5-Android-Android': { source: uap-core-device, device: 'K-Touch V5', os: Android, ua: Android, class: mobile }
+'K-Touch V9-Android-Android': { source: uap-core-device, device: 'K-Touch V9', os: Android, ua: Android, class: mobile }
+'K-Touch W610-Android-Android': { source: uap-core-device, device: 'K-Touch W610', os: Android, ua: Android, class: mobile }
+'K-TOUCH W610D-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W610D', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-Touch W619-Android-Chrome Mobile': { source: uap-core-device, device: 'K-Touch W619', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-Touch W650-Android-Android': { source: uap-core-device, device: 'K-Touch W650', os: Android, ua: Android, class: mobile }
+'K-touch w650-Android-UC Browser': { source: uap-core-device, device: 'K-touch w650', os: Android, ua: 'UC Browser', class: mobile }
+'K-touch w650_592zn-Android-Chrome Mobile': { source: uap-core-device, device: 'K-touch w650_592zn', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-Touch W68-Android-Android': { source: uap-core-device, device: 'K-Touch W68', os: Android, ua: Android, class: mobile }
+'K-Touch W688-Android-Android': { source: uap-core-device, device: 'K-Touch W688', os: Android, ua: Android, class: mobile }
+'K-Touch W700+-Android-Android': { source: uap-core-device, device: 'K-Touch W700+', os: Android, ua: Android, class: mobile }
+'K-Touch W710-Android-Android': { source: uap-core-device, device: 'K-Touch W710', os: Android, ua: Android, class: mobile }
+'K-Touch W719-Android-Android': { source: uap-core-device, device: 'K-Touch W719', os: Android, ua: Android, class: mobile }
+'K-TOUCH W780-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W780', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-TOUCH W806-Android-Chrome Mobile': { source: uap-core-device, device: 'K-TOUCH W806', os: Android, ua: 'Chrome Mobile', class: mobile }
+'K-Touch W806+-Android-Opera Mobile': { source: uap-core-device, device: 'K-Touch W806+', os: Android, ua: 'Opera Mobile', class: mobile }
 EV-S100-Android-Android: { source: uap-core-device, device: EV-S100, os: Android, ua: Android, class: '' }
 EV-S110-Android-Android: { source: uap-core-device, device: EV-S110, os: Android, ua: Android, class: '' }
 'KM-S120-Android-Opera Mobile': { source: uap-core-device, device: KM-S120, os: Android, ua: 'Opera Mobile', class: '' }
