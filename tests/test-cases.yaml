@@ -32,8 +32,8 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'Generic Feature Phone-Brew MP-NetFront': { source: uap-core-device, device: 'Generic Feature Phone', os: 'Brew MP', ua: NetFront, class: mobile }
 'LG VN271-BREW-Opera Mini': { source: uap-core-device, device: 'LG VN271', os: BREW, ua: 'Opera Mini', class: '' }
 'LG T500-Other-Phantom Browser': { source: uap-core-device, device: 'LG T500', os: Other, ua: 'Phantom Browser', class: '' }
-'Lumia 800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 920-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Lumia 800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 920-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Nexus 5-Android-Chrome Mobile': { source: uap-core-device, device: 'Nexus 5', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Nintendo DS-Other-Bunjalloo': { source: uap-core-device, device: 'Nintendo DS', os: Other, ua: Bunjalloo, class: '' }
 'Nintendo DSi-Other-Opera': { source: uap-core-device, device: 'Nintendo DSi', os: Other, ua: Opera, class: '' }
@@ -213,8 +213,8 @@ Liquid-Metal-S120-Android-Android: { source: uap-core-device, device: Liquid-Met
 'ACER LIQUID E2-Android-Android': { source: uap-core-device, device: 'ACER LIQUID E2', os: Android, ua: Android, class: '' }
 'Acer Liquid Metal-Android-Android': { source: uap-core-device, device: 'Acer Liquid Metal', os: Android, ua: Android, class: '' }
 'Acer Z110-Android-Android': { source: uap-core-device, device: 'Acer Z110', os: Android, ua: Android, class: '' }
-'Acer Allegro-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Acer Allegro', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'AdMob Octagon-Windows Phone-IE Mobile': { source: uap-core-device, device: 'AdMob Octagon', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Acer Allegro-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Acer Allegro', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'AdMob Octagon-Windows Phone-IE Mobile': { source: uap-core-device, device: 'AdMob Octagon', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 Vega-Android-Chrome: { source: uap-core-device, device: Vega, os: Android, ua: Chrome, class: '' }
 VegaBean-Android-Chrome: { source: uap-core-device, device: VegaBean, os: Android, ua: Chrome, class: '' }
 VegaComb-Android-Android: { source: uap-core-device, device: VegaComb, os: Android, ua: Android, class: '' }
@@ -465,7 +465,7 @@ ONEPAD940-Android-Chrome: { source: uap-core-device, device: ONEPAD940, os: Andr
 'Alcatel One Touch TAB_7HD-Android-UC Browser': { source: uap-core-device, device: 'Alcatel One Touch TAB_7HD', os: Android, ua: 'UC Browser', class: '' }
 'Alcatel Optimus_Madrid-Android-Chrome Mobile': { source: uap-core-device, device: 'Alcatel Optimus_Madrid', os: Android, ua: 'Chrome Mobile', class: '' }
 'Alcatel Vodafone Smart II-Android-Android': { source: uap-core-device, device: 'Alcatel Vodafone Smart II', os: Android, ua: Android, class: '' }
-'Alcatel ONE TOUCH 5040X-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Alcatel ONE TOUCH 5040X', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Alcatel ONE TOUCH 5040X-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Alcatel ONE TOUCH 5040X', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Alcatel One Touch 4012X-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'Alcatel One Touch 4012X', os: 'Firefox OS', ua: 'Firefox Mobile', class: '' }
 'Alcatel BE3-Other-Other': { source: uap-core-device, device: 'Alcatel BE3', os: Other, ua: Other, class: '' }
 'Alcatel BE4-Other-Other': { source: uap-core-device, device: 'Alcatel BE4', os: Other, ua: Other, class: '' }
@@ -905,7 +905,7 @@ PAD-FMD700P-Android-Chrome: { source: uap-core-device, device: PAD-FMD700P, os: 
 'BioniQ 700HX-Android-Opera': { source: uap-core-device, device: 'BioniQ 700HX', os: Android, ua: Opera, class: '' }
 'BioniQ 800-Android-Chrome': { source: uap-core-device, device: 'BioniQ 800', os: Android, ua: Chrome, class: '' }
 'BioniQ 8008-Android-Chrome': { source: uap-core-device, device: 'BioniQ 8008', os: Android, ua: Chrome, class: '' }
-'ARM Touch-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ARM Touch', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'ARM Touch-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ARM Touch', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Arnova AN10BG2DT-Android-Android': { source: uap-core-device, device: 'Arnova AN10BG2DT', os: Android, ua: Android, class: '' }
 'Arnova AN10BG3DT-Android-Android': { source: uap-core-device, device: 'Arnova AN10BG3DT', os: Android, ua: Android, class: '' }
 'Arnova AN10G2-KN-Android-Android': { source: uap-core-device, device: 'Arnova AN10G2-KN', os: Android, ua: Android, class: '' }
@@ -1464,7 +1464,7 @@ E4277-Other-NetFront: { source: uap-core-device, device: E4277, os: Other, ua: N
 'HTC6175-Windows CE-IE Mobile': { source: uap-core-device, device: HTC6175, os: 'Windows CE', ua: 'IE Mobile', class: mobile }
 'HTC6850-Windows CE-IE Mobile': { source: uap-core-device, device: HTC6850, os: 'Windows CE', ua: 'IE Mobile', class: mobile }
 'HTC6875-Windows CE-IE Mobile': { source: uap-core-device, device: HTC6875, os: 'Windows CE', ua: 'IE Mobile', class: mobile }
-'N859-Windows Phone-IE Mobile': { source: uap-core-device, device: N859, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'N859-Windows Phone-IE Mobile': { source: uap-core-device, device: N859, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung SCH-R930-Android-Android': { source: uap-core-device, device: 'Samsung SCH-R930', os: Android, ua: Android, class: '' }
 US730-Android-Android: { source: uap-core-device, device: US730, os: Android, ua: Android, class: '' }
 US760-Android-Android: { source: uap-core-device, device: US760, os: Android, ua: Android, class: '' }
@@ -1733,7 +1733,7 @@ C7+-Android-Android: { source: uap-core-device, device: C7+, os: Android, ua: An
 'ONE-S-Android-Chrome Mobile': { source: uap-core-device, device: ONE-S, os: Android, ua: 'Chrome Mobile', class: '' }
 'P9-Android-Opera Mobile': { source: uap-core-device, device: P9, os: Android, ua: 'Opera Mobile', class: '' }
 'X6-Android-Chrome Mobile': { source: uap-core-device, device: X6, os: Android, ua: 'Chrome Mobile', class: '' }
-'CuteBrowser/3.0.0 NOKIA-Windows Phone-IE Mobile': { source: uap-core-device, device: 'CuteBrowser/3.0.0 NOKIA', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'CuteBrowser/3.0.0 NOKIA-Windows Phone-IE Mobile': { source: uap-core-device, device: 'CuteBrowser/3.0.0 NOKIA', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Dslide 700-Android-Android': { source: uap-core-device, device: 'Dslide 700', os: Android, ua: Android, class: '' }
 'Dslide 702-Android-Chrome': { source: uap-core-device, device: 'Dslide 702', os: Android, ua: Chrome, class: '' }
 'Dslide 703R-Android-Chrome': { source: uap-core-device, device: 'Dslide 703R', os: Android, ua: Chrome, class: '' }
@@ -4738,8 +4738,8 @@ JY-G4C-Android-Android: { source: uap-core-device, device: JY-G4C, os: Android, 
 'JY-G5-Android-Chrome Mobile': { source: uap-core-device, device: JY-G5, os: Android, ua: 'Chrome Mobile', class: '' }
 JY-G5S-Android-Android: { source: uap-core-device, device: JY-G5S, os: Android, ua: Android, class: '' }
 'JY-S1-Android-Chrome Mobile': { source: uap-core-device, device: JY-S1, os: Android, ua: 'Chrome Mobile', class: '' }
-'Juggernaut Semaphore-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut Semaphore', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Juggernaut 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut 0', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Juggernaut Semaphore-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut Semaphore', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Juggernaut 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Juggernaut 0', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'JXD P1000-Android-Chrome': { source: uap-core-device, device: 'JXD P1000', os: Android, ua: Chrome, class: tablet }
 'JXD P1000()-Android-Android': { source: uap-core-device, device: 'JXD P1000()', os: Android, ua: Android, class: tablet }
 'JXD P200-Android-Baidu Browser': { source: uap-core-device, device: 'JXD P200', os: Android, ua: 'Baidu Browser', class: mobile }
@@ -5355,10 +5355,10 @@ LG-C710-Android-Android: { source: uap-core-device, device: LG-C710, os: Android
 'LG-C729-Android-Opera Mobile': { source: uap-core-device, device: LG-C729, os: Android, ua: 'Opera Mobile', class: '' }
 LG-C800-Android-Android: { source: uap-core-device, device: LG-C800, os: Android, ua: Android, class: '' }
 LG-C800G-Android-Android: { source: uap-core-device, device: LG-C800G, os: Android, ua: Android, class: '' }
-'LG-C900-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-C900B-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900B, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-C900h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900h, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-C900k-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900k, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'LG-C900-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-C900B-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900B, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-C900h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900h, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-C900k-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-C900k, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'LG-CF360-Other-UC Browser': { source: uap-core-device, device: LG-CF360, os: Other, ua: 'UC Browser', class: '' }
 'LG-CU720-Other-UC Browser': { source: uap-core-device, device: LG-CU720, os: Other, ua: 'UC Browser', class: '' }
 'LG-CU915-Other-UC Browser': { source: uap-core-device, device: LG-CU915, os: Other, ua: 'UC Browser', class: '' }
@@ -5477,11 +5477,11 @@ LG-E720b-Android-Android: { source: uap-core-device, device: LG-E720b, os: Andro
 'LG-E730-Android-Opera Mobile': { source: uap-core-device, device: LG-E730, os: Android, ua: 'Opera Mobile', class: '' }
 LG-E730f-Android-Android: { source: uap-core-device, device: LG-E730f, os: Android, ua: Android, class: '' }
 'LG-E739-Android-Chrome Mobile': { source: uap-core-device, device: LG-E739, os: Android, ua: 'Chrome Mobile', class: '' }
-'LG-E740-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E740, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-E740h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E740h, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-E900-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E900, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-E900h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E900h, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG-E906-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E906, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'LG-E740-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E740, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-E740h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E740h, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-E900-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E900, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-E900h-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E900h, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG-E906-Windows Phone-IE Mobile': { source: uap-core-device, device: LG-E906, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 LG-E940-Android-Android: { source: uap-core-device, device: LG-E940, os: Android, ua: Android, class: '' }
 'LG-E970-Android-Chrome Mobile': { source: uap-core-device, device: LG-E970, os: Android, ua: 'Chrome Mobile', class: '' }
 'LG-E971-Android-Chrome Mobile': { source: uap-core-device, device: LG-E971, os: Android, ua: 'Chrome Mobile', class: '' }
@@ -5790,11 +5790,11 @@ LG-su370-Android-Android: { source: uap-core-device, device: LG-su370, os: Andro
 'LG vortex-Android-Android': { source: uap-core-device, device: 'LG vortex', os: Android, ua: Android, class: '' }
 'LG Vortex-Android-Android': { source: uap-core-device, device: 'LG Vortex', os: Android, ua: Android, class: '' }
 'LG P970-Android-Android': { source: uap-core-device, device: 'LG P970', os: Android, ua: Android, class: '' }
-'LG E-900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG E-900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG E900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG E900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG GW910-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG GW910', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG lg-e900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG lg-e900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'LG Optimus 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG Optimus 7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'LG E-900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG E-900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG E900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG E900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG GW910-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG GW910', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG lg-e900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG lg-e900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'LG Optimus 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG Optimus 7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'NetCast.TV-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.TV, os: Linux, ua: 'WebKit Nightly', class: '' }
 'NetCast.Media-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.Media, os: Linux, ua: 'WebKit Nightly', class: '' }
 'LG  KS10-Symbian OS-Nokia OSS Browser': { source: uap-core-device, device: 'LG  KS10', os: 'Symbian OS', ua: 'Nokia OSS Browser', class: '' }
@@ -6191,7 +6191,7 @@ LG-E730-Android-Android: { source: uap-core-device, device: LG-E730, os: Android
 'LG gw550-Other-UC Browser': { source: uap-core-device, device: 'LG gw550', os: Other, ua: 'UC Browser', class: '' }
 'LG GW820-Other-Other': { source: uap-core-device, device: 'LG GW820', os: Other, ua: Other, class: '' }
 'LG GW825-Other-Other': { source: uap-core-device, device: 'LG GW825', os: Other, ua: Other, class: '' }
-'LG GW910-Windows-Other': { source: uap-core-device, device: 'LG GW910', os: Windows, ua: Other, class: '' }
+'LG GW910-Windows-Other': { source: uap-core-device, device: 'LG GW910', os: Windows, ua: Other, class: mobile }
 'LG gx200-Other-UC Browser': { source: uap-core-device, device: 'LG gx200', os: Other, ua: 'UC Browser', class: '' }
 'LG GX200-Other-Other': { source: uap-core-device, device: 'LG GX200', os: Other, ua: Other, class: '' }
 'LG GX300-Other-Obigo': { source: uap-core-device, device: 'LG GX300', os: Other, ua: Obigo, class: '' }
@@ -6353,7 +6353,7 @@ LG-E730-Android-Android: { source: uap-core-device, device: LG-E730, os: Android
 'LG L5100-Other-Other': { source: uap-core-device, device: 'LG L5100', os: Other, ua: Other, class: '' }
 'LG l5100-Other-Other': { source: uap-core-device, device: 'LG l5100', os: Other, ua: Other, class: '' }
 'LG L600V-Other-Other': { source: uap-core-device, device: 'LG L600V', os: Other, ua: Other, class: '' }
-'LG LG-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG LG', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'LG LG-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG LG', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'LG lg420g-Other-UC Browser': { source: uap-core-device, device: 'LG lg420g', os: Other, ua: 'UC Browser', class: '' }
 'LG lg500g-Other-UC Browser': { source: uap-core-device, device: 'LG lg500g', os: Other, ua: 'UC Browser', class: '' }
 'LG LG700-Other-Teleca Browser': { source: uap-core-device, device: 'LG LG700', os: Other, ua: 'Teleca Browser', class: '' }
@@ -6735,8 +6735,8 @@ LG-V909-Android-Android: { source: uap-core-device, device: LG-V909, os: Android
 'LG 9700-Other-Other': { source: uap-core-device, device: 'LG 9700', os: Other, ua: Other, class: '' }
 'LGE Nexus 4-Android-Other': { source: uap-core-device, device: 'LGE Nexus 4', os: Android, ua: Other, class: mobile }
 'LGE Nexus 5-Android-Other': { source: uap-core-device, device: 'LGE Nexus 5', os: Android, ua: Other, class: mobile }
-'MAL N880E-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880E', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'MAL N880e WP7.8 V1 Plus-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880e WP7.8 V1 Plus', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'MAL N880E-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880E', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'MAL N880e WP7.8 V1 Plus-Windows Phone-IE Mobile': { source: uap-core-device, device: 'MAL N880e WP7.8 V1 Plus', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 smba1002-Android-Android: { source: uap-core-device, device: smba1002, os: Android, ua: Android, class: '' }
 Eva-Android-Android: { source: uap-core-device, device: Eva, os: Android, ua: Android, class: '' }
 I60-Android-Android: { source: uap-core-device, device: I60, os: Android, ua: Android, class: '' }
@@ -7005,12 +7005,12 @@ IS11N-Android-Android: { source: uap-core-device, device: IS11N, os: Android, ua
 'Micromax P760-Android-Android': { source: uap-core-device, device: 'Micromax P760', os: Android, ua: Android, class: '' }
 'Micromax P860-Android-Android': { source: uap-core-device, device: 'Micromax P860', os: Android, ua: Android, class: '' }
 'Micromax p880-Android-Android': { source: uap-core-device, device: 'Micromax p880', os: Android, ua: Android, class: '' }
-'Microsoft CEPC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft CEPC', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Microsoft FuturePhone-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft FuturePhone', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Microsoft OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Microsoft Virtual-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft Virtual', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Microsoft XDeviceEmulator-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft XDeviceEmulator', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Microsoft 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft 0', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Microsoft CEPC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft CEPC', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Microsoft FuturePhone-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft FuturePhone', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Microsoft OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Microsoft Virtual-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft Virtual', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Microsoft XDeviceEmulator-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft XDeviceEmulator', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Microsoft 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft 0', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Microsoft KIN.One-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.One', os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'Microsoft KIN.Two-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.Two', os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'Xbox-Windows Phone-IE Mobile': { source: uap-core-device, device: Xbox, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
@@ -7528,7 +7528,7 @@ Moto_ME860-Android-Android: { source: uap-core-device, device: Moto_ME860, os: A
 'Motorola Canary-Other-Other': { source: uap-core-device, device: 'Motorola Canary', os: Other, ua: Other, class: '' }
 'Motorola CB-Other-Other': { source: uap-core-device, device: 'Motorola CB', os: Other, ua: Other, class: '' }
 'Motorola CfoneMART-Other-Other': { source: uap-core-device, device: 'Motorola CfoneMART', os: Other, ua: Other, class: '' }
-'Motorola CN620-Windows-NetFront': { source: uap-core-device, device: 'Motorola CN620', os: Windows, ua: NetFront, class: '' }
+'Motorola CN620-Windows-NetFront': { source: uap-core-device, device: 'Motorola CN620', os: Windows, ua: NetFront, class: mobile }
 'Motorola COOL0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola COOL0', os: Other, ua: UP.Browser, class: '' }
 'Motorola CooL7-Other-Other': { source: uap-core-device, device: 'Motorola CooL7', os: Other, ua: Other, class: '' }
 'Motorola D5-Other-Other': { source: uap-core-device, device: 'Motorola D5', os: Other, ua: Other, class: '' }
@@ -7979,7 +7979,7 @@ Diamond-Android-Opera: { source: uap-core-device, device: Diamond, os: Android, 
 'myTab 7-Android-Android': { source: uap-core-device, device: 'myTab 7', os: Android, ua: Android, class: '' }
 'myTab 7 Dual Core-Android-Android': { source: uap-core-device, device: 'myTab 7 Dual Core', os: Android, ua: Android, class: '' }
 myTab10-Android-Chrome: { source: uap-core-device, device: myTab10, os: Android, ua: Chrome, class: '' }
-'NA NA-Windows Phone-IE Mobile': { source: uap-core-device, device: 'NA NA', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'NA NA-Windows Phone-IE Mobile': { source: uap-core-device, device: 'NA NA', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 NABI-A-Android-Android: { source: uap-core-device, device: NABI-A, os: Android, ua: Android, class: '' }
 NABI2-NV7A-Android-Chrome: { source: uap-core-device, device: NABI2-NV7A, os: Android, ua: Chrome, class: '' }
 NABI2-NV7A-D-Android-Android: { source: uap-core-device, device: NABI2-NV7A-D, os: Android, ua: Android, class: '' }
@@ -8040,7 +8040,7 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'NOKIA 3310 by adittole-Android-Android': { source: uap-core-device, device: 'NOKIA 3310 by adittole', os: Android, ua: Android, class: '' }
 'Nokia 3315-Android-Android': { source: uap-core-device, device: 'Nokia 3315', os: Android, ua: Android, class: '' }
 'NOKIA Lumia 505-Android-Android': { source: uap-core-device, device: 'NOKIA Lumia 505', os: Android, ua: Android, class: '' }
-'NOKIA Lumia 620-Windows Phone-Safari': { source: uap-core-device, device: 'NOKIA Lumia 620', os: 'Windows Phone', ua: Safari, class: '' }
+'NOKIA Lumia 620-Windows Phone-Safari': { source: uap-core-device, device: 'NOKIA Lumia 620', os: 'Windows Phone', ua: Safari, class: mobile }
 'NOKIA_Lumia_920-Android-Chrome Mobile': { source: uap-core-device, device: NOKIA_Lumia_920, os: Android, ua: 'Chrome Mobile', class: '' }
 'Nokia N9-Android-Opera Mobile': { source: uap-core-device, device: 'Nokia N9', os: Android, ua: 'Opera Mobile', class: '' }
 'Nokia N9 Superphone-Android-Android': { source: uap-core-device, device: 'Nokia N9 Superphone', os: Android, ua: Android, class: '' }
@@ -8048,89 +8048,89 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia_X-Android-Chrome Mobile': { source: uap-core-device, device: Nokia_X, os: Android, ua: 'Chrome Mobile', class: '' }
 'Nokia_XL-Android-Chrome Mobile': { source: uap-core-device, device: Nokia_XL, os: Android, ua: 'Chrome Mobile', class: '' }
 'Nokia_Xplus-Android-Opera Mobile': { source: uap-core-device, device: Nokia_Xplus, os: Android, ua: 'Opera Mobile', class: '' }
-'Lumia 0000-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 0000', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 1020-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1020', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 1320-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1320', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 1520-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1520', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 505-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 505', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 510-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 510', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 520-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 520', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 520T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 520T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 521-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 521', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 525-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 525', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 526-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 526', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 610-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 610 NFC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610 NFC', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 610C-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610C', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 620-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 620', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 625-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 625', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 625H-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 625H', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 630-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 630', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 700', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 710-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 710', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 719-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 719', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 720-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 720', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 720T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 720T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 800.2-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800.2', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 800C-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800C', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 800c-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800c', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 810-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 810', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 820-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 820', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 822-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 822', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 909-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 909', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 920T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 925-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 925', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 925T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 925T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 928-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 928', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Lumia 929-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 929', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-820-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-820', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-821-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-821', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-822-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-822', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-824-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-824', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-825-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-825', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-826-Windows Phone-Baidu Browser': { source: uap-core-device, device: 'Nokia RM-826', os: 'Windows Phone', ua: 'Baidu Browser', class: '' }
-'Nokia RM-845-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-845', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-846-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-846', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-875-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-875', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-878-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-878', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-885-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-885', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-892-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-892', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-910-Windows Phone-Baidu Browser': { source: uap-core-device, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'Baidu Browser', class: '' }
-'Nokia RM-914-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-914', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-941-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-941', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia RM-994-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-994', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia 7 Mozart T8698-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 7 Mozart T8698', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia 7 Pro T7576-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 7 Pro T7576', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Champagne-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Champagne', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Cliff-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Cliff', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia HD7 T9292-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia HD7 T9292', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id102-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id102', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id104-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id104', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id201-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id201', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id300-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id300', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id301-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id301', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id313-1-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id313-1', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia id313-3-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id313-3', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia LG E-900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia LG E-900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Mersad Lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Mersad Lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia mwp6985-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia mwp6985', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia N70-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia N70', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Nokia-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Nokia', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia P4301-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia P4301', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Phi-CMCC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Phi-CMCC', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Phone-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Phone', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia Radar C110e-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Radar C110e', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia SeaRay-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SeaRay', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia SGH-i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SGH-i917', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia SGH-i937-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SGH-i937', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia T7575-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia T7575', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia TITAN X310e-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia TITAN X310e', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia XXX-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia XXX', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia xxx-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia xxx', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Nokia 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 0', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'nokia lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'nokia lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Lumia 0000-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 0000', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 1020-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1020', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 1320-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1320', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 1520-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 1520', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 505-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 505', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 510-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 510', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 520-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 520', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 520T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 520T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 521-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 521', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 525-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 525', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 526-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 526', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 610-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 610 NFC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610 NFC', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 610C-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 610C', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 620-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 620', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 625-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 625', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 625H-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 625H', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 630-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 630', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 700', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 710-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 710', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 719-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 719', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 720-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 720', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 720T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 720T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 800.2-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800.2', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 800C-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800C', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 800c-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800c', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 810-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 810', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 820-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 820', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 822-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 822', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 909-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 909', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 920T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 925-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 925', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 925T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 925T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 928-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 928', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Lumia 929-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 929', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-820-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-820', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-821-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-821', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-822-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-822', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-824-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-824', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-825-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-825', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-826-Windows Phone-Baidu Browser': { source: uap-core-device, device: 'Nokia RM-826', os: 'Windows Phone', ua: 'Baidu Browser', class: mobile }
+'Nokia RM-845-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-845', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-846-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-846', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-875-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-875', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-878-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-878', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-885-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-885', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-892-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-892', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-910-Windows Phone-Baidu Browser': { source: uap-core-device, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'Baidu Browser', class: mobile }
+'Nokia RM-914-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-914', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-941-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-941', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia RM-994-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia RM-994', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia 7 Mozart T8698-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 7 Mozart T8698', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia 7 Pro T7576-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 7 Pro T7576', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Champagne-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Champagne', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Cliff-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Cliff', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia HD7 T9292-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia HD7 T9292', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id102-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id102', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id104-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id104', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id201-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id201', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id300-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id300', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id301-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id301', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id313-1-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id313-1', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia id313-3-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia id313-3', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia LG E-900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia LG E-900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Mersad Lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Mersad Lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia mwp6985-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia mwp6985', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia N70-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia N70', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Nokia-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Nokia', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia P4301-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia P4301', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Phi-CMCC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Phi-CMCC', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Phone-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Phone', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia Radar C110e-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Radar C110e', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia SeaRay-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SeaRay', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia SGH-i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SGH-i917', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia SGH-i937-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia SGH-i937', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia T7575-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia T7575', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia TITAN X310e-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia TITAN X310e', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia XXX-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia XXX', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia xxx-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia xxx', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Nokia 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia 0', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'nokia lumia 900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'nokia lumia 900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Nokia N70-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia N70', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia N71-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia N71', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia N73-Symbian OS-Nokia': { source: uap-core-device, device: 'Nokia N73', os: 'Symbian OS', ua: Nokia, class: '' }
@@ -8391,7 +8391,7 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia 5140I-Other-Other': { source: uap-core-device, device: 'Nokia 5140I', os: Other, ua: Other, class: '' }
 'Nokia 5140i-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 5140i', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia 515-Nokia Series 40-Ovi Browser': { source: uap-core-device, device: 'Nokia 515', os: 'Nokia Series 40', ua: 'Ovi Browser', class: '' }
-'Nokia 520-Windows Phone-Other': { source: uap-core-device, device: 'Nokia 520', os: 'Windows Phone', ua: Other, class: '' }
+'Nokia 520-Windows Phone-Other': { source: uap-core-device, device: 'Nokia 520', os: 'Windows Phone', ua: Other, class: mobile }
 'Nokia 5200-Other-QQ Browser Mini': { source: uap-core-device, device: 'Nokia 5200', os: Other, ua: 'QQ Browser Mini', class: '' }
 'Nokia 5208-Other-Other': { source: uap-core-device, device: 'Nokia 5208', os: Other, ua: Other, class: '' }
 'Nokia 5210-Other-Other': { source: uap-core-device, device: 'Nokia 5210', os: Other, ua: Other, class: '' }
@@ -8479,7 +8479,7 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia 6085-Other-Other': { source: uap-core-device, device: 'Nokia 6085', os: Other, ua: Other, class: '' }
 'Nokia 6086-Other-Other': { source: uap-core-device, device: 'Nokia 6086', os: Other, ua: Other, class: '' }
 'Nokia 6088-Other-Other': { source: uap-core-device, device: 'Nokia 6088', os: Other, ua: Other, class: '' }
-'Nokia 610-Windows Phone-UC Browser': { source: uap-core-device, device: 'Nokia 610', os: 'Windows Phone', ua: 'UC Browser', class: '' }
+'Nokia 610-Windows Phone-UC Browser': { source: uap-core-device, device: 'Nokia 610', os: 'Windows Phone', ua: 'UC Browser', class: mobile }
 'Nokia 6100-Other-Other': { source: uap-core-device, device: 'Nokia 6100', os: Other, ua: Other, class: '' }
 'Nokia 6100A-Other-Other': { source: uap-core-device, device: 'Nokia 6100A', os: Other, ua: Other, class: '' }
 'Nokia 6101-Other-Other': { source: uap-core-device, device: 'Nokia 6101', os: Other, ua: Other, class: '' }
@@ -8488,7 +8488,7 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia 6102i-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 6102i', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia 6103-Other-Other': { source: uap-core-device, device: 'Nokia 6103', os: Other, ua: Other, class: '' }
 'Nokia 6108-Other-Other': { source: uap-core-device, device: 'Nokia 6108', os: Other, ua: Other, class: '' }
-'Nokia 610C-Windows Phone-UC Browser': { source: uap-core-device, device: 'Nokia 610C', os: 'Windows Phone', ua: 'UC Browser', class: '' }
+'Nokia 610C-Windows Phone-UC Browser': { source: uap-core-device, device: 'Nokia 610C', os: 'Windows Phone', ua: 'UC Browser', class: mobile }
 'Nokia 6110-Symbian OS-UC Browser': { source: uap-core-device, device: 'Nokia 6110', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia 6110--Symbian OS-Other': { source: uap-core-device, device: 'Nokia 6110-', os: 'Symbian OS', ua: Other, class: '' }
 'Nokia 6110LT06-Symbian OS-QQ Browser Mobile': { source: uap-core-device, device: 'Nokia 6110LT06', os: 'Symbian OS', ua: 'QQ Browser Mobile', class: '' }
@@ -8750,9 +8750,9 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia 8910ai-Other-Nokia': { source: uap-core-device, device: 'Nokia 8910ai', os: Other, ua: Nokia, class: '' }
 'Nokia 8910I-Other-Other': { source: uap-core-device, device: 'Nokia 8910I', os: Other, ua: Other, class: '' }
 'Nokia 8910i-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 8910i', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
-'Nokia 900-Windows-UC Browser': { source: uap-core-device, device: 'Nokia 900', os: Windows, ua: 'UC Browser', class: '' }
+'Nokia 900-Windows-UC Browser': { source: uap-core-device, device: 'Nokia 900', os: Windows, ua: 'UC Browser', class: mobile }
 'Nokia 9110i-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 9110i', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
-'Nokia 920T-Windows Phone-Other': { source: uap-core-device, device: 'Nokia 920T', os: 'Windows Phone', ua: Other, class: '' }
+'Nokia 920T-Windows Phone-Other': { source: uap-core-device, device: 'Nokia 920T', os: 'Windows Phone', ua: Other, class: mobile }
 'Nokia 9210-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 9210', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia 9210I-Other-Other': { source: uap-core-device, device: 'Nokia 9210I', os: Other, ua: Other, class: '' }
 'Nokia 9210i-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia 9210i', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
@@ -8866,7 +8866,7 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia E90-1-Symbian OS-Nokia OSS Browser': { source: uap-core-device, device: 'Nokia E90-1', os: 'Symbian OS', ua: 'Nokia OSS Browser', class: '' }
 'Nokia Eaa-1-Symbian OS-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia Eaa-1', os: 'Symbian OS', ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia Internal-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia Internal', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
-'Nokia Lumia-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Lumia', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Nokia Lumia-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Nokia Lumia', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Nokia LUMIA-Other-Other': { source: uap-core-device, device: 'Nokia LUMIA', os: Other, ua: Other, class: '' }
 'Nokia Lumia800-Nokia Series 40-Ovi Browser': { source: uap-core-device, device: 'Nokia Lumia800', os: 'Nokia Series 40', ua: 'Ovi Browser', class: '' }
 'Nokia MapsWP7-Windows CE-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia MapsWP7', os: 'Windows CE', ua: 'Nokia Services (WAP) Browser', class: '' }
@@ -8942,8 +8942,8 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia RH-61-Other-UP.Browser': { source: uap-core-device, device: 'Nokia RH-61', os: Other, ua: UP.Browser, class: '' }
 'Nokia RM-11-Other-UP.Browser': { source: uap-core-device, device: 'Nokia RM-11', os: Other, ua: UP.Browser, class: '' }
 'Nokia RM-821-Other-Other': { source: uap-core-device, device: 'Nokia RM-821', os: Other, ua: Other, class: '' }
-'Nokia RM-825-Windows-Other': { source: uap-core-device, device: 'Nokia RM-825', os: Windows, ua: Other, class: '' }
-'Nokia RM-867-Windows-Other': { source: uap-core-device, device: 'Nokia RM-867', os: Windows, ua: Other, class: '' }
+'Nokia RM-825-Windows-Other': { source: uap-core-device, device: 'Nokia RM-825', os: Windows, ua: Other, class: mobile }
+'Nokia RM-867-Windows-Other': { source: uap-core-device, device: 'Nokia RM-867', os: Windows, ua: Other, class: mobile }
 'Nokia RM-914-Other-Other': { source: uap-core-device, device: 'Nokia RM-914', os: Other, ua: Other, class: '' }
 'Nokia SyncML-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia SyncML', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
 'Nokia T7-00-Symbian OS-QQ Browser Mobile': { source: uap-core-device, device: 'Nokia T7-00', os: 'Symbian OS', ua: 'QQ Browser Mobile', class: '' }
@@ -8968,20 +8968,20 @@ NXM908HC-Android-Android: { source: uap-core-device, device: NXM908HC, os: Andro
 'Nokia X7-00-Symbian OS-UC Browser': { source: uap-core-device, device: 'Nokia X7-00', os: 'Symbian OS', ua: 'UC Browser', class: '' }
 'Nokia X7-00-1-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Nokia X7-00-1', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
 'Nokia X700-Other-Nokia Services (WAP) Browser': { source: uap-core-device, device: 'Nokia X700', os: Other, ua: 'Nokia Services (WAP) Browser', class: '' }
-'Lumia 1320-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 1320', os: 'Windows Phone', ua: Other, class: '' }
-'Lumia 1520-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 1520', os: 'Windows Phone', ua: Other, class: '' }
-'Lumia 505-Windows-UC Browser': { source: uap-core-device, device: 'Lumia 505', os: Windows, ua: 'UC Browser', class: '' }
+'Lumia 1320-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 1320', os: 'Windows Phone', ua: Other, class: mobile }
+'Lumia 1520-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 1520', os: 'Windows Phone', ua: Other, class: mobile }
+'Lumia 505-Windows-UC Browser': { source: uap-core-device, device: 'Lumia 505', os: Windows, ua: 'UC Browser', class: mobile }
 'Lumia 510-Other-Other': { source: uap-core-device, device: 'Lumia 510', os: Other, ua: Other, class: '' }
-'Lumia 520-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 520', os: 'Windows Phone', ua: Other, class: '' }
+'Lumia 520-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 520', os: 'Windows Phone', ua: Other, class: mobile }
 'Lumia 610-Other-Other': { source: uap-core-device, device: 'Lumia 610', os: Other, ua: Other, class: '' }
-'Lumia 620-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 620', os: 'Windows Phone', ua: Other, class: '' }
-'Lumia 625-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 625', os: 'Windows Phone', ua: Other, class: '' }
+'Lumia 620-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 620', os: 'Windows Phone', ua: Other, class: mobile }
+'Lumia 625-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 625', os: 'Windows Phone', ua: Other, class: mobile }
 'Lumia 710-Other-Other': { source: uap-core-device, device: 'Lumia 710', os: Other, ua: Other, class: '' }
-'Lumia 720-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 720', os: 'Windows Phone', ua: Other, class: '' }
-'Lumia 820-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 820', os: 'Windows Phone', ua: Other, class: '' }
+'Lumia 720-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 720', os: 'Windows Phone', ua: Other, class: mobile }
+'Lumia 820-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 820', os: 'Windows Phone', ua: Other, class: mobile }
 'Lumia 900-Windows CE-Other': { source: uap-core-device, device: 'Lumia 900', os: 'Windows CE', ua: Other, class: '' }
-'Lumia 920-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: Other, class: '' }
-'Lumia 925-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 925', os: 'Windows Phone', ua: Other, class: '' }
+'Lumia 920-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: Other, class: mobile }
+'Lumia 925-Windows Phone-Other': { source: uap-core-device, device: 'Lumia 925', os: 'Windows Phone', ua: Other, class: mobile }
 'Nokia 500-Symbian^3-Safari': { source: uap-core-device, device: 'Nokia 500', os: Symbian^3, ua: Safari, class: '' }
 'Nokia 603-Other-Safari': { source: uap-core-device, device: 'Nokia 603', os: Other, ua: Safari, class: '' }
 'Nokia 700-Other-Safari': { source: uap-core-device, device: 'Nokia 700', os: Other, ua: Safari, class: '' }
@@ -9697,12 +9697,12 @@ A900-Android-Android: { source: uap-core-device, device: A900, os: Android, ua: 
 'Q-mobile S10-Android-UC Browser': { source: uap-core-device, device: 'Q-mobile S10', os: Android, ua: 'UC Browser', class: '' }
 'Qmobile S11-Android-UC Browser': { source: uap-core-device, device: 'Qmobile S11', os: Android, ua: 'UC Browser', class: '' }
 'Q-mobile S11 Revolution-Android-Android': { source: uap-core-device, device: 'Q-mobile S11 Revolution', os: Android, ua: Android, class: '' }
-'Qualcomm FLUID-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm FLUID', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Qualcomm QRD-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm QRD', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Qualcomm QSD8x50-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm QSD8x50', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Qualcomm FLUID-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm FLUID', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Qualcomm QRD-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm QRD', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Qualcomm QSD8x50-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Qualcomm QSD8x50', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 TA1013-Android-Android: { source: uap-core-device, device: TA1013, os: Android, ua: Android, class: '' }
 IS04-Android-Android: { source: uap-core-device, device: IS04, os: Android, ua: Android, class: '' }
-'RoC MLPportal-Windows Phone-IE Mobile': { source: uap-core-device, device: 'RoC MLPportal', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'RoC MLPportal-Windows Phone-IE Mobile': { source: uap-core-device, device: 'RoC MLPportal', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 RK2818-Android-Android: { source: uap-core-device, device: RK2818, os: Android, ua: Android, class: '' }
 'RK2906-Android-Chrome Mobile': { source: uap-core-device, device: RK2906, os: Android, ua: 'Chrome Mobile', class: '' }
 RK3188-Android-Android: { source: uap-core-device, device: RK3188, os: Android, ua: Android, class: '' }
@@ -10210,9 +10210,9 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung GT-I8262B-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8262B', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8262D-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8262D', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8268-Android-Android': { source: uap-core-device, device: 'Samsung GT-I8268', os: Android, ua: Android, class: '' }
-'Samsung GT-I8350-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8350', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-i8350-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-i8350', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-I8350T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8350T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Samsung GT-I8350-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8350', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-i8350-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-i8350', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-I8350T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8350T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung GT-I8370-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8370', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8520-Android-UC Browser': { source: uap-core-device, device: 'Samsung GT-I8520', os: Android, ua: 'UC Browser', class: '' }
 'Samsung GT-I8530-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8530', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -10221,12 +10221,12 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung GT-I8552-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8552', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8552B-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8552B', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8558-Android-UC Browser': { source: uap-core-device, device: 'Samsung GT-I8558', os: Android, ua: 'UC Browser', class: '' }
-'Samsung GT-I8700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8700', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-i8700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-i8700', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-I8710-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8710', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Samsung GT-I8700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8700', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-i8700-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-i8700', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-I8710-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8710', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung GT-I8730-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8730', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-I8730T-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I8730T', os: Android, ua: 'Chrome Mobile', class: '' }
-'Samsung GT-I8750-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8750', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Samsung GT-I8750-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-I8750', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung GT-I9000-Android-Opera Mobile': { source: uap-core-device, device: 'Samsung GT-I9000', os: Android, ua: 'Opera Mobile', class: '' }
 'Samsung GT-i9000-Android-Android': { source: uap-core-device, device: 'Samsung GT-i9000', os: Android, ua: Android, class: '' }
 'Samsung GT-I9000B-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-I9000B', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -10489,9 +10489,9 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung GT-S7500L-Android-Android': { source: uap-core-device, device: 'Samsung GT-S7500L', os: Android, ua: Android, class: '' }
 'Samsung GT-S7500T-Android-Android': { source: uap-core-device, device: 'Samsung GT-S7500T', os: Android, ua: Android, class: '' }
 'Samsung GT-S7500W-Android-Android': { source: uap-core-device, device: 'Samsung GT-S7500W', os: Android, ua: Android, class: '' }
-'Samsung GT-S7530-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-S7530E-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530E', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung GT-S7530L-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530L', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Samsung GT-S7530-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-S7530E-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530E', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung GT-S7530L-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung GT-S7530L', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung GT-S7560-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-S7560', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-S7560M-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung GT-S7560M', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung GT-S7560M-parrot-Android-Android': { source: uap-core-device, device: 'Samsung GT-S7560M-parrot', os: Android, ua: Android, class: '' }
@@ -10901,32 +10901,32 @@ SC-97JB-Android-Android: { source: uap-core-device, device: SC-97JB, os: Android
 'Samsung YP-GI2-Android-Android': { source: uap-core-device, device: 'Samsung YP-GI2', os: Android, ua: Android, class: '' }
 'Samsung YP-GP1-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung YP-GP1', os: Android, ua: 'Chrome Mobile', class: '' }
 'Samsung YP-GS1-Android-Opera Mobile': { source: uap-core-device, device: 'Samsung YP-GS1', os: Android, ua: 'Opera Mobile', class: '' }
-'Samsung CETUS-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung CETUS', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Focus i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Focus i917', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Focus I917 By TC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Focus I917 By TC', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung FOCUS S-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung FOCUS S', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Haden-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Haden', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Hljchm''s Wp-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Hljchm''s Wp', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung I917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung I917', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Monument-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Monument', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung OMNIA 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA 7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Omnia W-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Omnia W', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung OMNIA7 By MWP_HS-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA7 By MWP_HS', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SCH-I930-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SCH-I930', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SCH-R860U-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SCH-R860U', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i667-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i667', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i677-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i677', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i707-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i707', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-I917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-I917', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i917/2221-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917/2221', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i917R-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917R', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-i937-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i937', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SGH-T899M-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-T899M', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SMG-917R-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SMG-917R', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung SPH-I800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SPH-I800', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Samsung Taylor-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Taylor', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Samsung CETUS-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung CETUS', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Focus i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Focus i917', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Focus I917 By TC-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Focus I917 By TC', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung FOCUS S-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung FOCUS S', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Haden-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Haden', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Hljchm''s Wp-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Hljchm''s Wp', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung I917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung I917', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Monument-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Monument', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung OMNIA 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA 7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Omnia W-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Omnia W', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung OMNIA7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung OMNIA7 By MWP_HS-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung OMNIA7 By MWP_HS', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SCH-I930-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SCH-I930', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SCH-R860U-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SCH-R860U', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i667-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i667', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i677-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i677', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i707-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i707', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-I917-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-I917', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i917/2221-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917/2221', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i917R-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i917R', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-i937-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-i937', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SGH-T899M-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SGH-T899M', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SMG-917R-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SMG-917R', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung SPH-I800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung SPH-I800', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Samsung Taylor-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Samsung Taylor', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Samsung GT-S5250-Bada-Dolfin': { source: uap-core-device, device: 'Samsung GT-S5250', os: Bada, ua: Dolfin, class: '' }
 'Samsung GT-S5253-Bada-Dolfin': { source: uap-core-device, device: 'Samsung GT-S5253', os: Bada, ua: Dolfin, class: '' }
 'Samsung GT-S5330-Bada-Dolfin': { source: uap-core-device, device: 'Samsung GT-S5330', os: Bada, ua: Dolfin, class: '' }
@@ -11086,7 +11086,7 @@ SM-N9005AO-Other-Other: { source: uap-core-device, device: SM-N9005AO, os: Other
 'Samsung E2510-ORANGE-Other-Other': { source: uap-core-device, device: 'Samsung E2510-ORANGE', os: Other, ua: Other, class: '' }
 'Samsung EK-GC100-Android-Other': { source: uap-core-device, device: 'Samsung EK-GC100', os: Android, ua: Other, class: '' }
 'Samsung Electronics-Android-Android': { source: uap-core-device, device: 'Samsung Electronics', os: Android, ua: Android, class: '' }
-'Samsung ELECTRONICS-Windows-Other': { source: uap-core-device, device: 'Samsung ELECTRONICS', os: Windows, ua: Other, class: '' }
+'Samsung ELECTRONICS-Windows-Other': { source: uap-core-device, device: 'Samsung ELECTRONICS', os: Windows, ua: Other, class: mobile }
 'Samsung EPIC-Android-Android': { source: uap-core-device, device: 'Samsung EPIC', os: Android, ua: Android, class: '' }
 'Samsung espresso10rf-Other-Other': { source: uap-core-device, device: 'Samsung espresso10rf', os: Other, ua: Other, class: '' }
 'Samsung Espresso10rf-Android-Android': { source: uap-core-device, device: 'Samsung Espresso10rf', os: Android, ua: Android, class: '' }
@@ -12809,7 +12809,7 @@ SM-N9005AO-Other-Other: { source: uap-core-device, device: SM-N9005AO, os: Other
 'Samsung Stratosphere-Android-Other': { source: uap-core-device, device: 'Samsung Stratosphere', os: Android, ua: Other, class: '' }
 'Samsung T03g-Android-Android': { source: uap-core-device, device: 'Samsung T03g', os: Android, ua: Android, class: '' }
 'Samsung t03gxx-Other-Other': { source: uap-core-device, device: 'Samsung t03gxx', os: Other, ua: Other, class: '' }
-'Samsung Taylor-Windows-Other': { source: uap-core-device, device: 'Samsung Taylor', os: Windows, ua: Other, class: '' }
+'Samsung Taylor-Windows-Other': { source: uap-core-device, device: 'Samsung Taylor', os: Windows, ua: Other, class: mobile }
 'Samsung Transform-Android-Other': { source: uap-core-device, device: 'Samsung Transform', os: Android, ua: Other, class: '' }
 'Samsung UP-Other-Other': { source: uap-core-device, device: 'Samsung UP', os: Other, ua: Other, class: '' }
 'Samsung verizon-Android-Other': { source: uap-core-device, device: 'Samsung verizon', os: Android, ua: Other, class: '' }
@@ -13758,7 +13758,7 @@ X920e-Android-Android: { source: uap-core-device, device: X920e, os: Android, ua
 'Ericsson LeNnaLiiZA-Other-NetFront': { source: uap-core-device, device: 'Ericsson LeNnaLiiZA', os: Other, ua: NetFront, class: '' }
 'Ericsson LT15i-Other-Other': { source: uap-core-device, device: 'Ericsson LT15i', os: Other, ua: Other, class: '' }
 'Ericsson M1a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson M1a', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson M1i-Windows Phone-IE': { source: uap-core-device, device: 'Ericsson M1i', os: 'Windows Phone', ua: IE, class: '' }
+'Ericsson M1i-Windows Phone-IE': { source: uap-core-device, device: 'Ericsson M1i', os: 'Windows Phone', ua: IE, class: mobile }
 'Ericsson M600c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600c', os: 'Symbian OS', ua: Opera, class: '' }
 'Ericsson M600i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600i', os: 'Symbian OS', ua: Opera, class: '' }
 'Ericsson M608c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M608c', os: 'Symbian OS', ua: Opera, class: '' }
@@ -14162,7 +14162,7 @@ SprintSCP-6760-BREW-NetFront: { source: uap-core-device, device: SprintSCP-6760,
 SprintSPH-M570-BREW-NetFront: { source: uap-core-device, device: SprintSPH-M570, os: BREW, ua: NetFront, class: '' }
 'SprintT7380-Windows CE-IE Mobile': { source: uap-core-device, device: SprintT7380, os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'SprintTreo850e-Windows CE-IE Mobile': { source: uap-core-device, device: SprintTreo850e, os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'SUMSUNG OMNIA 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'SUMSUNG OMNIA 7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'SUMSUNG OMNIA 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'SUMSUNG OMNIA 7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 TAGIMID140-Android-Chrome: { source: uap-core-device, device: TAGIMID140, os: Android, ua: Chrome, class: '' }
 'TAGI MID950-Android-Opera': { source: uap-core-device, device: 'TAGI MID950', os: Android, ua: Opera, class: '' }
 'TCL A860-Android-Android': { source: uap-core-device, device: 'TCL A860', os: Android, ua: Android, class: '' }
@@ -14340,8 +14340,8 @@ folio100-Android-Opera: { source: uap-core-device, device: folio100, os: Android
 'Toshiba Hikari-iFrame/WDPF-701SE-Android-Android': { source: uap-core-device, device: 'Toshiba Hikari-iFrame/WDPF-701SE', os: Android, ua: Android, class: '' }
 'Toshiba THRiVE-Android-Android': { source: uap-core-device, device: 'Toshiba THRiVE', os: Android, ua: Android, class: '' }
 'Toshiba Thrive-Android-Android': { source: uap-core-device, device: 'Toshiba Thrive', os: Android, ua: Android, class: '' }
-'Toshiba IS12T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba IS12T', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'Toshiba TSUNAGI-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba TSUNAGI', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Toshiba IS12T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba IS12T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'Toshiba TSUNAGI-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba TSUNAGI', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 HbbTV-TOSHIBA-HbbTV: { source: uap-core-device, device: HbbTV, os: TOSHIBA, ua: HbbTV, class: '' }
 'MID-750-Android-Opera Mobile': { source: uap-core-device, device: MID-750, os: Android, ua: 'Opera Mobile', class: '' }
 TM-MID101N-Android-Android: { source: uap-core-device, device: TM-MID101N, os: Android, ua: Android, class: '' }
@@ -15116,17 +15116,17 @@ SmartTab7-Android-Opera: { source: uap-core-device, device: SmartTab7, os: Andro
 'soft stone-Android-Android': { source: uap-core-device, device: 'soft stone', os: Android, ua: Android, class: '' }
 'Tmn Smart A7-Android-Android': { source: uap-core-device, device: 'Tmn Smart A7', os: Android, ua: Android, class: '' }
 'tmn smart a7-Android-Android': { source: uap-core-device, device: 'tmn smart a7', os: Android, ua: Android, class: '' }
-'ZTE MegaFon SP-W1-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE MegaFon SP-W1', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE Mimosa-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Mimosa', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE N880e_Dawoer_Fulllock-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE N880e_Dawoer_Fulllock', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE Tania-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Tania', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE V965W-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE V965W', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE Windows Phone - Internet 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Windows Phone - Internet 7', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
-'ZTE OPEN-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'ZTE OPEN', os: 'Firefox OS', ua: 'Firefox Mobile', class: '' }
+'ZTE MegaFon SP-W1-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE MegaFon SP-W1', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE Mimosa-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Mimosa', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE N880e_Dawoer_Fulllock-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE N880e_Dawoer_Fulllock', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE Tania-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Tania', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE V965W-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE V965W', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE Windows Phone - Internet 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'ZTE Windows Phone - Internet 7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
+'ZTE OPEN-Firefox OS-Firefox Mobile': { source: uap-core-device, device: 'ZTE OPEN', os: 'Firefox OS', ua: 'Firefox Mobile', class: mobile }
 'Cloud Z5-Android-Chrome Mobile': { source: uap-core-device, device: 'Cloud Z5', os: Android, ua: 'Chrome Mobile', class: '' }
 'Cloud_Z5-Android-UC Browser': { source: uap-core-device, device: Cloud_Z5, os: Android, ua: 'UC Browser', class: '' }
 z1000-Android-Chrome: { source: uap-core-device, device: z1000, os: Android, ua: Chrome, class: '' }
-'LEO70-Windows Phone-IE Mobile': { source: uap-core-device, device: LEO70, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'LEO70-Windows Phone-IE Mobile': { source: uap-core-device, device: LEO70, os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 BOBBY-Android-Android: { source: uap-core-device, device: BOBBY, os: Android, ua: Android, class: '' }
 'Prestigio PMP7280C3G-Android-Android': { source: uap-core-device, device: 'Prestigio PMP7280C3G', os: Android, ua: Android, class: '' }
 Spider-Other-BlogBridge: { source: uap-core-device, device: Spider, os: Other, ua: BlogBridge, class: spider }
@@ -15164,7 +15164,7 @@ Other-Ubuntu-Firefox: { source: uap-core-os, device: Other, os: Ubuntu, ua: Fire
 Other-Ubuntu-Chromium: { source: uap-core-os, device: Other, os: Ubuntu, ua: Chromium, class: '' }
 'Other-Ubuntu-Firefox (Shiretoko)': { source: uap-core-os, device: Other, os: Ubuntu, ua: 'Firefox (Shiretoko)', class: '' }
 'Generic Smartphone-webOS-webOS Browser': { source: uap-core-os, device: 'Generic Smartphone', os: webOS, ua: 'webOS Browser', class: mobile }
-Other-Windows-AdobeAIR: { source: uap-core-os, device: Other, os: Windows, ua: AdobeAIR, class: '' }
+Other-Windows-AdobeAIR: { source: uap-core-os, device: Other, os: Windows, ua: AdobeAIR, class: desktop }
 'Other-Windows 10-IE': { source: uap-core-os, device: Other, os: 'Windows 10', ua: IE, class: desktop }
 'Other-Windows 10-Edge': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Edge, class: desktop }
 'Other-Windows 10-Firefox': { source: uap-core-os, device: Other, os: 'Windows 10', ua: Firefox, class: desktop }
@@ -15220,7 +15220,7 @@ Other-Linux-Firefox: { source: uap-core-os, device: Other, os: Linux, ua: Firefo
 'Samsung GT-I9308-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-I9308', os: Android, ua: 'UC Browser', class: '' }
 'Samsung GT-S5570-Android-UC Browser': { source: uap-core-os, device: 'Samsung GT-S5570', os: Android, ua: 'UC Browser', class: '' }
 'Dell Streak-Android-UC Browser': { source: uap-core-os, device: 'Dell Streak', os: Android, ua: 'UC Browser', class: tablet }
-'Other-Windows Phone-UC Browser': { source: uap-core-os, device: Other, os: 'Windows Phone', ua: 'UC Browser', class: '' }
+'Other-Windows Phone-UC Browser': { source: uap-core-os, device: Other, os: 'Windows Phone', ua: 'UC Browser', class: mobile }
 'iPad2,5-iOS-UC Browser': { source: uap-core-os, device: 'iPad2,5', os: iOS, ua: 'UC Browser', class: tablet }
 'Generic Smartphone-Windows Phone-IE': { source: uap-core-os, device: 'Generic Smartphone', os: 'Windows Phone', ua: IE, class: mobile }
 'Other-Windows NT-Firefox': { source: uap-core-os, device: Other, os: 'Windows NT', ua: Firefox, class: desktop }
@@ -15254,7 +15254,7 @@ iOS-Device-iOS-CFNetwork: { source: uap-core-os, device: iOS-Device, os: iOS, ua
 'Other-Windows XP-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'QQ Browser', class: desktop }
 'Other-Windows 8-QQ Browser': { source: uap-core-ua, device: Other, os: 'Windows 8', ua: 'QQ Browser', class: desktop }
 'XiaoMi MI 2S-Android-QQ Browser Mobile': { source: uap-core-ua, device: 'XiaoMi MI 2S', os: Android, ua: 'QQ Browser Mobile', class: '' }
-'Nokia RM-910-Windows Phone-QQ Browser Mobile': { source: uap-core-ua, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'QQ Browser Mobile', class: '' }
+'Nokia RM-910-Windows Phone-QQ Browser Mobile': { source: uap-core-ua, device: 'Nokia RM-910', os: 'Windows Phone', ua: 'QQ Browser Mobile', class: mobile }
 'Other-Windows XP-Chrome Frame': { source: uap-core-ua, device: Other, os: 'Windows XP', ua: 'Chrome Frame', class: desktop }
 Spider-Other-FacebookBot: { source: uap-core-ua, device: Spider, os: Other, ua: FacebookBot, class: spider }
 Spider-Other-LinkedInBot: { source: uap-core-ua, device: Spider, os: Other, ua: LinkedInBot, class: spider }
@@ -15288,7 +15288,7 @@ Other-Linux-Thunderbird: { source: uap-core-ua, device: Other, os: Linux, ua: Th
 'Generic Feature Phone-Other-Obigo': { source: uap-core-ua, device: 'Generic Feature Phone', os: Other, ua: Obigo, class: mobile }
 'Generic Smartphone-Android-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: Android, ua: 'Opera Mobile', class: mobile }
 'Generic Smartphone-Windows Mobile-Opera Mobile': { source: uap-core-ua, device: 'Generic Smartphone', os: 'Windows Mobile', ua: 'Opera Mobile', class: mobile }
-'HP iPAQ DataMessenger-Windows-Opera Mobile': { source: uap-core-ua, device: 'HP iPAQ DataMessenger', os: Windows, ua: 'Opera Mobile', class: '' }
+'HP iPAQ DataMessenger-Windows-Opera Mobile': { source: uap-core-ua, device: 'HP iPAQ DataMessenger', os: Windows, ua: 'Opera Mobile', class: mobile }
 'HTC MAX 4G-Windows-Opera Mobile': { source: uap-core-ua, device: 'HTC MAX 4G', os: Windows, ua: 'Opera Mobile', class: mobile }
 A2-Android-Android: { source: uap-core-ua, device: A2, os: Android, ua: Android, class: '' }
 'Nokia N95-Other-iRAPP': { source: uap-core-ua, device: 'Nokia N95', os: Other, ua: iRAPP, class: '' }
