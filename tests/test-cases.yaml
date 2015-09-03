@@ -2,10 +2,10 @@
 'Alcatel OH5-Other-UP.Browser': { source: uap-core-device, device: 'Alcatel OH5', os: Other, ua: UP.Browser, class: '' }
 'HTC Amaze 4G-Android-Android': { source: uap-core-device, device: 'HTC Amaze 4G', os: Android, ua: Android, class: mobile }
 'AppleTV-ATV OS X-Other': { source: uap-core-device, device: AppleTV, os: 'ATV OS X', ua: Other, class: desktop }
-'BlackBerry-BlackBerry OS-Opera Mini': { source: uap-core-device, device: BlackBerry, os: 'BlackBerry OS', ua: 'Opera Mini', class: '' }
-'BlackBerry 9320-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry Playbook-BlackBerry Tablet OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Playbook', os: 'BlackBerry Tablet OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry Touch-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Touch', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
+'BlackBerry-BlackBerry OS-Opera Mini': { source: uap-core-device, device: BlackBerry, os: 'BlackBerry OS', ua: 'Opera Mini', class: mobile }
+'BlackBerry 9320-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry Playbook-BlackBerry Tablet OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Playbook', os: 'BlackBerry Tablet OS', ua: 'BlackBerry WebKit', class: tablet }
+'BlackBerry Touch-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Touch', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
 'Samsung Galaxy Nexus-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung Galaxy Nexus', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung GT-P7510-Android-Android': { source: uap-core-device, device: 'Samsung GT-P7510', os: Android, ua: Android, class: tablet }
 'HP TouchPad-webOS-webOS Browser': { source: uap-core-device, device: 'HP TouchPad', os: webOS, ua: 'webOS Browser', class: '' }
@@ -1146,108 +1146,108 @@ HbbTV-Linux-HbbTV: { source: uap-core-device, device: HbbTV, os: Linux, ua: HbbT
 'BB Q5-Android-Android': { source: uap-core-device, device: 'BB Q5', os: Android, ua: Android, class: '' }
 'BB Z10-Android-Android': { source: uap-core-device, device: 'BB Z10', os: Android, ua: Android, class: '' }
 'BB Z30-Android-Android': { source: uap-core-device, device: 'BB Z30', os: Android, ua: Android, class: '' }
-'BlackBerry Kbd-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Kbd', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry STL100-2-Other-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry STL100-2', os: Other, ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9100-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9100', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9105-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9105', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9220-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9220', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9300-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9300', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9310-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9310', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9315-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9315', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9330-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9330', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9350-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9350', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9360-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9360', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9370-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9370', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9380-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9380', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9570-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9570', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9620-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9620', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9650-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9650', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9670-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9670', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9700-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9700', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9720-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9720', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9780-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9780', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9788-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9788', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9790-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9790', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9800-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9800', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9810-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9810', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9850-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9850', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9860-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9860', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9900-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9900', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9930-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9930', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 9981-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9981', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
-'BlackBerry 2-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 2', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 3-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 3', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 5790-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5790', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 5810-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5810', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 5820-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5820', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 6210-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6210', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 6220-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6220', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 6230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6230', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 6720-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6720', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 6750-BlackBerry OS-UP.Browser': { source: uap-core-device, device: 'BlackBerry 6750', os: 'BlackBerry OS', ua: UP.Browser, class: '' }
-'BlackBerry 7100-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7100', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 7130-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7130', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 7210-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7210', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7230', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7250-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7250', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7280-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7280', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 7290-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7290', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 7510-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7510', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7520-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7520', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7730-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7730', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7750-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7750', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 7780-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7780', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8100-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8100', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8110-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8110', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8120-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 8120', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 8130-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8130', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8220-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 8220', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 8230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8230', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8300-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8300', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8310-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8310', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8320-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8320', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8330-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8330', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8350-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8350', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8500-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8500', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8530-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8530', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8700-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8700', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8703-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8703', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8705-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8705', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8707-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8707', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8800-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8800', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8820-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8820', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8830-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8830', os: 'Windows CE', ua: BlackBerry, class: '' }
-'BlackBerry 8900-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8900', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8910-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8910', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 8980-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8980', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9000-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9000', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9100-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9100', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9105-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9105', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9220-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9220', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9300-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9300', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9310-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9310', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9315-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9315', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9320-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9330-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9330', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 9350-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9350', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9370-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9370', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9380-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9380', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9500-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9500', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9520-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9520', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9530-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9530', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 9550-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9550', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 9630-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9630', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9650-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9650', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9670-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9670', os: 'BlackBerry OS', ua: 'UC Browser', class: '' }
-'BlackBerry 9700-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9700', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9780-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9780', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9788-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9788', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9790-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9790', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9800-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9800', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9810-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9810', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9850-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9850', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9860-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9860', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
-'BlackBerry 9930-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9930', os: 'BlackBerry OS', ua: BlackBerry, class: '' }
+'BlackBerry Kbd-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Kbd', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry STL100-2-Other-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry STL100-2', os: Other, ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9100-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9100', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9105-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9105', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9220-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9220', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9300-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9300', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9310-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9310', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9315-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9315', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9330-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9330', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9350-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9350', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9360-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9360', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9370-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9370', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9380-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9380', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9570-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9570', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9620-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9620', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9650-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9650', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9670-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9670', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9700-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9700', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9720-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9720', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9780-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9780', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9788-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9788', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9790-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9790', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9800-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9800', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9810-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9810', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9850-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9850', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9860-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9860', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9900-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9900', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9930-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9930', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 9981-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9981', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: mobile }
+'BlackBerry 2-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 2', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 3-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 3', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 5790-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5790', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 5810-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5810', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 5820-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 5820', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 6210-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6210', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 6220-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6220', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 6230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6230', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 6720-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 6720', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 6750-BlackBerry OS-UP.Browser': { source: uap-core-device, device: 'BlackBerry 6750', os: 'BlackBerry OS', ua: UP.Browser, class: mobile }
+'BlackBerry 7100-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7100', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 7130-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7130', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 7210-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7210', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7230', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7250-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7250', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7280-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7280', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 7290-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7290', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 7510-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7510', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7520-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7520', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7730-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7730', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7750-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7750', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 7780-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 7780', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8100-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8100', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8110-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8110', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8120-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 8120', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 8130-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8130', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8220-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 8220', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 8230-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8230', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8300-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8300', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8310-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8310', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8320-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8320', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8330-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8330', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8350-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8350', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8500-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8500', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8530-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8530', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8700-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8700', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8703-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8703', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8705-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8705', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8707-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8707', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8800-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8800', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8820-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8820', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8830-Windows CE-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8830', os: 'Windows CE', ua: BlackBerry, class: mobile }
+'BlackBerry 8900-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8900', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8910-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8910', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 8980-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 8980', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9000-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9000', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9100-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9100', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9105-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9105', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9220-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9220', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9300-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9300', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9310-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9310', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9315-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9315', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9320-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9330-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9330', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 9350-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9350', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9370-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9370', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9380-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9380', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9500-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9500', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9520-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9520', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9530-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9530', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 9550-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9550', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 9630-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9630', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9650-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9650', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9670-BlackBerry OS-UC Browser': { source: uap-core-device, device: 'BlackBerry 9670', os: 'BlackBerry OS', ua: 'UC Browser', class: mobile }
+'BlackBerry 9700-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9700', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9780-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9780', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9788-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9788', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9790-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9790', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9800-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9800', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9810-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9810', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9850-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9850', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9860-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9860', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
+'BlackBerry 9930-BlackBerry OS-BlackBerry': { source: uap-core-device, device: 'BlackBerry 9930', os: 'BlackBerry OS', ua: BlackBerry, class: mobile }
 'BlackBird I7000-Android-Android': { source: uap-core-device, device: 'BlackBird I7000', os: Android, ua: Android, class: '' }
 'Blaupunkt 10BPE0-Android-Chrome': { source: uap-core-device, device: 'Blaupunkt 10BPE0', os: Android, ua: Chrome, class: '' }
 'Blaupunkt 10BPE0H-Android-Chrome': { source: uap-core-device, device: 'Blaupunkt 10BPE0H', os: Android, ua: Chrome, class: '' }
@@ -2461,33 +2461,33 @@ H9500-Android-Android: { source: uap-core-device, device: H9500, os: Android, ua
 'Hisense AndroMAXI AD683G-Android-Android': { source: uap-core-device, device: 'Hisense AndroMAXI AD683G', os: Android, ua: Android, class: '' }
 'AMAZE S100-Android-Android': { source: uap-core-device, device: 'AMAZE S100', os: Android, ua: Android, class: '' }
 'AMAZE S200-Android-Android': { source: uap-core-device, device: 'AMAZE S200', os: Android, ua: Android, class: '' }
-'HP PlayBook-Android-Android': { source: uap-core-device, device: 'HP PlayBook', os: Android, ua: Android, class: '' }
-'HP 635 Notebook PC-Android-Opera': { source: uap-core-device, device: 'HP 635 Notebook PC', os: Android, ua: Opera, class: '' }
-'HP 7-Android-Chrome': { source: uap-core-device, device: 'HP 7', os: Android, ua: Chrome, class: '' }
-'HP 8-Android-Chrome': { source: uap-core-device, device: 'HP 8', os: Android, ua: Chrome, class: '' }
-'HP Compaq 2210b-Android-Android': { source: uap-core-device, device: 'HP Compaq 2210b', os: Android, ua: Android, class: '' }
-'HP Compaq 2510p Notebook PC-Android-Android': { source: uap-core-device, device: 'HP Compaq 2510p Notebook PC', os: Android, ua: Android, class: '' }
-'HP Slate 10 HD-Android-Chrome': { source: uap-core-device, device: 'HP Slate 10 HD', os: Android, ua: Chrome, class: '' }
-'HP Slate 6 Voice Tab-Android-Chrome Mobile': { source: uap-core-device, device: 'HP Slate 6 Voice Tab', os: Android, ua: 'Chrome Mobile', class: '' }
-'HP Slate 7-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7', os: Android, ua: Chrome, class: '' }
-'HP Slate 7 HD-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7 HD', os: Android, ua: Chrome, class: '' }
-'HP Slate 7 Plus-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7 Plus', os: Android, ua: Chrome, class: '' }
-'HP Slate 7 Voice Tab-Android-Android': { source: uap-core-device, device: 'HP Slate 7 Voice Tab', os: Android, ua: Android, class: '' }
-'HP Slate 8 Pro-Android-Chrome': { source: uap-core-device, device: 'HP Slate 8 Pro', os: Android, ua: Chrome, class: '' }
-'HP SlateBook 10 x2 PC-Android-Chrome': { source: uap-core-device, device: 'HP SlateBook 10 x2 PC', os: Android, ua: Chrome, class: '' }
-'HP Touchpad-Android-Android': { source: uap-core-device, device: 'HP Touchpad', os: Android, ua: Android, class: '' }
-'HP TouchPad-Android-Chrome': { source: uap-core-device, device: 'HP TouchPad', os: Android, ua: Chrome, class: '' }
-'HP Veer-webOS-webOS Browser': { source: uap-core-device, device: 'HP Veer', os: webOS, ua: 'webOS Browser', class: '' }
-'HP TouchPad-Linux-Safari': { source: uap-core-device, device: 'HP TouchPad', os: Linux, ua: Safari, class: '' }
-'HP iPAQ 510-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 510', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'HP iPAQ 610-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 610', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'HP iPAQ 910-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 910', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'HP iPAQ DataMessenger-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ DataMessenger', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'HP iPAQ Glisten-Windows CE-UC Browser': { source: uap-core-device, device: 'HP iPAQ Glisten', os: 'Windows CE', ua: 'UC Browser', class: '' }
-'HP iPAQ hw6900-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ hw6900', os: 'Windows CE', ua: IE, class: '' }
-'HP iPAQ rw6800-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ rw6800', os: 'Windows CE', ua: IE, class: '' }
-'HP iPAQ rw6815-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ rw6815', os: 'Windows CE', ua: IE, class: '' }
-'HP iPAQ VoiceMessenger-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ VoiceMessenger', os: 'Windows CE', ua: 'IE Mobile', class: '' }
+'HP PlayBook-Android-Android': { source: uap-core-device, device: 'HP PlayBook', os: Android, ua: Android, class: tablet }
+'HP 635 Notebook PC-Android-Opera': { source: uap-core-device, device: 'HP 635 Notebook PC', os: Android, ua: Opera, class: desktop }
+'HP 7-Android-Chrome': { source: uap-core-device, device: 'HP 7', os: Android, ua: Chrome, class: tablet }
+'HP 8-Android-Chrome': { source: uap-core-device, device: 'HP 8', os: Android, ua: Chrome, class: tablet }
+'HP Compaq 2210b-Android-Android': { source: uap-core-device, device: 'HP Compaq 2210b', os: Android, ua: Android, class: desktop }
+'HP Compaq 2510p Notebook PC-Android-Android': { source: uap-core-device, device: 'HP Compaq 2510p Notebook PC', os: Android, ua: Android, class: desktop }
+'HP Slate 10 HD-Android-Chrome': { source: uap-core-device, device: 'HP Slate 10 HD', os: Android, ua: Chrome, class: tablet }
+'HP Slate 6 Voice Tab-Android-Chrome Mobile': { source: uap-core-device, device: 'HP Slate 6 Voice Tab', os: Android, ua: 'Chrome Mobile', class: tablet }
+'HP Slate 7-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7', os: Android, ua: Chrome, class: tablet }
+'HP Slate 7 HD-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7 HD', os: Android, ua: Chrome, class: tablet }
+'HP Slate 7 Plus-Android-Chrome': { source: uap-core-device, device: 'HP Slate 7 Plus', os: Android, ua: Chrome, class: tablet }
+'HP Slate 7 Voice Tab-Android-Android': { source: uap-core-device, device: 'HP Slate 7 Voice Tab', os: Android, ua: Android, class: tablet }
+'HP Slate 8 Pro-Android-Chrome': { source: uap-core-device, device: 'HP Slate 8 Pro', os: Android, ua: Chrome, class: tablet }
+'HP SlateBook 10 x2 PC-Android-Chrome': { source: uap-core-device, device: 'HP SlateBook 10 x2 PC', os: Android, ua: Chrome, class: tablet }
+'HP Touchpad-Android-Android': { source: uap-core-device, device: 'HP Touchpad', os: Android, ua: Android, class: tablet }
+'HP TouchPad-Android-Chrome': { source: uap-core-device, device: 'HP TouchPad', os: Android, ua: Chrome, class: tablet }
+'HP Veer-webOS-webOS Browser': { source: uap-core-device, device: 'HP Veer', os: webOS, ua: 'webOS Browser', class: mobile }
+'HP TouchPad-Linux-Safari': { source: uap-core-device, device: 'HP TouchPad', os: Linux, ua: Safari, class: tablet }
+'HP iPAQ 510-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 510', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'HP iPAQ 610-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 610', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'HP iPAQ 910-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ 910', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'HP iPAQ DataMessenger-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ DataMessenger', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'HP iPAQ Glisten-Windows CE-UC Browser': { source: uap-core-device, device: 'HP iPAQ Glisten', os: 'Windows CE', ua: 'UC Browser', class: mobile }
+'HP iPAQ hw6900-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ hw6900', os: 'Windows CE', ua: IE, class: mobile }
+'HP iPAQ rw6800-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ rw6800', os: 'Windows CE', ua: IE, class: mobile }
+'HP iPAQ rw6815-Windows CE-IE': { source: uap-core-device, device: 'HP iPAQ rw6815', os: 'Windows CE', ua: IE, class: mobile }
+'HP iPAQ VoiceMessenger-Windows CE-IE Mobile': { source: uap-core-device, device: 'HP iPAQ VoiceMessenger', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
 'HTC Desire-Android-Other': { source: uap-core-device, device: 'HTC Desire', os: Android, ua: Other, class: mobile }
 'HTC Desire C-Android-Other': { source: uap-core-device, device: 'HTC Desire C', os: Android, ua: Other, class: mobile }
 'HTC Desire HD A9191-Android-Other': { source: uap-core-device, device: 'HTC Desire HD A9191', os: Android, ua: Other, class: mobile }
@@ -7011,8 +7011,8 @@ IS11N-Android-Android: { source: uap-core-device, device: IS11N, os: Android, ua
 'Microsoft Virtual-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft Virtual', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Microsoft XDeviceEmulator-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft XDeviceEmulator', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Microsoft 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft 0', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
-'Microsoft KIN.One-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.One', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Microsoft KIN.Two-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.Two', os: 'Windows CE', ua: 'IE Mobile', class: '' }
+'Microsoft KIN.One-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.One', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Microsoft KIN.Two-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.Two', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
 'Xbox-Windows Phone-IE Mobile': { source: uap-core-device, device: Xbox, os: 'Windows Phone', ua: 'IE Mobile', class: desktop }
 'MITO 898-Android-Android': { source: uap-core-device, device: 'MITO 898', os: Android, ua: Android, class: '' }
 'Mito 9800-Android-Android': { source: uap-core-device, device: 'Mito 9800', os: Android, ua: Android, class: '' }
@@ -14315,46 +14315,46 @@ ATP7717-Android-Opera: { source: uap-core-device, device: ATP7717, os: Android, 
 'TOOKY T83-Android-Chrome Mobile': { source: uap-core-device, device: 'TOOKY T83', os: Android, ua: 'Chrome Mobile', class: '' }
 'TOOKY T88-Android-Android': { source: uap-core-device, device: 'TOOKY T88', os: Android, ua: Android, class: '' }
 'TOOKY TOOKY K1-Android-Android': { source: uap-core-device, device: 'TOOKY TOOKY K1', os: Android, ua: Android, class: '' }
-T-01C-Android-Android: { source: uap-core-device, device: T-01C, os: Android, ua: Android, class: '' }
-'T-01D-Android-Chrome Mobile': { source: uap-core-device, device: T-01D, os: Android, ua: 'Chrome Mobile', class: '' }
-TOSHIBA_AC_AND_AZ-Android-Android: { source: uap-core-device, device: TOSHIBA_AC_AND_AZ, os: Android, ua: Android, class: '' }
-folio100-Android-Opera: { source: uap-core-device, device: folio100, os: Android, ua: Opera, class: '' }
-'Toshiba AT02-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT02', os: Android, ua: Chrome, class: '' }
-'Toshiba AT03-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT03', os: Android, ua: Chrome, class: '' }
-'Toshiba AT10-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10-A', os: Android, ua: Chrome, class: '' }
-'Toshiba AT100-Android-Opera': { source: uap-core-device, device: 'Toshiba AT100', os: Android, ua: Opera, class: '' }
-'Toshiba AT10LE-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10LE-A', os: Android, ua: Chrome, class: '' }
-'Toshiba AT10PE-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10PE-A', os: Android, ua: Chrome, class: '' }
-'Toshiba AT1S0-Android-Opera': { source: uap-core-device, device: 'Toshiba AT1S0', os: Android, ua: Opera, class: '' }
-'Toshiba AT200-Android-Opera': { source: uap-core-device, device: 'Toshiba AT200', os: Android, ua: Opera, class: '' }
-'Toshiba AT270-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT270', os: Android, ua: Chrome, class: '' }
-'Toshiba AT300-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT300', os: Android, ua: Chrome, class: '' }
-'Toshiba AT300SE-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT300SE', os: Android, ua: Chrome, class: '' }
-'Toshiba AT330-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT330', os: Android, ua: Chrome, class: '' }
-'Toshiba AT400-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT400', os: Android, ua: Chrome, class: '' }
-'Toshiba AT500-Android-Android': { source: uap-core-device, device: 'Toshiba AT500', os: Android, ua: Android, class: '' }
-'Toshiba AT500a-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT500a', os: Android, ua: Chrome, class: '' }
-'Toshiba AT570-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT570', os: Android, ua: Chrome, class: '' }
-'Toshiba AT7-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT7-A', os: Android, ua: Chrome, class: '' }
-'Toshiba Hikari-iFrame/WDPF-701ME-Android-Android': { source: uap-core-device, device: 'Toshiba Hikari-iFrame/WDPF-701ME', os: Android, ua: Android, class: '' }
-'Toshiba Hikari-iFrame/WDPF-701SE-Android-Android': { source: uap-core-device, device: 'Toshiba Hikari-iFrame/WDPF-701SE', os: Android, ua: Android, class: '' }
-'Toshiba THRiVE-Android-Android': { source: uap-core-device, device: 'Toshiba THRiVE', os: Android, ua: Android, class: '' }
-'Toshiba Thrive-Android-Android': { source: uap-core-device, device: 'Toshiba Thrive', os: Android, ua: Android, class: '' }
+T-01C-Android-Android: { source: uap-core-device, device: T-01C, os: Android, ua: Android, class: mobile }
+'T-01D-Android-Chrome Mobile': { source: uap-core-device, device: T-01D, os: Android, ua: 'Chrome Mobile', class: mobile }
+TOSHIBA_AC_AND_AZ-Android-Android: { source: uap-core-device, device: TOSHIBA_AC_AND_AZ, os: Android, ua: Android, class: tablet }
+folio100-Android-Opera: { source: uap-core-device, device: folio100, os: Android, ua: Opera, class: tablet }
+'Toshiba AT02-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT02', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT03-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT03', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT10-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10-A', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT100-Android-Opera': { source: uap-core-device, device: 'Toshiba AT100', os: Android, ua: Opera, class: tablet }
+'Toshiba AT10LE-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10LE-A', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT10PE-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT10PE-A', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT1S0-Android-Opera': { source: uap-core-device, device: 'Toshiba AT1S0', os: Android, ua: Opera, class: tablet }
+'Toshiba AT200-Android-Opera': { source: uap-core-device, device: 'Toshiba AT200', os: Android, ua: Opera, class: tablet }
+'Toshiba AT270-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT270', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT300-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT300', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT300SE-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT300SE', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT330-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT330', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT400-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT400', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT500-Android-Android': { source: uap-core-device, device: 'Toshiba AT500', os: Android, ua: Android, class: tablet }
+'Toshiba AT500a-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT500a', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT570-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT570', os: Android, ua: Chrome, class: tablet }
+'Toshiba AT7-A-Android-Chrome': { source: uap-core-device, device: 'Toshiba AT7-A', os: Android, ua: Chrome, class: tablet }
+'Toshiba Hikari-iFrame/WDPF-701ME-Android-Android': { source: uap-core-device, device: 'Toshiba Hikari-iFrame/WDPF-701ME', os: Android, ua: Android, class: tablet }
+'Toshiba Hikari-iFrame/WDPF-701SE-Android-Android': { source: uap-core-device, device: 'Toshiba Hikari-iFrame/WDPF-701SE', os: Android, ua: Android, class: tablet }
+'Toshiba THRiVE-Android-Android': { source: uap-core-device, device: 'Toshiba THRiVE', os: Android, ua: Android, class: tablet }
+'Toshiba Thrive-Android-Android': { source: uap-core-device, device: 'Toshiba Thrive', os: Android, ua: Android, class: tablet }
 'Toshiba IS12T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba IS12T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Toshiba TSUNAGI-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba TSUNAGI', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 HbbTV-TOSHIBA-HbbTV: { source: uap-core-device, device: HbbTV, os: TOSHIBA, ua: HbbTV, class: desktop }
-'MID-750-Android-Opera Mobile': { source: uap-core-device, device: MID-750, os: Android, ua: 'Opera Mobile', class: '' }
-TM-MID101N-Android-Android: { source: uap-core-device, device: TM-MID101N, os: Android, ua: Android, class: '' }
-TM-MID710-Android-Android: { source: uap-core-device, device: TM-MID710, os: Android, ua: Android, class: '' }
-TM-MID720-Android-Opera: { source: uap-core-device, device: TM-MID720, os: Android, ua: Opera, class: '' }
-TM-MID730-Android-Opera: { source: uap-core-device, device: TM-MID730, os: Android, ua: Opera, class: '' }
-TM-MID730D-Android-Chrome: { source: uap-core-device, device: TM-MID730D, os: Android, ua: Chrome, class: '' }
-TM-MID732-Android-Chrome: { source: uap-core-device, device: TM-MID732, os: Android, ua: Chrome, class: '' }
-TM-MID780-Android-Chrome: { source: uap-core-device, device: TM-MID780, os: Android, ua: Chrome, class: '' }
-TM-MID790-Android-Chrome: { source: uap-core-device, device: TM-MID790, os: Android, ua: Chrome, class: '' }
-TM-MID794D-Android-Android: { source: uap-core-device, device: TM-MID794D, os: Android, ua: Android, class: '' }
-TM-MID880-Android-Chrome: { source: uap-core-device, device: TM-MID880, os: Android, ua: Chrome, class: '' }
-TOUCHMATE-Android-Chrome: { source: uap-core-device, device: TOUCHMATE, os: Android, ua: Chrome, class: '' }
+'MID-750-Android-Opera Mobile': { source: uap-core-device, device: MID-750, os: Android, ua: 'Opera Mobile', class: tablet }
+TM-MID101N-Android-Android: { source: uap-core-device, device: TM-MID101N, os: Android, ua: Android, class: tablet }
+TM-MID710-Android-Android: { source: uap-core-device, device: TM-MID710, os: Android, ua: Android, class: tablet }
+TM-MID720-Android-Opera: { source: uap-core-device, device: TM-MID720, os: Android, ua: Opera, class: tablet }
+TM-MID730-Android-Opera: { source: uap-core-device, device: TM-MID730, os: Android, ua: Opera, class: tablet }
+TM-MID730D-Android-Chrome: { source: uap-core-device, device: TM-MID730D, os: Android, ua: Chrome, class: tablet }
+TM-MID732-Android-Chrome: { source: uap-core-device, device: TM-MID732, os: Android, ua: Chrome, class: tablet }
+TM-MID780-Android-Chrome: { source: uap-core-device, device: TM-MID780, os: Android, ua: Chrome, class: tablet }
+TM-MID790-Android-Chrome: { source: uap-core-device, device: TM-MID790, os: Android, ua: Chrome, class: tablet }
+TM-MID794D-Android-Android: { source: uap-core-device, device: TM-MID794D, os: Android, ua: Android, class: tablet }
+TM-MID880-Android-Chrome: { source: uap-core-device, device: TM-MID880, os: Android, ua: Chrome, class: tablet }
+TOUCHMATE-Android-Chrome: { source: uap-core-device, device: TOUCHMATE, os: Android, ua: Chrome, class: tablet }
 'Trekstor ST10216-1-Android-Opera': { source: uap-core-device, device: 'Trekstor ST10216-1', os: Android, ua: Opera, class: '' }
 'Trekstor ST70404-1-Android-Android': { source: uap-core-device, device: 'Trekstor ST70404-1', os: Android, ua: Android, class: '' }
 'Trekstor ST97216-1-Android-Chrome': { source: uap-core-device, device: 'Trekstor ST97216-1', os: Android, ua: Chrome, class: '' }
@@ -14414,27 +14414,27 @@ X2-Android-Android: { source: uap-core-device, device: X2, os: Android, ua: Andr
 'unknown SP-80-Android-Other': { source: uap-core-device, device: 'unknown SP-80', os: Android, ua: Other, class: '' }
 'unknown SPX-5-Android-Other': { source: uap-core-device, device: 'unknown SPX-5', os: Android, ua: Other, class: '' }
 'unknown ST70104-2-Android-Other': { source: uap-core-device, device: 'unknown ST70104-2', os: Android, ua: Other, class: '' }
-'Versus TouchPad 10.1DC-Android-Opera': { source: uap-core-device, device: 'Versus TouchPad 10.1DC', os: Android, ua: Opera, class: '' }
-'Versus TOUCHPAD 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD 7', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TouchPad 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TouchPad 7', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TouchPad 7DC-Android-Android': { source: uap-core-device, device: 'Versus TouchPad 7DC', os: Android, ua: Android, class: '' }
-'Versus TOUCHPAD 9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD 9', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TouchPad 9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TouchPad 9', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TOUCHPAD 9.7-Android-Chrome': { source: uap-core-device, device: 'Versus TOUCHPAD 9.7', os: Android, ua: Chrome, class: '' }
-'Versus Touchpad 9.7-Android-Chrome': { source: uap-core-device, device: 'Versus Touchpad 9.7', os: Android, ua: Chrome, class: '' }
-'Versus TouchPad 9DC-Android-Opera': { source: uap-core-device, device: 'Versus TouchPad 9DC', os: Android, ua: Opera, class: '' }
-'Versus TouchPad10-Android-Chrome': { source: uap-core-device, device: 'Versus TouchPad10', os: Android, ua: Chrome, class: '' }
-'Versus Touchpad10-Android-Chrome': { source: uap-core-device, device: 'Versus Touchpad10', os: Android, ua: Chrome, class: '' }
-'Versus TOUCHPAD7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD7', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TOUCHPAD9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD9', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TOUCHPAD9 A-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD9 A', os: Android, ua: 'Chrome Mobile', class: '' }
-'Versus TOUCHTAB 10.1DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 10.1DC', os: Android, ua: Opera, class: '' }
-'Versus TOUCHTAB 7DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 7DC', os: Android, ua: Opera, class: '' }
-'Versus TOUCHTAB 7DC V-Android-Chrome': { source: uap-core-device, device: 'Versus TOUCHTAB 7DC V', os: Android, ua: Chrome, class: '' }
-'Versus TOUCHTAB 8DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 8DC', os: Android, ua: Opera, class: '' }
-'Versus TOUCHTAB 9-Android-Android': { source: uap-core-device, device: 'Versus TOUCHTAB 9', os: Android, ua: Android, class: '' }
-'Versus Touchtab3-Android-Android': { source: uap-core-device, device: 'Versus Touchtab3', os: Android, ua: Android, class: '' }
-'Versus Touchtab4-Android-Chrome': { source: uap-core-device, device: 'Versus Touchtab4', os: Android, ua: Chrome, class: '' }
+'Versus TouchPad 10.1DC-Android-Opera': { source: uap-core-device, device: 'Versus TouchPad 10.1DC', os: Android, ua: Opera, class: tablet }
+'Versus TOUCHPAD 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD 7', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TouchPad 7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TouchPad 7', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TouchPad 7DC-Android-Android': { source: uap-core-device, device: 'Versus TouchPad 7DC', os: Android, ua: Android, class: tablet }
+'Versus TOUCHPAD 9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD 9', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TouchPad 9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TouchPad 9', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TOUCHPAD 9.7-Android-Chrome': { source: uap-core-device, device: 'Versus TOUCHPAD 9.7', os: Android, ua: Chrome, class: tablet }
+'Versus Touchpad 9.7-Android-Chrome': { source: uap-core-device, device: 'Versus Touchpad 9.7', os: Android, ua: Chrome, class: tablet }
+'Versus TouchPad 9DC-Android-Opera': { source: uap-core-device, device: 'Versus TouchPad 9DC', os: Android, ua: Opera, class: tablet }
+'Versus TouchPad10-Android-Chrome': { source: uap-core-device, device: 'Versus TouchPad10', os: Android, ua: Chrome, class: tablet }
+'Versus Touchpad10-Android-Chrome': { source: uap-core-device, device: 'Versus Touchpad10', os: Android, ua: Chrome, class: tablet }
+'Versus TOUCHPAD7-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD7', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TOUCHPAD9-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD9', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TOUCHPAD9 A-Android-Chrome Mobile': { source: uap-core-device, device: 'Versus TOUCHPAD9 A', os: Android, ua: 'Chrome Mobile', class: tablet }
+'Versus TOUCHTAB 10.1DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 10.1DC', os: Android, ua: Opera, class: tablet }
+'Versus TOUCHTAB 7DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 7DC', os: Android, ua: Opera, class: tablet }
+'Versus TOUCHTAB 7DC V-Android-Chrome': { source: uap-core-device, device: 'Versus TOUCHTAB 7DC V', os: Android, ua: Chrome, class: tablet }
+'Versus TOUCHTAB 8DC-Android-Opera': { source: uap-core-device, device: 'Versus TOUCHTAB 8DC', os: Android, ua: Opera, class: tablet }
+'Versus TOUCHTAB 9-Android-Android': { source: uap-core-device, device: 'Versus TOUCHTAB 9', os: Android, ua: Android, class: tablet }
+'Versus Touchtab3-Android-Android': { source: uap-core-device, device: 'Versus Touchtab3', os: Android, ua: Android, class: tablet }
+'Versus Touchtab4-Android-Chrome': { source: uap-core-device, device: 'Versus Touchtab4', os: Android, ua: Chrome, class: tablet }
 'VERTU Ti-Android-Chrome Mobile': { source: uap-core-device, device: 'VERTU Ti', os: Android, ua: 'Chrome Mobile', class: '' }
 'Videocon A15-Android-Opera Mobile': { source: uap-core-device, device: 'Videocon A15', os: Android, ua: 'Opera Mobile', class: '' }
 'Videocon A20-Android-Android': { source: uap-core-device, device: 'Videocon A20', os: Android, ua: Android, class: '' }
