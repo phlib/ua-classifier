@@ -1,7 +1,7 @@
 'Alcatel OT510A-Other-Obigo': { source: uap-core-device, device: 'Alcatel OT510A', os: Other, ua: Obigo, class: '' }
 'Alcatel OH5-Other-UP.Browser': { source: uap-core-device, device: 'Alcatel OH5', os: Other, ua: UP.Browser, class: '' }
 'HTC Amaze 4G-Android-Android': { source: uap-core-device, device: 'HTC Amaze 4G', os: Android, ua: Android, class: mobile }
-'AppleTV-ATV OS X-Other': { source: uap-core-device, device: AppleTV, os: 'ATV OS X', ua: Other, class: '' }
+'AppleTV-ATV OS X-Other': { source: uap-core-device, device: AppleTV, os: 'ATV OS X', ua: Other, class: desktop }
 'BlackBerry-BlackBerry OS-Opera Mini': { source: uap-core-device, device: BlackBerry, os: 'BlackBerry OS', ua: 'Opera Mini', class: '' }
 'BlackBerry 9320-BlackBerry OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry 9320', os: 'BlackBerry OS', ua: 'BlackBerry WebKit', class: '' }
 'BlackBerry Playbook-BlackBerry Tablet OS-BlackBerry WebKit': { source: uap-core-device, device: 'BlackBerry Playbook', os: 'BlackBerry Tablet OS', ua: 'BlackBerry WebKit', class: '' }
@@ -35,11 +35,11 @@ Kindle-Kindle-Kindle: { source: uap-core-device, device: Kindle, os: Kindle, ua:
 'Lumia 800-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 800', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Lumia 920-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Lumia 920', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Nexus 5-Android-Chrome Mobile': { source: uap-core-device, device: 'Nexus 5', os: Android, ua: 'Chrome Mobile', class: mobile }
-'Nintendo DS-Other-Bunjalloo': { source: uap-core-device, device: 'Nintendo DS', os: Other, ua: Bunjalloo, class: '' }
-'Nintendo DSi-Other-Opera': { source: uap-core-device, device: 'Nintendo DSi', os: Other, ua: Opera, class: '' }
-'Nintendo 3DS-Other-NetFront NX': { source: uap-core-device, device: 'Nintendo 3DS', os: Other, ua: 'NetFront NX', class: '' }
-'Nintendo Wii-Other-Opera': { source: uap-core-device, device: 'Nintendo Wii', os: Other, ua: Opera, class: '' }
-'Nintendo Wii U-Other-NetFront NX': { source: uap-core-device, device: 'Nintendo Wii U', os: Other, ua: 'NetFront NX', class: '' }
+'Nintendo DS-Other-Bunjalloo': { source: uap-core-device, device: 'Nintendo DS', os: Other, ua: Bunjalloo, class: mobile }
+'Nintendo DSi-Other-Opera': { source: uap-core-device, device: 'Nintendo DSi', os: Other, ua: Opera, class: mobile }
+'Nintendo 3DS-Other-NetFront NX': { source: uap-core-device, device: 'Nintendo 3DS', os: Other, ua: 'NetFront NX', class: mobile }
+'Nintendo Wii-Other-Opera': { source: uap-core-device, device: 'Nintendo Wii', os: Other, ua: Opera, class: desktop }
+'Nintendo Wii U-Other-NetFront NX': { source: uap-core-device, device: 'Nintendo Wii U', os: Other, ua: 'NetFront NX', class: desktop }
 'Nokia 201-Other-UC Browser': { source: uap-core-device, device: 'Nokia 201', os: Other, ua: 'UC Browser', class: '' }
 'Nokia 5130c-2-Other-iBrowser Mini': { source: uap-core-device, device: 'Nokia 5130c-2', os: Other, ua: 'iBrowser Mini', class: '' }
 'Nokia 5320di-Other-UC Browser': { source: uap-core-device, device: 'Nokia 5320di', os: Other, ua: 'UC Browser', class: '' }
@@ -71,34 +71,34 @@ Other-Solaris-Firefox: { source: uap-core-device, device: Other, os: Solaris, ua
 'Pantech P6010-Brew MP-NetFront': { source: uap-core-device, device: 'Pantech P6010', os: 'Brew MP', ua: NetFront, class: '' }
 'Pantech P7040-Other-Obigo': { source: uap-core-device, device: 'Pantech P7040', os: Other, ua: Obigo, class: '' }
 PJ83100/2.20.502.7-Android-Android: { source: uap-core-device, device: PJ83100/2.20.502.7, os: Android, ua: Android, class: '' }
-'PlayStation 3-Other-NetFront': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: NetFront, class: '' }
-'PlayStation 3-Other-NetFront NX': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: 'NetFront NX', class: '' }
-'PlayStation Portable-Other-NetFront': { source: uap-core-device, device: 'PlayStation Portable', os: Other, ua: NetFront, class: '' }
-'PlayStation Vita-Other-NetFront NX': { source: uap-core-device, device: 'PlayStation Vita', os: Other, ua: 'NetFront NX', class: '' }
-'PlayStation 4-Other-Other': { source: uap-core-device, device: 'PlayStation 4', os: Other, ua: Other, class: '' }
+'PlayStation 3-Other-NetFront': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: NetFront, class: desktop }
+'PlayStation 3-Other-NetFront NX': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: 'NetFront NX', class: desktop }
+'PlayStation Portable-Other-NetFront': { source: uap-core-device, device: 'PlayStation Portable', os: Other, ua: NetFront, class: mobile }
+'PlayStation Vita-Other-NetFront NX': { source: uap-core-device, device: 'PlayStation Vita', os: Other, ua: 'NetFront NX', class: mobile }
+'PlayStation 4-Other-Other': { source: uap-core-device, device: 'PlayStation 4', os: Other, ua: Other, class: desktop }
 'Samsung C3053-Other-Openwave': { source: uap-core-device, device: 'Samsung C3053', os: Other, ua: Openwave, class: mobile }
 'Samsung GT-S5253-Other-ONE Browser': { source: uap-core-device, device: 'Samsung GT-S5253', os: Other, ua: 'ONE Browser', class: mobile }
-'Sega Dreamcast-Other-Planetweb': { source: uap-core-device, device: 'Sega Dreamcast', os: Other, ua: Planetweb, class: '' }
+'Sega Dreamcast-Other-Planetweb': { source: uap-core-device, device: 'Sega Dreamcast', os: Other, ua: Planetweb, class: desktop }
 'Samsung SPH-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SPH-L710', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung SCH-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SCH-L710', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung SGH-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SGH-L710', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Samsung SM-L710-Android-Chrome Mobile': { source: uap-core-device, device: 'Samsung SM-L710', os: Android, ua: 'Chrome Mobile', class: mobile }
 Spider-Other-Googlebot: { source: uap-core-device, device: Spider, os: Other, ua: Googlebot, class: spider }
 'TECNO T3-Android-Android': { source: uap-core-device, device: 'TECNO T3', os: Android, ua: Android, class: '' }
-'Tesla Model S-Linux-QtCarBrowser': { source: uap-core-device, device: 'Tesla Model S', os: Linux, ua: QtCarBrowser, class: '' }
-WebTV-WebTV-IE: { source: uap-core-device, device: WebTV, os: WebTV, ua: IE, class: '' }
+'Tesla Model S-Linux-QtCarBrowser': { source: uap-core-device, device: 'Tesla Model S', os: Linux, ua: QtCarBrowser, class: tablet }
+WebTV-WebTV-IE: { source: uap-core-device, device: WebTV, os: WebTV, ua: IE, class: desktop }
 Spider-Other-AdsBot-Google: { source: uap-core-device, device: Spider, os: Other, ua: AdsBot-Google, class: spider }
 Spider-Linux-magpie-crawler: { source: uap-core-device, device: Spider, os: Linux, ua: magpie-crawler, class: spider }
 Spider-iOS-Googlebot-Mobile: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot-Mobile, class: spider }
 Spider-iOS-Googlebot: { source: uap-core-device, device: Spider, os: iOS, ua: Googlebot, class: spider }
 'Samsung GT-N7000-Android-Android': { source: uap-core-device, device: 'Samsung GT-N7000', os: Android, ua: Android, class: mobile }
-HbbTV-Panasonic-HbbTV: { source: uap-core-device, device: HbbTV, os: Panasonic, ua: HbbTV, class: '' }
-HbbTV-LG-HbbTV: { source: uap-core-device, device: HbbTV, os: LG, ua: HbbTV, class: '' }
-HbbTV-Sony-HbbTV: { source: uap-core-device, device: HbbTV, os: Sony, ua: HbbTV, class: '' }
-HbbTV-Samsung-HbbTV: { source: uap-core-device, device: HbbTV, os: Samsung, ua: HbbTV, class: '' }
-HbbTV-Philips-HbbTV: { source: uap-core-device, device: HbbTV, os: Philips, ua: HbbTV, class: '' }
-HbbTV-FireHbbTV-HbbTV: { source: uap-core-device, device: HbbTV, os: FireHbbTV, ua: HbbTV, class: '' }
-HbbTV-Linux-Opera: { source: uap-core-device, device: HbbTV, os: Linux, ua: Opera, class: '' }
+HbbTV-Panasonic-HbbTV: { source: uap-core-device, device: HbbTV, os: Panasonic, ua: HbbTV, class: desktop }
+HbbTV-LG-HbbTV: { source: uap-core-device, device: HbbTV, os: LG, ua: HbbTV, class: desktop }
+HbbTV-Sony-HbbTV: { source: uap-core-device, device: HbbTV, os: Sony, ua: HbbTV, class: desktop }
+HbbTV-Samsung-HbbTV: { source: uap-core-device, device: HbbTV, os: Samsung, ua: HbbTV, class: desktop }
+HbbTV-Philips-HbbTV: { source: uap-core-device, device: HbbTV, os: Philips, ua: HbbTV, class: desktop }
+HbbTV-FireHbbTV-HbbTV: { source: uap-core-device, device: HbbTV, os: FireHbbTV, ua: HbbTV, class: desktop }
+HbbTV-Linux-Opera: { source: uap-core-device, device: HbbTV, os: Linux, ua: Opera, class: desktop }
 Spider-Other-Netvibes: { source: uap-core-device, device: Spider, os: Other, ua: Netvibes, class: spider }
 'Spider-Other-Sogou Pic Spider': { source: uap-core-device, device: Spider, os: Other, ua: 'Sogou Pic Spider', class: spider }
 Spider-Other-ICC-Crawler: { source: uap-core-device, device: Spider, os: Other, ua: ICC-Crawler, class: spider }
@@ -1100,7 +1100,7 @@ V700NA-Android-Android: { source: uap-core-device, device: V700NA, os: Android, 
 'V8000_USA_Cricket-Android-Chrome Mobile': { source: uap-core-device, device: V8000_USA_Cricket, os: Android, ua: 'Chrome Mobile', class: '' }
 V800H-Android-Chrome: { source: uap-core-device, device: V800H, os: Android, ua: Chrome, class: '' }
 IBAK-796CAP-Android-Android: { source: uap-core-device, device: IBAK-796CAP, os: Android, ua: Android, class: '' }
-HbbTV-Linux-HbbTV: { source: uap-core-device, device: HbbTV, os: Linux, ua: HbbTV, class: '' }
+HbbTV-Linux-HbbTV: { source: uap-core-device, device: HbbTV, os: Linux, ua: HbbTV, class: desktop }
 'Bedove HY5001-Android-Chrome Mobile': { source: uap-core-device, device: 'Bedove HY5001', os: Android, ua: 'Chrome Mobile', class: '' }
 'Bedove I5-Android-Opera Mobile': { source: uap-core-device, device: 'Bedove I5', os: Android, ua: 'Opera Mobile', class: '' }
 'Bedove X12-Android-Android': { source: uap-core-device, device: 'Bedove X12', os: Android, ua: Android, class: '' }
@@ -2222,10 +2222,10 @@ PP4MT-9-Android-Android: { source: uap-core-device, device: PP4MT-9, os: Android
 Ally-Android-Android: { source: uap-core-device, device: Ally, os: Android, ua: Android, class: '' }
 'A9100-Android-Opera Mobile': { source: uap-core-device, device: A9100, os: Android, ua: 'Opera Mobile', class: '' }
 'S300-Android-Opera Mobile': { source: uap-core-device, device: S300, os: Android, ua: 'Opera Mobile', class: '' }
-Inettv-Other-NetFront: { source: uap-core-device, device: Inettv, os: Other, ua: NetFront, class: '' }
-Inettv-Linux-Other: { source: uap-core-device, device: Inettv, os: Linux, ua: Other, class: '' }
-Inettv-Other-Other: { source: uap-core-device, device: Inettv, os: Other, ua: Other, class: '' }
-GoogleTV-GoogleTV-Chrome: { source: uap-core-device, device: GoogleTV, os: GoogleTV, ua: Chrome, class: '' }
+Inettv-Other-NetFront: { source: uap-core-device, device: Inettv, os: Other, ua: NetFront, class: desktop }
+Inettv-Linux-Other: { source: uap-core-device, device: Inettv, os: Linux, ua: Other, class: desktop }
+Inettv-Other-Other: { source: uap-core-device, device: Inettv, os: Other, ua: Other, class: desktop }
+GoogleTV-GoogleTV-Chrome: { source: uap-core-device, device: GoogleTV, os: GoogleTV, ua: Chrome, class: desktop }
 'G''FIVE A56-Android-UC Browser': { source: uap-core-device, device: 'G''FIVE A56', os: Android, ua: 'UC Browser', class: '' }
 'GFIVE A57-Android-Android': { source: uap-core-device, device: 'GFIVE A57', os: Android, ua: Android, class: '' }
 'GFIVE A77-Android-Safari': { source: uap-core-device, device: 'GFIVE A77', os: Android, ua: Safari, class: '' }
@@ -4376,7 +4376,7 @@ U8860-Android-Android: { source: uap-core-device, device: U8860, os: Android, ua
 'Huawei V736-Other-Other': { source: uap-core-device, device: 'Huawei V736', os: Other, ua: Other, class: mobile }
 'Huawei Vodafone-Android-Other': { source: uap-core-device, device: 'Huawei Vodafone', os: Android, ua: Other, class: mobile }
 'Huawei Vodafone 810-Other-Obigo': { source: uap-core-device, device: 'Huawei Vodafone 810', os: Other, ua: Obigo, class: mobile }
-HbbTV-Other-HbbTV: { source: uap-core-device, device: HbbTV, os: Other, ua: HbbTV, class: '' }
+HbbTV-Other-HbbTV: { source: uap-core-device, device: HbbTV, os: Other, ua: HbbTV, class: desktop }
 'Hyundai T10-Android-Chrome': { source: uap-core-device, device: 'Hyundai T10', os: Android, ua: Chrome, class: tablet }
 'Hyundai T7-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7', os: Android, ua: Chrome, class: tablet }
 'Hyundai T7S-Android-Chrome': { source: uap-core-device, device: 'Hyundai T7S', os: Android, ua: Chrome, class: tablet }
@@ -5755,8 +5755,8 @@ LGE610-Android-Android: { source: uap-core-device, device: LGE610, os: Android, 
 LG-f180s-Android-Android: { source: uap-core-device, device: LG-f180s, os: Android, ua: Android, class: '' }
 'LG-G2-Android-Chrome Mobile': { source: uap-core-device, device: LG-G2, os: Android, ua: 'Chrome Mobile', class: '' }
 'LG-gee-Android-Chrome Mobile': { source: uap-core-device, device: LG-gee, os: Android, ua: 'Chrome Mobile', class: '' }
-'LG Google TV-GoogleTV-Chrome': { source: uap-core-device, device: 'LG Google TV', os: GoogleTV, ua: Chrome, class: '' }
-'LG Google TV G3-GoogleTV-Chrome': { source: uap-core-device, device: 'LG Google TV G3', os: GoogleTV, ua: Chrome, class: '' }
+'LG Google TV-GoogleTV-Chrome': { source: uap-core-device, device: 'LG Google TV', os: GoogleTV, ua: Chrome, class: desktop }
+'LG Google TV G3-GoogleTV-Chrome': { source: uap-core-device, device: 'LG Google TV G3', os: GoogleTV, ua: Chrome, class: desktop }
 'LG GT540-Android-Android': { source: uap-core-device, device: 'LG GT540', os: Android, ua: Android, class: '' }
 'LG GW620-Android-Android': { source: uap-core-device, device: 'LG GW620', os: Android, ua: Android, class: '' }
 'LG GW620F-Android-Android': { source: uap-core-device, device: 'LG GW620F', os: Android, ua: Android, class: '' }
@@ -5795,8 +5795,8 @@ LG-su370-Android-Android: { source: uap-core-device, device: LG-su370, os: Andro
 'LG GW910-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG GW910', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'LG lg-e900-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG lg-e900', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'LG Optimus 7-Windows Phone-IE Mobile': { source: uap-core-device, device: 'LG Optimus 7', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
-'NetCast.TV-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.TV, os: Linux, ua: 'WebKit Nightly', class: '' }
-'NetCast.Media-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.Media, os: Linux, ua: 'WebKit Nightly', class: '' }
+'NetCast.TV-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.TV, os: Linux, ua: 'WebKit Nightly', class: desktop }
+'NetCast.Media-Linux-WebKit Nightly': { source: uap-core-device, device: NetCast.Media, os: Linux, ua: 'WebKit Nightly', class: desktop }
 'LG  KS10-Symbian OS-Nokia OSS Browser': { source: uap-core-device, device: 'LG  KS10', os: 'Symbian OS', ua: 'Nokia OSS Browser', class: '' }
 'LG KT610-Symbian OS-Nokia OSS Browser': { source: uap-core-device, device: 'LG KT610', os: 'Symbian OS', ua: 'Nokia OSS Browser', class: '' }
 'LG KT615-Symbian OS-Nokia OSS Browser': { source: uap-core-device, device: 'LG KT615', os: 'Symbian OS', ua: 'Nokia OSS Browser', class: '' }
@@ -6521,7 +6521,7 @@ LG-E730-Android-Android: { source: uap-core-device, device: LG-E730, os: Android
 'LG S5100-Other-Other': { source: uap-core-device, device: 'LG S5100', os: Other, ua: Other, class: '' }
 'LG S5200-Other-Other': { source: uap-core-device, device: 'LG S5200', os: Other, ua: Other, class: '' }
 'LG S5300-Other-Other': { source: uap-core-device, device: 'LG S5300', os: Other, ua: Other, class: '' }
-'LG smartTV-Other-Other': { source: uap-core-device, device: 'LG smartTV', os: Other, ua: Other, class: '' }
+'LG smartTV-Other-Other': { source: uap-core-device, device: 'LG smartTV', os: Other, ua: Other, class: desktop }
 LG-SU640-Android-Android: { source: uap-core-device, device: LG-SU640, os: Android, ua: Android, class: '' }
 LG-SU760-Android-Android: { source: uap-core-device, device: LG-SU760, os: Android, ua: Android, class: '' }
 'LG SU870-Android-Android': { source: uap-core-device, device: 'LG SU870', os: Android, ua: Android, class: '' }
@@ -7013,7 +7013,7 @@ IS11N-Android-Android: { source: uap-core-device, device: IS11N, os: Android, ua
 'Microsoft 0-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Microsoft 0', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Microsoft KIN.One-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.One', os: 'Windows CE', ua: 'IE Mobile', class: '' }
 'Microsoft KIN.Two-Windows CE-IE Mobile': { source: uap-core-device, device: 'Microsoft KIN.Two', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Xbox-Windows Phone-IE Mobile': { source: uap-core-device, device: Xbox, os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Xbox-Windows Phone-IE Mobile': { source: uap-core-device, device: Xbox, os: 'Windows Phone', ua: 'IE Mobile', class: desktop }
 'MITO 898-Android-Android': { source: uap-core-device, device: 'MITO 898', os: Android, ua: Android, class: '' }
 'Mito 9800-Android-Android': { source: uap-core-device, device: 'Mito 9800', os: Android, ua: Android, class: '' }
 'MITO A100-Android-Android': { source: uap-core-device, device: 'MITO A100', os: Android, ua: Android, class: '' }
@@ -7123,7 +7123,7 @@ IS11N-Android-Android: { source: uap-core-device, device: IS11N, os: Android, ua
 'Motorola DROID RAZR MAXX 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR MAXX 4G', os: Android, ua: Android, class: '' }
 'Motorola Droid RAZR MAXX HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid RAZR MAXX HD', os: Android, ua: 'Chrome Mobile', class: '' }
 'Motorola DROID SPYDER-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID SPYDER', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Droid TV C2-Android-Android': { source: uap-core-device, device: 'Motorola Droid TV C2', os: Android, ua: Android, class: '' }
+'Motorola Droid TV C2-Android-Android': { source: uap-core-device, device: 'Motorola Droid TV C2', os: Android, ua: Android, class: desktop }
 'Motorola DROID X2-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID X2', os: Android, ua: 'Chrome Mobile', class: '' }
 'Motorola Droid-Bionic-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Bionic', os: Android, ua: Android, class: '' }
 'Motorola Droid-Pro-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Pro', os: Android, ua: Android, class: '' }
@@ -9547,12 +9547,12 @@ YPY10FTA-Android-Android: { source: uap-core-device, device: YPY10FTA, os: Andro
 'POV TAB-PROTAB30IPS10-3G_V1-Android-Android': { source: uap-core-device, device: 'POV TAB-PROTAB30IPS10-3G_V1', os: Android, ua: Android, class: '' }
 'POV TAB-PROTAB30IPS10-3G_V2-Android-Android': { source: uap-core-device, device: 'POV TAB-PROTAB30IPS10-3G_V2', os: Android, ua: Android, class: '' }
 'POV TAB-PROTAB30IPS10-3G(V1.3)-Android-Android': { source: uap-core-device, device: 'POV TAB-PROTAB30IPS10-3G(V1.3)', os: Android, ua: Android, class: '' }
-'POV TV-HDMI-200BT-Android-Opera': { source: uap-core-device, device: 'POV TV-HDMI-200BT', os: Android, ua: Opera, class: '' }
-'POV TV-HDMI-210-Android-Android': { source: uap-core-device, device: 'POV TV-HDMI-210', os: Android, ua: Android, class: '' }
-'POV TV-HDMI-KB-01-Android-Android': { source: uap-core-device, device: 'POV TV-HDMI-KB-01', os: Android, ua: Android, class: '' }
-'POV TV-SMARTTV-500-Android-Chrome': { source: uap-core-device, device: 'POV TV-SMARTTV-500', os: Android, ua: Chrome, class: '' }
-'POV PlayTabPro-Android-Android': { source: uap-core-device, device: 'POV PlayTabPro', os: Android, ua: Android, class: '' }
-'POV PlayTabPro-GZ-Android-Android': { source: uap-core-device, device: 'POV PlayTabPro-GZ', os: Android, ua: Android, class: '' }
+'POV TV-HDMI-200BT-Android-Opera': { source: uap-core-device, device: 'POV TV-HDMI-200BT', os: Android, ua: Opera, class: desktop }
+'POV TV-HDMI-210-Android-Android': { source: uap-core-device, device: 'POV TV-HDMI-210', os: Android, ua: Android, class: desktop }
+'POV TV-HDMI-KB-01-Android-Android': { source: uap-core-device, device: 'POV TV-HDMI-KB-01', os: Android, ua: Android, class: desktop }
+'POV TV-SMARTTV-500-Android-Chrome': { source: uap-core-device, device: 'POV TV-SMARTTV-500', os: Android, ua: Chrome, class: desktop }
+'POV PlayTabPro-Android-Android': { source: uap-core-device, device: 'POV PlayTabPro', os: Android, ua: Android, class: desktop }
+'POV PlayTabPro-GZ-Android-Android': { source: uap-core-device, device: 'POV PlayTabPro-GZ', os: Android, ua: Android, class: desktop }
 'POV PROTAB-Android-Android': { source: uap-core-device, device: 'POV PROTAB', os: Android, ua: Android, class: '' }
 'POV PROTAB2XXL-Android-Android': { source: uap-core-device, device: 'POV PROTAB2XXL', os: Android, ua: Android, class: '' }
 'POV TAB-PLAYTABPRO-Android-Opera Mobile': { source: uap-core-device, device: 'POV TAB-PLAYTABPRO', os: Android, ua: 'Opera Mobile', class: '' }
@@ -11773,7 +11773,7 @@ SM-N9005AO-Other-Other: { source: uap-core-device, device: SM-N9005AO, os: Other
 'Samsung SAMSUNG-SGH-I927-Android-Other': { source: uap-core-device, device: 'Samsung SAMSUNG-SGH-I927', os: Android, ua: Other, class: mobile }
 'Samsung SAMSUNG-SGH-I997-Android-Other': { source: uap-core-device, device: 'Samsung SAMSUNG-SGH-I997', os: Android, ua: Other, class: mobile }
 'Samsung SAMSUNG-SM-G900A-Other-Other': { source: uap-core-device, device: 'Samsung SAMSUNG-SM-G900A', os: Other, ua: Other, class: mobile }
-'Samsung SAMSUNG-SMART-TV-Linux-WebKit Nightly': { source: uap-core-device, device: 'Samsung SAMSUNG-SMART-TV', os: Linux, ua: 'WebKit Nightly', class: mobile }
+'Samsung SAMSUNG-SMART-TV-Linux-WebKit Nightly': { source: uap-core-device, device: 'Samsung SAMSUNG-SMART-TV', os: Linux, ua: 'WebKit Nightly', class: desktop }
 'Samsung santos103g-Other-Other': { source: uap-core-device, device: 'Samsung santos103g', os: Other, ua: Other, class: mobile }
 'Samsung santos103gxx-Android-Android': { source: uap-core-device, device: 'Samsung santos103gxx', os: Android, ua: Android, class: mobile }
 'Samsung santos10wifi-Other-Other': { source: uap-core-device, device: 'Samsung santos10wifi', os: Other, ua: Other, class: mobile }
@@ -13224,9 +13224,9 @@ SGP521-Android-Chrome: { source: uap-core-device, device: SGP521, os: Android, u
 SGPT12-Android-Chrome: { source: uap-core-device, device: SGPT12, os: Android, ua: Chrome, class: '' }
 SGPT13-Android-Chrome: { source: uap-core-device, device: SGPT13, os: Android, ua: Chrome, class: '' }
 'NW-Z1000Series-Android-Chrome Mobile': { source: uap-core-device, device: NW-Z1000Series, os: Android, ua: 'Chrome Mobile', class: '' }
-'PlayStation 3-Other-Other': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: Other, class: '' }
+'PlayStation 3-Other-Other': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: Other, class: desktop }
 PalmOS-Other-NetFront: { source: uap-core-device, device: PalmOS, os: Other, ua: NetFront, class: '' }
-Inettv-Linux-Opera: { source: uap-core-device, device: Inettv, os: Linux, ua: Opera, class: '' }
+Inettv-Linux-Opera: { source: uap-core-device, device: Inettv, os: Linux, ua: Opera, class: desktop }
 'Sony D6503-Android-Android': { source: uap-core-device, device: 'Sony D6503', os: Android, ua: Android, class: '' }
 'Sony C1505-Other-Other': { source: uap-core-device, device: 'Sony C1505', os: Other, ua: Other, class: '' }
 'Sony C1605-Other-Other': { source: uap-core-device, device: 'Sony C1605', os: Other, ua: Other, class: '' }
@@ -14342,7 +14342,7 @@ folio100-Android-Opera: { source: uap-core-device, device: folio100, os: Android
 'Toshiba Thrive-Android-Android': { source: uap-core-device, device: 'Toshiba Thrive', os: Android, ua: Android, class: '' }
 'Toshiba IS12T-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba IS12T', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
 'Toshiba TSUNAGI-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Toshiba TSUNAGI', os: 'Windows Phone', ua: 'IE Mobile', class: mobile }
-HbbTV-TOSHIBA-HbbTV: { source: uap-core-device, device: HbbTV, os: TOSHIBA, ua: HbbTV, class: '' }
+HbbTV-TOSHIBA-HbbTV: { source: uap-core-device, device: HbbTV, os: TOSHIBA, ua: HbbTV, class: desktop }
 'MID-750-Android-Opera Mobile': { source: uap-core-device, device: MID-750, os: Android, ua: 'Opera Mobile', class: '' }
 TM-MID101N-Android-Android: { source: uap-core-device, device: TM-MID101N, os: Android, ua: Android, class: '' }
 TM-MID710-Android-Android: { source: uap-core-device, device: TM-MID710, os: Android, ua: Android, class: '' }
@@ -14587,8 +14587,8 @@ WeTab-WeTab-WeTab: { source: uap-core-device, device: WeTab, os: WeTab, ua: WeTa
 'Wolfgang AT-AS53N-Android-Chrome Mobile': { source: uap-core-device, device: 'Wolfgang AT-AS53N', os: Android, ua: 'Chrome Mobile', class: '' }
 'Wolfgang AT-AS55HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Wolfgang AT-AS55HD', os: Android, ua: 'Chrome Mobile', class: '' }
 'Woxter 97 IPS DUAL 3G-Android-Android': { source: uap-core-device, device: 'Woxter 97 IPS DUAL 3G', os: Android, ua: Android, class: '' }
-'Woxter Android TV 700-Android-Opera': { source: uap-core-device, device: 'Woxter Android TV 700', os: Android, ua: Opera, class: '' }
-'Woxter Android TV BOX 600-Android-Chrome': { source: uap-core-device, device: 'Woxter Android TV BOX 600', os: Android, ua: Chrome, class: '' }
+'Woxter Android TV 700-Android-Opera': { source: uap-core-device, device: 'Woxter Android TV 700', os: Android, ua: Opera, class: desktop }
+'Woxter Android TV BOX 600-Android-Chrome': { source: uap-core-device, device: 'Woxter Android TV BOX 600', os: Android, ua: Chrome, class: desktop }
 'Woxter Funny Tab 80-Android-Android': { source: uap-core-device, device: 'Woxter Funny Tab 80', os: Android, ua: Android, class: '' }
 'Woxter Nimbus 97Q-Android-Android': { source: uap-core-device, device: 'Woxter Nimbus 97Q', os: Android, ua: Android, class: '' }
 'Woxter QX 100-Android-Android': { source: uap-core-device, device: 'Woxter QX 100', os: Android, ua: Android, class: '' }
@@ -14610,7 +14610,7 @@ WeTab-WeTab-WeTab: { source: uap-core-device, device: WeTab, os: WeTab, ua: WeTa
 'Woxter Zielo Q25-Android-Android': { source: uap-core-device, device: 'Woxter Zielo Q25', os: Android, ua: Android, class: '' }
 'Woxter Zielo Q30-Android-Android': { source: uap-core-device, device: 'Woxter Zielo Q30', os: Android, ua: Android, class: '' }
 'Woxter Zielo Q40-Android-Chrome Mobile': { source: uap-core-device, device: 'Woxter Zielo Q40', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xbox Xbox One-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Xbox Xbox One', os: 'Windows Phone', ua: 'IE Mobile', class: '' }
+'Xbox Xbox One-Windows Phone-IE Mobile': { source: uap-core-device, device: 'Xbox Xbox One', os: 'Windows Phone', ua: 'IE Mobile', class: desktop }
 'Xianghe iphone-Android-Android': { source: uap-core-device, device: 'Xianghe iphone', os: Android, ua: Android, class: '' }
 'Xianghe iPhone5-Android-Chrome Mobile': { source: uap-core-device, device: 'Xianghe iPhone5', os: Android, ua: 'Chrome Mobile', class: '' }
 'Xianghe e1101_v13-Android-Android': { source: uap-core-device, device: 'Xianghe e1101_v13', os: Android, ua: Android, class: '' }
