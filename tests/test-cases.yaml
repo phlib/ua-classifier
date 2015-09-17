@@ -122,10 +122,10 @@ Spider-Other-DBot: { source: uap-core-device, device: Spider, os: Other, ua: DBo
 Spider-Other-Other: { source: uap-core-device, device: Spider, os: Other, ua: Other, class: spider }
 'ZTE Z830-Android-Chrome Mobile': { source: uap-core-device, device: 'ZTE Z830', os: Android, ua: 'Chrome Mobile', class: '' }
 SBM200SH-Android-Android: { source: uap-core-device, device: SBM200SH, os: Android, ua: Android, class: '' }
-'Motorola DROID RAZR HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID RAZR HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID BIONIC 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID BIONIC 4G', os: Android, ua: Android, class: '' }
-'Motorola DROID RAZR-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR', os: Android, ua: Android, class: '' }
-'Motorola DROID2-Android-Android': { source: uap-core-device, device: 'Motorola DROID2', os: Android, ua: Android, class: '' }
+'Motorola DROID RAZR HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID RAZR HD', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID BIONIC 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID BIONIC 4G', os: Android, ua: Android, class: mobile }
+'Motorola DROID RAZR-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR', os: Android, ua: Android, class: mobile }
+'Motorola DROID2-Android-Android': { source: uap-core-device, device: 'Motorola DROID2', os: Android, ua: Android, class: mobile }
 'Spider-Other-Xenu Link Sleuth': { source: uap-core-device, device: Spider, os: Other, ua: 'Xenu Link Sleuth', class: spider }
 Spider-Other-SeznamBot: { source: uap-core-device, device: Spider, os: Other, ua: SeznamBot, class: spider }
 Spider-Other-PaperLiBot: { source: uap-core-device, device: Spider, os: Other, ua: PaperLiBot, class: spider }
@@ -7067,95 +7067,95 @@ IS11N-Android-Android: { source: uap-core-device, device: IS11N, os: Android, ua
 'FreeTAB 9702 HD X4-Android-Chrome': { source: uap-core-device, device: 'FreeTAB 9702 HD X4', os: Android, ua: Chrome, class: '' }
 'MODECOM FreeTAB 9702 IPS X2-Android-Android': { source: uap-core-device, device: 'MODECOM FreeTAB 9702 IPS X2', os: Android, ua: Android, class: '' }
 'FreeTAB 9704 IPS2 X4-Android-Chrome': { source: uap-core-device, device: 'FreeTAB 9704 IPS2 X4', os: Android, ua: Chrome, class: '' }
-'motorola MB525-Android-Other': { source: uap-core-device, device: 'motorola MB525', os: Android, ua: Other, class: '' }
-'motorola MB526-Android-Other': { source: uap-core-device, device: 'motorola MB526', os: Android, ua: Other, class: '' }
-'motorola MB860-Android-Other': { source: uap-core-device, device: 'motorola MB860', os: Android, ua: Other, class: '' }
-'motorola Milestone-Android-Other': { source: uap-core-device, device: 'motorola Milestone', os: Android, ua: Other, class: '' }
-'motorola Milestone XT720-Android-Other': { source: uap-core-device, device: 'motorola Milestone XT720', os: Android, ua: Other, class: '' }
-'motorola MotoA953-Android-Other': { source: uap-core-device, device: 'motorola MotoA953', os: Android, ua: Other, class: '' }
-'Motorola MZ601-Android-Other': { source: uap-core-device, device: 'Motorola MZ601', os: Android, ua: Other, class: '' }
-'motorola XT320-Android-Other': { source: uap-core-device, device: 'motorola XT320', os: Android, ua: Other, class: '' }
-'Motorola XT389-Android-Other': { source: uap-core-device, device: 'Motorola XT389', os: Android, ua: Other, class: '' }
-'motorola XT890-Android-Other': { source: uap-core-device, device: 'motorola XT890', os: Android, ua: Other, class: '' }
-'motorola XT910-Android-Other': { source: uap-core-device, device: 'motorola XT910', os: Android, ua: Other, class: '' }
+'motorola MB525-Android-Other': { source: uap-core-device, device: 'motorola MB525', os: Android, ua: Other, class: mobile }
+'motorola MB526-Android-Other': { source: uap-core-device, device: 'motorola MB526', os: Android, ua: Other, class: mobile }
+'motorola MB860-Android-Other': { source: uap-core-device, device: 'motorola MB860', os: Android, ua: Other, class: mobile }
+'motorola Milestone-Android-Other': { source: uap-core-device, device: 'motorola Milestone', os: Android, ua: Other, class: mobile }
+'motorola Milestone XT720-Android-Other': { source: uap-core-device, device: 'motorola Milestone XT720', os: Android, ua: Other, class: mobile }
+'motorola MotoA953-Android-Other': { source: uap-core-device, device: 'motorola MotoA953', os: Android, ua: Other, class: mobile }
+'Motorola MZ601-Android-Other': { source: uap-core-device, device: 'Motorola MZ601', os: Android, ua: Other, class: mobile }
+'motorola XT320-Android-Other': { source: uap-core-device, device: 'motorola XT320', os: Android, ua: Other, class: mobile }
+'Motorola XT389-Android-Other': { source: uap-core-device, device: 'Motorola XT389', os: Android, ua: Other, class: mobile }
+'motorola XT890-Android-Other': { source: uap-core-device, device: 'motorola XT890', os: Android, ua: Other, class: mobile }
+'motorola XT910-Android-Other': { source: uap-core-device, device: 'motorola XT910', os: Android, ua: Other, class: mobile }
 'IS12M-Android-Chrome Mobile': { source: uap-core-device, device: IS12M, os: Android, ua: 'Chrome Mobile', class: '' }
 'ISW11M-Android-Opera Mobile': { source: uap-core-device, device: ISW11M, os: Android, ua: 'Opera Mobile', class: '' }
-'Motorola MZ505-Android-Opera': { source: uap-core-device, device: 'Motorola MZ505', os: Android, ua: Opera, class: '' }
-'Motorola MZ601-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ601', os: Android, ua: Chrome, class: '' }
-'Motorola MZ604-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ604', os: Android, ua: Chrome, class: '' }
-'Motorola MZ605-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ605', os: Android, ua: Chrome, class: '' }
-'Motorola MZ606-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola MZ606', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola MZ607-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ607', os: Android, ua: Chrome, class: '' }
-'Motorola MZ608-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ608', os: Android, ua: Chrome, class: '' }
-'Motorola MZ609-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ609', os: Android, ua: Chrome, class: '' }
-'Motorola MZ609 4G-Android-Android': { source: uap-core-device, device: 'Motorola MZ609 4G', os: Android, ua: Android, class: '' }
-'Motorola MZ616-Android-Opera': { source: uap-core-device, device: 'Motorola MZ616', os: Android, ua: Opera, class: '' }
-'Motorola MZ617-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ617', os: Android, ua: Chrome, class: '' }
-'Motorola MZ617 4G-Android-Android': { source: uap-core-device, device: 'Motorola MZ617 4G', os: Android, ua: Android, class: '' }
-'Motorola Xoom-Android-Chrome': { source: uap-core-device, device: 'Motorola Xoom', os: Android, ua: Chrome, class: '' }
-'Motorola XOOM 2-Android-Opera': { source: uap-core-device, device: 'Motorola XOOM 2', os: Android, ua: Opera, class: '' }
-'Motorola XOOM 2 ME-Android-Chrome': { source: uap-core-device, device: 'Motorola XOOM 2 ME', os: Android, ua: Chrome, class: '' }
-'Motorola XOOM_2-Android-Android': { source: uap-core-device, device: 'Motorola XOOM_2', os: Android, ua: Android, class: '' }
-'Motorola Milestone XT720-Android-Android': { source: uap-core-device, device: 'Motorola Milestone XT720', os: Android, ua: Android, class: '' }
-'Motorola DROIDX-Android-Android': { source: uap-core-device, device: 'Motorola DROIDX', os: Android, ua: Android, class: '' }
-'Motorola Devour-Android-Android': { source: uap-core-device, device: 'Motorola Devour', os: Android, ua: Android, class: '' }
-'Motorola Droid-Android-Android': { source: uap-core-device, device: 'Motorola Droid', os: Android, ua: Android, class: '' }
-'Motorola DROID-Android-Android': { source: uap-core-device, device: 'Motorola DROID', os: Android, ua: Android, class: '' }
-'Motorola Droid (AdamZ Enhanced)-Android-Android': { source: uap-core-device, device: 'Motorola Droid (AdamZ Enhanced)', os: Android, ua: Android, class: '' }
-'Motorola Droid 2 Global-Android-Android': { source: uap-core-device, device: 'Motorola Droid 2 Global', os: Android, ua: Android, class: '' }
-'Motorola Droid 3-Android-UC Browser': { source: uap-core-device, device: 'Motorola Droid 3', os: Android, ua: 'UC Browser', class: '' }
-'Motorola DROID 3-Android-Android': { source: uap-core-device, device: 'Motorola DROID 3', os: Android, ua: Android, class: '' }
-'Motorola DROID BIONIC-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID BIONIC', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID HD-Android-Android': { source: uap-core-device, device: 'Motorola DROID HD', os: Android, ua: Android, class: '' }
-'Motorola Droid Incredible-Android-Android': { source: uap-core-device, device: 'Motorola Droid Incredible', os: Android, ua: Android, class: '' }
-'Motorola Droid Incredible 3D-Android-Android': { source: uap-core-device, device: 'Motorola Droid Incredible 3D', os: Android, ua: Android, class: '' }
-'Motorola DROID Pro-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROID Pro', os: Android, ua: 'Opera Mobile', class: '' }
-'Motorola DROID PRO-Android-Android': { source: uap-core-device, device: 'Motorola DROID PRO', os: Android, ua: Android, class: '' }
-'Motorola DROID RAZR-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID RAZR', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Droid Razr-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid Razr', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Droid RAZR-Android-Android': { source: uap-core-device, device: 'Motorola Droid RAZR', os: Android, ua: Android, class: '' }
-'Motorola DROID RAZR 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR 4G', os: Android, ua: Android, class: '' }
-'Motorola Droid Razr HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid Razr HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Droid RAZR HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid RAZR HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID RAZR HD 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR HD 4G', os: Android, ua: Android, class: '' }
-'Motorola Droid Razr M-Android-Android': { source: uap-core-device, device: 'Motorola Droid Razr M', os: Android, ua: Android, class: '' }
-'Motorola DROID RAZR MAXX-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROID RAZR MAXX', os: Android, ua: 'UC Browser', class: '' }
-'Motorola DROID RAZR MAXX 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR MAXX 4G', os: Android, ua: Android, class: '' }
-'Motorola Droid RAZR MAXX HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid RAZR MAXX HD', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID SPYDER-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID SPYDER', os: Android, ua: 'Chrome Mobile', class: '' }
+'Motorola MZ505-Android-Opera': { source: uap-core-device, device: 'Motorola MZ505', os: Android, ua: Opera, class: mobile }
+'Motorola MZ601-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ601', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ604-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ604', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ605-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ605', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ606-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola MZ606', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola MZ607-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ607', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ608-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ608', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ609-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ609', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ609 4G-Android-Android': { source: uap-core-device, device: 'Motorola MZ609 4G', os: Android, ua: Android, class: mobile }
+'Motorola MZ616-Android-Opera': { source: uap-core-device, device: 'Motorola MZ616', os: Android, ua: Opera, class: mobile }
+'Motorola MZ617-Android-Chrome': { source: uap-core-device, device: 'Motorola MZ617', os: Android, ua: Chrome, class: mobile }
+'Motorola MZ617 4G-Android-Android': { source: uap-core-device, device: 'Motorola MZ617 4G', os: Android, ua: Android, class: mobile }
+'Motorola Xoom-Android-Chrome': { source: uap-core-device, device: 'Motorola Xoom', os: Android, ua: Chrome, class: tablet }
+'Motorola XOOM 2-Android-Opera': { source: uap-core-device, device: 'Motorola XOOM 2', os: Android, ua: Opera, class: tablet }
+'Motorola XOOM 2 ME-Android-Chrome': { source: uap-core-device, device: 'Motorola XOOM 2 ME', os: Android, ua: Chrome, class: tablet }
+'Motorola XOOM_2-Android-Android': { source: uap-core-device, device: 'Motorola XOOM_2', os: Android, ua: Android, class: tablet }
+'Motorola Milestone XT720-Android-Android': { source: uap-core-device, device: 'Motorola Milestone XT720', os: Android, ua: Android, class: mobile }
+'Motorola DROIDX-Android-Android': { source: uap-core-device, device: 'Motorola DROIDX', os: Android, ua: Android, class: mobile }
+'Motorola Devour-Android-Android': { source: uap-core-device, device: 'Motorola Devour', os: Android, ua: Android, class: mobile }
+'Motorola Droid-Android-Android': { source: uap-core-device, device: 'Motorola Droid', os: Android, ua: Android, class: mobile }
+'Motorola DROID-Android-Android': { source: uap-core-device, device: 'Motorola DROID', os: Android, ua: Android, class: mobile }
+'Motorola Droid (AdamZ Enhanced)-Android-Android': { source: uap-core-device, device: 'Motorola Droid (AdamZ Enhanced)', os: Android, ua: Android, class: mobile }
+'Motorola Droid 2 Global-Android-Android': { source: uap-core-device, device: 'Motorola Droid 2 Global', os: Android, ua: Android, class: mobile }
+'Motorola Droid 3-Android-UC Browser': { source: uap-core-device, device: 'Motorola Droid 3', os: Android, ua: 'UC Browser', class: mobile }
+'Motorola DROID 3-Android-Android': { source: uap-core-device, device: 'Motorola DROID 3', os: Android, ua: Android, class: mobile }
+'Motorola DROID BIONIC-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID BIONIC', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID HD-Android-Android': { source: uap-core-device, device: 'Motorola DROID HD', os: Android, ua: Android, class: mobile }
+'Motorola Droid Incredible-Android-Android': { source: uap-core-device, device: 'Motorola Droid Incredible', os: Android, ua: Android, class: mobile }
+'Motorola Droid Incredible 3D-Android-Android': { source: uap-core-device, device: 'Motorola Droid Incredible 3D', os: Android, ua: Android, class: mobile }
+'Motorola DROID Pro-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROID Pro', os: Android, ua: 'Opera Mobile', class: mobile }
+'Motorola DROID PRO-Android-Android': { source: uap-core-device, device: 'Motorola DROID PRO', os: Android, ua: Android, class: mobile }
+'Motorola DROID RAZR-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID RAZR', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola Droid Razr-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid Razr', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola Droid RAZR-Android-Android': { source: uap-core-device, device: 'Motorola Droid RAZR', os: Android, ua: Android, class: mobile }
+'Motorola DROID RAZR 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR 4G', os: Android, ua: Android, class: mobile }
+'Motorola Droid Razr HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid Razr HD', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola Droid RAZR HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid RAZR HD', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID RAZR HD 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR HD 4G', os: Android, ua: Android, class: mobile }
+'Motorola Droid Razr M-Android-Android': { source: uap-core-device, device: 'Motorola Droid Razr M', os: Android, ua: Android, class: mobile }
+'Motorola DROID RAZR MAXX-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROID RAZR MAXX', os: Android, ua: 'UC Browser', class: mobile }
+'Motorola DROID RAZR MAXX 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID RAZR MAXX 4G', os: Android, ua: Android, class: mobile }
+'Motorola Droid RAZR MAXX HD-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Droid RAZR MAXX HD', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID SPYDER-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID SPYDER', os: Android, ua: 'Chrome Mobile', class: mobile }
 'Motorola Droid TV C2-Android-Android': { source: uap-core-device, device: 'Motorola Droid TV C2', os: Android, ua: Android, class: desktop }
-'Motorola DROID X2-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID X2', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Droid-Bionic-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Bionic', os: Android, ua: Android, class: '' }
-'Motorola Droid-Pro-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Pro', os: Android, ua: Android, class: '' }
-'Motorola DROID2-Linux-Safari': { source: uap-core-device, device: 'Motorola DROID2', os: Linux, ua: Safari, class: '' }
-'Motorola Droid2-Android-Android': { source: uap-core-device, device: 'Motorola Droid2', os: Android, ua: Android, class: '' }
-'Motorola DROID2 GLOBAL-Android-Android': { source: uap-core-device, device: 'Motorola DROID2 GLOBAL', os: Android, ua: Android, class: '' }
-'Motorola DROID2 Global-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID2 Global', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID2 GLOBAL A956-Android-Android': { source: uap-core-device, device: 'Motorola DROID2 GLOBAL A956', os: Android, ua: Android, class: '' }
-'Motorola DROID2WE-Android-Android': { source: uap-core-device, device: 'Motorola DROID2WE', os: Android, ua: Android, class: '' }
-'Motorola DROID3-Android-Opera': { source: uap-core-device, device: 'Motorola DROID3', os: Android, ua: Opera, class: '' }
-'Motorola DROID3 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID3 4G', os: Android, ua: Android, class: '' }
-'Motorola DROID4-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID4', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola DROID4 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID4 4G', os: Android, ua: Android, class: '' }
-'Motorola DroidPro-Android-Android': { source: uap-core-device, device: 'Motorola DroidPro', os: Android, ua: Android, class: '' }
-'Motorola DROIDRAZR-Android-Android': { source: uap-core-device, device: 'Motorola DROIDRAZR', os: Android, ua: Android, class: '' }
-'Motorola DROIDX 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROIDX 4G', os: Android, ua: Android, class: '' }
-'Motorola DROIDZ Drive+-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Drive+', os: Android, ua: Android, class: '' }
-'Motorola DROIDZ Force-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROIDZ Force', os: Android, ua: 'Opera Mobile', class: '' }
-'Motorola DROIDZ Quad-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Quad', os: Android, ua: Android, class: '' }
-'Motorola DROIDZ Race-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Race', os: Android, ua: Android, class: '' }
-'Motorola DROIDZ Race X-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROIDZ Race X', os: Android, ua: 'Opera Mobile', class: '' }
-'Motorola DROIDZ Sport-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Sport', os: Android, ua: Android, class: '' }
-'Motorola DROIDZ_Force-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROIDZ_Force', os: Android, ua: 'UC Browser', class: '' }
-'Motorola DROIDZ_Sport-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROIDZ_Sport', os: Android, ua: 'UC Browser', class: '' }
-'Motorola Milestone-Android-Android': { source: uap-core-device, device: 'Motorola Milestone', os: Android, ua: Android, class: '' }
-'Motorola Milestone PLUS-Android-Android': { source: uap-core-device, device: 'Motorola Milestone PLUS', os: Android, ua: Android, class: '' }
-'Motorola Milestone X-Android-Android': { source: uap-core-device, device: 'Motorola Milestone X', os: Android, ua: Android, class: '' }
-'Motorola Milestone X2-Android-Android': { source: uap-core-device, device: 'Motorola Milestone X2', os: Android, ua: Android, class: '' }
-'Motorola Milestone Xt720-Android-Android': { source: uap-core-device, device: 'Motorola Milestone Xt720', os: Android, ua: Android, class: '' }
-'Motorola Photon-Android-Android': { source: uap-core-device, device: 'Motorola Photon', os: Android, ua: Android, class: '' }
-'Motorola Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Titanium', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola Triumph-Android-Android': { source: uap-core-device, device: 'Motorola Triumph', os: Android, ua: Android, class: '' }
+'Motorola DROID X2-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID X2', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola Droid-Bionic-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Bionic', os: Android, ua: Android, class: mobile }
+'Motorola Droid-Pro-Android-Android': { source: uap-core-device, device: 'Motorola Droid-Pro', os: Android, ua: Android, class: mobile }
+'Motorola DROID2-Linux-Safari': { source: uap-core-device, device: 'Motorola DROID2', os: Linux, ua: Safari, class: mobile }
+'Motorola Droid2-Android-Android': { source: uap-core-device, device: 'Motorola Droid2', os: Android, ua: Android, class: mobile }
+'Motorola DROID2 GLOBAL-Android-Android': { source: uap-core-device, device: 'Motorola DROID2 GLOBAL', os: Android, ua: Android, class: mobile }
+'Motorola DROID2 Global-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID2 Global', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID2 GLOBAL A956-Android-Android': { source: uap-core-device, device: 'Motorola DROID2 GLOBAL A956', os: Android, ua: Android, class: mobile }
+'Motorola DROID2WE-Android-Android': { source: uap-core-device, device: 'Motorola DROID2WE', os: Android, ua: Android, class: mobile }
+'Motorola DROID3-Android-Opera': { source: uap-core-device, device: 'Motorola DROID3', os: Android, ua: Opera, class: mobile }
+'Motorola DROID3 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID3 4G', os: Android, ua: Android, class: mobile }
+'Motorola DROID4-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola DROID4', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola DROID4 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROID4 4G', os: Android, ua: Android, class: mobile }
+'Motorola DroidPro-Android-Android': { source: uap-core-device, device: 'Motorola DroidPro', os: Android, ua: Android, class: mobile }
+'Motorola DROIDRAZR-Android-Android': { source: uap-core-device, device: 'Motorola DROIDRAZR', os: Android, ua: Android, class: mobile }
+'Motorola DROIDX 4G-Android-Android': { source: uap-core-device, device: 'Motorola DROIDX 4G', os: Android, ua: Android, class: mobile }
+'Motorola DROIDZ Drive+-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Drive+', os: Android, ua: Android, class: mobile }
+'Motorola DROIDZ Force-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROIDZ Force', os: Android, ua: 'Opera Mobile', class: mobile }
+'Motorola DROIDZ Quad-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Quad', os: Android, ua: Android, class: mobile }
+'Motorola DROIDZ Race-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Race', os: Android, ua: Android, class: mobile }
+'Motorola DROIDZ Race X-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola DROIDZ Race X', os: Android, ua: 'Opera Mobile', class: mobile }
+'Motorola DROIDZ Sport-Android-Android': { source: uap-core-device, device: 'Motorola DROIDZ Sport', os: Android, ua: Android, class: mobile }
+'Motorola DROIDZ_Force-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROIDZ_Force', os: Android, ua: 'UC Browser', class: mobile }
+'Motorola DROIDZ_Sport-Android-UC Browser': { source: uap-core-device, device: 'Motorola DROIDZ_Sport', os: Android, ua: 'UC Browser', class: mobile }
+'Motorola Milestone-Android-Android': { source: uap-core-device, device: 'Motorola Milestone', os: Android, ua: Android, class: mobile }
+'Motorola Milestone PLUS-Android-Android': { source: uap-core-device, device: 'Motorola Milestone PLUS', os: Android, ua: Android, class: mobile }
+'Motorola Milestone X-Android-Android': { source: uap-core-device, device: 'Motorola Milestone X', os: Android, ua: Android, class: mobile }
+'Motorola Milestone X2-Android-Android': { source: uap-core-device, device: 'Motorola Milestone X2', os: Android, ua: Android, class: mobile }
+'Motorola Milestone Xt720-Android-Android': { source: uap-core-device, device: 'Motorola Milestone Xt720', os: Android, ua: Android, class: mobile }
+'Motorola Photon-Android-Android': { source: uap-core-device, device: 'Motorola Photon', os: Android, ua: Android, class: mobile }
+'Motorola Titanium-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Titanium', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola Triumph-Android-Android': { source: uap-core-device, device: 'Motorola Triumph', os: Android, ua: Android, class: mobile }
 'A555-Android-Chrome Mobile': { source: uap-core-device, device: A555, os: Android, ua: 'Chrome Mobile', class: '' }
 A853-Android-Opera: { source: uap-core-device, device: A853, os: Android, ua: Opera, class: '' }
 'A853 Milestone-Android-UC Browser': { source: uap-core-device, device: 'A853 Milestone', os: Android, ua: 'UC Browser', class: '' }
@@ -7295,603 +7295,603 @@ XT910S-Android-Android: { source: uap-core-device, device: XT910S, os: Android, 
 'XT926-Android-Chrome Mobile': { source: uap-core-device, device: XT926, os: Android, ua: 'Chrome Mobile', class: '' }
 XT928-Android-Android: { source: uap-core-device, device: XT928, os: Android, ua: Android, class: '' }
 MOT-A1260-Android-Android: { source: uap-core-device, device: MOT-A1260, os: Android, ua: Android, class: '' }
-'Motorola Atrix 4G MB860-Android-Android': { source: uap-core-device, device: 'Motorola Atrix 4G MB860', os: Android, ua: Android, class: '' }
-'Motorola Droid Razr-Android-Android': { source: uap-core-device, device: 'Motorola Droid Razr', os: Android, ua: Android, class: '' }
-'Motorola Electrify-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola Electrify', os: Android, ua: 'Opera Mobile', class: '' }
+'Motorola Atrix 4G MB860-Android-Android': { source: uap-core-device, device: 'Motorola Atrix 4G MB860', os: Android, ua: Android, class: mobile }
+'Motorola Droid Razr-Android-Android': { source: uap-core-device, device: 'Motorola Droid Razr', os: Android, ua: Android, class: mobile }
+'Motorola Electrify-Android-Opera Mobile': { source: uap-core-device, device: 'Motorola Electrify', os: Android, ua: 'Opera Mobile', class: mobile }
 MOT-GT-I9300-Android-Android: { source: uap-core-device, device: MOT-GT-I9300, os: Android, ua: Android, class: '' }
-Motorola_i1-Android-Android: { source: uap-core-device, device: Motorola_i1, os: Android, ua: Android, class: '' }
+Motorola_i1-Android-Android: { source: uap-core-device, device: Motorola_i1, os: Android, ua: Android, class: mobile }
 'MOTIN A9-Android-Android': { source: uap-core-device, device: 'MOTIN A9', os: Android, ua: Android, class: '' }
 MOT-LT18i-Android-Android: { source: uap-core-device, device: MOT-LT18i, os: Android, ua: Android, class: '' }
-'Motorola melistone-Android-Android': { source: uap-core-device, device: 'Motorola melistone', os: Android, ua: Android, class: '' }
-'MOTOROLA MOTOG-Android-Chrome Mobile': { source: uap-core-device, device: 'MOTOROLA MOTOG', os: Android, ua: 'Chrome Mobile', class: '' }
-'MOTOROLA MSM8960-Android-Chrome Mobile': { source: uap-core-device, device: 'MOTOROLA MSM8960', os: Android, ua: 'Chrome Mobile', class: '' }
-'MOTOROLA RAZR-Android-Android': { source: uap-core-device, device: 'MOTOROLA RAZR', os: Android, ua: Android, class: '' }
-'MOTOROLA XT502-Android-Android': { source: uap-core-device, device: 'MOTOROLA XT502', os: Android, ua: Android, class: '' }
-MOTOROLA_XOOM_MZ606-Android-Android: { source: uap-core-device, device: MOTOROLA_XOOM_MZ606, os: Android, ua: Android, class: '' }
-'Motorola Photon 4G-Android-Android': { source: uap-core-device, device: 'Motorola Photon 4G', os: Android, ua: Android, class: '' }
-'Motorola Photon Q LTE-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Photon Q LTE', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola RAZR MAXX-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola RAZR MAXX', os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola RAZR MAXX 4G-Android-Android': { source: uap-core-device, device: 'Motorola RAZR MAXX 4G', os: Android, ua: Android, class: '' }
-'Motorola Sholes-Android-Android': { source: uap-core-device, device: 'Motorola Sholes', os: Android, ua: Android, class: '' }
-'Motorola Titanium-Android-Android': { source: uap-core-device, device: 'Motorola Titanium', os: Android, ua: Android, class: '' }
-'Motorola Triumph-Android-UC Browser': { source: uap-core-device, device: 'Motorola Triumph', os: Android, ua: 'UC Browser', class: '' }
+'Motorola melistone-Android-Android': { source: uap-core-device, device: 'Motorola melistone', os: Android, ua: Android, class: mobile }
+'MOTOROLA MOTOG-Android-Chrome Mobile': { source: uap-core-device, device: 'MOTOROLA MOTOG', os: Android, ua: 'Chrome Mobile', class: mobile }
+'MOTOROLA MSM8960-Android-Chrome Mobile': { source: uap-core-device, device: 'MOTOROLA MSM8960', os: Android, ua: 'Chrome Mobile', class: mobile }
+'MOTOROLA RAZR-Android-Android': { source: uap-core-device, device: 'MOTOROLA RAZR', os: Android, ua: Android, class: mobile }
+'MOTOROLA XT502-Android-Android': { source: uap-core-device, device: 'MOTOROLA XT502', os: Android, ua: Android, class: mobile }
+MOTOROLA_XOOM_MZ606-Android-Android: { source: uap-core-device, device: MOTOROLA_XOOM_MZ606, os: Android, ua: Android, class: tablet }
+'Motorola Photon 4G-Android-Android': { source: uap-core-device, device: 'Motorola Photon 4G', os: Android, ua: Android, class: mobile }
+'Motorola Photon Q LTE-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola Photon Q LTE', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola RAZR MAXX-Android-Chrome Mobile': { source: uap-core-device, device: 'Motorola RAZR MAXX', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Motorola RAZR MAXX 4G-Android-Android': { source: uap-core-device, device: 'Motorola RAZR MAXX 4G', os: Android, ua: Android, class: mobile }
+'Motorola Sholes-Android-Android': { source: uap-core-device, device: 'Motorola Sholes', os: Android, ua: Android, class: mobile }
+'Motorola Titanium-Android-Android': { source: uap-core-device, device: 'Motorola Titanium', os: Android, ua: Android, class: mobile }
+'Motorola Triumph-Android-UC Browser': { source: uap-core-device, device: 'Motorola Triumph', os: Android, ua: 'UC Browser', class: mobile }
 MOTUS_ENDIVE-Android-Android: { source: uap-core-device, device: MOTUS_ENDIVE, os: Android, ua: Android, class: '' }
 MOTWX435KT-Android-Android: { source: uap-core-device, device: MOTWX435KT, os: Android, ua: Android, class: '' }
-'Motorola XOOM 2-Android-Android': { source: uap-core-device, device: 'Motorola XOOM 2', os: Android, ua: Android, class: '' }
+'Motorola XOOM 2-Android-Android': { source: uap-core-device, device: 'Motorola XOOM 2', os: Android, ua: Android, class: tablet }
 MOT-XT303-Android-Android: { source: uap-core-device, device: MOT-XT303, os: Android, ua: Android, class: '' }
 MOT-XT305-Android-Android: { source: uap-core-device, device: MOT-XT305, os: Android, ua: Android, class: '' }
 MOT-XT320-Android-Android: { source: uap-core-device, device: MOT-XT320, os: Android, ua: Android, class: '' }
 MOT-XT389-Android-Android: { source: uap-core-device, device: MOT-XT389, os: Android, ua: Android, class: '' }
 MOT-XT390-Android-Android: { source: uap-core-device, device: MOT-XT390, os: Android, ua: Android, class: '' }
-Motorola-XT5-Android-Android: { source: uap-core-device, device: Motorola-XT5, os: Android, ua: Android, class: '' }
-Motorola-XT500-Android-Android: { source: uap-core-device, device: Motorola-XT500, os: Android, ua: Android, class: '' }
-Motorola-XT502-Android-Android: { source: uap-core-device, device: Motorola-XT502, os: Android, ua: Android, class: '' }
+Motorola-XT5-Android-Android: { source: uap-core-device, device: Motorola-XT5, os: Android, ua: Android, class: mobile }
+Motorola-XT500-Android-Android: { source: uap-core-device, device: Motorola-XT500, os: Android, ua: Android, class: mobile }
+Motorola-XT502-Android-Android: { source: uap-core-device, device: Motorola-XT502, os: Android, ua: Android, class: mobile }
 MOT-XT535-Android-Android: { source: uap-core-device, device: MOT-XT535, os: Android, ua: Android, class: '' }
 MOT-XT553-Android-Android: { source: uap-core-device, device: MOT-XT553, os: Android, ua: Android, class: '' }
 MOT-XT615-Android-Android: { source: uap-core-device, device: MOT-XT615, os: Android, ua: Android, class: '' }
-'Motorola MOT-XT681-Android-Android': { source: uap-core-device, device: 'Motorola MOT-XT681', os: Android, ua: Android, class: '' }
-'Motorola XT720-Android-Android': { source: uap-core-device, device: 'Motorola XT720', os: Android, ua: Android, class: '' }
+'Motorola MOT-XT681-Android-Android': { source: uap-core-device, device: 'Motorola MOT-XT681', os: Android, ua: Android, class: mobile }
+'Motorola XT720-Android-Android': { source: uap-core-device, device: 'Motorola XT720', os: Android, ua: Android, class: mobile }
 MOT-XT788-Android-Android: { source: uap-core-device, device: MOT-XT788, os: Android, ua: Android, class: '' }
-'Motorola XT890-Android-Android': { source: uap-core-device, device: 'Motorola XT890', os: Android, ua: Android, class: '' }
+'Motorola XT890-Android-Android': { source: uap-core-device, device: 'Motorola XT890', os: Android, ua: Android, class: mobile }
 MOT-XT910-Android-Android: { source: uap-core-device, device: MOT-XT910, os: Android, ua: Android, class: '' }
 MOT-XT910K-Android-Android: { source: uap-core-device, device: MOT-XT910K, os: Android, ua: Android, class: '' }
 MOT-XT923-Android-Android: { source: uap-core-device, device: MOT-XT923, os: Android, ua: Android, class: '' }
 MOT-XT925-Android-Android: { source: uap-core-device, device: MOT-XT925, os: Android, ua: Android, class: '' }
-'MotoA953-Android-Opera Mobile': { source: uap-core-device, device: MotoA953, os: Android, ua: 'Opera Mobile', class: '' }
-'Moto Droid-Android-Android': { source: uap-core-device, device: 'Moto Droid', os: Android, ua: Android, class: '' }
-'Moto Droid Ultra-Android-Android': { source: uap-core-device, device: 'Moto Droid Ultra', os: Android, ua: Android, class: '' }
-'Moto G-Android-Chrome Mobile': { source: uap-core-device, device: 'Moto G', os: Android, ua: 'Chrome Mobile', class: '' }
-MotoMB511-Android-Android: { source: uap-core-device, device: MotoMB511, os: Android, ua: Android, class: '' }
-MotoMB525-Android-Android: { source: uap-core-device, device: MotoMB525, os: Android, ua: Android, class: '' }
-MotoMB526-Android-Android: { source: uap-core-device, device: MotoMB526, os: Android, ua: Android, class: '' }
-Moto_ME860-Android-Android: { source: uap-core-device, device: Moto_ME860, os: Android, ua: Android, class: '' }
-'MotoSola Pro-Android-Android': { source: uap-core-device, device: 'MotoSola Pro', os: Android, ua: Android, class: '' }
-'Moto X - 4.4.2 - API 19 - 720x1280-Android-Chrome Mobile': { source: uap-core-device, device: 'Moto X - 4.4.2 - API 19 - 720x1280', os: Android, ua: 'Chrome Mobile', class: '' }
+'MotoA953-Android-Opera Mobile': { source: uap-core-device, device: MotoA953, os: Android, ua: 'Opera Mobile', class: mobile }
+'Moto Droid-Android-Android': { source: uap-core-device, device: 'Moto Droid', os: Android, ua: Android, class: mobile }
+'Moto Droid Ultra-Android-Android': { source: uap-core-device, device: 'Moto Droid Ultra', os: Android, ua: Android, class: mobile }
+'Moto G-Android-Chrome Mobile': { source: uap-core-device, device: 'Moto G', os: Android, ua: 'Chrome Mobile', class: mobile }
+MotoMB511-Android-Android: { source: uap-core-device, device: MotoMB511, os: Android, ua: Android, class: mobile }
+MotoMB525-Android-Android: { source: uap-core-device, device: MotoMB525, os: Android, ua: Android, class: mobile }
+MotoMB526-Android-Android: { source: uap-core-device, device: MotoMB526, os: Android, ua: Android, class: mobile }
+Moto_ME860-Android-Android: { source: uap-core-device, device: Moto_ME860, os: Android, ua: Android, class: mobile }
+'MotoSola Pro-Android-Android': { source: uap-core-device, device: 'MotoSola Pro', os: Android, ua: Android, class: mobile }
+'Moto X - 4.4.2 - API 19 - 720x1280-Android-Chrome Mobile': { source: uap-core-device, device: 'Moto X - 4.4.2 - API 19 - 720x1280', os: Android, ua: 'Chrome Mobile', class: mobile }
 '201M-Android-Chrome Mobile': { source: uap-core-device, device: 201M, os: Android, ua: 'Chrome Mobile', class: '' }
-'Motorola A4500-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola A4500', os: 'Windows Mobile', ua: 'IE Mobile', class: '' }
-'Motorola C155-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C155', os: Other, ua: UP.Browser, class: '' }
-'Motorola C290-Other-Obigo': { source: uap-core-device, device: 'Motorola C290', os: Other, ua: Obigo, class: '' }
-'Motorola E365-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E365', os: Other, ua: UP.Browser, class: '' }
-'Motorola E380-Other-Other': { source: uap-core-device, device: 'Motorola E380', os: Other, ua: Other, class: '' }
-'Motorola E398-Other-Other': { source: uap-core-device, device: 'Motorola E398', os: Other, ua: Other, class: '' }
-'Motorola ic502-Other-Obigo': { source: uap-core-device, device: 'Motorola ic502', os: Other, ua: Obigo, class: '' }
-'Motorola ic602-Other-Other': { source: uap-core-device, device: 'Motorola ic602', os: Other, ua: Other, class: '' }
-'Motorola ic902-Other-Obigo': { source: uap-core-device, device: 'Motorola ic902', os: Other, ua: Obigo, class: '' }
-'Motorola K1m-Other-Other': { source: uap-core-device, device: 'Motorola K1m', os: Other, ua: Other, class: '' }
-'Motorola MB526-Android-Other': { source: uap-core-device, device: 'Motorola MB526', os: Android, ua: Other, class: '' }
-'Motorola Milestone-Android-Other': { source: uap-core-device, device: 'Motorola Milestone', os: Android, ua: Other, class: '' }
-'Motorola Q9c-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola Q9c', os: 'Windows Mobile', ua: 'IE Mobile', class: '' }
-'Motorola Q9m-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola Q9m', os: 'Windows Mobile', ua: 'IE Mobile', class: '' }
-'Motorola RazrV8-Other-Other': { source: uap-core-device, device: 'Motorola RazrV8', os: Other, ua: Other, class: '' }
-'Motorola T33-Other-UP.Browser': { source: uap-core-device, device: 'Motorola T33', os: Other, ua: UP.Browser, class: '' }
-'Motorola V190-Other-Other': { source: uap-core-device, device: 'Motorola V190', os: Other, ua: Other, class: '' }
-'Motorola V220ENS-Other-Other': { source: uap-core-device, device: 'Motorola V220ENS', os: Other, ua: Other, class: '' }
-'Motorola V300-Other-Other': { source: uap-core-device, device: 'Motorola V300', os: Other, ua: Other, class: '' }
-'Motorola V3m-Other-Obigo': { source: uap-core-device, device: 'Motorola V3m', os: Other, ua: Obigo, class: '' }
-'Motorola V551-Other-Other': { source: uap-core-device, device: 'Motorola V551', os: Other, ua: Other, class: '' }
-'Motorola V600i-Other-Other': { source: uap-core-device, device: 'Motorola V600i', os: Other, ua: Other, class: '' }
-'Motorola V950-Other-Obigo': { source: uap-core-device, device: 'Motorola V950', os: Other, ua: Obigo, class: '' }
-'Motorola V9m-Other-Obigo': { source: uap-core-device, device: 'Motorola V9m', os: Other, ua: Obigo, class: '' }
-'Motorola VE20-Other-Obigo': { source: uap-core-device, device: 'Motorola VE20', os: Other, ua: Obigo, class: '' }
-'Motorola w385-Other-Obigo': { source: uap-core-device, device: 'Motorola w385', os: Other, ua: Obigo, class: '' }
-'Motorola XOOM-Android-Other': { source: uap-core-device, device: 'Motorola XOOM', os: Android, ua: Other, class: '' }
-'Motorola XT615-Android-Other': { source: uap-core-device, device: 'Motorola XT615', os: Android, ua: Other, class: '' }
-'Motorola XT890-Android-Other': { source: uap-core-device, device: 'Motorola XT890', os: Android, ua: Other, class: '' }
-'Motorola W760r-Linux-Symphony': { source: uap-core-device, device: 'Motorola W760r', os: Linux, ua: Symphony, class: '' }
-'Motorola ZW9P3-Other-Other': { source: uap-core-device, device: 'Motorola ZW9P3', os: Other, ua: Other, class: '' }
-'Motorola [Hybrid]-Other-Other': { source: uap-core-device, device: 'Motorola [Hybrid]', os: Other, ua: Other, class: '' }
-'Motorola 01-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 01', os: Other, ua: UP.Browser, class: '' }
-'Motorola 1-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 1', os: Other, ua: UP.Browser, class: '' }
-'Motorola 122-Other-Other': { source: uap-core-device, device: 'Motorola 122', os: Other, ua: Other, class: '' }
-'Motorola 20-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 20', os: Other, ua: UP.Browser, class: '' }
-'Motorola 2000-Other-Other': { source: uap-core-device, device: 'Motorola 2000', os: Other, ua: Other, class: '' }
-'Motorola 2001-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 2001', os: Other, ua: UP.Browser, class: '' }
-'Motorola 2203-Other-Other': { source: uap-core-device, device: 'Motorola 2203', os: Other, ua: Other, class: '' }
-'Motorola 24-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 24', os: Other, ua: UP.Browser, class: '' }
-'Motorola 28-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 28', os: Other, ua: UP.Browser, class: '' }
-'Motorola 280-Other-Other': { source: uap-core-device, device: 'Motorola 280', os: Other, ua: Other, class: '' }
-'Motorola 32-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 32', os: Other, ua: UP.Browser, class: '' }
-'Motorola 385-Other-Other': { source: uap-core-device, device: 'Motorola 385', os: Other, ua: Other, class: '' }
-'Motorola 40-Other-Other': { source: uap-core-device, device: 'Motorola 40', os: Other, ua: Other, class: '' }
-'Motorola 43-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 43', os: Other, ua: UP.Browser, class: '' }
-'Motorola 54-Other-Other': { source: uap-core-device, device: 'Motorola 54', os: Other, ua: Other, class: '' }
-'Motorola 62-Other-Other': { source: uap-core-device, device: 'Motorola 62', os: Other, ua: Other, class: '' }
-'Motorola 76-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 76', os: Other, ua: UP.Browser, class: '' }
-'Motorola 85-Other-Other': { source: uap-core-device, device: 'Motorola 85', os: Other, ua: Other, class: '' }
-'Motorola 87-Other-Other': { source: uap-core-device, device: 'Motorola 87', os: Other, ua: Other, class: '' }
-'Motorola 8700_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 8700_', os: Other, ua: UP.Browser, class: '' }
-'Motorola 8720_-Other-Other': { source: uap-core-device, device: 'Motorola 8720_', os: Other, ua: Other, class: '' }
-'Motorola 8800_-Other-Other': { source: uap-core-device, device: 'Motorola 8800_', os: Other, ua: Other, class: '' }
-'Motorola A-0A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-0A', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-1A-Other-Other': { source: uap-core-device, device: 'Motorola A-1A', os: Other, ua: Other, class: '' }
-'Motorola A-1C-Other-Other': { source: uap-core-device, device: 'Motorola A-1C', os: Other, ua: Other, class: '' }
-'Motorola A-1F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-1F', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-2B-Other-Other': { source: uap-core-device, device: 'Motorola A-2B', os: Other, ua: Other, class: '' }
-'Motorola A-2D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-2D', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-2F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-2F', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-3B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-3B', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-3D-Other-Other': { source: uap-core-device, device: 'Motorola A-3D', os: Other, ua: Other, class: '' }
-'Motorola A-3E-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-3E', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-3F-Other-Other': { source: uap-core-device, device: 'Motorola A-3F', os: Other, ua: Other, class: '' }
-'Motorola A-4A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-4A', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-4C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-4C', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-5B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-5B', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-5C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-5C', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-6E-Other-Other': { source: uap-core-device, device: 'Motorola A-6E', os: Other, ua: Other, class: '' }
-'Motorola A-7D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-7D', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-7F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-7F', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-86-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-86', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-88-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-88', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-8A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8A', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-8B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8B', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-8C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8C', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-8D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8D', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-8E-Other-Other': { source: uap-core-device, device: 'Motorola A-8E', os: Other, ua: Other, class: '' }
-'Motorola A-A4-Other-Other': { source: uap-core-device, device: 'Motorola A-A4', os: Other, ua: Other, class: '' }
-'Motorola A-A6-Other-Other': { source: uap-core-device, device: 'Motorola A-A6', os: Other, ua: Other, class: '' }
-'Motorola A-A7-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-A7', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-A9-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-A9', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-AA-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-AA', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-B2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-B2', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-B7-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-B7', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-C6-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-C6', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-C8-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-C8', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-CB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-CB', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-D2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-D2', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-D5-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-D5', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-DC-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DC', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-DD-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DD', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-DE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DE', os: Other, ua: UP.Browser, class: '' }
-'Motorola A-E2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-E2', os: Other, ua: UP.Browser, class: '' }
-'Motorola A008GPRS-Other-Other': { source: uap-core-device, device: 'Motorola A008GPRS', os: Other, ua: Other, class: '' }
-'Motorola A1000-Other-Other': { source: uap-core-device, device: 'Motorola A1000', os: Other, ua: Other, class: '' }
-'Motorola A1200-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200', os: Linux, ua: Opera, class: '' }
-'Motorola A1200E-Other-Other': { source: uap-core-device, device: 'Motorola A1200E', os: Other, ua: Other, class: '' }
-'Motorola A1200e-Other-Other': { source: uap-core-device, device: 'Motorola A1200e', os: Other, ua: Other, class: '' }
-'Motorola A1200EAM-Other-Other': { source: uap-core-device, device: 'Motorola A1200EAM', os: Other, ua: Other, class: '' }
-'Motorola A1200eam-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200eam', os: Linux, ua: Opera, class: '' }
-'Motorola A1200i-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200i', os: Linux, ua: Opera, class: '' }
-'Motorola A1200R-Other-Other': { source: uap-core-device, device: 'Motorola A1200R', os: Other, ua: Other, class: '' }
-'Motorola A1200r-Linux-Other': { source: uap-core-device, device: 'Motorola A1200r', os: Linux, ua: Other, class: '' }
-'Motorola A1200w-Other-Other': { source: uap-core-device, device: 'Motorola A1200w', os: Other, ua: Other, class: '' }
-'Motorola A1600-Linux-Other': { source: uap-core-device, device: 'Motorola A1600', os: Linux, ua: Other, class: '' }
-'Motorola A3000_CMCC-Other-Other': { source: uap-core-device, device: 'Motorola A3000_CMCC', os: Other, ua: Other, class: '' }
-'Motorola A3100-Other-UC Browser': { source: uap-core-device, device: 'Motorola A3100', os: Other, ua: 'UC Browser', class: '' }
-'Motorola A388-Other-Other': { source: uap-core-device, device: 'Motorola A388', os: Other, ua: Other, class: '' }
-'Motorola A45-Other-Other': { source: uap-core-device, device: 'Motorola A45', os: Other, ua: Other, class: '' }
-'Motorola A455-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A455', os: Other, ua: UP.Browser, class: '' }
-'Motorola A45ECO-Other-Other': { source: uap-core-device, device: 'Motorola A45ECO', os: Other, ua: Other, class: '' }
-'Motorola A630-Other-Other': { source: uap-core-device, device: 'Motorola A630', os: Other, ua: Other, class: '' }
-'Motorola A668-Other-Other': { source: uap-core-device, device: 'Motorola A668', os: Other, ua: Other, class: '' }
-'Motorola A728-Other-Other': { source: uap-core-device, device: 'Motorola A728', os: Other, ua: Other, class: '' }
-'Motorola A732-Other-Other': { source: uap-core-device, device: 'Motorola A732', os: Other, ua: Other, class: '' }
-'Motorola A760-Other-Other': { source: uap-core-device, device: 'Motorola A760', os: Other, ua: Other, class: '' }
-'Motorola A760i-Other-Other': { source: uap-core-device, device: 'Motorola A760i', os: Other, ua: Other, class: '' }
-'Motorola A768-Other-Other': { source: uap-core-device, device: 'Motorola A768', os: Other, ua: Other, class: '' }
-'Motorola A768I-Other-Other': { source: uap-core-device, device: 'Motorola A768I', os: Other, ua: Other, class: '' }
-'Motorola A768i-Other-Other': { source: uap-core-device, device: 'Motorola A768i', os: Other, ua: Other, class: '' }
-'Motorola A780-Linux-Opera': { source: uap-core-device, device: 'Motorola A780', os: Linux, ua: Opera, class: '' }
-'Motorola A810-Other-Other': { source: uap-core-device, device: 'Motorola A810', os: Other, ua: Other, class: '' }
-'Motorola A820-Other-Other': { source: uap-core-device, device: 'Motorola A820', os: Other, ua: Other, class: '' }
-'Motorola A830-Other-Other': { source: uap-core-device, device: 'Motorola A830', os: Other, ua: Other, class: '' }
-'Motorola A835-Other-Other': { source: uap-core-device, device: 'Motorola A835', os: Other, ua: Other, class: '' }
-'Motorola A845-Other-Other': { source: uap-core-device, device: 'Motorola A845', os: Other, ua: Other, class: '' }
-'Motorola A910-Linux-Opera': { source: uap-core-device, device: 'Motorola A910', os: Linux, ua: Opera, class: '' }
-'Motorola A910i-Linux-Opera': { source: uap-core-device, device: 'Motorola A910i', os: Linux, ua: Opera, class: '' }
-'Motorola A910I-Other-Other': { source: uap-core-device, device: 'Motorola A910I', os: Other, ua: Other, class: '' }
-'Motorola A920-Symbian OS-Opera': { source: uap-core-device, device: 'Motorola A920', os: 'Symbian OS', ua: Opera, class: '' }
-'Motorola A925-Symbian OS-Opera': { source: uap-core-device, device: 'Motorola A925', os: 'Symbian OS', ua: Opera, class: '' }
-'Motorola adimoscaty-Other-Other': { source: uap-core-device, device: 'Motorola adimoscaty', os: Other, ua: Other, class: '' }
-'Motorola AF-Other-Other': { source: uap-core-device, device: 'Motorola AF', os: Other, ua: Other, class: '' }
-'Motorola AURA-Linux-Symphony': { source: uap-core-device, device: 'Motorola AURA', os: Linux, ua: Symphony, class: '' }
-'Motorola babyVIPER-E1-Other-Other': { source: uap-core-device, device: 'Motorola babyVIPER-E1', os: Other, ua: Other, class: '' }
-'Motorola BC-Other-UP.Browser': { source: uap-core-device, device: 'Motorola BC', os: Other, ua: UP.Browser, class: '' }
-'Motorola BLAZE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola BLAZE', os: Other, ua: UP.Browser, class: '' }
-'Motorola C-Other-Other': { source: uap-core-device, device: 'Motorola C', os: Other, ua: Other, class: '' }
-'Motorola c-Other-Other': { source: uap-core-device, device: 'Motorola c', os: Other, ua: Other, class: '' }
-'Motorola C168-Other-Other': { source: uap-core-device, device: 'Motorola C168', os: Other, ua: Other, class: '' }
-'Motorola C168i-Other-Other': { source: uap-core-device, device: 'Motorola C168i', os: Other, ua: Other, class: '' }
-'Motorola C257-Other-Other': { source: uap-core-device, device: 'Motorola C257', os: Other, ua: Other, class: '' }
-'Motorola C261-Other-Other': { source: uap-core-device, device: 'Motorola C261', os: Other, ua: Other, class: '' }
-'Motorola C290-Other-Other': { source: uap-core-device, device: 'Motorola C290', os: Other, ua: Other, class: '' }
-'Motorola C305-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C305', os: Other, ua: UP.Browser, class: '' }
-'Motorola C331-Other-Other': { source: uap-core-device, device: 'Motorola C331', os: Other, ua: Other, class: '' }
-'Motorola C350-Other-Other': { source: uap-core-device, device: 'Motorola C350', os: Other, ua: Other, class: '' }
-'Motorola c350-Other-Other': { source: uap-core-device, device: 'Motorola c350', os: Other, ua: Other, class: '' }
-'Motorola c350i-Other-Other': { source: uap-core-device, device: 'Motorola c350i', os: Other, ua: Other, class: '' }
-'Motorola C350M-Other-Other': { source: uap-core-device, device: 'Motorola C350M', os: Other, ua: Other, class: '' }
-'Motorola c350M-Other-Other': { source: uap-core-device, device: 'Motorola c350M', os: Other, ua: Other, class: '' }
-'Motorola c350V-Other-Other': { source: uap-core-device, device: 'Motorola c350V', os: Other, ua: Other, class: '' }
-'Motorola C357-Other-Other': { source: uap-core-device, device: 'Motorola C357', os: Other, ua: Other, class: '' }
-'Motorola C364-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C364', os: Other, ua: UP.Browser, class: '' }
-'Motorola C375-Other-Other': { source: uap-core-device, device: 'Motorola C375', os: Other, ua: Other, class: '' }
-'Motorola C380-Other-Other': { source: uap-core-device, device: 'Motorola C380', os: Other, ua: Other, class: '' }
-'Motorola C380A-Other-Other': { source: uap-core-device, device: 'Motorola C380A', os: Other, ua: Other, class: '' }
-'Motorola C380M-Other-Other': { source: uap-core-device, device: 'Motorola C380M', os: Other, ua: Other, class: '' }
-'Motorola C380P-Other-Other': { source: uap-core-device, device: 'Motorola C380P', os: Other, ua: Other, class: '' }
-'Motorola C381-Other-Other': { source: uap-core-device, device: 'Motorola C381', os: Other, ua: Other, class: '' }
-'Motorola C381P-Other-Other': { source: uap-core-device, device: 'Motorola C381P', os: Other, ua: Other, class: '' }
-'Motorola C381p-Other-Other': { source: uap-core-device, device: 'Motorola C381p', os: Other, ua: Other, class: '' }
-'Motorola C385-Other-Other': { source: uap-core-device, device: 'Motorola C385', os: Other, ua: Other, class: '' }
-'Motorola C390-Other-Other': { source: uap-core-device, device: 'Motorola C390', os: Other, ua: Other, class: '' }
-'Motorola C4-Other-Other': { source: uap-core-device, device: 'Motorola C4', os: Other, ua: Other, class: '' }
-'Motorola C450-Other-Other': { source: uap-core-device, device: 'Motorola C450', os: Other, ua: Other, class: '' }
-'Motorola C550-Other-Other': { source: uap-core-device, device: 'Motorola C550', os: Other, ua: Other, class: '' }
-'Motorola C650-Other-Other': { source: uap-core-device, device: 'Motorola C650', os: Other, ua: Other, class: '' }
-'Motorola C650_GRIND_MOTO-Other-Other': { source: uap-core-device, device: 'Motorola C650_GRIND_MOTO', os: Other, ua: Other, class: '' }
-'Motorola C650g-Other-Other': { source: uap-core-device, device: 'Motorola C650g', os: Other, ua: Other, class: '' }
-'Motorola C651-Other-Other': { source: uap-core-device, device: 'Motorola C651', os: Other, ua: Other, class: '' }
-'Motorola C698p-Other-Other': { source: uap-core-device, device: 'Motorola C698p', os: Other, ua: Other, class: '' }
-'Motorola C975-Other-Other': { source: uap-core-device, device: 'Motorola C975', os: Other, ua: Other, class: '' }
-'Motorola C980-Other-Other': { source: uap-core-device, device: 'Motorola C980', os: Other, ua: Other, class: '' }
-'Motorola C980M-Other-Other': { source: uap-core-device, device: 'Motorola C980M', os: Other, ua: Other, class: '' }
-'Motorola Canary-Other-Other': { source: uap-core-device, device: 'Motorola Canary', os: Other, ua: Other, class: '' }
-'Motorola CB-Other-Other': { source: uap-core-device, device: 'Motorola CB', os: Other, ua: Other, class: '' }
-'Motorola CfoneMART-Other-Other': { source: uap-core-device, device: 'Motorola CfoneMART', os: Other, ua: Other, class: '' }
+'Motorola A4500-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola A4500', os: 'Windows Mobile', ua: 'IE Mobile', class: mobile }
+'Motorola C155-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C155', os: Other, ua: UP.Browser, class: mobile }
+'Motorola C290-Other-Obigo': { source: uap-core-device, device: 'Motorola C290', os: Other, ua: Obigo, class: mobile }
+'Motorola E365-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E365', os: Other, ua: UP.Browser, class: mobile }
+'Motorola E380-Other-Other': { source: uap-core-device, device: 'Motorola E380', os: Other, ua: Other, class: mobile }
+'Motorola E398-Other-Other': { source: uap-core-device, device: 'Motorola E398', os: Other, ua: Other, class: mobile }
+'Motorola ic502-Other-Obigo': { source: uap-core-device, device: 'Motorola ic502', os: Other, ua: Obigo, class: mobile }
+'Motorola ic602-Other-Other': { source: uap-core-device, device: 'Motorola ic602', os: Other, ua: Other, class: mobile }
+'Motorola ic902-Other-Obigo': { source: uap-core-device, device: 'Motorola ic902', os: Other, ua: Obigo, class: mobile }
+'Motorola K1m-Other-Other': { source: uap-core-device, device: 'Motorola K1m', os: Other, ua: Other, class: mobile }
+'Motorola MB526-Android-Other': { source: uap-core-device, device: 'Motorola MB526', os: Android, ua: Other, class: mobile }
+'Motorola Milestone-Android-Other': { source: uap-core-device, device: 'Motorola Milestone', os: Android, ua: Other, class: mobile }
+'Motorola Q9c-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola Q9c', os: 'Windows Mobile', ua: 'IE Mobile', class: mobile }
+'Motorola Q9m-Windows Mobile-IE Mobile': { source: uap-core-device, device: 'Motorola Q9m', os: 'Windows Mobile', ua: 'IE Mobile', class: mobile }
+'Motorola RazrV8-Other-Other': { source: uap-core-device, device: 'Motorola RazrV8', os: Other, ua: Other, class: mobile }
+'Motorola T33-Other-UP.Browser': { source: uap-core-device, device: 'Motorola T33', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V190-Other-Other': { source: uap-core-device, device: 'Motorola V190', os: Other, ua: Other, class: mobile }
+'Motorola V220ENS-Other-Other': { source: uap-core-device, device: 'Motorola V220ENS', os: Other, ua: Other, class: mobile }
+'Motorola V300-Other-Other': { source: uap-core-device, device: 'Motorola V300', os: Other, ua: Other, class: mobile }
+'Motorola V3m-Other-Obigo': { source: uap-core-device, device: 'Motorola V3m', os: Other, ua: Obigo, class: mobile }
+'Motorola V551-Other-Other': { source: uap-core-device, device: 'Motorola V551', os: Other, ua: Other, class: mobile }
+'Motorola V600i-Other-Other': { source: uap-core-device, device: 'Motorola V600i', os: Other, ua: Other, class: mobile }
+'Motorola V950-Other-Obigo': { source: uap-core-device, device: 'Motorola V950', os: Other, ua: Obigo, class: mobile }
+'Motorola V9m-Other-Obigo': { source: uap-core-device, device: 'Motorola V9m', os: Other, ua: Obigo, class: mobile }
+'Motorola VE20-Other-Obigo': { source: uap-core-device, device: 'Motorola VE20', os: Other, ua: Obigo, class: mobile }
+'Motorola w385-Other-Obigo': { source: uap-core-device, device: 'Motorola w385', os: Other, ua: Obigo, class: mobile }
+'Motorola XOOM-Android-Other': { source: uap-core-device, device: 'Motorola XOOM', os: Android, ua: Other, class: tablet }
+'Motorola XT615-Android-Other': { source: uap-core-device, device: 'Motorola XT615', os: Android, ua: Other, class: mobile }
+'Motorola XT890-Android-Other': { source: uap-core-device, device: 'Motorola XT890', os: Android, ua: Other, class: mobile }
+'Motorola W760r-Linux-Symphony': { source: uap-core-device, device: 'Motorola W760r', os: Linux, ua: Symphony, class: mobile }
+'Motorola ZW9P3-Other-Other': { source: uap-core-device, device: 'Motorola ZW9P3', os: Other, ua: Other, class: mobile }
+'Motorola [Hybrid]-Other-Other': { source: uap-core-device, device: 'Motorola [Hybrid]', os: Other, ua: Other, class: mobile }
+'Motorola 01-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 01', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 1-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 1', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 122-Other-Other': { source: uap-core-device, device: 'Motorola 122', os: Other, ua: Other, class: mobile }
+'Motorola 20-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 20', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 2000-Other-Other': { source: uap-core-device, device: 'Motorola 2000', os: Other, ua: Other, class: mobile }
+'Motorola 2001-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 2001', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 2203-Other-Other': { source: uap-core-device, device: 'Motorola 2203', os: Other, ua: Other, class: mobile }
+'Motorola 24-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 24', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 28-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 28', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 280-Other-Other': { source: uap-core-device, device: 'Motorola 280', os: Other, ua: Other, class: mobile }
+'Motorola 32-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 32', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 385-Other-Other': { source: uap-core-device, device: 'Motorola 385', os: Other, ua: Other, class: mobile }
+'Motorola 40-Other-Other': { source: uap-core-device, device: 'Motorola 40', os: Other, ua: Other, class: mobile }
+'Motorola 43-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 43', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 54-Other-Other': { source: uap-core-device, device: 'Motorola 54', os: Other, ua: Other, class: mobile }
+'Motorola 62-Other-Other': { source: uap-core-device, device: 'Motorola 62', os: Other, ua: Other, class: mobile }
+'Motorola 76-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 76', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 85-Other-Other': { source: uap-core-device, device: 'Motorola 85', os: Other, ua: Other, class: mobile }
+'Motorola 87-Other-Other': { source: uap-core-device, device: 'Motorola 87', os: Other, ua: Other, class: mobile }
+'Motorola 8700_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola 8700_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola 8720_-Other-Other': { source: uap-core-device, device: 'Motorola 8720_', os: Other, ua: Other, class: mobile }
+'Motorola 8800_-Other-Other': { source: uap-core-device, device: 'Motorola 8800_', os: Other, ua: Other, class: mobile }
+'Motorola A-0A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-0A', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-1A-Other-Other': { source: uap-core-device, device: 'Motorola A-1A', os: Other, ua: Other, class: mobile }
+'Motorola A-1C-Other-Other': { source: uap-core-device, device: 'Motorola A-1C', os: Other, ua: Other, class: mobile }
+'Motorola A-1F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-1F', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-2B-Other-Other': { source: uap-core-device, device: 'Motorola A-2B', os: Other, ua: Other, class: mobile }
+'Motorola A-2D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-2D', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-2F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-2F', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-3B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-3B', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-3D-Other-Other': { source: uap-core-device, device: 'Motorola A-3D', os: Other, ua: Other, class: mobile }
+'Motorola A-3E-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-3E', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-3F-Other-Other': { source: uap-core-device, device: 'Motorola A-3F', os: Other, ua: Other, class: mobile }
+'Motorola A-4A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-4A', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-4C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-4C', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-5B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-5B', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-5C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-5C', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-6E-Other-Other': { source: uap-core-device, device: 'Motorola A-6E', os: Other, ua: Other, class: mobile }
+'Motorola A-7D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-7D', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-7F-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-7F', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-86-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-86', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-88-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-88', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-8A-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8A', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-8B-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8B', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-8C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8C', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-8D-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-8D', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-8E-Other-Other': { source: uap-core-device, device: 'Motorola A-8E', os: Other, ua: Other, class: mobile }
+'Motorola A-A4-Other-Other': { source: uap-core-device, device: 'Motorola A-A4', os: Other, ua: Other, class: mobile }
+'Motorola A-A6-Other-Other': { source: uap-core-device, device: 'Motorola A-A6', os: Other, ua: Other, class: mobile }
+'Motorola A-A7-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-A7', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-A9-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-A9', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-AA-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-AA', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-B2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-B2', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-B7-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-B7', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-C6-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-C6', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-C8-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-C8', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-CB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-CB', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-D2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-D2', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-D5-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-D5', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-DC-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DC', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-DD-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DD', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-DE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-DE', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A-E2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A-E2', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A008GPRS-Other-Other': { source: uap-core-device, device: 'Motorola A008GPRS', os: Other, ua: Other, class: mobile }
+'Motorola A1000-Other-Other': { source: uap-core-device, device: 'Motorola A1000', os: Other, ua: Other, class: mobile }
+'Motorola A1200-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200', os: Linux, ua: Opera, class: mobile }
+'Motorola A1200E-Other-Other': { source: uap-core-device, device: 'Motorola A1200E', os: Other, ua: Other, class: mobile }
+'Motorola A1200e-Other-Other': { source: uap-core-device, device: 'Motorola A1200e', os: Other, ua: Other, class: mobile }
+'Motorola A1200EAM-Other-Other': { source: uap-core-device, device: 'Motorola A1200EAM', os: Other, ua: Other, class: mobile }
+'Motorola A1200eam-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200eam', os: Linux, ua: Opera, class: mobile }
+'Motorola A1200i-Linux-Opera': { source: uap-core-device, device: 'Motorola A1200i', os: Linux, ua: Opera, class: mobile }
+'Motorola A1200R-Other-Other': { source: uap-core-device, device: 'Motorola A1200R', os: Other, ua: Other, class: mobile }
+'Motorola A1200r-Linux-Other': { source: uap-core-device, device: 'Motorola A1200r', os: Linux, ua: Other, class: mobile }
+'Motorola A1200w-Other-Other': { source: uap-core-device, device: 'Motorola A1200w', os: Other, ua: Other, class: mobile }
+'Motorola A1600-Linux-Other': { source: uap-core-device, device: 'Motorola A1600', os: Linux, ua: Other, class: mobile }
+'Motorola A3000_CMCC-Other-Other': { source: uap-core-device, device: 'Motorola A3000_CMCC', os: Other, ua: Other, class: mobile }
+'Motorola A3100-Other-UC Browser': { source: uap-core-device, device: 'Motorola A3100', os: Other, ua: 'UC Browser', class: mobile }
+'Motorola A388-Other-Other': { source: uap-core-device, device: 'Motorola A388', os: Other, ua: Other, class: mobile }
+'Motorola A45-Other-Other': { source: uap-core-device, device: 'Motorola A45', os: Other, ua: Other, class: mobile }
+'Motorola A455-Other-UP.Browser': { source: uap-core-device, device: 'Motorola A455', os: Other, ua: UP.Browser, class: mobile }
+'Motorola A45ECO-Other-Other': { source: uap-core-device, device: 'Motorola A45ECO', os: Other, ua: Other, class: mobile }
+'Motorola A630-Other-Other': { source: uap-core-device, device: 'Motorola A630', os: Other, ua: Other, class: mobile }
+'Motorola A668-Other-Other': { source: uap-core-device, device: 'Motorola A668', os: Other, ua: Other, class: mobile }
+'Motorola A728-Other-Other': { source: uap-core-device, device: 'Motorola A728', os: Other, ua: Other, class: mobile }
+'Motorola A732-Other-Other': { source: uap-core-device, device: 'Motorola A732', os: Other, ua: Other, class: mobile }
+'Motorola A760-Other-Other': { source: uap-core-device, device: 'Motorola A760', os: Other, ua: Other, class: mobile }
+'Motorola A760i-Other-Other': { source: uap-core-device, device: 'Motorola A760i', os: Other, ua: Other, class: mobile }
+'Motorola A768-Other-Other': { source: uap-core-device, device: 'Motorola A768', os: Other, ua: Other, class: mobile }
+'Motorola A768I-Other-Other': { source: uap-core-device, device: 'Motorola A768I', os: Other, ua: Other, class: mobile }
+'Motorola A768i-Other-Other': { source: uap-core-device, device: 'Motorola A768i', os: Other, ua: Other, class: mobile }
+'Motorola A780-Linux-Opera': { source: uap-core-device, device: 'Motorola A780', os: Linux, ua: Opera, class: mobile }
+'Motorola A810-Other-Other': { source: uap-core-device, device: 'Motorola A810', os: Other, ua: Other, class: mobile }
+'Motorola A820-Other-Other': { source: uap-core-device, device: 'Motorola A820', os: Other, ua: Other, class: mobile }
+'Motorola A830-Other-Other': { source: uap-core-device, device: 'Motorola A830', os: Other, ua: Other, class: mobile }
+'Motorola A835-Other-Other': { source: uap-core-device, device: 'Motorola A835', os: Other, ua: Other, class: mobile }
+'Motorola A845-Other-Other': { source: uap-core-device, device: 'Motorola A845', os: Other, ua: Other, class: mobile }
+'Motorola A910-Linux-Opera': { source: uap-core-device, device: 'Motorola A910', os: Linux, ua: Opera, class: mobile }
+'Motorola A910i-Linux-Opera': { source: uap-core-device, device: 'Motorola A910i', os: Linux, ua: Opera, class: mobile }
+'Motorola A910I-Other-Other': { source: uap-core-device, device: 'Motorola A910I', os: Other, ua: Other, class: mobile }
+'Motorola A920-Symbian OS-Opera': { source: uap-core-device, device: 'Motorola A920', os: 'Symbian OS', ua: Opera, class: mobile }
+'Motorola A925-Symbian OS-Opera': { source: uap-core-device, device: 'Motorola A925', os: 'Symbian OS', ua: Opera, class: mobile }
+'Motorola adimoscaty-Other-Other': { source: uap-core-device, device: 'Motorola adimoscaty', os: Other, ua: Other, class: mobile }
+'Motorola AF-Other-Other': { source: uap-core-device, device: 'Motorola AF', os: Other, ua: Other, class: mobile }
+'Motorola AURA-Linux-Symphony': { source: uap-core-device, device: 'Motorola AURA', os: Linux, ua: Symphony, class: mobile }
+'Motorola babyVIPER-E1-Other-Other': { source: uap-core-device, device: 'Motorola babyVIPER-E1', os: Other, ua: Other, class: mobile }
+'Motorola BC-Other-UP.Browser': { source: uap-core-device, device: 'Motorola BC', os: Other, ua: UP.Browser, class: mobile }
+'Motorola BLAZE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola BLAZE', os: Other, ua: UP.Browser, class: mobile }
+'Motorola C-Other-Other': { source: uap-core-device, device: 'Motorola C', os: Other, ua: Other, class: mobile }
+'Motorola c-Other-Other': { source: uap-core-device, device: 'Motorola c', os: Other, ua: Other, class: mobile }
+'Motorola C168-Other-Other': { source: uap-core-device, device: 'Motorola C168', os: Other, ua: Other, class: mobile }
+'Motorola C168i-Other-Other': { source: uap-core-device, device: 'Motorola C168i', os: Other, ua: Other, class: mobile }
+'Motorola C257-Other-Other': { source: uap-core-device, device: 'Motorola C257', os: Other, ua: Other, class: mobile }
+'Motorola C261-Other-Other': { source: uap-core-device, device: 'Motorola C261', os: Other, ua: Other, class: mobile }
+'Motorola C290-Other-Other': { source: uap-core-device, device: 'Motorola C290', os: Other, ua: Other, class: mobile }
+'Motorola C305-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C305', os: Other, ua: UP.Browser, class: mobile }
+'Motorola C331-Other-Other': { source: uap-core-device, device: 'Motorola C331', os: Other, ua: Other, class: mobile }
+'Motorola C350-Other-Other': { source: uap-core-device, device: 'Motorola C350', os: Other, ua: Other, class: mobile }
+'Motorola c350-Other-Other': { source: uap-core-device, device: 'Motorola c350', os: Other, ua: Other, class: mobile }
+'Motorola c350i-Other-Other': { source: uap-core-device, device: 'Motorola c350i', os: Other, ua: Other, class: mobile }
+'Motorola C350M-Other-Other': { source: uap-core-device, device: 'Motorola C350M', os: Other, ua: Other, class: mobile }
+'Motorola c350M-Other-Other': { source: uap-core-device, device: 'Motorola c350M', os: Other, ua: Other, class: mobile }
+'Motorola c350V-Other-Other': { source: uap-core-device, device: 'Motorola c350V', os: Other, ua: Other, class: mobile }
+'Motorola C357-Other-Other': { source: uap-core-device, device: 'Motorola C357', os: Other, ua: Other, class: mobile }
+'Motorola C364-Other-UP.Browser': { source: uap-core-device, device: 'Motorola C364', os: Other, ua: UP.Browser, class: mobile }
+'Motorola C375-Other-Other': { source: uap-core-device, device: 'Motorola C375', os: Other, ua: Other, class: mobile }
+'Motorola C380-Other-Other': { source: uap-core-device, device: 'Motorola C380', os: Other, ua: Other, class: mobile }
+'Motorola C380A-Other-Other': { source: uap-core-device, device: 'Motorola C380A', os: Other, ua: Other, class: mobile }
+'Motorola C380M-Other-Other': { source: uap-core-device, device: 'Motorola C380M', os: Other, ua: Other, class: mobile }
+'Motorola C380P-Other-Other': { source: uap-core-device, device: 'Motorola C380P', os: Other, ua: Other, class: mobile }
+'Motorola C381-Other-Other': { source: uap-core-device, device: 'Motorola C381', os: Other, ua: Other, class: mobile }
+'Motorola C381P-Other-Other': { source: uap-core-device, device: 'Motorola C381P', os: Other, ua: Other, class: mobile }
+'Motorola C381p-Other-Other': { source: uap-core-device, device: 'Motorola C381p', os: Other, ua: Other, class: mobile }
+'Motorola C385-Other-Other': { source: uap-core-device, device: 'Motorola C385', os: Other, ua: Other, class: mobile }
+'Motorola C390-Other-Other': { source: uap-core-device, device: 'Motorola C390', os: Other, ua: Other, class: mobile }
+'Motorola C4-Other-Other': { source: uap-core-device, device: 'Motorola C4', os: Other, ua: Other, class: mobile }
+'Motorola C450-Other-Other': { source: uap-core-device, device: 'Motorola C450', os: Other, ua: Other, class: mobile }
+'Motorola C550-Other-Other': { source: uap-core-device, device: 'Motorola C550', os: Other, ua: Other, class: mobile }
+'Motorola C650-Other-Other': { source: uap-core-device, device: 'Motorola C650', os: Other, ua: Other, class: mobile }
+'Motorola C650_GRIND_MOTO-Other-Other': { source: uap-core-device, device: 'Motorola C650_GRIND_MOTO', os: Other, ua: Other, class: mobile }
+'Motorola C650g-Other-Other': { source: uap-core-device, device: 'Motorola C650g', os: Other, ua: Other, class: mobile }
+'Motorola C651-Other-Other': { source: uap-core-device, device: 'Motorola C651', os: Other, ua: Other, class: mobile }
+'Motorola C698p-Other-Other': { source: uap-core-device, device: 'Motorola C698p', os: Other, ua: Other, class: mobile }
+'Motorola C975-Other-Other': { source: uap-core-device, device: 'Motorola C975', os: Other, ua: Other, class: mobile }
+'Motorola C980-Other-Other': { source: uap-core-device, device: 'Motorola C980', os: Other, ua: Other, class: mobile }
+'Motorola C980M-Other-Other': { source: uap-core-device, device: 'Motorola C980M', os: Other, ua: Other, class: mobile }
+'Motorola Canary-Other-Other': { source: uap-core-device, device: 'Motorola Canary', os: Other, ua: Other, class: mobile }
+'Motorola CB-Other-Other': { source: uap-core-device, device: 'Motorola CB', os: Other, ua: Other, class: mobile }
+'Motorola CfoneMART-Other-Other': { source: uap-core-device, device: 'Motorola CfoneMART', os: Other, ua: Other, class: mobile }
 'Motorola CN620-Windows-NetFront': { source: uap-core-device, device: 'Motorola CN620', os: Windows, ua: NetFront, class: mobile }
-'Motorola COOL0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola COOL0', os: Other, ua: UP.Browser, class: '' }
-'Motorola CooL7-Other-Other': { source: uap-core-device, device: 'Motorola CooL7', os: Other, ua: Other, class: '' }
-'Motorola D5-Other-Other': { source: uap-core-device, device: 'Motorola D5', os: Other, ua: Other, class: '' }
-'Motorola D8-Other-UP.Browser': { source: uap-core-device, device: 'Motorola D8', os: Other, ua: UP.Browser, class: '' }
-'Motorola DBLDV-Other-UP.Browser': { source: uap-core-device, device: 'Motorola DBLDV', os: Other, ua: UP.Browser, class: '' }
-'Motorola E-Other-Other': { source: uap-core-device, device: 'Motorola E', os: Other, ua: Other, class: '' }
-'Motorola E1-Other-Other': { source: uap-core-device, device: 'Motorola E1', os: Other, ua: Other, class: '' }
-'Motorola E1000-Other-Other': { source: uap-core-device, device: 'Motorola E1000', os: Other, ua: Other, class: '' }
-'Motorola E1000-BASIC-Other-Other': { source: uap-core-device, device: 'Motorola E1000-BASIC', os: Other, ua: Other, class: '' }
-'Motorola E1000M-Other-Other': { source: uap-core-device, device: 'Motorola E1000M', os: Other, ua: Other, class: '' }
-'Motorola E1070-Other-Other': { source: uap-core-device, device: 'Motorola E1070', os: Other, ua: Other, class: '' }
-'Motorola E1120-Other-Other': { source: uap-core-device, device: 'Motorola E1120', os: Other, ua: Other, class: '' }
-'Motorola E1K-Other-Other': { source: uap-core-device, device: 'Motorola E1K', os: Other, ua: Other, class: '' }
-'Motorola E375-Other-Other': { source: uap-core-device, device: 'Motorola E375', os: Other, ua: Other, class: '' }
-'Motorola e398-Other-Other': { source: uap-core-device, device: 'Motorola e398', os: Other, ua: Other, class: '' }
-'Motorola E398B-Other-Other': { source: uap-core-device, device: 'Motorola E398B', os: Other, ua: Other, class: '' }
-'Motorola E398E-Other-Other': { source: uap-core-device, device: 'Motorola E398E', os: Other, ua: Other, class: '' }
-'Motorola E398I-Other-Other': { source: uap-core-device, device: 'Motorola E398I', os: Other, ua: Other, class: '' }
-'Motorola E398U-Other-Other': { source: uap-core-device, device: 'Motorola E398U', os: Other, ua: Other, class: '' }
-'Motorola E550-Other-Other': { source: uap-core-device, device: 'Motorola E550', os: Other, ua: Other, class: '' }
-'Motorola E615-Other-Other': { source: uap-core-device, device: 'Motorola E615', os: Other, ua: Other, class: '' }
-'Motorola E680-Other-Other': { source: uap-core-device, device: 'Motorola E680', os: Other, ua: Other, class: '' }
-'Motorola E680I-Other-Other': { source: uap-core-device, device: 'Motorola E680I', os: Other, ua: Other, class: '' }
-'Motorola E680i-Linux-Opera': { source: uap-core-device, device: 'Motorola E680i', os: Linux, ua: Opera, class: '' }
-'Motorola E685-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E685', os: Other, ua: UP.Browser, class: '' }
-'Motorola E690-Linux-Opera': { source: uap-core-device, device: 'Motorola E690', os: Linux, ua: Opera, class: '' }
-'Motorola E770-Other-Other': { source: uap-core-device, device: 'Motorola E770', os: Other, ua: Other, class: '' }
-'Motorola E770V-Other-Other': { source: uap-core-device, device: 'Motorola E770V', os: Other, ua: Other, class: '' }
-'Motorola E770v-Other-Other': { source: uap-core-device, device: 'Motorola E770v', os: Other, ua: Other, class: '' }
-'Motorola E770V-WALLKMAN-Other-Other': { source: uap-core-device, device: 'Motorola E770V-WALLKMAN', os: Other, ua: Other, class: '' }
-'Motorola E770xxxx-Other-Other': { source: uap-core-device, device: 'Motorola E770xxxx', os: Other, ua: Other, class: '' }
-'Motorola E790-Other-Other': { source: uap-core-device, device: 'Motorola E790', os: Other, ua: Other, class: '' }
-'Motorola E798-Other-Other': { source: uap-core-device, device: 'Motorola E798', os: Other, ua: Other, class: '' }
-'Motorola E798R-Other-Other': { source: uap-core-device, device: 'Motorola E798R', os: Other, ua: Other, class: '' }
-'Motorola E8-Linux-Other': { source: uap-core-device, device: 'Motorola E8', os: Linux, ua: Other, class: '' }
-'Motorola E815_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E815_', os: Other, ua: UP.Browser, class: '' }
-'Motorola E825-Other-Other': { source: uap-core-device, device: 'Motorola E825', os: Other, ua: Other, class: '' }
-'Motorola E895-Linux-Opera': { source: uap-core-device, device: 'Motorola E895', os: Linux, ua: Opera, class: '' }
-'Motorola ED-Other-Other': { source: uap-core-device, device: 'Motorola ED', os: Other, ua: Other, class: '' }
-'Motorola EF-Other-Other': { source: uap-core-device, device: 'Motorola EF', os: Other, ua: Other, class: '' }
-'Motorola EM25-Other-Other': { source: uap-core-device, device: 'Motorola EM25', os: Other, ua: Other, class: '' }
-'Motorola EM28-Other-Other': { source: uap-core-device, device: 'Motorola EM28', os: Other, ua: Other, class: '' }
-'Motorola EM30-Linux-Other': { source: uap-core-device, device: 'Motorola EM30', os: Linux, ua: Other, class: '' }
-'Motorola EM325-Other-Other': { source: uap-core-device, device: 'Motorola EM325', os: Other, ua: Other, class: '' }
-'Motorola EM326g-Other-Other': { source: uap-core-device, device: 'Motorola EM326g', os: Other, ua: Other, class: '' }
-'Motorola EM330-Other-Other': { source: uap-core-device, device: 'Motorola EM330', os: Other, ua: Other, class: '' }
-'Motorola EM35-Other-Other': { source: uap-core-device, device: 'Motorola EM35', os: Other, ua: Other, class: '' }
-'Motorola EX108-Other-Other': { source: uap-core-device, device: 'Motorola EX108', os: Other, ua: Other, class: '' }
-'Motorola EX109-Other-Obigo': { source: uap-core-device, device: 'Motorola EX109', os: Other, ua: Obigo, class: '' }
-'Motorola EX112-Other-Obigo': { source: uap-core-device, device: 'Motorola EX112', os: Other, ua: Obigo, class: '' }
-'Motorola EX115-Other-Other': { source: uap-core-device, device: 'Motorola EX115', os: Other, ua: Other, class: '' }
-'Motorola EX116-Other-Obigo': { source: uap-core-device, device: 'Motorola EX116', os: Other, ua: Obigo, class: '' }
-'Motorola EX118-Other-Opera': { source: uap-core-device, device: 'Motorola EX118', os: Other, ua: Opera, class: '' }
-'Motorola EX119-Other-Opera': { source: uap-core-device, device: 'Motorola EX119', os: Other, ua: Opera, class: '' }
-'Motorola EX122-Other-Obigo': { source: uap-core-device, device: 'Motorola EX122', os: Other, ua: Obigo, class: '' }
-'Motorola EX124G-Other-Obigo': { source: uap-core-device, device: 'Motorola EX124G', os: Other, ua: Obigo, class: '' }
-'Motorola EX124g-Other-Obigo': { source: uap-core-device, device: 'Motorola EX124g', os: Other, ua: Obigo, class: '' }
-'Motorola EX128-Other-Obigo': { source: uap-core-device, device: 'Motorola EX128', os: Other, ua: Obigo, class: '' }
-'Motorola EX130-Other-Other': { source: uap-core-device, device: 'Motorola EX130', os: Other, ua: Other, class: '' }
-'Motorola EX132-Other-NetFront': { source: uap-core-device, device: 'Motorola EX132', os: Other, ua: NetFront, class: '' }
-'Motorola EX200-BREW-NetFront': { source: uap-core-device, device: 'Motorola EX200', os: BREW, ua: NetFront, class: '' }
-'Motorola EX225-Other-Opera': { source: uap-core-device, device: 'Motorola EX225', os: Other, ua: Opera, class: '' }
-'Motorola EX226-Other-Opera': { source: uap-core-device, device: 'Motorola EX226', os: Other, ua: Opera, class: '' }
-'Motorola EX245-Other-Obigo': { source: uap-core-device, device: 'Motorola EX245', os: Other, ua: Obigo, class: '' }
-'Motorola EX300-Other-Other': { source: uap-core-device, device: 'Motorola EX300', os: Other, ua: Other, class: '' }
-'Motorola EX430-Other-Opera': { source: uap-core-device, device: 'Motorola EX430', os: Other, ua: Opera, class: '' }
-'Motorola F0-Other-Other': { source: uap-core-device, device: 'Motorola F0', os: Other, ua: Other, class: '' }
-'Motorola F5-Other-UP.Browser': { source: uap-core-device, device: 'Motorola F5', os: Other, ua: UP.Browser, class: '' }
-'Motorola F6-Other-UP.Browser': { source: uap-core-device, device: 'Motorola F6', os: Other, ua: UP.Browser, class: '' }
-'Motorola FE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola FE', os: Other, ua: UP.Browser, class: '' }
-'Motorola GATW_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola GATW_', os: Other, ua: UP.Browser, class: '' }
-'Motorola GATW2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola GATW2', os: Other, ua: UP.Browser, class: '' }
-'Motorola I398-Other-Other': { source: uap-core-device, device: 'Motorola I398', os: Other, ua: Other, class: '' }
-'Motorola JACQU-Other-UP.Browser': { source: uap-core-device, device: 'Motorola JACQU', os: Other, ua: UP.Browser, class: '' }
-'Motorola JFJK0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola JFJK0', os: Other, ua: UP.Browser, class: '' }
-'Motorola K1-Other-Other': { source: uap-core-device, device: 'Motorola K1', os: Other, ua: Other, class: '' }
-'Motorola K1m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola K1m', os: Other, ua: UP.Browser, class: '' }
-'Motorola K1T-Other-Other': { source: uap-core-device, device: 'Motorola K1T', os: Other, ua: Other, class: '' }
-'Motorola K1V-Other-Other': { source: uap-core-device, device: 'Motorola K1V', os: Other, ua: Other, class: '' }
-'Motorola K1v-Other-Other': { source: uap-core-device, device: 'Motorola K1v', os: Other, ua: Other, class: '' }
-'Motorola K3-Other-Other': { source: uap-core-device, device: 'Motorola K3', os: Other, ua: Other, class: '' }
-'Motorola K3M-Other-Other': { source: uap-core-device, device: 'Motorola K3M', os: Other, ua: Other, class: '' }
-'Motorola K3m-Other-Opera': { source: uap-core-device, device: 'Motorola K3m', os: Other, ua: Opera, class: '' }
-'Motorola KLGO-Other-Other': { source: uap-core-device, device: 'Motorola KLGO', os: Other, ua: Other, class: '' }
-'Motorola L2-Other-Other': { source: uap-core-device, device: 'Motorola L2', os: Other, ua: Other, class: '' }
-'Motorola L6-Other-Other': { source: uap-core-device, device: 'Motorola L6', os: Other, ua: Other, class: '' }
-'Motorola L6g-Other-Other': { source: uap-core-device, device: 'Motorola L6g', os: Other, ua: Other, class: '' }
-'Motorola L6I-Other-Other': { source: uap-core-device, device: 'Motorola L6I', os: Other, ua: Other, class: '' }
-'Motorola L6i-Other-Other': { source: uap-core-device, device: 'Motorola L6i', os: Other, ua: Other, class: '' }
-'Motorola L6w-Other-Other': { source: uap-core-device, device: 'Motorola L6w', os: Other, ua: Other, class: '' }
-'Motorola L7-Other-Other': { source: uap-core-device, device: 'Motorola L7', os: Other, ua: Other, class: '' }
-'Motorola l7-Other-Other': { source: uap-core-device, device: 'Motorola l7', os: Other, ua: Other, class: '' }
-'Motorola L7_MinhThuc-Other-Other': { source: uap-core-device, device: 'Motorola L7_MinhThuc', os: Other, ua: Other, class: '' }
-'Motorola L7_NOOB_VJ-Other-Other': { source: uap-core-device, device: 'Motorola L7_NOOB_VJ', os: Other, ua: Other, class: '' }
-'Motorola L7_V2-Other-Other': { source: uap-core-device, device: 'Motorola L7_V2', os: Other, ua: Other, class: '' }
-'Motorola L7_V21-Other-Other': { source: uap-core-device, device: 'Motorola L7_V21', os: Other, ua: Other, class: '' }
-'Motorola L71-Other-Other': { source: uap-core-device, device: 'Motorola L71', os: Other, ua: Other, class: '' }
-'Motorola L72-Other-Other': { source: uap-core-device, device: 'Motorola L72', os: Other, ua: Other, class: '' }
-'Motorola L7E-Other-Other': { source: uap-core-device, device: 'Motorola L7E', os: Other, ua: Other, class: '' }
-'Motorola L7e-Other-Other': { source: uap-core-device, device: 'Motorola L7e', os: Other, ua: Other, class: '' }
-'Motorola L7I-Other-Other': { source: uap-core-device, device: 'Motorola L7I', os: Other, ua: Other, class: '' }
-'Motorola L7i-Other-Other': { source: uap-core-device, device: 'Motorola L7i', os: Other, ua: Other, class: '' }
-'Motorola L7V-Other-Other': { source: uap-core-device, device: 'Motorola L7V', os: Other, ua: Other, class: '' }
-'Motorola L7v-Other-Other': { source: uap-core-device, device: 'Motorola L7v', os: Other, ua: Other, class: '' }
-'Motorola L9-Other-Other': { source: uap-core-device, device: 'Motorola L9', os: Other, ua: Other, class: '' }
-'Motorola Linux-Linux-Chrome': { source: uap-core-device, device: 'Motorola Linux', os: Linux, ua: Chrome, class: '' }
-'Motorola M930-Other-Other': { source: uap-core-device, device: 'Motorola M930', os: Other, ua: Other, class: '' }
-'Motorola M990-Other-Other': { source: uap-core-device, device: 'Motorola M990', os: Other, ua: Other, class: '' }
-'Motorola MB200-Other-Other': { source: uap-core-device, device: 'Motorola MB200', os: Other, ua: Other, class: '' }
-'Motorola MCC8-Other-Other': { source: uap-core-device, device: 'Motorola MCC8', os: Other, ua: Other, class: '' }
-'Motorola MCCB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MCCB', os: Other, ua: UP.Browser, class: '' }
-'Motorola ME811-Android-Android': { source: uap-core-device, device: 'Motorola ME811', os: Android, ua: Android, class: '' }
-'Motorola ME860-Android-Other': { source: uap-core-device, device: 'Motorola ME860', os: Android, ua: Other, class: '' }
-'Motorola MILESTONE3-Android-Android': { source: uap-core-device, device: 'Motorola MILESTONE3', os: Android, ua: Android, class: '' }
-'Motorola MILLA-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MILLA', os: Other, ua: UP.Browser, class: '' }
-'Motorola MLNBT-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MLNBT', os: Other, ua: UP.Browser, class: '' }
-'Motorola MOTO-Other-Other': { source: uap-core-device, device: 'Motorola MOTO', os: Other, ua: Other, class: '' }
-'Motorola MOTOQA1-Other-Opera': { source: uap-core-device, device: 'Motorola MOTOQA1', os: Other, ua: Opera, class: '' }
-'Motorola MOTORAZRmaxxV3-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRmaxxV3', os: Other, ua: Opera, class: '' }
-'Motorola MOTORAZRV8_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV8_CMCC', os: Linux, ua: Other, class: '' }
-'Motorola MOTORAZRV82GB-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV82GB', os: Linux, ua: Other, class: '' }
-'Motorola MOTORAZRV82GB_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV82GB_CMCC', os: Linux, ua: Other, class: '' }
-'Motorola MOTORAZRV9-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRV9', os: Other, ua: Opera, class: '' }
-'Motorola MOTORAZRV9x-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRV9x', os: Other, ua: Opera, class: '' }
-'Motorola MOTOROKR-Linux-IE': { source: uap-core-device, device: 'Motorola MOTOROKR', os: Linux, ua: IE, class: '' }
-'Motorola MOTOROKRE6-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOROKRE6', os: Linux, ua: Other, class: '' }
-'Motorola MOTOROKRE6E-Other-Other': { source: uap-core-device, device: 'Motorola MOTOROKRE6E', os: Other, ua: Other, class: '' }
-'Motorola MOTOROKRZ6_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOROKRZ6_CMCC', os: Linux, ua: Other, class: '' }
-'Motorola MOTOROLA-Other-Other': { source: uap-core-device, device: 'Motorola MOTOROLA', os: Other, ua: Other, class: '' }
-'Motorola Motorola-Other-Other': { source: uap-core-device, device: 'Motorola Motorola', os: Other, ua: Other, class: '' }
-'Motorola MOTOU9_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOU9_CMCC', os: Linux, ua: Other, class: '' }
-'Motorola MOTOV9-Other-Opera': { source: uap-core-device, device: 'Motorola MOTOV9', os: Other, ua: Opera, class: '' }
-'Motorola MOTOZ9-Other-Other': { source: uap-core-device, device: 'Motorola MOTOZ9', os: Other, ua: Other, class: '' }
-'Motorola MPx-Windows CE-IE': { source: uap-core-device, device: 'Motorola MPx', os: 'Windows CE', ua: IE, class: '' }
-'Motorola MPX200-Other-Other': { source: uap-core-device, device: 'Motorola MPX200', os: Other, ua: Other, class: '' }
-'Motorola MPX220-Other-Other': { source: uap-core-device, device: 'Motorola MPX220', os: Other, ua: Other, class: '' }
-'Motorola MPx220-Other-Other': { source: uap-core-device, device: 'Motorola MPx220', os: Other, ua: Other, class: '' }
-'Motorola MPx230-Windows CE-IE': { source: uap-core-device, device: 'Motorola MPx230', os: 'Windows CE', ua: IE, class: '' }
-'Motorola MT620_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT620_TD', os: Android, ua: Android, class: '' }
-'Motorola MT680_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT680_TD', os: Android, ua: Android, class: '' }
-'Motorola MT716_TD-Android-Other': { source: uap-core-device, device: 'Motorola MT716_TD', os: Android, ua: Other, class: '' }
-'Motorola MT788_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT788_TD', os: Android, ua: Android, class: '' }
-'Motorola MT870_TD-Android-Other': { source: uap-core-device, device: 'Motorola MT870_TD', os: Android, ua: Other, class: '' }
-'Motorola MT887_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT887_TD', os: Android, ua: Android, class: '' }
-'Motorola MT917_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT917_TD', os: Android, ua: Android, class: '' }
-'Motorola MXE_V6-Other-Opera': { source: uap-core-device, device: 'Motorola MXE_V6', os: Other, ua: Opera, class: '' }
-'Motorola NCR_0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola NCR_0', os: Other, ua: UP.Browser, class: '' }
-'Motorola NEWC_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola NEWC_', os: Other, ua: UP.Browser, class: '' }
-'Motorola P2K-C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola P2K-C', os: Other, ua: UP.Browser, class: '' }
-'Motorola P2K-T-Other-UP.Browser': { source: uap-core-device, device: 'Motorola P2K-T', os: Other, ua: UP.Browser, class: '' }
-'Motorola PAN4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola PAN4_', os: Other, ua: UP.Browser, class: '' }
-'Motorola PEB-Other-Other': { source: uap-core-device, device: 'Motorola PEB', os: Other, ua: Other, class: '' }
-'Motorola PEBL-Other-Other': { source: uap-core-device, device: 'Motorola PEBL', os: Other, ua: Other, class: '' }
-'Motorola PEBL_U3-Other-Other': { source: uap-core-device, device: 'Motorola PEBL_U3', os: Other, ua: Other, class: '' }
-'Motorola Pebl_U3-Other-Other': { source: uap-core-device, device: 'Motorola Pebl_U3', os: Other, ua: Other, class: '' }
-'Motorola PHX4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola PHX4_', os: Other, ua: UP.Browser, class: '' }
-'Motorola Poer-Other-Other': { source: uap-core-device, device: 'Motorola Poer', os: Other, ua: Other, class: '' }
-'Motorola Q-UMTS-Windows CE-Opera': { source: uap-core-device, device: 'Motorola Q-UMTS', os: 'Windows CE', ua: Opera, class: '' }
-'Motorola Q11-Other-Other': { source: uap-core-device, device: 'Motorola Q11', os: Other, ua: Other, class: '' }
-'Motorola Q8_CMCC-Windows CE-UC Browser': { source: uap-core-device, device: 'Motorola Q8_CMCC', os: 'Windows CE', ua: 'UC Browser', class: '' }
-'Motorola Q9-Windows CE-IE Mobile': { source: uap-core-device, device: 'Motorola Q9', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Motorola QA30-Other-Other': { source: uap-core-device, device: 'Motorola QA30', os: Other, ua: Other, class: '' }
-'Motorola R38-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R38', os: Other, ua: UP.Browser, class: '' }
-'Motorola R4541-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R4541', os: Other, ua: UP.Browser, class: '' }
-'Motorola R9-0_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R9-0_', os: Other, ua: UP.Browser, class: '' }
-'Motorola R9-1_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R9-1_', os: Other, ua: UP.Browser, class: '' }
-'Motorola R901_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R901_', os: Other, ua: UP.Browser, class: '' }
-'Motorola R974-Other-Other': { source: uap-core-device, device: 'Motorola R974', os: Other, ua: Other, class: '' }
-'Motorola R974_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R974_', os: Other, ua: UP.Browser, class: '' }
-'Motorola RASPB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola RASPB', os: Other, ua: UP.Browser, class: '' }
-'Motorola RAZRV3x-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3x', os: Other, ua: Other, class: '' }
-'Motorola RAZRV3xM-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xM', os: Other, ua: Other, class: '' }
-'Motorola RAZRV3xR-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xR', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV3xv-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xv', os: Other, ua: Other, class: '' }
-'Motorola RAZRV3xvM-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xvM', os: Other, ua: Other, class: '' }
-'Motorola RAZRV3xx-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xx', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV3xxR-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xxR', os: Other, ua: Other, class: '' }
-'Motorola RAZRV3XXR_J-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3XXR_J', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV3xxv-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xxv', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV6-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV6', os: Other, ua: Other, class: '' }
-'Motorola RAZRV6v-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6v', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV6vb-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6vb', os: Other, ua: Opera, class: '' }
-'Motorola RAZRV6vc-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6vc', os: Other, ua: Opera, class: '' }
-'Motorola ROKR-Other-Opera': { source: uap-core-device, device: 'Motorola ROKR', os: Other, ua: Opera, class: '' }
-'Motorola ROKR-E1-Other-Other': { source: uap-core-device, device: 'Motorola ROKR-E1', os: Other, ua: Other, class: '' }
-'Motorola SAP4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola SAP4_', os: Other, ua: UP.Browser, class: '' }
-'Motorola SAP4A-Other-Other': { source: uap-core-device, device: 'Motorola SAP4A', os: Other, ua: Other, class: '' }
-'Motorola Serias-Other-Other': { source: uap-core-device, device: 'Motorola Serias', os: Other, ua: Other, class: '' }
-'Motorola Slash-Other-Other': { source: uap-core-device, device: 'Motorola Slash', os: Other, ua: Other, class: '' }
-'Motorola SPARK-Other-Other': { source: uap-core-device, device: 'Motorola SPARK', os: Other, ua: Other, class: '' }
-'Motorola spice-Android-Android': { source: uap-core-device, device: 'Motorola spice', os: Android, ua: Android, class: '' }
-'Motorola stepLer-Other-Other': { source: uap-core-device, device: 'Motorola stepLer', os: Other, ua: Other, class: '' }
-'Motorola T720-Other-Other': { source: uap-core-device, device: 'Motorola T720', os: Other, ua: Other, class: '' }
-'Motorola T720M-Other-Other': { source: uap-core-device, device: 'Motorola T720M', os: Other, ua: Other, class: '' }
-'Motorola T721-Other-Other': { source: uap-core-device, device: 'Motorola T721', os: Other, ua: Other, class: '' }
-'Motorola T725E-Other-Other': { source: uap-core-device, device: 'Motorola T725E', os: Other, ua: Other, class: '' }
-'Motorola T732-Other-UP.Browser': { source: uap-core-device, device: 'Motorola T732', os: Other, ua: UP.Browser, class: '' }
-'Motorola TA02-Other-Other': { source: uap-core-device, device: 'Motorola TA02', os: Other, ua: Other, class: '' }
-'Motorola ta02-Other-Other': { source: uap-core-device, device: 'Motorola ta02', os: Other, ua: Other, class: '' }
-'Motorola U15-Other-Other': { source: uap-core-device, device: 'Motorola U15', os: Other, ua: Other, class: '' }
-'Motorola U9-Linux-Other': { source: uap-core-device, device: 'Motorola U9', os: Linux, ua: Other, class: '' }
-'Motorola umts_ruth-Android-Android': { source: uap-core-device, device: 'Motorola umts_ruth', os: Android, ua: Android, class: '' }
-'Motorola Unx-Other-Other': { source: uap-core-device, device: 'Motorola Unx', os: Other, ua: Other, class: '' }
-'Motorola V1050-Other-Other': { source: uap-core-device, device: 'Motorola V1050', os: Other, ua: Other, class: '' }
-'Motorola V1075-Other-Other': { source: uap-core-device, device: 'Motorola V1075', os: Other, ua: Other, class: '' }
-'Motorola V1100-Other-Other': { source: uap-core-device, device: 'Motorola V1100', os: Other, ua: Other, class: '' }
-'Motorola v150-Other-Other': { source: uap-core-device, device: 'Motorola v150', os: Other, ua: Other, class: '' }
-'Motorola V171-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V171', os: Other, ua: UP.Browser, class: '' }
-'Motorola V173-Other-Other': { source: uap-core-device, device: 'Motorola V173', os: Other, ua: Other, class: '' }
-'Motorola V175-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V175', os: Other, ua: UP.Browser, class: '' }
-'Motorola V176-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V176', os: Other, ua: UP.Browser, class: '' }
-'Motorola V177-Other-Other': { source: uap-core-device, device: 'Motorola V177', os: Other, ua: Other, class: '' }
-'Motorola V180-Other-Other': { source: uap-core-device, device: 'Motorola V180', os: Other, ua: Other, class: '' }
-'Motorola V180ENS-Other-Other': { source: uap-core-device, device: 'Motorola V180ENS', os: Other, ua: Other, class: '' }
-'Motorola V185-Other-Other': { source: uap-core-device, device: 'Motorola V185', os: Other, ua: Other, class: '' }
-'Motorola V186-Other-Other': { source: uap-core-device, device: 'Motorola V186', os: Other, ua: Other, class: '' }
-'Motorola V188-Other-Other': { source: uap-core-device, device: 'Motorola V188', os: Other, ua: Other, class: '' }
-'Motorola V191-Other-Other': { source: uap-core-device, device: 'Motorola V191', os: Other, ua: Other, class: '' }
-'Motorola V195-Other-Other': { source: uap-core-device, device: 'Motorola V195', os: Other, ua: Other, class: '' }
-'Motorola V197-Other-Other': { source: uap-core-device, device: 'Motorola V197', os: Other, ua: Other, class: '' }
-'Motorola V198-Other-Other': { source: uap-core-device, device: 'Motorola V198', os: Other, ua: Other, class: '' }
-'Motorola v200-Other-UP.Browser': { source: uap-core-device, device: 'Motorola v200', os: Other, ua: UP.Browser, class: '' }
-'Motorola V220-Other-Other': { source: uap-core-device, device: 'Motorola V220', os: Other, ua: Other, class: '' }
-'Motorola V226-Other-Other': { source: uap-core-device, device: 'Motorola V226', os: Other, ua: Other, class: '' }
-'Motorola V235-Other-Other': { source: uap-core-device, device: 'Motorola V235', os: Other, ua: Other, class: '' }
-'Motorola V237-Other-Other': { source: uap-core-device, device: 'Motorola V237', os: Other, ua: Other, class: '' }
-'Motorola V26X-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V26X', os: Other, ua: UP.Browser, class: '' }
-'Motorola V26X_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V26X_', os: Other, ua: UP.Browser, class: '' }
-'Motorola V270-Other-Other': { source: uap-core-device, device: 'Motorola V270', os: Other, ua: Other, class: '' }
-'Motorola V280-Other-Other': { source: uap-core-device, device: 'Motorola V280', os: Other, ua: Other, class: '' }
-'Motorola V290-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V290', os: Other, ua: UP.Browser, class: '' }
-'Motorola V295-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V295', os: Other, ua: UP.Browser, class: '' }
-'Motorola V3-Other-Other': { source: uap-core-device, device: 'Motorola V3', os: Other, ua: Other, class: '' }
-'Motorola V303-Other-Other': { source: uap-core-device, device: 'Motorola V303', os: Other, ua: Other, class: '' }
-'Motorola V325-Other-Other': { source: uap-core-device, device: 'Motorola V325', os: Other, ua: Other, class: '' }
-'Motorola V330-Other-Other': { source: uap-core-device, device: 'Motorola V330', os: Other, ua: Other, class: '' }
-'Motorola V360-Other-Other': { source: uap-core-device, device: 'Motorola V360', os: Other, ua: Other, class: '' }
-'Motorola V360i-Other-Other': { source: uap-core-device, device: 'Motorola V360i', os: Other, ua: Other, class: '' }
-'Motorola V360v-Other-Other': { source: uap-core-device, device: 'Motorola V360v', os: Other, ua: Other, class: '' }
-'Motorola V361-Other-Other': { source: uap-core-device, device: 'Motorola V361', os: Other, ua: Other, class: '' }
-'Motorola V365-Other-Other': { source: uap-core-device, device: 'Motorola V365', os: Other, ua: Other, class: '' }
-'Motorola V3am-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3am', os: Other, ua: UP.Browser, class: '' }
-'Motorola V3b-Other-Other': { source: uap-core-device, device: 'Motorola V3b', os: Other, ua: Other, class: '' }
-'Motorola V3c-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3c', os: Other, ua: UP.Browser, class: '' }
-'Motorola V3e-Other-Other': { source: uap-core-device, device: 'Motorola V3e', os: Other, ua: Other, class: '' }
-'Motorola V3i-Other-Other': { source: uap-core-device, device: 'Motorola V3i', os: Other, ua: Other, class: '' }
-'Motorola V3i_iTunes-Other-iTunes': { source: uap-core-device, device: 'Motorola V3i_iTunes', os: Other, ua: iTunes, class: '' }
-'Motorola V3ie-Other-Other': { source: uap-core-device, device: 'Motorola V3ie', os: Other, ua: Other, class: '' }
-'Motorola V3ire-Other-Other': { source: uap-core-device, device: 'Motorola V3ire', os: Other, ua: Other, class: '' }
-'Motorola V3iv-Other-Other': { source: uap-core-device, device: 'Motorola V3iv', os: Other, ua: Other, class: '' }
-'Motorola V3r-Other-Other': { source: uap-core-device, device: 'Motorola V3r', os: Other, ua: Other, class: '' }
-'Motorola V3re-Other-Other': { source: uap-core-device, device: 'Motorola V3re', os: Other, ua: Other, class: '' }
-'Motorola V3s-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3s', os: Other, ua: UP.Browser, class: '' }
-'Motorola V3t-Other-Other': { source: uap-core-device, device: 'Motorola V3t', os: Other, ua: Other, class: '' }
-'Motorola V3v-Other-Other': { source: uap-core-device, device: 'Motorola V3v', os: Other, ua: Other, class: '' }
-'Motorola V400-Other-Other': { source: uap-core-device, device: 'Motorola V400', os: Other, ua: Other, class: '' }
-'Motorola V500-Other-Other': { source: uap-core-device, device: 'Motorola V500', os: Other, ua: Other, class: '' }
-'Motorola V501-Other-Other': { source: uap-core-device, device: 'Motorola V501', os: Other, ua: Other, class: '' }
-'Motorola V505-Other-Other': { source: uap-core-device, device: 'Motorola V505', os: Other, ua: Other, class: '' }
-'Motorola V525M-Other-Other': { source: uap-core-device, device: 'Motorola V525M', os: Other, ua: Other, class: '' }
-'Motorola V535-Other-Other': { source: uap-core-device, device: 'Motorola V535', os: Other, ua: Other, class: '' }
-'Motorola V545-Other-Other': { source: uap-core-device, device: 'Motorola V545', os: Other, ua: Other, class: '' }
-'Motorola V547-Other-Other': { source: uap-core-device, device: 'Motorola V547', os: Other, ua: Other, class: '' }
-'Motorola V550-Other-Other': { source: uap-core-device, device: 'Motorola V550', os: Other, ua: Other, class: '' }
-'Motorola V551J-Other-Other': { source: uap-core-device, device: 'Motorola V551J', os: Other, ua: Other, class: '' }
-'Motorola V555-Other-Other': { source: uap-core-device, device: 'Motorola V555', os: Other, ua: Other, class: '' }
-'Motorola V557-Other-Other': { source: uap-core-device, device: 'Motorola V557', os: Other, ua: Other, class: '' }
-'Motorola V557p-Other-Other': { source: uap-core-device, device: 'Motorola V557p', os: Other, ua: Other, class: '' }
-'Motorola V6-Other-Other': { source: uap-core-device, device: 'Motorola V6', os: Other, ua: Other, class: '' }
-'Motorola V600-Other-Other': { source: uap-core-device, device: 'Motorola V600', os: Other, ua: Other, class: '' }
-'Motorola V60M-Other-Other': { source: uap-core-device, device: 'Motorola V60M', os: Other, ua: Other, class: '' }
-'Motorola V620-Other-Other': { source: uap-core-device, device: 'Motorola V620', os: Other, ua: Other, class: '' }
-'Motorola V628-Other-Other': { source: uap-core-device, device: 'Motorola V628', os: Other, ua: Other, class: '' }
-'Motorola V635-Other-Other': { source: uap-core-device, device: 'Motorola V635', os: Other, ua: Other, class: '' }
-'Motorola V66M-Other-Other': { source: uap-core-device, device: 'Motorola V66M', os: Other, ua: Other, class: '' }
-'Motorola V690-Other-Other': { source: uap-core-device, device: 'Motorola V690', os: Other, ua: Other, class: '' }
-'Motorola V70-Other-Other': { source: uap-core-device, device: 'Motorola V70', os: Other, ua: Other, class: '' }
-'Motorola V730-Other-Other': { source: uap-core-device, device: 'Motorola V730', os: Other, ua: Other, class: '' }
-'Motorola V750-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V750', os: Other, ua: UP.Browser, class: '' }
-'Motorola V8-Linux-Opera': { source: uap-core-device, device: 'Motorola V8', os: Linux, ua: Opera, class: '' }
-'Motorola V80-Other-Other': { source: uap-core-device, device: 'Motorola V80', os: Other, ua: Other, class: '' }
-'Motorola V8088-Other-Other': { source: uap-core-device, device: 'Motorola V8088', os: Other, ua: Other, class: '' }
-'Motorola V810-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V810', os: Other, ua: UP.Browser, class: '' }
-'Motorola V82GB-Other-Other': { source: uap-core-device, device: 'Motorola V82GB', os: Other, ua: Other, class: '' }
-'Motorola V860-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V860', os: Other, ua: UP.Browser, class: '' }
-'Motorola V868-Other-Other': { source: uap-core-device, device: 'Motorola V868', os: Other, ua: Other, class: '' }
-'Motorola V872-Other-Other': { source: uap-core-device, device: 'Motorola V872', os: Other, ua: Other, class: '' }
-'Motorola V878-Other-Other': { source: uap-core-device, device: 'Motorola V878', os: Other, ua: Other, class: '' }
-'Motorola V975-Other-Other': { source: uap-core-device, device: 'Motorola V975', os: Other, ua: Other, class: '' }
-'Motorola V980-Other-Other': { source: uap-core-device, device: 'Motorola V980', os: Other, ua: Other, class: '' }
-'Motorola V980M-Other-Other': { source: uap-core-device, device: 'Motorola V980M', os: Other, ua: Other, class: '' }
-'Motorola V9m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V9m', os: Other, ua: UP.Browser, class: '' }
-'Motorola V9mm-Other-Other': { source: uap-core-device, device: 'Motorola V9mm', os: Other, ua: Other, class: '' }
-'Motorola VA76r-Other-Other': { source: uap-core-device, device: 'Motorola VA76r', os: Other, ua: Other, class: '' }
-'Motorola VE20-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE20', os: Other, ua: UP.Browser, class: '' }
-'Motorola VE240-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE240', os: Other, ua: UP.Browser, class: '' }
-'Motorola VE440-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE440', os: Other, ua: UP.Browser, class: '' }
-'Motorola VE465-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE465', os: Other, ua: UP.Browser, class: '' }
-'Motorola VE538-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE538', os: Other, ua: UP.Browser, class: '' }
-'Motorola VE66-Other-Other': { source: uap-core-device, device: 'Motorola VE66', os: Other, ua: Other, class: '' }
-'Motorola VEGAS-Other-Other': { source: uap-core-device, device: 'Motorola VEGAS', os: Other, ua: Other, class: '' }
-'Motorola VERBATIM_E1-Other-Other': { source: uap-core-device, device: 'Motorola VERBATIM_E1', os: Other, ua: Other, class: '' }
-'Motorola VU204-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VU204', os: Other, ua: UP.Browser, class: '' }
-'Motorola VU30-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VU30', os: Other, ua: UP.Browser, class: '' }
-'Motorola W211-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W211', os: Other, ua: UP.Browser, class: '' }
-'Motorola W213-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W213', os: Other, ua: UP.Browser, class: '' }
-'Motorola W220-Other-Other': { source: uap-core-device, device: 'Motorola W220', os: Other, ua: Other, class: '' }
-'Motorola W230-Other-Other': { source: uap-core-device, device: 'Motorola W230', os: Other, ua: Other, class: '' }
-'Motorola W231-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W231', os: Other, ua: UP.Browser, class: '' }
-'Motorola W233-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W233', os: Other, ua: UP.Browser, class: '' }
-'Motorola W270-Other-Other': { source: uap-core-device, device: 'Motorola W270', os: Other, ua: Other, class: '' }
-'Motorola W315-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W315', os: Other, ua: UP.Browser, class: '' }
-'Motorola W360-Other-Other': { source: uap-core-device, device: 'Motorola W360', os: Other, ua: Other, class: '' }
-'Motorola W370-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W370', os: Other, ua: UP.Browser, class: '' }
-'Motorola W371-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W371', os: Other, ua: UP.Browser, class: '' }
-'Motorola W375-Other-Other': { source: uap-core-device, device: 'Motorola W375', os: Other, ua: Other, class: '' }
-'Motorola W376g-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W376g', os: Other, ua: UP.Browser, class: '' }
-'Motorola W377-Other-Other': { source: uap-core-device, device: 'Motorola W377', os: Other, ua: Other, class: '' }
-'Motorola W377g-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W377g', os: Other, ua: UP.Browser, class: '' }
-'Motorola W385-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W385', os: Other, ua: UP.Browser, class: '' }
-'Motorola W385m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W385m', os: Other, ua: UP.Browser, class: '' }
-'Motorola W388-Other-Other': { source: uap-core-device, device: 'Motorola W388', os: Other, ua: Other, class: '' }
-'Motorola W388_CMCC-Other-Other': { source: uap-core-device, device: 'Motorola W388_CMCC', os: Other, ua: Other, class: '' }
-'Motorola W396-Other-Other': { source: uap-core-device, device: 'Motorola W396', os: Other, ua: Other, class: '' }
-'Motorola W397v-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W397v', os: Other, ua: UP.Browser, class: '' }
-'Motorola W398-Other-Other': { source: uap-core-device, device: 'Motorola W398', os: Other, ua: Other, class: '' }
-'Motorola W403-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W403', os: Other, ua: UP.Browser, class: '' }
-'Motorola W408g-Other-Other': { source: uap-core-device, device: 'Motorola W408g', os: Other, ua: Other, class: '' }
-'Motorola W418G-Other-Obigo': { source: uap-core-device, device: 'Motorola W418G', os: Other, ua: Obigo, class: '' }
-'Motorola W419G-Other-Obigo': { source: uap-core-device, device: 'Motorola W419G', os: Other, ua: Obigo, class: '' }
-'Motorola W490-Other-Other': { source: uap-core-device, device: 'Motorola W490', os: Other, ua: Other, class: '' }
-'Motorola W5-Other-Other': { source: uap-core-device, device: 'Motorola W5', os: Other, ua: Other, class: '' }
-'Motorola W510-Other-Other': { source: uap-core-device, device: 'Motorola W510', os: Other, ua: Other, class: '' }
-'Motorola W6-Other-Other': { source: uap-core-device, device: 'Motorola W6', os: Other, ua: Other, class: '' }
-'Motorola W7-Other-Other': { source: uap-core-device, device: 'Motorola W7', os: Other, ua: Other, class: '' }
-'Motorola W755-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W755', os: Other, ua: UP.Browser, class: '' }
-'Motorola W760r-Other-Other': { source: uap-core-device, device: 'Motorola W760r', os: Other, ua: Other, class: '' }
-'Motorola W766-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W766', os: Other, ua: UP.Browser, class: '' }
-'Motorola w800-Other-Other': { source: uap-core-device, device: 'Motorola w800', os: Other, ua: Other, class: '' }
-'Motorola W840-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W840', os: Other, ua: UP.Browser, class: '' }
-'Motorola W845-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W845', os: Other, ua: UP.Browser, class: '' }
-'Motorola WALKMAN-Other-Other': { source: uap-core-device, device: 'Motorola WALKMAN', os: Other, ua: Other, class: '' }
-'Motorola WX308-Other-Other': { source: uap-core-device, device: 'Motorola WX308', os: Other, ua: Other, class: '' }
-'Motorola WX345-Other-Obigo': { source: uap-core-device, device: 'Motorola WX345', os: Other, ua: Obigo, class: '' }
-'Motorola WX400-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX400', os: Other, ua: UP.Browser, class: '' }
-'Motorola WX404-Other-Other': { source: uap-core-device, device: 'Motorola WX404', os: Other, ua: Other, class: '' }
-'Motorola WX415-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX415', os: Other, ua: UP.Browser, class: '' }
-'Motorola WX430-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX430', os: Other, ua: UP.Browser, class: '' }
-'Motorola WX450-Other-Other': { source: uap-core-device, device: 'Motorola WX450', os: Other, ua: Other, class: '' }
-'Motorola XT301-Android-Android': { source: uap-core-device, device: 'Motorola XT301', os: Android, ua: Android, class: '' }
-'Motorola XT681-Android-UC Browser': { source: uap-core-device, device: 'Motorola XT681', os: Android, ua: 'UC Browser', class: '' }
-'Motorola XT800-Android-Android': { source: uap-core-device, device: 'Motorola XT800', os: Android, ua: Android, class: '' }
-'Motorola XT806-Android-Android': { source: uap-core-device, device: 'Motorola XT806', os: Android, ua: Android, class: '' }
-'Motorola XT882-Android-Android': { source: uap-core-device, device: 'Motorola XT882', os: Android, ua: Android, class: '' }
-'Motorola XT883-Android-Android': { source: uap-core-device, device: 'Motorola XT883', os: Android, ua: Android, class: '' }
-'Motorola XT889-Android-Android': { source: uap-core-device, device: 'Motorola XT889', os: Android, ua: Android, class: '' }
-'Motorola Z3-Other-Other': { source: uap-core-device, device: 'Motorola Z3', os: Other, ua: Other, class: '' }
-'Motorola Z6-Linux-Opera': { source: uap-core-device, device: 'Motorola Z6', os: Linux, ua: Opera, class: '' }
-'Motorola Z6w-Other-Other': { source: uap-core-device, device: 'Motorola Z6w', os: Other, ua: Other, class: '' }
-'Motorola ZN200-Other-Other': { source: uap-core-device, device: 'Motorola ZN200', os: Other, ua: Other, class: '' }
-'Motorola ZN300-Other-Opera': { source: uap-core-device, device: 'Motorola ZN300', os: Other, ua: Opera, class: '' }
-'Motorola ZN4-Other-UP.Browser': { source: uap-core-device, device: 'Motorola ZN4', os: Other, ua: UP.Browser, class: '' }
-'Motorola ZN5-Other-Other': { source: uap-core-device, device: 'Motorola ZN5', os: Other, ua: Other, class: '' }
+'Motorola COOL0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola COOL0', os: Other, ua: UP.Browser, class: mobile }
+'Motorola CooL7-Other-Other': { source: uap-core-device, device: 'Motorola CooL7', os: Other, ua: Other, class: mobile }
+'Motorola D5-Other-Other': { source: uap-core-device, device: 'Motorola D5', os: Other, ua: Other, class: mobile }
+'Motorola D8-Other-UP.Browser': { source: uap-core-device, device: 'Motorola D8', os: Other, ua: UP.Browser, class: mobile }
+'Motorola DBLDV-Other-UP.Browser': { source: uap-core-device, device: 'Motorola DBLDV', os: Other, ua: UP.Browser, class: mobile }
+'Motorola E-Other-Other': { source: uap-core-device, device: 'Motorola E', os: Other, ua: Other, class: mobile }
+'Motorola E1-Other-Other': { source: uap-core-device, device: 'Motorola E1', os: Other, ua: Other, class: mobile }
+'Motorola E1000-Other-Other': { source: uap-core-device, device: 'Motorola E1000', os: Other, ua: Other, class: mobile }
+'Motorola E1000-BASIC-Other-Other': { source: uap-core-device, device: 'Motorola E1000-BASIC', os: Other, ua: Other, class: mobile }
+'Motorola E1000M-Other-Other': { source: uap-core-device, device: 'Motorola E1000M', os: Other, ua: Other, class: mobile }
+'Motorola E1070-Other-Other': { source: uap-core-device, device: 'Motorola E1070', os: Other, ua: Other, class: mobile }
+'Motorola E1120-Other-Other': { source: uap-core-device, device: 'Motorola E1120', os: Other, ua: Other, class: mobile }
+'Motorola E1K-Other-Other': { source: uap-core-device, device: 'Motorola E1K', os: Other, ua: Other, class: mobile }
+'Motorola E375-Other-Other': { source: uap-core-device, device: 'Motorola E375', os: Other, ua: Other, class: mobile }
+'Motorola e398-Other-Other': { source: uap-core-device, device: 'Motorola e398', os: Other, ua: Other, class: mobile }
+'Motorola E398B-Other-Other': { source: uap-core-device, device: 'Motorola E398B', os: Other, ua: Other, class: mobile }
+'Motorola E398E-Other-Other': { source: uap-core-device, device: 'Motorola E398E', os: Other, ua: Other, class: mobile }
+'Motorola E398I-Other-Other': { source: uap-core-device, device: 'Motorola E398I', os: Other, ua: Other, class: mobile }
+'Motorola E398U-Other-Other': { source: uap-core-device, device: 'Motorola E398U', os: Other, ua: Other, class: mobile }
+'Motorola E550-Other-Other': { source: uap-core-device, device: 'Motorola E550', os: Other, ua: Other, class: mobile }
+'Motorola E615-Other-Other': { source: uap-core-device, device: 'Motorola E615', os: Other, ua: Other, class: mobile }
+'Motorola E680-Other-Other': { source: uap-core-device, device: 'Motorola E680', os: Other, ua: Other, class: mobile }
+'Motorola E680I-Other-Other': { source: uap-core-device, device: 'Motorola E680I', os: Other, ua: Other, class: mobile }
+'Motorola E680i-Linux-Opera': { source: uap-core-device, device: 'Motorola E680i', os: Linux, ua: Opera, class: mobile }
+'Motorola E685-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E685', os: Other, ua: UP.Browser, class: mobile }
+'Motorola E690-Linux-Opera': { source: uap-core-device, device: 'Motorola E690', os: Linux, ua: Opera, class: mobile }
+'Motorola E770-Other-Other': { source: uap-core-device, device: 'Motorola E770', os: Other, ua: Other, class: mobile }
+'Motorola E770V-Other-Other': { source: uap-core-device, device: 'Motorola E770V', os: Other, ua: Other, class: mobile }
+'Motorola E770v-Other-Other': { source: uap-core-device, device: 'Motorola E770v', os: Other, ua: Other, class: mobile }
+'Motorola E770V-WALLKMAN-Other-Other': { source: uap-core-device, device: 'Motorola E770V-WALLKMAN', os: Other, ua: Other, class: mobile }
+'Motorola E770xxxx-Other-Other': { source: uap-core-device, device: 'Motorola E770xxxx', os: Other, ua: Other, class: mobile }
+'Motorola E790-Other-Other': { source: uap-core-device, device: 'Motorola E790', os: Other, ua: Other, class: mobile }
+'Motorola E798-Other-Other': { source: uap-core-device, device: 'Motorola E798', os: Other, ua: Other, class: mobile }
+'Motorola E798R-Other-Other': { source: uap-core-device, device: 'Motorola E798R', os: Other, ua: Other, class: mobile }
+'Motorola E8-Linux-Other': { source: uap-core-device, device: 'Motorola E8', os: Linux, ua: Other, class: mobile }
+'Motorola E815_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola E815_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola E825-Other-Other': { source: uap-core-device, device: 'Motorola E825', os: Other, ua: Other, class: mobile }
+'Motorola E895-Linux-Opera': { source: uap-core-device, device: 'Motorola E895', os: Linux, ua: Opera, class: mobile }
+'Motorola ED-Other-Other': { source: uap-core-device, device: 'Motorola ED', os: Other, ua: Other, class: mobile }
+'Motorola EF-Other-Other': { source: uap-core-device, device: 'Motorola EF', os: Other, ua: Other, class: mobile }
+'Motorola EM25-Other-Other': { source: uap-core-device, device: 'Motorola EM25', os: Other, ua: Other, class: mobile }
+'Motorola EM28-Other-Other': { source: uap-core-device, device: 'Motorola EM28', os: Other, ua: Other, class: mobile }
+'Motorola EM30-Linux-Other': { source: uap-core-device, device: 'Motorola EM30', os: Linux, ua: Other, class: mobile }
+'Motorola EM325-Other-Other': { source: uap-core-device, device: 'Motorola EM325', os: Other, ua: Other, class: mobile }
+'Motorola EM326g-Other-Other': { source: uap-core-device, device: 'Motorola EM326g', os: Other, ua: Other, class: mobile }
+'Motorola EM330-Other-Other': { source: uap-core-device, device: 'Motorola EM330', os: Other, ua: Other, class: mobile }
+'Motorola EM35-Other-Other': { source: uap-core-device, device: 'Motorola EM35', os: Other, ua: Other, class: mobile }
+'Motorola EX108-Other-Other': { source: uap-core-device, device: 'Motorola EX108', os: Other, ua: Other, class: mobile }
+'Motorola EX109-Other-Obigo': { source: uap-core-device, device: 'Motorola EX109', os: Other, ua: Obigo, class: mobile }
+'Motorola EX112-Other-Obigo': { source: uap-core-device, device: 'Motorola EX112', os: Other, ua: Obigo, class: mobile }
+'Motorola EX115-Other-Other': { source: uap-core-device, device: 'Motorola EX115', os: Other, ua: Other, class: mobile }
+'Motorola EX116-Other-Obigo': { source: uap-core-device, device: 'Motorola EX116', os: Other, ua: Obigo, class: mobile }
+'Motorola EX118-Other-Opera': { source: uap-core-device, device: 'Motorola EX118', os: Other, ua: Opera, class: mobile }
+'Motorola EX119-Other-Opera': { source: uap-core-device, device: 'Motorola EX119', os: Other, ua: Opera, class: mobile }
+'Motorola EX122-Other-Obigo': { source: uap-core-device, device: 'Motorola EX122', os: Other, ua: Obigo, class: mobile }
+'Motorola EX124G-Other-Obigo': { source: uap-core-device, device: 'Motorola EX124G', os: Other, ua: Obigo, class: mobile }
+'Motorola EX124g-Other-Obigo': { source: uap-core-device, device: 'Motorola EX124g', os: Other, ua: Obigo, class: mobile }
+'Motorola EX128-Other-Obigo': { source: uap-core-device, device: 'Motorola EX128', os: Other, ua: Obigo, class: mobile }
+'Motorola EX130-Other-Other': { source: uap-core-device, device: 'Motorola EX130', os: Other, ua: Other, class: mobile }
+'Motorola EX132-Other-NetFront': { source: uap-core-device, device: 'Motorola EX132', os: Other, ua: NetFront, class: mobile }
+'Motorola EX200-BREW-NetFront': { source: uap-core-device, device: 'Motorola EX200', os: BREW, ua: NetFront, class: mobile }
+'Motorola EX225-Other-Opera': { source: uap-core-device, device: 'Motorola EX225', os: Other, ua: Opera, class: mobile }
+'Motorola EX226-Other-Opera': { source: uap-core-device, device: 'Motorola EX226', os: Other, ua: Opera, class: mobile }
+'Motorola EX245-Other-Obigo': { source: uap-core-device, device: 'Motorola EX245', os: Other, ua: Obigo, class: mobile }
+'Motorola EX300-Other-Other': { source: uap-core-device, device: 'Motorola EX300', os: Other, ua: Other, class: mobile }
+'Motorola EX430-Other-Opera': { source: uap-core-device, device: 'Motorola EX430', os: Other, ua: Opera, class: mobile }
+'Motorola F0-Other-Other': { source: uap-core-device, device: 'Motorola F0', os: Other, ua: Other, class: mobile }
+'Motorola F5-Other-UP.Browser': { source: uap-core-device, device: 'Motorola F5', os: Other, ua: UP.Browser, class: mobile }
+'Motorola F6-Other-UP.Browser': { source: uap-core-device, device: 'Motorola F6', os: Other, ua: UP.Browser, class: mobile }
+'Motorola FE-Other-UP.Browser': { source: uap-core-device, device: 'Motorola FE', os: Other, ua: UP.Browser, class: mobile }
+'Motorola GATW_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola GATW_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola GATW2-Other-UP.Browser': { source: uap-core-device, device: 'Motorola GATW2', os: Other, ua: UP.Browser, class: mobile }
+'Motorola I398-Other-Other': { source: uap-core-device, device: 'Motorola I398', os: Other, ua: Other, class: mobile }
+'Motorola JACQU-Other-UP.Browser': { source: uap-core-device, device: 'Motorola JACQU', os: Other, ua: UP.Browser, class: mobile }
+'Motorola JFJK0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola JFJK0', os: Other, ua: UP.Browser, class: mobile }
+'Motorola K1-Other-Other': { source: uap-core-device, device: 'Motorola K1', os: Other, ua: Other, class: mobile }
+'Motorola K1m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola K1m', os: Other, ua: UP.Browser, class: mobile }
+'Motorola K1T-Other-Other': { source: uap-core-device, device: 'Motorola K1T', os: Other, ua: Other, class: mobile }
+'Motorola K1V-Other-Other': { source: uap-core-device, device: 'Motorola K1V', os: Other, ua: Other, class: mobile }
+'Motorola K1v-Other-Other': { source: uap-core-device, device: 'Motorola K1v', os: Other, ua: Other, class: mobile }
+'Motorola K3-Other-Other': { source: uap-core-device, device: 'Motorola K3', os: Other, ua: Other, class: mobile }
+'Motorola K3M-Other-Other': { source: uap-core-device, device: 'Motorola K3M', os: Other, ua: Other, class: mobile }
+'Motorola K3m-Other-Opera': { source: uap-core-device, device: 'Motorola K3m', os: Other, ua: Opera, class: mobile }
+'Motorola KLGO-Other-Other': { source: uap-core-device, device: 'Motorola KLGO', os: Other, ua: Other, class: mobile }
+'Motorola L2-Other-Other': { source: uap-core-device, device: 'Motorola L2', os: Other, ua: Other, class: mobile }
+'Motorola L6-Other-Other': { source: uap-core-device, device: 'Motorola L6', os: Other, ua: Other, class: mobile }
+'Motorola L6g-Other-Other': { source: uap-core-device, device: 'Motorola L6g', os: Other, ua: Other, class: mobile }
+'Motorola L6I-Other-Other': { source: uap-core-device, device: 'Motorola L6I', os: Other, ua: Other, class: mobile }
+'Motorola L6i-Other-Other': { source: uap-core-device, device: 'Motorola L6i', os: Other, ua: Other, class: mobile }
+'Motorola L6w-Other-Other': { source: uap-core-device, device: 'Motorola L6w', os: Other, ua: Other, class: mobile }
+'Motorola L7-Other-Other': { source: uap-core-device, device: 'Motorola L7', os: Other, ua: Other, class: mobile }
+'Motorola l7-Other-Other': { source: uap-core-device, device: 'Motorola l7', os: Other, ua: Other, class: mobile }
+'Motorola L7_MinhThuc-Other-Other': { source: uap-core-device, device: 'Motorola L7_MinhThuc', os: Other, ua: Other, class: mobile }
+'Motorola L7_NOOB_VJ-Other-Other': { source: uap-core-device, device: 'Motorola L7_NOOB_VJ', os: Other, ua: Other, class: mobile }
+'Motorola L7_V2-Other-Other': { source: uap-core-device, device: 'Motorola L7_V2', os: Other, ua: Other, class: mobile }
+'Motorola L7_V21-Other-Other': { source: uap-core-device, device: 'Motorola L7_V21', os: Other, ua: Other, class: mobile }
+'Motorola L71-Other-Other': { source: uap-core-device, device: 'Motorola L71', os: Other, ua: Other, class: mobile }
+'Motorola L72-Other-Other': { source: uap-core-device, device: 'Motorola L72', os: Other, ua: Other, class: mobile }
+'Motorola L7E-Other-Other': { source: uap-core-device, device: 'Motorola L7E', os: Other, ua: Other, class: mobile }
+'Motorola L7e-Other-Other': { source: uap-core-device, device: 'Motorola L7e', os: Other, ua: Other, class: mobile }
+'Motorola L7I-Other-Other': { source: uap-core-device, device: 'Motorola L7I', os: Other, ua: Other, class: mobile }
+'Motorola L7i-Other-Other': { source: uap-core-device, device: 'Motorola L7i', os: Other, ua: Other, class: mobile }
+'Motorola L7V-Other-Other': { source: uap-core-device, device: 'Motorola L7V', os: Other, ua: Other, class: mobile }
+'Motorola L7v-Other-Other': { source: uap-core-device, device: 'Motorola L7v', os: Other, ua: Other, class: mobile }
+'Motorola L9-Other-Other': { source: uap-core-device, device: 'Motorola L9', os: Other, ua: Other, class: mobile }
+'Motorola Linux-Linux-Chrome': { source: uap-core-device, device: 'Motorola Linux', os: Linux, ua: Chrome, class: mobile }
+'Motorola M930-Other-Other': { source: uap-core-device, device: 'Motorola M930', os: Other, ua: Other, class: mobile }
+'Motorola M990-Other-Other': { source: uap-core-device, device: 'Motorola M990', os: Other, ua: Other, class: mobile }
+'Motorola MB200-Other-Other': { source: uap-core-device, device: 'Motorola MB200', os: Other, ua: Other, class: mobile }
+'Motorola MCC8-Other-Other': { source: uap-core-device, device: 'Motorola MCC8', os: Other, ua: Other, class: mobile }
+'Motorola MCCB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MCCB', os: Other, ua: UP.Browser, class: mobile }
+'Motorola ME811-Android-Android': { source: uap-core-device, device: 'Motorola ME811', os: Android, ua: Android, class: mobile }
+'Motorola ME860-Android-Other': { source: uap-core-device, device: 'Motorola ME860', os: Android, ua: Other, class: mobile }
+'Motorola MILESTONE3-Android-Android': { source: uap-core-device, device: 'Motorola MILESTONE3', os: Android, ua: Android, class: mobile }
+'Motorola MILLA-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MILLA', os: Other, ua: UP.Browser, class: mobile }
+'Motorola MLNBT-Other-UP.Browser': { source: uap-core-device, device: 'Motorola MLNBT', os: Other, ua: UP.Browser, class: mobile }
+'Motorola MOTO-Other-Other': { source: uap-core-device, device: 'Motorola MOTO', os: Other, ua: Other, class: mobile }
+'Motorola MOTOQA1-Other-Opera': { source: uap-core-device, device: 'Motorola MOTOQA1', os: Other, ua: Opera, class: mobile }
+'Motorola MOTORAZRmaxxV3-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRmaxxV3', os: Other, ua: Opera, class: mobile }
+'Motorola MOTORAZRV8_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV8_CMCC', os: Linux, ua: Other, class: mobile }
+'Motorola MOTORAZRV82GB-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV82GB', os: Linux, ua: Other, class: mobile }
+'Motorola MOTORAZRV82GB_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTORAZRV82GB_CMCC', os: Linux, ua: Other, class: mobile }
+'Motorola MOTORAZRV9-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRV9', os: Other, ua: Opera, class: mobile }
+'Motorola MOTORAZRV9x-Other-Opera': { source: uap-core-device, device: 'Motorola MOTORAZRV9x', os: Other, ua: Opera, class: mobile }
+'Motorola MOTOROKR-Linux-IE': { source: uap-core-device, device: 'Motorola MOTOROKR', os: Linux, ua: IE, class: mobile }
+'Motorola MOTOROKRE6-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOROKRE6', os: Linux, ua: Other, class: mobile }
+'Motorola MOTOROKRE6E-Other-Other': { source: uap-core-device, device: 'Motorola MOTOROKRE6E', os: Other, ua: Other, class: mobile }
+'Motorola MOTOROKRZ6_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOROKRZ6_CMCC', os: Linux, ua: Other, class: mobile }
+'Motorola MOTOROLA-Other-Other': { source: uap-core-device, device: 'Motorola MOTOROLA', os: Other, ua: Other, class: mobile }
+'Motorola Motorola-Other-Other': { source: uap-core-device, device: 'Motorola Motorola', os: Other, ua: Other, class: mobile }
+'Motorola MOTOU9_CMCC-Linux-Other': { source: uap-core-device, device: 'Motorola MOTOU9_CMCC', os: Linux, ua: Other, class: mobile }
+'Motorola MOTOV9-Other-Opera': { source: uap-core-device, device: 'Motorola MOTOV9', os: Other, ua: Opera, class: mobile }
+'Motorola MOTOZ9-Other-Other': { source: uap-core-device, device: 'Motorola MOTOZ9', os: Other, ua: Other, class: mobile }
+'Motorola MPx-Windows CE-IE': { source: uap-core-device, device: 'Motorola MPx', os: 'Windows CE', ua: IE, class: mobile }
+'Motorola MPX200-Other-Other': { source: uap-core-device, device: 'Motorola MPX200', os: Other, ua: Other, class: mobile }
+'Motorola MPX220-Other-Other': { source: uap-core-device, device: 'Motorola MPX220', os: Other, ua: Other, class: mobile }
+'Motorola MPx220-Other-Other': { source: uap-core-device, device: 'Motorola MPx220', os: Other, ua: Other, class: mobile }
+'Motorola MPx230-Windows CE-IE': { source: uap-core-device, device: 'Motorola MPx230', os: 'Windows CE', ua: IE, class: mobile }
+'Motorola MT620_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT620_TD', os: Android, ua: Android, class: mobile }
+'Motorola MT680_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT680_TD', os: Android, ua: Android, class: mobile }
+'Motorola MT716_TD-Android-Other': { source: uap-core-device, device: 'Motorola MT716_TD', os: Android, ua: Other, class: mobile }
+'Motorola MT788_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT788_TD', os: Android, ua: Android, class: mobile }
+'Motorola MT870_TD-Android-Other': { source: uap-core-device, device: 'Motorola MT870_TD', os: Android, ua: Other, class: mobile }
+'Motorola MT887_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT887_TD', os: Android, ua: Android, class: mobile }
+'Motorola MT917_TD-Android-Android': { source: uap-core-device, device: 'Motorola MT917_TD', os: Android, ua: Android, class: mobile }
+'Motorola MXE_V6-Other-Opera': { source: uap-core-device, device: 'Motorola MXE_V6', os: Other, ua: Opera, class: mobile }
+'Motorola NCR_0-Other-UP.Browser': { source: uap-core-device, device: 'Motorola NCR_0', os: Other, ua: UP.Browser, class: mobile }
+'Motorola NEWC_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola NEWC_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola P2K-C-Other-UP.Browser': { source: uap-core-device, device: 'Motorola P2K-C', os: Other, ua: UP.Browser, class: mobile }
+'Motorola P2K-T-Other-UP.Browser': { source: uap-core-device, device: 'Motorola P2K-T', os: Other, ua: UP.Browser, class: mobile }
+'Motorola PAN4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola PAN4_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola PEB-Other-Other': { source: uap-core-device, device: 'Motorola PEB', os: Other, ua: Other, class: mobile }
+'Motorola PEBL-Other-Other': { source: uap-core-device, device: 'Motorola PEBL', os: Other, ua: Other, class: mobile }
+'Motorola PEBL_U3-Other-Other': { source: uap-core-device, device: 'Motorola PEBL_U3', os: Other, ua: Other, class: mobile }
+'Motorola Pebl_U3-Other-Other': { source: uap-core-device, device: 'Motorola Pebl_U3', os: Other, ua: Other, class: mobile }
+'Motorola PHX4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola PHX4_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola Poer-Other-Other': { source: uap-core-device, device: 'Motorola Poer', os: Other, ua: Other, class: mobile }
+'Motorola Q-UMTS-Windows CE-Opera': { source: uap-core-device, device: 'Motorola Q-UMTS', os: 'Windows CE', ua: Opera, class: mobile }
+'Motorola Q11-Other-Other': { source: uap-core-device, device: 'Motorola Q11', os: Other, ua: Other, class: mobile }
+'Motorola Q8_CMCC-Windows CE-UC Browser': { source: uap-core-device, device: 'Motorola Q8_CMCC', os: 'Windows CE', ua: 'UC Browser', class: mobile }
+'Motorola Q9-Windows CE-IE Mobile': { source: uap-core-device, device: 'Motorola Q9', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Motorola QA30-Other-Other': { source: uap-core-device, device: 'Motorola QA30', os: Other, ua: Other, class: mobile }
+'Motorola R38-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R38', os: Other, ua: UP.Browser, class: mobile }
+'Motorola R4541-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R4541', os: Other, ua: UP.Browser, class: mobile }
+'Motorola R9-0_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R9-0_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola R9-1_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R9-1_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola R901_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R901_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola R974-Other-Other': { source: uap-core-device, device: 'Motorola R974', os: Other, ua: Other, class: mobile }
+'Motorola R974_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola R974_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola RASPB-Other-UP.Browser': { source: uap-core-device, device: 'Motorola RASPB', os: Other, ua: UP.Browser, class: mobile }
+'Motorola RAZRV3x-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3x', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV3xM-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xM', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV3xR-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xR', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV3xv-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xv', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV3xvM-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xvM', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV3xx-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xx', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV3xxR-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV3xxR', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV3XXR_J-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3XXR_J', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV3xxv-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV3xxv', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV6-Other-Other': { source: uap-core-device, device: 'Motorola RAZRV6', os: Other, ua: Other, class: mobile }
+'Motorola RAZRV6v-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6v', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV6vb-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6vb', os: Other, ua: Opera, class: mobile }
+'Motorola RAZRV6vc-Other-Opera': { source: uap-core-device, device: 'Motorola RAZRV6vc', os: Other, ua: Opera, class: mobile }
+'Motorola ROKR-Other-Opera': { source: uap-core-device, device: 'Motorola ROKR', os: Other, ua: Opera, class: mobile }
+'Motorola ROKR-E1-Other-Other': { source: uap-core-device, device: 'Motorola ROKR-E1', os: Other, ua: Other, class: mobile }
+'Motorola SAP4_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola SAP4_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola SAP4A-Other-Other': { source: uap-core-device, device: 'Motorola SAP4A', os: Other, ua: Other, class: mobile }
+'Motorola Serias-Other-Other': { source: uap-core-device, device: 'Motorola Serias', os: Other, ua: Other, class: mobile }
+'Motorola Slash-Other-Other': { source: uap-core-device, device: 'Motorola Slash', os: Other, ua: Other, class: mobile }
+'Motorola SPARK-Other-Other': { source: uap-core-device, device: 'Motorola SPARK', os: Other, ua: Other, class: mobile }
+'Motorola spice-Android-Android': { source: uap-core-device, device: 'Motorola spice', os: Android, ua: Android, class: mobile }
+'Motorola stepLer-Other-Other': { source: uap-core-device, device: 'Motorola stepLer', os: Other, ua: Other, class: mobile }
+'Motorola T720-Other-Other': { source: uap-core-device, device: 'Motorola T720', os: Other, ua: Other, class: mobile }
+'Motorola T720M-Other-Other': { source: uap-core-device, device: 'Motorola T720M', os: Other, ua: Other, class: mobile }
+'Motorola T721-Other-Other': { source: uap-core-device, device: 'Motorola T721', os: Other, ua: Other, class: mobile }
+'Motorola T725E-Other-Other': { source: uap-core-device, device: 'Motorola T725E', os: Other, ua: Other, class: mobile }
+'Motorola T732-Other-UP.Browser': { source: uap-core-device, device: 'Motorola T732', os: Other, ua: UP.Browser, class: mobile }
+'Motorola TA02-Other-Other': { source: uap-core-device, device: 'Motorola TA02', os: Other, ua: Other, class: mobile }
+'Motorola ta02-Other-Other': { source: uap-core-device, device: 'Motorola ta02', os: Other, ua: Other, class: mobile }
+'Motorola U15-Other-Other': { source: uap-core-device, device: 'Motorola U15', os: Other, ua: Other, class: mobile }
+'Motorola U9-Linux-Other': { source: uap-core-device, device: 'Motorola U9', os: Linux, ua: Other, class: mobile }
+'Motorola umts_ruth-Android-Android': { source: uap-core-device, device: 'Motorola umts_ruth', os: Android, ua: Android, class: mobile }
+'Motorola Unx-Other-Other': { source: uap-core-device, device: 'Motorola Unx', os: Other, ua: Other, class: mobile }
+'Motorola V1050-Other-Other': { source: uap-core-device, device: 'Motorola V1050', os: Other, ua: Other, class: mobile }
+'Motorola V1075-Other-Other': { source: uap-core-device, device: 'Motorola V1075', os: Other, ua: Other, class: mobile }
+'Motorola V1100-Other-Other': { source: uap-core-device, device: 'Motorola V1100', os: Other, ua: Other, class: mobile }
+'Motorola v150-Other-Other': { source: uap-core-device, device: 'Motorola v150', os: Other, ua: Other, class: mobile }
+'Motorola V171-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V171', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V173-Other-Other': { source: uap-core-device, device: 'Motorola V173', os: Other, ua: Other, class: mobile }
+'Motorola V175-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V175', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V176-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V176', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V177-Other-Other': { source: uap-core-device, device: 'Motorola V177', os: Other, ua: Other, class: mobile }
+'Motorola V180-Other-Other': { source: uap-core-device, device: 'Motorola V180', os: Other, ua: Other, class: mobile }
+'Motorola V180ENS-Other-Other': { source: uap-core-device, device: 'Motorola V180ENS', os: Other, ua: Other, class: mobile }
+'Motorola V185-Other-Other': { source: uap-core-device, device: 'Motorola V185', os: Other, ua: Other, class: mobile }
+'Motorola V186-Other-Other': { source: uap-core-device, device: 'Motorola V186', os: Other, ua: Other, class: mobile }
+'Motorola V188-Other-Other': { source: uap-core-device, device: 'Motorola V188', os: Other, ua: Other, class: mobile }
+'Motorola V191-Other-Other': { source: uap-core-device, device: 'Motorola V191', os: Other, ua: Other, class: mobile }
+'Motorola V195-Other-Other': { source: uap-core-device, device: 'Motorola V195', os: Other, ua: Other, class: mobile }
+'Motorola V197-Other-Other': { source: uap-core-device, device: 'Motorola V197', os: Other, ua: Other, class: mobile }
+'Motorola V198-Other-Other': { source: uap-core-device, device: 'Motorola V198', os: Other, ua: Other, class: mobile }
+'Motorola v200-Other-UP.Browser': { source: uap-core-device, device: 'Motorola v200', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V220-Other-Other': { source: uap-core-device, device: 'Motorola V220', os: Other, ua: Other, class: mobile }
+'Motorola V226-Other-Other': { source: uap-core-device, device: 'Motorola V226', os: Other, ua: Other, class: mobile }
+'Motorola V235-Other-Other': { source: uap-core-device, device: 'Motorola V235', os: Other, ua: Other, class: mobile }
+'Motorola V237-Other-Other': { source: uap-core-device, device: 'Motorola V237', os: Other, ua: Other, class: mobile }
+'Motorola V26X-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V26X', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V26X_-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V26X_', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V270-Other-Other': { source: uap-core-device, device: 'Motorola V270', os: Other, ua: Other, class: mobile }
+'Motorola V280-Other-Other': { source: uap-core-device, device: 'Motorola V280', os: Other, ua: Other, class: mobile }
+'Motorola V290-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V290', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V295-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V295', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V3-Other-Other': { source: uap-core-device, device: 'Motorola V3', os: Other, ua: Other, class: mobile }
+'Motorola V303-Other-Other': { source: uap-core-device, device: 'Motorola V303', os: Other, ua: Other, class: mobile }
+'Motorola V325-Other-Other': { source: uap-core-device, device: 'Motorola V325', os: Other, ua: Other, class: mobile }
+'Motorola V330-Other-Other': { source: uap-core-device, device: 'Motorola V330', os: Other, ua: Other, class: mobile }
+'Motorola V360-Other-Other': { source: uap-core-device, device: 'Motorola V360', os: Other, ua: Other, class: mobile }
+'Motorola V360i-Other-Other': { source: uap-core-device, device: 'Motorola V360i', os: Other, ua: Other, class: mobile }
+'Motorola V360v-Other-Other': { source: uap-core-device, device: 'Motorola V360v', os: Other, ua: Other, class: mobile }
+'Motorola V361-Other-Other': { source: uap-core-device, device: 'Motorola V361', os: Other, ua: Other, class: mobile }
+'Motorola V365-Other-Other': { source: uap-core-device, device: 'Motorola V365', os: Other, ua: Other, class: mobile }
+'Motorola V3am-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3am', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V3b-Other-Other': { source: uap-core-device, device: 'Motorola V3b', os: Other, ua: Other, class: mobile }
+'Motorola V3c-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3c', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V3e-Other-Other': { source: uap-core-device, device: 'Motorola V3e', os: Other, ua: Other, class: mobile }
+'Motorola V3i-Other-Other': { source: uap-core-device, device: 'Motorola V3i', os: Other, ua: Other, class: mobile }
+'Motorola V3i_iTunes-Other-iTunes': { source: uap-core-device, device: 'Motorola V3i_iTunes', os: Other, ua: iTunes, class: mobile }
+'Motorola V3ie-Other-Other': { source: uap-core-device, device: 'Motorola V3ie', os: Other, ua: Other, class: mobile }
+'Motorola V3ire-Other-Other': { source: uap-core-device, device: 'Motorola V3ire', os: Other, ua: Other, class: mobile }
+'Motorola V3iv-Other-Other': { source: uap-core-device, device: 'Motorola V3iv', os: Other, ua: Other, class: mobile }
+'Motorola V3r-Other-Other': { source: uap-core-device, device: 'Motorola V3r', os: Other, ua: Other, class: mobile }
+'Motorola V3re-Other-Other': { source: uap-core-device, device: 'Motorola V3re', os: Other, ua: Other, class: mobile }
+'Motorola V3s-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V3s', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V3t-Other-Other': { source: uap-core-device, device: 'Motorola V3t', os: Other, ua: Other, class: mobile }
+'Motorola V3v-Other-Other': { source: uap-core-device, device: 'Motorola V3v', os: Other, ua: Other, class: mobile }
+'Motorola V400-Other-Other': { source: uap-core-device, device: 'Motorola V400', os: Other, ua: Other, class: mobile }
+'Motorola V500-Other-Other': { source: uap-core-device, device: 'Motorola V500', os: Other, ua: Other, class: mobile }
+'Motorola V501-Other-Other': { source: uap-core-device, device: 'Motorola V501', os: Other, ua: Other, class: mobile }
+'Motorola V505-Other-Other': { source: uap-core-device, device: 'Motorola V505', os: Other, ua: Other, class: mobile }
+'Motorola V525M-Other-Other': { source: uap-core-device, device: 'Motorola V525M', os: Other, ua: Other, class: mobile }
+'Motorola V535-Other-Other': { source: uap-core-device, device: 'Motorola V535', os: Other, ua: Other, class: mobile }
+'Motorola V545-Other-Other': { source: uap-core-device, device: 'Motorola V545', os: Other, ua: Other, class: mobile }
+'Motorola V547-Other-Other': { source: uap-core-device, device: 'Motorola V547', os: Other, ua: Other, class: mobile }
+'Motorola V550-Other-Other': { source: uap-core-device, device: 'Motorola V550', os: Other, ua: Other, class: mobile }
+'Motorola V551J-Other-Other': { source: uap-core-device, device: 'Motorola V551J', os: Other, ua: Other, class: mobile }
+'Motorola V555-Other-Other': { source: uap-core-device, device: 'Motorola V555', os: Other, ua: Other, class: mobile }
+'Motorola V557-Other-Other': { source: uap-core-device, device: 'Motorola V557', os: Other, ua: Other, class: mobile }
+'Motorola V557p-Other-Other': { source: uap-core-device, device: 'Motorola V557p', os: Other, ua: Other, class: mobile }
+'Motorola V6-Other-Other': { source: uap-core-device, device: 'Motorola V6', os: Other, ua: Other, class: mobile }
+'Motorola V600-Other-Other': { source: uap-core-device, device: 'Motorola V600', os: Other, ua: Other, class: mobile }
+'Motorola V60M-Other-Other': { source: uap-core-device, device: 'Motorola V60M', os: Other, ua: Other, class: mobile }
+'Motorola V620-Other-Other': { source: uap-core-device, device: 'Motorola V620', os: Other, ua: Other, class: mobile }
+'Motorola V628-Other-Other': { source: uap-core-device, device: 'Motorola V628', os: Other, ua: Other, class: mobile }
+'Motorola V635-Other-Other': { source: uap-core-device, device: 'Motorola V635', os: Other, ua: Other, class: mobile }
+'Motorola V66M-Other-Other': { source: uap-core-device, device: 'Motorola V66M', os: Other, ua: Other, class: mobile }
+'Motorola V690-Other-Other': { source: uap-core-device, device: 'Motorola V690', os: Other, ua: Other, class: mobile }
+'Motorola V70-Other-Other': { source: uap-core-device, device: 'Motorola V70', os: Other, ua: Other, class: mobile }
+'Motorola V730-Other-Other': { source: uap-core-device, device: 'Motorola V730', os: Other, ua: Other, class: mobile }
+'Motorola V750-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V750', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V8-Linux-Opera': { source: uap-core-device, device: 'Motorola V8', os: Linux, ua: Opera, class: mobile }
+'Motorola V80-Other-Other': { source: uap-core-device, device: 'Motorola V80', os: Other, ua: Other, class: mobile }
+'Motorola V8088-Other-Other': { source: uap-core-device, device: 'Motorola V8088', os: Other, ua: Other, class: mobile }
+'Motorola V810-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V810', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V82GB-Other-Other': { source: uap-core-device, device: 'Motorola V82GB', os: Other, ua: Other, class: mobile }
+'Motorola V860-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V860', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V868-Other-Other': { source: uap-core-device, device: 'Motorola V868', os: Other, ua: Other, class: mobile }
+'Motorola V872-Other-Other': { source: uap-core-device, device: 'Motorola V872', os: Other, ua: Other, class: mobile }
+'Motorola V878-Other-Other': { source: uap-core-device, device: 'Motorola V878', os: Other, ua: Other, class: mobile }
+'Motorola V975-Other-Other': { source: uap-core-device, device: 'Motorola V975', os: Other, ua: Other, class: mobile }
+'Motorola V980-Other-Other': { source: uap-core-device, device: 'Motorola V980', os: Other, ua: Other, class: mobile }
+'Motorola V980M-Other-Other': { source: uap-core-device, device: 'Motorola V980M', os: Other, ua: Other, class: mobile }
+'Motorola V9m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola V9m', os: Other, ua: UP.Browser, class: mobile }
+'Motorola V9mm-Other-Other': { source: uap-core-device, device: 'Motorola V9mm', os: Other, ua: Other, class: mobile }
+'Motorola VA76r-Other-Other': { source: uap-core-device, device: 'Motorola VA76r', os: Other, ua: Other, class: mobile }
+'Motorola VE20-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE20', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VE240-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE240', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VE440-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE440', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VE465-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE465', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VE538-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VE538', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VE66-Other-Other': { source: uap-core-device, device: 'Motorola VE66', os: Other, ua: Other, class: mobile }
+'Motorola VEGAS-Other-Other': { source: uap-core-device, device: 'Motorola VEGAS', os: Other, ua: Other, class: mobile }
+'Motorola VERBATIM_E1-Other-Other': { source: uap-core-device, device: 'Motorola VERBATIM_E1', os: Other, ua: Other, class: mobile }
+'Motorola VU204-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VU204', os: Other, ua: UP.Browser, class: mobile }
+'Motorola VU30-Other-UP.Browser': { source: uap-core-device, device: 'Motorola VU30', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W211-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W211', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W213-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W213', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W220-Other-Other': { source: uap-core-device, device: 'Motorola W220', os: Other, ua: Other, class: mobile }
+'Motorola W230-Other-Other': { source: uap-core-device, device: 'Motorola W230', os: Other, ua: Other, class: mobile }
+'Motorola W231-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W231', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W233-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W233', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W270-Other-Other': { source: uap-core-device, device: 'Motorola W270', os: Other, ua: Other, class: mobile }
+'Motorola W315-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W315', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W360-Other-Other': { source: uap-core-device, device: 'Motorola W360', os: Other, ua: Other, class: mobile }
+'Motorola W370-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W370', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W371-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W371', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W375-Other-Other': { source: uap-core-device, device: 'Motorola W375', os: Other, ua: Other, class: mobile }
+'Motorola W376g-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W376g', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W377-Other-Other': { source: uap-core-device, device: 'Motorola W377', os: Other, ua: Other, class: mobile }
+'Motorola W377g-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W377g', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W385-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W385', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W385m-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W385m', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W388-Other-Other': { source: uap-core-device, device: 'Motorola W388', os: Other, ua: Other, class: mobile }
+'Motorola W388_CMCC-Other-Other': { source: uap-core-device, device: 'Motorola W388_CMCC', os: Other, ua: Other, class: mobile }
+'Motorola W396-Other-Other': { source: uap-core-device, device: 'Motorola W396', os: Other, ua: Other, class: mobile }
+'Motorola W397v-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W397v', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W398-Other-Other': { source: uap-core-device, device: 'Motorola W398', os: Other, ua: Other, class: mobile }
+'Motorola W403-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W403', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W408g-Other-Other': { source: uap-core-device, device: 'Motorola W408g', os: Other, ua: Other, class: mobile }
+'Motorola W418G-Other-Obigo': { source: uap-core-device, device: 'Motorola W418G', os: Other, ua: Obigo, class: mobile }
+'Motorola W419G-Other-Obigo': { source: uap-core-device, device: 'Motorola W419G', os: Other, ua: Obigo, class: mobile }
+'Motorola W490-Other-Other': { source: uap-core-device, device: 'Motorola W490', os: Other, ua: Other, class: mobile }
+'Motorola W5-Other-Other': { source: uap-core-device, device: 'Motorola W5', os: Other, ua: Other, class: mobile }
+'Motorola W510-Other-Other': { source: uap-core-device, device: 'Motorola W510', os: Other, ua: Other, class: mobile }
+'Motorola W6-Other-Other': { source: uap-core-device, device: 'Motorola W6', os: Other, ua: Other, class: mobile }
+'Motorola W7-Other-Other': { source: uap-core-device, device: 'Motorola W7', os: Other, ua: Other, class: mobile }
+'Motorola W755-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W755', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W760r-Other-Other': { source: uap-core-device, device: 'Motorola W760r', os: Other, ua: Other, class: mobile }
+'Motorola W766-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W766', os: Other, ua: UP.Browser, class: mobile }
+'Motorola w800-Other-Other': { source: uap-core-device, device: 'Motorola w800', os: Other, ua: Other, class: mobile }
+'Motorola W840-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W840', os: Other, ua: UP.Browser, class: mobile }
+'Motorola W845-Other-UP.Browser': { source: uap-core-device, device: 'Motorola W845', os: Other, ua: UP.Browser, class: mobile }
+'Motorola WALKMAN-Other-Other': { source: uap-core-device, device: 'Motorola WALKMAN', os: Other, ua: Other, class: mobile }
+'Motorola WX308-Other-Other': { source: uap-core-device, device: 'Motorola WX308', os: Other, ua: Other, class: mobile }
+'Motorola WX345-Other-Obigo': { source: uap-core-device, device: 'Motorola WX345', os: Other, ua: Obigo, class: mobile }
+'Motorola WX400-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX400', os: Other, ua: UP.Browser, class: mobile }
+'Motorola WX404-Other-Other': { source: uap-core-device, device: 'Motorola WX404', os: Other, ua: Other, class: mobile }
+'Motorola WX415-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX415', os: Other, ua: UP.Browser, class: mobile }
+'Motorola WX430-Other-UP.Browser': { source: uap-core-device, device: 'Motorola WX430', os: Other, ua: UP.Browser, class: mobile }
+'Motorola WX450-Other-Other': { source: uap-core-device, device: 'Motorola WX450', os: Other, ua: Other, class: mobile }
+'Motorola XT301-Android-Android': { source: uap-core-device, device: 'Motorola XT301', os: Android, ua: Android, class: mobile }
+'Motorola XT681-Android-UC Browser': { source: uap-core-device, device: 'Motorola XT681', os: Android, ua: 'UC Browser', class: mobile }
+'Motorola XT800-Android-Android': { source: uap-core-device, device: 'Motorola XT800', os: Android, ua: Android, class: mobile }
+'Motorola XT806-Android-Android': { source: uap-core-device, device: 'Motorola XT806', os: Android, ua: Android, class: mobile }
+'Motorola XT882-Android-Android': { source: uap-core-device, device: 'Motorola XT882', os: Android, ua: Android, class: mobile }
+'Motorola XT883-Android-Android': { source: uap-core-device, device: 'Motorola XT883', os: Android, ua: Android, class: mobile }
+'Motorola XT889-Android-Android': { source: uap-core-device, device: 'Motorola XT889', os: Android, ua: Android, class: mobile }
+'Motorola Z3-Other-Other': { source: uap-core-device, device: 'Motorola Z3', os: Other, ua: Other, class: mobile }
+'Motorola Z6-Linux-Opera': { source: uap-core-device, device: 'Motorola Z6', os: Linux, ua: Opera, class: mobile }
+'Motorola Z6w-Other-Other': { source: uap-core-device, device: 'Motorola Z6w', os: Other, ua: Other, class: mobile }
+'Motorola ZN200-Other-Other': { source: uap-core-device, device: 'Motorola ZN200', os: Other, ua: Other, class: mobile }
+'Motorola ZN300-Other-Opera': { source: uap-core-device, device: 'Motorola ZN300', os: Other, ua: Opera, class: mobile }
+'Motorola ZN4-Other-UP.Browser': { source: uap-core-device, device: 'Motorola ZN4', os: Other, ua: UP.Browser, class: mobile }
+'Motorola ZN5-Other-Other': { source: uap-core-device, device: 'Motorola ZN5', os: Other, ua: Other, class: mobile }
 MID102C-Android-Android: { source: uap-core-device, device: MID102C, os: Android, ua: Android, class: '' }
 MID104C-Android-Chrome: { source: uap-core-device, device: MID104C, os: Android, ua: Chrome, class: '' }
 MID114C-Android-Chrome: { source: uap-core-device, device: MID114C, os: Android, ua: Chrome, class: '' }
