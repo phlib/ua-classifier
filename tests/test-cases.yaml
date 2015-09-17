@@ -117,7 +117,7 @@ Spider-Other-Riddler: { source: uap-core-device, device: Spider, os: Other, ua: 
 'Pantech P8010-Android-Android': { source: uap-core-device, device: 'Pantech P8010', os: Android, ua: Android, class: '' }
 F-10D-Android-Android: { source: uap-core-device, device: F-10D, os: Android, ua: Android, class: '' }
 'sprd SPHS-on-Hsdroid-Android-Android': { source: uap-core-device, device: 'sprd SPHS-on-Hsdroid', os: Android, ua: Android, class: '' }
-'Sony LT30p-Android-Android': { source: uap-core-device, device: 'Sony LT30p', os: Android, ua: Android, class: '' }
+'Sony LT30p-Android-Android': { source: uap-core-device, device: 'Sony LT30p', os: Android, ua: Android, class: mobile }
 Spider-Other-DBot: { source: uap-core-device, device: Spider, os: Other, ua: DBot, class: spider }
 Spider-Other-Other: { source: uap-core-device, device: Spider, os: Other, ua: Other, class: spider }
 'ZTE Z830-Android-Chrome Mobile': { source: uap-core-device, device: 'ZTE Z830', os: Android, ua: 'Chrome Mobile', class: '' }
@@ -13068,109 +13068,109 @@ WF7C-Android-Chrome: { source: uap-core-device, device: WF7C, os: Android, ua: C
 'SmartQ V5-Android-Android': { source: uap-core-device, device: 'SmartQ V5', os: Android, ua: Android, class: '' }
 'SmartQ V5II-Android-Android': { source: uap-core-device, device: 'SmartQ V5II', os: Android, ua: Android, class: '' }
 'SmartQ V7-Android-Android': { source: uap-core-device, device: 'SmartQ V7', os: Android, ua: Android, class: '' }
-'Sony SW2-Android-Chrome Mobile': { source: uap-core-device, device: 'Sony SW2', os: Android, ua: 'Chrome Mobile', class: '' }
-Sony-Android-Other: { source: uap-core-device, device: Sony, os: Android, ua: Other, class: '' }
-'Sony Tablet P-Android-Chrome': { source: uap-core-device, device: 'Sony Tablet P', os: Android, ua: Chrome, class: '' }
-'Sony Tablet S-Android-Chrome': { source: uap-core-device, device: 'Sony Tablet S', os: Android, ua: Chrome, class: '' }
-'Sony C6603-Android-Android': { source: uap-core-device, device: 'Sony C6603', os: Android, ua: Android, class: '' }
-'Sony SGP312-Android-Android': { source: uap-core-device, device: 'Sony SGP312', os: Android, ua: Android, class: '' }
-'Sony SGP321-Android-Android': { source: uap-core-device, device: 'Sony SGP321', os: Android, ua: Android, class: '' }
-'Sony SOL22-Android-Android': { source: uap-core-device, device: 'Sony SOL22', os: Android, ua: Android, class: '' }
-'Sony tablet p-Android-Android': { source: uap-core-device, device: 'Sony tablet p', os: Android, ua: Android, class: '' }
-'Sony Xperia Neo V-Android-Android': { source: uap-core-device, device: 'Sony Xperia Neo V', os: Android, ua: Android, class: '' }
-'Sony Xperia Z-Android-Android': { source: uap-core-device, device: 'Sony Xperia Z', os: Android, ua: Android, class: '' }
-'Sony Xperia Z1-Android-Android': { source: uap-core-device, device: 'Sony Xperia Z1', os: Android, ua: Android, class: '' }
-'Sony C1504-Android-Android': { source: uap-core-device, device: 'Sony C1504', os: Android, ua: Android, class: '' }
-'Sony C1505-Android-Android': { source: uap-core-device, device: 'Sony C1505', os: Android, ua: Android, class: '' }
-'Sony C1505-o-Android-Android': { source: uap-core-device, device: 'Sony C1505-o', os: Android, ua: Android, class: '' }
-'Sony C1505v-Android-Android': { source: uap-core-device, device: 'Sony C1505v', os: Android, ua: Android, class: '' }
-'Sony C1604-Android-Android': { source: uap-core-device, device: 'Sony C1604', os: Android, ua: Android, class: '' }
-'Sony C1605-Android-Android': { source: uap-core-device, device: 'Sony C1605', os: Android, ua: Android, class: '' }
-'Sony C1905-Android-Android': { source: uap-core-device, device: 'Sony C1905', os: Android, ua: Android, class: '' }
-'Sony C2105-Android-Android': { source: uap-core-device, device: 'Sony C2105', os: Android, ua: Android, class: '' }
-'Sony C5302-Android-Android': { source: uap-core-device, device: 'Sony C5302', os: Android, ua: Android, class: '' }
-'Sony C5303-Android-Android': { source: uap-core-device, device: 'Sony C5303', os: Android, ua: Android, class: '' }
-'Sony C5306-Android-Android': { source: uap-core-device, device: 'Sony C5306', os: Android, ua: Android, class: '' }
-'Sony C6506-Android-Android': { source: uap-core-device, device: 'Sony C6506', os: Android, ua: Android, class: '' }
-'Sony C6606-Android-Android': { source: uap-core-device, device: 'Sony C6606', os: Android, ua: Android, class: '' }
-'Sony C6833-Android-Android': { source: uap-core-device, device: 'Sony C6833', os: Android, ua: Android, class: '' }
-'Sony C6903-Android-Android': { source: uap-core-device, device: 'Sony C6903', os: Android, ua: Android, class: '' }
-'Sony C6906-Android-Android': { source: uap-core-device, device: 'Sony C6906', os: Android, ua: Android, class: '' }
-'Sony D5503-Android-Android': { source: uap-core-device, device: 'Sony D5503', os: Android, ua: Android, class: '' }
-'Sony L35h-Android-Android': { source: uap-core-device, device: 'Sony L35h', os: Android, ua: Android, class: '' }
-'Sony L36h-Android-Android': { source: uap-core-device, device: 'Sony L36h', os: Android, ua: Android, class: '' }
-'Sony L39h-Android-Android': { source: uap-core-device, device: 'Sony L39h', os: Android, ua: Android, class: '' }
-'Sony LT22i-Android-Android': { source: uap-core-device, device: 'Sony LT22i', os: Android, ua: Android, class: '' }
-'Sony LT22i-o-Android-Android': { source: uap-core-device, device: 'Sony LT22i-o', os: Android, ua: Android, class: '' }
-'Sony LT25i-Android-Android': { source: uap-core-device, device: 'Sony LT25i', os: Android, ua: Android, class: '' }
-'Sony LT26i-Android-Android': { source: uap-core-device, device: 'Sony LT26i', os: Android, ua: Android, class: '' }
-'Sony LT26i-o-Android-Android': { source: uap-core-device, device: 'Sony LT26i-o', os: Android, ua: Android, class: '' }
-'Sony LT26ii-Android-Android': { source: uap-core-device, device: 'Sony LT26ii', os: Android, ua: Android, class: '' }
-'Sony LT26iv-Android-Android': { source: uap-core-device, device: 'Sony LT26iv', os: Android, ua: Android, class: '' }
-'Sony LT26w-Android-Android': { source: uap-core-device, device: 'Sony LT26w', os: Android, ua: Android, class: '' }
-'Sony LT28h-Android-Android': { source: uap-core-device, device: 'Sony LT28h', os: Android, ua: Android, class: '' }
-'Sony LT28i-Android-Android': { source: uap-core-device, device: 'Sony LT28i', os: Android, ua: Android, class: '' }
-'Sony LT29i-Android-Android': { source: uap-core-device, device: 'Sony LT29i', os: Android, ua: Android, class: '' }
-'Sony LT30a-Android-Android': { source: uap-core-device, device: 'Sony LT30a', os: Android, ua: Android, class: '' }
-'Sony LT30at-Android-Android': { source: uap-core-device, device: 'Sony LT30at', os: Android, ua: Android, class: '' }
-'Sony LT30p-o-Android-Android': { source: uap-core-device, device: 'Sony LT30p-o', os: Android, ua: Android, class: '' }
-'Sony M35h-Android-Android': { source: uap-core-device, device: 'Sony M35h', os: Android, ua: Android, class: '' }
-'Sony M36h-Android-Android': { source: uap-core-device, device: 'Sony M36h', os: Android, ua: Android, class: '' }
-'Sony Mint-Android-Android': { source: uap-core-device, device: 'Sony Mint', os: Android, ua: Android, class: '' }
-'Sony MT27i-Android-Android': { source: uap-core-device, device: 'Sony MT27i', os: Android, ua: Android, class: '' }
-'Sony S36h-Android-Android': { source: uap-core-device, device: 'Sony S36h', os: Android, ua: Android, class: '' }
-'Sony SGP311-Android-Android': { source: uap-core-device, device: 'Sony SGP311', os: Android, ua: Android, class: '' }
-'Sony SO-01E-Android-Android': { source: uap-core-device, device: 'Sony SO-01E', os: Android, ua: Android, class: '' }
-'Sony SO-02E-Android-Android': { source: uap-core-device, device: 'Sony SO-02E', os: Android, ua: Android, class: '' }
-'Sony SO-02F-Android-Android': { source: uap-core-device, device: 'Sony SO-02F', os: Android, ua: Android, class: '' }
-'Sony SO-03E-Android-Android': { source: uap-core-device, device: 'Sony SO-03E', os: Android, ua: Android, class: '' }
-'Sony SO-04D-Android-Android': { source: uap-core-device, device: 'Sony SO-04D', os: Android, ua: Android, class: '' }
-'Sony SO-04E-Android-Android': { source: uap-core-device, device: 'Sony SO-04E', os: Android, ua: Android, class: '' }
-'Sony SO-04EM-Android-Android': { source: uap-core-device, device: 'Sony SO-04EM', os: Android, ua: Android, class: '' }
-'Sony SO-05D-Android-Android': { source: uap-core-device, device: 'Sony SO-05D', os: Android, ua: Android, class: '' }
-'Sony SOL21-Android-Android': { source: uap-core-device, device: 'Sony SOL21', os: Android, ua: Android, class: '' }
-'Sony SOL23-Android-Android': { source: uap-core-device, device: 'Sony SOL23', os: Android, ua: Android, class: '' }
-'Sony ST21a-Android-Android': { source: uap-core-device, device: 'Sony ST21a', os: Android, ua: Android, class: '' }
-'Sony ST21a2-Android-Android': { source: uap-core-device, device: 'Sony ST21a2', os: Android, ua: Android, class: '' }
-'Sony ST21i-Android-Android': { source: uap-core-device, device: 'Sony ST21i', os: Android, ua: Android, class: '' }
-'Sony ST21i-o-Android-Android': { source: uap-core-device, device: 'Sony ST21i-o', os: Android, ua: Android, class: '' }
-'Sony ST21i2-Android-Android': { source: uap-core-device, device: 'Sony ST21i2', os: Android, ua: Android, class: '' }
-'Sony ST21iv-Android-Android': { source: uap-core-device, device: 'Sony ST21iv', os: Android, ua: Android, class: '' }
-'Sony ST23a-Android-Android': { source: uap-core-device, device: 'Sony ST23a', os: Android, ua: Android, class: '' }
-'Sony ST23i-Android-Android': { source: uap-core-device, device: 'Sony ST23i', os: Android, ua: Android, class: '' }
-'Sony ST23iv-Android-Android': { source: uap-core-device, device: 'Sony ST23iv', os: Android, ua: Android, class: '' }
-'Sony ST25i-Android-Android': { source: uap-core-device, device: 'Sony ST25i', os: Android, ua: Android, class: '' }
-'Sony ST26a-Android-Android': { source: uap-core-device, device: 'Sony ST26a', os: Android, ua: Android, class: '' }
-'Sony ST26i-Android-Android': { source: uap-core-device, device: 'Sony ST26i', os: Android, ua: Android, class: '' }
-'Sony ST26i-o-Android-Android': { source: uap-core-device, device: 'Sony ST26i-o', os: Android, ua: Android, class: '' }
-'Sony ST26iv-Android-Android': { source: uap-core-device, device: 'Sony ST26iv', os: Android, ua: Android, class: '' }
-'Sony ST27i-Android-Android': { source: uap-core-device, device: 'Sony ST27i', os: Android, ua: Android, class: '' }
-'Sony X8-Android-Android': { source: uap-core-device, device: 'Sony X8', os: Android, ua: Android, class: '' }
-'Sony XM50h-Android-Android': { source: uap-core-device, device: 'Sony XM50h', os: Android, ua: Android, class: '' }
-'Xperia 945-Android-Android': { source: uap-core-device, device: 'Xperia 945', os: Android, ua: Android, class: '' }
-'Xperia E-Android-Android': { source: uap-core-device, device: 'Xperia E', os: Android, ua: Android, class: '' }
-'Xperia E dual-Android-Android': { source: uap-core-device, device: 'Xperia E dual', os: Android, ua: Android, class: '' }
-'Xperia Go-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Go', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia hallon-Android-Android': { source: uap-core-device, device: 'Xperia hallon', os: Android, ua: Android, class: '' }
-'Xperia ion-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia ion', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia J-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia J', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Miro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Miro', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia P-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia P', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia S', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Sola-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Sola', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia SP-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia SP', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia T-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia T', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Tablet S-Android-Android': { source: uap-core-device, device: 'Xperia Tablet S', os: Android, ua: Android, class: '' }
-'Xperia Tablet Z WiFi-Android-Chrome': { source: uap-core-device, device: 'Xperia Tablet Z WiFi', os: Android, ua: Chrome, class: '' }
-'Xperia Tipo-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Tipo', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia U-Android-Opera Mobile': { source: uap-core-device, device: 'Xperia U', os: Android, ua: 'Opera Mobile', class: '' }
-'Xperia u-Android-Android': { source: uap-core-device, device: 'Xperia u', os: Android, ua: Android, class: '' }
-'Xperia V-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia V', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Z-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Z Ultra-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z Ultra', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Z1-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z1', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Z1 Compact-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z1 Compact', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia ZL-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia ZL', os: Android, ua: 'Chrome Mobile', class: '' }
+'Sony SW2-Android-Chrome Mobile': { source: uap-core-device, device: 'Sony SW2', os: Android, ua: 'Chrome Mobile', class: mobile }
+Sony-Android-Other: { source: uap-core-device, device: Sony, os: Android, ua: Other, class: mobile }
+'Sony Tablet P-Android-Chrome': { source: uap-core-device, device: 'Sony Tablet P', os: Android, ua: Chrome, class: tablet }
+'Sony Tablet S-Android-Chrome': { source: uap-core-device, device: 'Sony Tablet S', os: Android, ua: Chrome, class: tablet }
+'Sony C6603-Android-Android': { source: uap-core-device, device: 'Sony C6603', os: Android, ua: Android, class: mobile }
+'Sony SGP312-Android-Android': { source: uap-core-device, device: 'Sony SGP312', os: Android, ua: Android, class: mobile }
+'Sony SGP321-Android-Android': { source: uap-core-device, device: 'Sony SGP321', os: Android, ua: Android, class: mobile }
+'Sony SOL22-Android-Android': { source: uap-core-device, device: 'Sony SOL22', os: Android, ua: Android, class: mobile }
+'Sony tablet p-Android-Android': { source: uap-core-device, device: 'Sony tablet p', os: Android, ua: Android, class: tablet }
+'Sony Xperia Neo V-Android-Android': { source: uap-core-device, device: 'Sony Xperia Neo V', os: Android, ua: Android, class: mobile }
+'Sony Xperia Z-Android-Android': { source: uap-core-device, device: 'Sony Xperia Z', os: Android, ua: Android, class: mobile }
+'Sony Xperia Z1-Android-Android': { source: uap-core-device, device: 'Sony Xperia Z1', os: Android, ua: Android, class: mobile }
+'Sony C1504-Android-Android': { source: uap-core-device, device: 'Sony C1504', os: Android, ua: Android, class: mobile }
+'Sony C1505-Android-Android': { source: uap-core-device, device: 'Sony C1505', os: Android, ua: Android, class: mobile }
+'Sony C1505-o-Android-Android': { source: uap-core-device, device: 'Sony C1505-o', os: Android, ua: Android, class: mobile }
+'Sony C1505v-Android-Android': { source: uap-core-device, device: 'Sony C1505v', os: Android, ua: Android, class: mobile }
+'Sony C1604-Android-Android': { source: uap-core-device, device: 'Sony C1604', os: Android, ua: Android, class: mobile }
+'Sony C1605-Android-Android': { source: uap-core-device, device: 'Sony C1605', os: Android, ua: Android, class: mobile }
+'Sony C1905-Android-Android': { source: uap-core-device, device: 'Sony C1905', os: Android, ua: Android, class: mobile }
+'Sony C2105-Android-Android': { source: uap-core-device, device: 'Sony C2105', os: Android, ua: Android, class: mobile }
+'Sony C5302-Android-Android': { source: uap-core-device, device: 'Sony C5302', os: Android, ua: Android, class: mobile }
+'Sony C5303-Android-Android': { source: uap-core-device, device: 'Sony C5303', os: Android, ua: Android, class: mobile }
+'Sony C5306-Android-Android': { source: uap-core-device, device: 'Sony C5306', os: Android, ua: Android, class: mobile }
+'Sony C6506-Android-Android': { source: uap-core-device, device: 'Sony C6506', os: Android, ua: Android, class: mobile }
+'Sony C6606-Android-Android': { source: uap-core-device, device: 'Sony C6606', os: Android, ua: Android, class: mobile }
+'Sony C6833-Android-Android': { source: uap-core-device, device: 'Sony C6833', os: Android, ua: Android, class: mobile }
+'Sony C6903-Android-Android': { source: uap-core-device, device: 'Sony C6903', os: Android, ua: Android, class: mobile }
+'Sony C6906-Android-Android': { source: uap-core-device, device: 'Sony C6906', os: Android, ua: Android, class: mobile }
+'Sony D5503-Android-Android': { source: uap-core-device, device: 'Sony D5503', os: Android, ua: Android, class: mobile }
+'Sony L35h-Android-Android': { source: uap-core-device, device: 'Sony L35h', os: Android, ua: Android, class: mobile }
+'Sony L36h-Android-Android': { source: uap-core-device, device: 'Sony L36h', os: Android, ua: Android, class: mobile }
+'Sony L39h-Android-Android': { source: uap-core-device, device: 'Sony L39h', os: Android, ua: Android, class: mobile }
+'Sony LT22i-Android-Android': { source: uap-core-device, device: 'Sony LT22i', os: Android, ua: Android, class: mobile }
+'Sony LT22i-o-Android-Android': { source: uap-core-device, device: 'Sony LT22i-o', os: Android, ua: Android, class: mobile }
+'Sony LT25i-Android-Android': { source: uap-core-device, device: 'Sony LT25i', os: Android, ua: Android, class: mobile }
+'Sony LT26i-Android-Android': { source: uap-core-device, device: 'Sony LT26i', os: Android, ua: Android, class: mobile }
+'Sony LT26i-o-Android-Android': { source: uap-core-device, device: 'Sony LT26i-o', os: Android, ua: Android, class: mobile }
+'Sony LT26ii-Android-Android': { source: uap-core-device, device: 'Sony LT26ii', os: Android, ua: Android, class: mobile }
+'Sony LT26iv-Android-Android': { source: uap-core-device, device: 'Sony LT26iv', os: Android, ua: Android, class: mobile }
+'Sony LT26w-Android-Android': { source: uap-core-device, device: 'Sony LT26w', os: Android, ua: Android, class: mobile }
+'Sony LT28h-Android-Android': { source: uap-core-device, device: 'Sony LT28h', os: Android, ua: Android, class: mobile }
+'Sony LT28i-Android-Android': { source: uap-core-device, device: 'Sony LT28i', os: Android, ua: Android, class: mobile }
+'Sony LT29i-Android-Android': { source: uap-core-device, device: 'Sony LT29i', os: Android, ua: Android, class: mobile }
+'Sony LT30a-Android-Android': { source: uap-core-device, device: 'Sony LT30a', os: Android, ua: Android, class: mobile }
+'Sony LT30at-Android-Android': { source: uap-core-device, device: 'Sony LT30at', os: Android, ua: Android, class: mobile }
+'Sony LT30p-o-Android-Android': { source: uap-core-device, device: 'Sony LT30p-o', os: Android, ua: Android, class: mobile }
+'Sony M35h-Android-Android': { source: uap-core-device, device: 'Sony M35h', os: Android, ua: Android, class: mobile }
+'Sony M36h-Android-Android': { source: uap-core-device, device: 'Sony M36h', os: Android, ua: Android, class: mobile }
+'Sony Mint-Android-Android': { source: uap-core-device, device: 'Sony Mint', os: Android, ua: Android, class: mobile }
+'Sony MT27i-Android-Android': { source: uap-core-device, device: 'Sony MT27i', os: Android, ua: Android, class: mobile }
+'Sony S36h-Android-Android': { source: uap-core-device, device: 'Sony S36h', os: Android, ua: Android, class: mobile }
+'Sony SGP311-Android-Android': { source: uap-core-device, device: 'Sony SGP311', os: Android, ua: Android, class: mobile }
+'Sony SO-01E-Android-Android': { source: uap-core-device, device: 'Sony SO-01E', os: Android, ua: Android, class: mobile }
+'Sony SO-02E-Android-Android': { source: uap-core-device, device: 'Sony SO-02E', os: Android, ua: Android, class: mobile }
+'Sony SO-02F-Android-Android': { source: uap-core-device, device: 'Sony SO-02F', os: Android, ua: Android, class: mobile }
+'Sony SO-03E-Android-Android': { source: uap-core-device, device: 'Sony SO-03E', os: Android, ua: Android, class: mobile }
+'Sony SO-04D-Android-Android': { source: uap-core-device, device: 'Sony SO-04D', os: Android, ua: Android, class: mobile }
+'Sony SO-04E-Android-Android': { source: uap-core-device, device: 'Sony SO-04E', os: Android, ua: Android, class: mobile }
+'Sony SO-04EM-Android-Android': { source: uap-core-device, device: 'Sony SO-04EM', os: Android, ua: Android, class: mobile }
+'Sony SO-05D-Android-Android': { source: uap-core-device, device: 'Sony SO-05D', os: Android, ua: Android, class: mobile }
+'Sony SOL21-Android-Android': { source: uap-core-device, device: 'Sony SOL21', os: Android, ua: Android, class: mobile }
+'Sony SOL23-Android-Android': { source: uap-core-device, device: 'Sony SOL23', os: Android, ua: Android, class: mobile }
+'Sony ST21a-Android-Android': { source: uap-core-device, device: 'Sony ST21a', os: Android, ua: Android, class: mobile }
+'Sony ST21a2-Android-Android': { source: uap-core-device, device: 'Sony ST21a2', os: Android, ua: Android, class: mobile }
+'Sony ST21i-Android-Android': { source: uap-core-device, device: 'Sony ST21i', os: Android, ua: Android, class: mobile }
+'Sony ST21i-o-Android-Android': { source: uap-core-device, device: 'Sony ST21i-o', os: Android, ua: Android, class: mobile }
+'Sony ST21i2-Android-Android': { source: uap-core-device, device: 'Sony ST21i2', os: Android, ua: Android, class: mobile }
+'Sony ST21iv-Android-Android': { source: uap-core-device, device: 'Sony ST21iv', os: Android, ua: Android, class: mobile }
+'Sony ST23a-Android-Android': { source: uap-core-device, device: 'Sony ST23a', os: Android, ua: Android, class: mobile }
+'Sony ST23i-Android-Android': { source: uap-core-device, device: 'Sony ST23i', os: Android, ua: Android, class: mobile }
+'Sony ST23iv-Android-Android': { source: uap-core-device, device: 'Sony ST23iv', os: Android, ua: Android, class: mobile }
+'Sony ST25i-Android-Android': { source: uap-core-device, device: 'Sony ST25i', os: Android, ua: Android, class: mobile }
+'Sony ST26a-Android-Android': { source: uap-core-device, device: 'Sony ST26a', os: Android, ua: Android, class: mobile }
+'Sony ST26i-Android-Android': { source: uap-core-device, device: 'Sony ST26i', os: Android, ua: Android, class: mobile }
+'Sony ST26i-o-Android-Android': { source: uap-core-device, device: 'Sony ST26i-o', os: Android, ua: Android, class: mobile }
+'Sony ST26iv-Android-Android': { source: uap-core-device, device: 'Sony ST26iv', os: Android, ua: Android, class: mobile }
+'Sony ST27i-Android-Android': { source: uap-core-device, device: 'Sony ST27i', os: Android, ua: Android, class: mobile }
+'Sony X8-Android-Android': { source: uap-core-device, device: 'Sony X8', os: Android, ua: Android, class: mobile }
+'Sony XM50h-Android-Android': { source: uap-core-device, device: 'Sony XM50h', os: Android, ua: Android, class: mobile }
+'Xperia 945-Android-Android': { source: uap-core-device, device: 'Xperia 945', os: Android, ua: Android, class: mobile }
+'Xperia E-Android-Android': { source: uap-core-device, device: 'Xperia E', os: Android, ua: Android, class: mobile }
+'Xperia E dual-Android-Android': { source: uap-core-device, device: 'Xperia E dual', os: Android, ua: Android, class: mobile }
+'Xperia Go-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Go', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia hallon-Android-Android': { source: uap-core-device, device: 'Xperia hallon', os: Android, ua: Android, class: mobile }
+'Xperia ion-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia ion', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia J-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia J', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Miro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Miro', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia P-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia P', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia S', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Sola-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Sola', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia SP-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia SP', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia T-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia T', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Tablet S-Android-Android': { source: uap-core-device, device: 'Xperia Tablet S', os: Android, ua: Android, class: tablet }
+'Xperia Tablet Z WiFi-Android-Chrome': { source: uap-core-device, device: 'Xperia Tablet Z WiFi', os: Android, ua: Chrome, class: tablet }
+'Xperia Tipo-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Tipo', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia U-Android-Opera Mobile': { source: uap-core-device, device: 'Xperia U', os: Android, ua: 'Opera Mobile', class: mobile }
+'Xperia u-Android-Android': { source: uap-core-device, device: 'Xperia u', os: Android, ua: Android, class: mobile }
+'Xperia V-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia V', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Z-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Z Ultra-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z Ultra', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Z1-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z1', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Z1 Compact-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Z1 Compact', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia ZL-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia ZL', os: Android, ua: 'Chrome Mobile', class: mobile }
 C1000-Android-Android: { source: uap-core-device, device: C1000, os: Android, ua: Android, class: '' }
 'C1504-Android-Chrome Mobile': { source: uap-core-device, device: C1504, os: Android, ua: 'Chrome Mobile', class: '' }
 C1505-Android-Android: { source: uap-core-device, device: C1505, os: Android, ua: Android, class: '' }
@@ -13227,42 +13227,42 @@ SGPT13-Android-Chrome: { source: uap-core-device, device: SGPT13, os: Android, u
 'PlayStation 3-Other-Other': { source: uap-core-device, device: 'PlayStation 3', os: Other, ua: Other, class: desktop }
 PalmOS-Other-NetFront: { source: uap-core-device, device: PalmOS, os: Other, ua: NetFront, class: '' }
 Inettv-Linux-Opera: { source: uap-core-device, device: Inettv, os: Linux, ua: Opera, class: desktop }
-'Sony D6503-Android-Android': { source: uap-core-device, device: 'Sony D6503', os: Android, ua: Android, class: '' }
-'Sony C1505-Other-Other': { source: uap-core-device, device: 'Sony C1505', os: Other, ua: Other, class: '' }
-'Sony C1605-Other-Other': { source: uap-core-device, device: 'Sony C1605', os: Other, ua: Other, class: '' }
-'Sony C5303-Other-Other': { source: uap-core-device, device: 'Sony C5303', os: Other, ua: Other, class: '' }
-'Sony COM2-Linux-Other': { source: uap-core-device, device: 'Sony COM2', os: Linux, ua: Other, class: '' }
-'Sony LT25i-Other-Other': { source: uap-core-device, device: 'Sony LT25i', os: Other, ua: Other, class: '' }
-'Sony BDV11-Linux-Opera': { source: uap-core-device, device: 'Sony BDV11', os: Linux, ua: Opera, class: '' }
-'Sony BDV12-Linux-Opera': { source: uap-core-device, device: 'Sony BDV12', os: Linux, ua: Opera, class: '' }
-'Sony BDV13-Linux-Opera': { source: uap-core-device, device: 'Sony BDV13', os: Linux, ua: Opera, class: '' }
-'Sony C1904-Other-Other': { source: uap-core-device, device: 'Sony C1904', os: Other, ua: Other, class: '' }
-'Sony C1905-Other-Other': { source: uap-core-device, device: 'Sony C1905', os: Other, ua: Other, class: '' }
-'Sony C2105-Other-Other': { source: uap-core-device, device: 'Sony C2105', os: Other, ua: Other, class: '' }
-'Sony C2305-Other-Other': { source: uap-core-device, device: 'Sony C2305', os: Other, ua: Other, class: '' }
-'Sony C5302-Other-Other': { source: uap-core-device, device: 'Sony C5302', os: Other, ua: Other, class: '' }
-'Sony C5502-Other-Other': { source: uap-core-device, device: 'Sony C5502', os: Other, ua: Other, class: '' }
-'Sony C5503-Other-Other': { source: uap-core-device, device: 'Sony C5503', os: Other, ua: Other, class: '' }
-'Sony C6503-Other-Other': { source: uap-core-device, device: 'Sony C6503', os: Other, ua: Other, class: '' }
-'Sony C6602-Other-Other': { source: uap-core-device, device: 'Sony C6602', os: Other, ua: Other, class: '' }
-'Sony C6603-Other-Other': { source: uap-core-device, device: 'Sony C6603', os: Other, ua: Other, class: '' }
-'Sony C6833-Other-Other': { source: uap-core-device, device: 'Sony C6833', os: Other, ua: Other, class: '' }
-'Sony C6903-Other-Other': { source: uap-core-device, device: 'Sony C6903', os: Other, ua: Other, class: '' }
-'Ericsson LT15a-Android-Android': { source: uap-core-device, device: 'Ericsson LT15a', os: Android, ua: Android, class: '' }
-'Sony LT22i-Other-Other': { source: uap-core-device, device: 'Sony LT22i', os: Other, ua: Other, class: '' }
-'Sony LT30p-Other-Other': { source: uap-core-device, device: 'Sony LT30p', os: Other, ua: Other, class: '' }
-'Sony MT27i-Other-Other': { source: uap-core-device, device: 'Sony MT27i', os: Other, ua: Other, class: '' }
-'Sony ricssonK850i-Other-NetFront': { source: uap-core-device, device: 'Sony ricssonK850i', os: Other, ua: NetFront, class: '' }
-'Sony SGP311-Other-Other': { source: uap-core-device, device: 'Sony SGP311', os: Other, ua: Other, class: '' }
-'Sony SGP321-Other-Other': { source: uap-core-device, device: 'Sony SGP321', os: Other, ua: Other, class: '' }
-'Sony SO-01F-Other-Other': { source: uap-core-device, device: 'Sony SO-01F', os: Other, ua: Other, class: '' }
-'Sony SO-02F-Other-Other': { source: uap-core-device, device: 'Sony SO-02F', os: Other, ua: Other, class: '' }
-'Sony SO-04E-Other-Other': { source: uap-core-device, device: 'Sony SO-04E', os: Other, ua: Other, class: '' }
-'Sony ST21i2-Other-Other': { source: uap-core-device, device: 'Sony ST21i2', os: Other, ua: Other, class: '' }
-'Sony ST25i-Other-Other': { source: uap-core-device, device: 'Sony ST25i', os: Other, ua: Other, class: '' }
-'Sony ST27i-Other-Other': { source: uap-core-device, device: 'Sony ST27i', os: Other, ua: Other, class: '' }
-'Sony Xperia-Android-Android': { source: uap-core-device, device: 'Sony Xperia', os: Android, ua: Android, class: '' }
-'Sony Ericsson-Android-Other': { source: uap-core-device, device: 'Sony Ericsson', os: Android, ua: Other, class: '' }
+'Sony D6503-Android-Android': { source: uap-core-device, device: 'Sony D6503', os: Android, ua: Android, class: mobile }
+'Sony C1505-Other-Other': { source: uap-core-device, device: 'Sony C1505', os: Other, ua: Other, class: mobile }
+'Sony C1605-Other-Other': { source: uap-core-device, device: 'Sony C1605', os: Other, ua: Other, class: mobile }
+'Sony C5303-Other-Other': { source: uap-core-device, device: 'Sony C5303', os: Other, ua: Other, class: mobile }
+'Sony COM2-Linux-Other': { source: uap-core-device, device: 'Sony COM2', os: Linux, ua: Other, class: mobile }
+'Sony LT25i-Other-Other': { source: uap-core-device, device: 'Sony LT25i', os: Other, ua: Other, class: mobile }
+'Sony BDV11-Linux-Opera': { source: uap-core-device, device: 'Sony BDV11', os: Linux, ua: Opera, class: mobile }
+'Sony BDV12-Linux-Opera': { source: uap-core-device, device: 'Sony BDV12', os: Linux, ua: Opera, class: mobile }
+'Sony BDV13-Linux-Opera': { source: uap-core-device, device: 'Sony BDV13', os: Linux, ua: Opera, class: mobile }
+'Sony C1904-Other-Other': { source: uap-core-device, device: 'Sony C1904', os: Other, ua: Other, class: mobile }
+'Sony C1905-Other-Other': { source: uap-core-device, device: 'Sony C1905', os: Other, ua: Other, class: mobile }
+'Sony C2105-Other-Other': { source: uap-core-device, device: 'Sony C2105', os: Other, ua: Other, class: mobile }
+'Sony C2305-Other-Other': { source: uap-core-device, device: 'Sony C2305', os: Other, ua: Other, class: mobile }
+'Sony C5302-Other-Other': { source: uap-core-device, device: 'Sony C5302', os: Other, ua: Other, class: mobile }
+'Sony C5502-Other-Other': { source: uap-core-device, device: 'Sony C5502', os: Other, ua: Other, class: mobile }
+'Sony C5503-Other-Other': { source: uap-core-device, device: 'Sony C5503', os: Other, ua: Other, class: mobile }
+'Sony C6503-Other-Other': { source: uap-core-device, device: 'Sony C6503', os: Other, ua: Other, class: mobile }
+'Sony C6602-Other-Other': { source: uap-core-device, device: 'Sony C6602', os: Other, ua: Other, class: mobile }
+'Sony C6603-Other-Other': { source: uap-core-device, device: 'Sony C6603', os: Other, ua: Other, class: mobile }
+'Sony C6833-Other-Other': { source: uap-core-device, device: 'Sony C6833', os: Other, ua: Other, class: mobile }
+'Sony C6903-Other-Other': { source: uap-core-device, device: 'Sony C6903', os: Other, ua: Other, class: mobile }
+'Ericsson LT15a-Android-Android': { source: uap-core-device, device: 'Ericsson LT15a', os: Android, ua: Android, class: mobile }
+'Sony LT22i-Other-Other': { source: uap-core-device, device: 'Sony LT22i', os: Other, ua: Other, class: mobile }
+'Sony LT30p-Other-Other': { source: uap-core-device, device: 'Sony LT30p', os: Other, ua: Other, class: mobile }
+'Sony MT27i-Other-Other': { source: uap-core-device, device: 'Sony MT27i', os: Other, ua: Other, class: mobile }
+'Sony ricssonK850i-Other-NetFront': { source: uap-core-device, device: 'Sony ricssonK850i', os: Other, ua: NetFront, class: mobile }
+'Sony SGP311-Other-Other': { source: uap-core-device, device: 'Sony SGP311', os: Other, ua: Other, class: mobile }
+'Sony SGP321-Other-Other': { source: uap-core-device, device: 'Sony SGP321', os: Other, ua: Other, class: mobile }
+'Sony SO-01F-Other-Other': { source: uap-core-device, device: 'Sony SO-01F', os: Other, ua: Other, class: mobile }
+'Sony SO-02F-Other-Other': { source: uap-core-device, device: 'Sony SO-02F', os: Other, ua: Other, class: mobile }
+'Sony SO-04E-Other-Other': { source: uap-core-device, device: 'Sony SO-04E', os: Other, ua: Other, class: mobile }
+'Sony ST21i2-Other-Other': { source: uap-core-device, device: 'Sony ST21i2', os: Other, ua: Other, class: mobile }
+'Sony ST25i-Other-Other': { source: uap-core-device, device: 'Sony ST25i', os: Other, ua: Other, class: mobile }
+'Sony ST27i-Other-Other': { source: uap-core-device, device: 'Sony ST27i', os: Other, ua: Other, class: mobile }
+'Sony Xperia-Android-Android': { source: uap-core-device, device: 'Sony Xperia', os: Android, ua: Android, class: mobile }
+'Sony Ericsson-Android-Other': { source: uap-core-device, device: 'Sony Ericsson', os: Android, ua: Other, class: mobile }
 SO-01B-Android-Android: { source: uap-core-device, device: SO-01B, os: Android, ua: Android, class: '' }
 SO-01C-Android-Android: { source: uap-core-device, device: SO-01C, os: Android, ua: Android, class: '' }
 'SO-01D-Android-Opera Mobile': { source: uap-core-device, device: SO-01D, os: Android, ua: 'Opera Mobile', class: '' }
@@ -13281,131 +13281,131 @@ SO-03E-Android-Chrome: { source: uap-core-device, device: SO-03E, os: Android, u
 'SO-05D-Android-Chrome Mobile': { source: uap-core-device, device: SO-05D, os: Android, ua: 'Chrome Mobile', class: '' }
 IS11S-Android-Android: { source: uap-core-device, device: IS11S, os: Android, ua: Android, class: '' }
 'IS12S-Android-Chrome Mobile': { source: uap-core-device, device: IS12S, os: Android, ua: 'Chrome Mobile', class: '' }
-'SonyEricssonAllwinner A10-Android-Android': { source: uap-core-device, device: 'SonyEricssonAllwinner A10', os: Android, ua: Android, class: '' }
-SonyEricssonAnzu-Android-Android: { source: uap-core-device, device: SonyEricssonAnzu, os: Android, ua: Android, class: '' }
-SonyEricssonC1505-Android-Android: { source: uap-core-device, device: SonyEricssonC1505, os: Android, ua: Android, class: '' }
-SonyEricssonC1605-Android-Android: { source: uap-core-device, device: SonyEricssonC1605, os: Android, ua: Android, class: '' }
-SonyEricssonC2105-Android-Android: { source: uap-core-device, device: SonyEricssonC2105, os: Android, ua: Android, class: '' }
-SonyEricssonC5302-Android-Android: { source: uap-core-device, device: SonyEricssonC5302, os: Android, ua: Android, class: '' }
-SonyEricssonC5303-Android-Android: { source: uap-core-device, device: SonyEricssonC5303, os: Android, ua: Android, class: '' }
-SonyEricssonC6503-Android-Android: { source: uap-core-device, device: SonyEricssonC6503, os: Android, ua: Android, class: '' }
-SonyEricssonC6602-Android-Android: { source: uap-core-device, device: SonyEricssonC6602, os: Android, ua: Android, class: '' }
-SonyEricssonC6603-Android-Android: { source: uap-core-device, device: SonyEricssonC6603, os: Android, ua: Android, class: '' }
-SonyEricssonE10a-Android-Android: { source: uap-core-device, device: SonyEricssonE10a, os: Android, ua: Android, class: '' }
-SonyEricssonE10i-Android-Android: { source: uap-core-device, device: SonyEricssonE10i, os: Android, ua: Android, class: '' }
-SonyEricssonE10i-o-Android-Android: { source: uap-core-device, device: SonyEricssonE10i-o, os: Android, ua: Android, class: '' }
-SonyEricssonE10iv-Android-Android: { source: uap-core-device, device: SonyEricssonE10iv, os: Android, ua: Android, class: '' }
-SonyEricssonE15a-Android-Android: { source: uap-core-device, device: SonyEricssonE15a, os: Android, ua: Android, class: '' }
-SonyEricssonE15av-Android-Android: { source: uap-core-device, device: SonyEricssonE15av, os: Android, ua: Android, class: '' }
-SonyEricssonE15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonE15i-o, os: Android, ua: Android, class: '' }
-SonyEricssonE15iv-Android-Android: { source: uap-core-device, device: SonyEricssonE15iv, os: Android, ua: Android, class: '' }
-SonyEricssonE16i-Android-Android: { source: uap-core-device, device: SonyEricssonE16i, os: Android, ua: Android, class: '' }
-SonyEricssonGT-I9000-Android-Android: { source: uap-core-device, device: SonyEricssonGT-I9000, os: Android, ua: Android, class: '' }
-SonyEricssonGT-I9300-Android-Android: { source: uap-core-device, device: SonyEricssonGT-I9300, os: Android, ua: Android, class: '' }
-SonyEricssonHallon-Android-Android: { source: uap-core-device, device: SonyEricssonHallon, os: Android, ua: Android, class: '' }
-'SonyEricssonHTC Desirev-Android-Android': { source: uap-core-device, device: 'SonyEricssonHTC Desirev', os: Android, ua: Android, class: '' }
-SonyEricssonIS11S-Android-Android: { source: uap-core-device, device: SonyEricssonIS11S, os: Android, ua: Android, class: '' }
-SonyEricssonIS12S-Android-Android: { source: uap-core-device, device: SonyEricssonIS12S, os: Android, ua: Android, class: '' }
-SonyEricssonLT15-Android-Android: { source: uap-core-device, device: SonyEricssonLT15, os: Android, ua: Android, class: '' }
-SonyEricssonLT15a-Android-Android: { source: uap-core-device, device: SonyEricssonLT15a, os: Android, ua: Android, class: '' }
-SonyEricssonLT15at-Android-Android: { source: uap-core-device, device: SonyEricssonLT15at, os: Android, ua: Android, class: '' }
-SonyEricssonLT15av-Android-Android: { source: uap-core-device, device: SonyEricssonLT15av, os: Android, ua: Android, class: '' }
-SonyEricssonLT15i-Android-Android: { source: uap-core-device, device: SonyEricssonLT15i, os: Android, ua: Android, class: '' }
-SonyEricssonLT15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT15i-o, os: Android, ua: Android, class: '' }
-SonyEricssonLT15iv-Android-Android: { source: uap-core-device, device: SonyEricssonLT15iv, os: Android, ua: Android, class: '' }
-SonyEricssonLT18-Android-Android: { source: uap-core-device, device: SonyEricssonLT18, os: Android, ua: Android, class: '' }
-SonyEricssonlt18-Android-Android: { source: uap-core-device, device: SonyEricssonlt18, os: Android, ua: Android, class: '' }
-SonyEricssonLT18a-Android-Android: { source: uap-core-device, device: SonyEricssonLT18a, os: Android, ua: Android, class: '' }
-SonyEricssonLT18i-Android-Android: { source: uap-core-device, device: SonyEricssonLT18i, os: Android, ua: Android, class: '' }
-SonyEricssonLT18i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT18i-o, os: Android, ua: Android, class: '' }
-SonyEricssonLT18iv-Android-Android: { source: uap-core-device, device: SonyEricssonLT18iv, os: Android, ua: Android, class: '' }
-SonyEricssonLT22i-Android-Android: { source: uap-core-device, device: SonyEricssonLT22i, os: Android, ua: Android, class: '' }
-SonyEricssonLT22i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT22i-o, os: Android, ua: Android, class: '' }
-SonyEricssonLT25i-Android-Android: { source: uap-core-device, device: SonyEricssonLT25i, os: Android, ua: Android, class: '' }
-SonyEricssonLT26i-Android-Android: { source: uap-core-device, device: SonyEricssonLT26i, os: Android, ua: Android, class: '' }
-SonyEricssonLT26i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT26i-o, os: Android, ua: Android, class: '' }
-SonyEricssonLT26ii-Android-Android: { source: uap-core-device, device: SonyEricssonLT26ii, os: Android, ua: Android, class: '' }
-SonyEricssonLT26w-Android-Android: { source: uap-core-device, device: SonyEricssonLT26w, os: Android, ua: Android, class: '' }
-SonyEricssonLT28at-Android-Android: { source: uap-core-device, device: SonyEricssonLT28at, os: Android, ua: Android, class: '' }
-SonyEricssonLT28h-Android-Android: { source: uap-core-device, device: SonyEricssonLT28h, os: Android, ua: Android, class: '' }
-SonyEricssonLT28i-Android-Android: { source: uap-core-device, device: SonyEricssonLT28i, os: Android, ua: Android, class: '' }
-SonyEricssonLT29i-Android-Android: { source: uap-core-device, device: SonyEricssonLT29i, os: Android, ua: Android, class: '' }
-SonyEricssonLT30p-Android-Android: { source: uap-core-device, device: SonyEricssonLT30p, os: Android, ua: Android, class: '' }
-SonyEricssonMK16-Android-Android: { source: uap-core-device, device: SonyEricssonMK16, os: Android, ua: Android, class: '' }
-SonyEricssonMK16a-Android-Android: { source: uap-core-device, device: SonyEricssonMK16a, os: Android, ua: Android, class: '' }
-SonyEricssonMK16i-Android-Android: { source: uap-core-device, device: SonyEricssonMK16i, os: Android, ua: Android, class: '' }
-SonyEricssonMk16i-Android-Android: { source: uap-core-device, device: SonyEricssonMk16i, os: Android, ua: Android, class: '' }
-SonyEricssonMT11a-Android-Android: { source: uap-core-device, device: SonyEricssonMT11a, os: Android, ua: Android, class: '' }
-SonyEricssonMT11i-Android-Android: { source: uap-core-device, device: SonyEricssonMT11i, os: Android, ua: Android, class: '' }
-SonyEricssonMT11i-o-Android-Android: { source: uap-core-device, device: SonyEricssonMT11i-o, os: Android, ua: Android, class: '' }
-SonyEricssonMT11iv-Android-Android: { source: uap-core-device, device: SonyEricssonMT11iv, os: Android, ua: Android, class: '' }
-SonyEricssonMT15-Android-Android: { source: uap-core-device, device: SonyEricssonMT15, os: Android, ua: Android, class: '' }
-SonyEricssonMT15a-Android-Android: { source: uap-core-device, device: SonyEricssonMT15a, os: Android, ua: Android, class: '' }
-SonyEricssonMT15i-Android-Android: { source: uap-core-device, device: SonyEricssonMT15i, os: Android, ua: Android, class: '' }
-SonyEricssonMT15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonMT15i-o, os: Android, ua: Android, class: '' }
-SonyEricssonMT15iv-Android-Android: { source: uap-core-device, device: SonyEricssonMT15iv, os: Android, ua: Android, class: '' }
-SonyEricssonMT18i-Android-Android: { source: uap-core-device, device: SonyEricssonMT18i, os: Android, ua: Android, class: '' }
-SonyEricssonMT25i-Android-Android: { source: uap-core-device, device: SonyEricssonMT25i, os: Android, ua: Android, class: '' }
-SonyEricssonMT27i-Android-Android: { source: uap-core-device, device: SonyEricssonMT27i, os: Android, ua: Android, class: '' }
-SonyEricssonR800a-Android-Android: { source: uap-core-device, device: SonyEricssonR800a, os: Android, ua: Android, class: '' }
-SonyEricssonR800at-Android-Android: { source: uap-core-device, device: SonyEricssonR800at, os: Android, ua: Android, class: '' }
-SonyEricssonR800i-Android-Android: { source: uap-core-device, device: SonyEricssonR800i, os: Android, ua: Android, class: '' }
-SonyEricssonR800iv-Android-Android: { source: uap-core-device, device: SonyEricssonR800iv, os: Android, ua: Android, class: '' }
-SonyEricssonR800x-Android-Android: { source: uap-core-device, device: SonyEricssonR800x, os: Android, ua: Android, class: '' }
-SonyEricssonrachael-Android-Android: { source: uap-core-device, device: SonyEricssonrachael, os: Android, ua: Android, class: '' }
-SonyEricssonS51SE-Android-Android: { source: uap-core-device, device: SonyEricssonS51SE, os: Android, ua: Android, class: '' }
-SonyEricssonSGP321-Android-Android: { source: uap-core-device, device: SonyEricssonSGP321, os: Android, ua: Android, class: '' }
-SonyEricssonSK17a-Android-Android: { source: uap-core-device, device: SonyEricssonSK17a, os: Android, ua: Android, class: '' }
-SonyEricssonSK17i-Android-Android: { source: uap-core-device, device: SonyEricssonSK17i, os: Android, ua: Android, class: '' }
-SonyEricssonSK17i-o-Android-Android: { source: uap-core-device, device: SonyEricssonSK17i-o, os: Android, ua: Android, class: '' }
-SonyEricssonSK17iv-Android-Android: { source: uap-core-device, device: SonyEricssonSK17iv, os: Android, ua: Android, class: '' }
-SonyEricssonSO-01B-Android-Android: { source: uap-core-device, device: SonyEricssonSO-01B, os: Android, ua: Android, class: '' }
-SonyEricssonSO-01C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-01C, os: Android, ua: Android, class: '' }
-SonyEricssonSO-02C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-02C, os: Android, ua: Android, class: '' }
-SonyEricssonSO-02D-Android-Android: { source: uap-core-device, device: SonyEricssonSO-02D, os: Android, ua: Android, class: '' }
-SonyEricssonSO-03C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-03C, os: Android, ua: Android, class: '' }
-SonyEricssonSO-03D-Android-Android: { source: uap-core-device, device: SonyEricssonSO-03D, os: Android, ua: Android, class: '' }
-'SonyEricssonSony Xperia Ray-Android-Android': { source: uap-core-device, device: 'SonyEricssonSony Xperia Ray', os: Android, ua: Android, class: '' }
-SonyEricssonST15-Android-Android: { source: uap-core-device, device: SonyEricssonST15, os: Android, ua: Android, class: '' }
-SonyEricssonST15a-Android-Android: { source: uap-core-device, device: SonyEricssonST15a, os: Android, ua: Android, class: '' }
-SonyEricssonST15i-Android-Android: { source: uap-core-device, device: SonyEricssonST15i, os: Android, ua: Android, class: '' }
-SonyEricssonST15iv-Android-Android: { source: uap-core-device, device: SonyEricssonST15iv, os: Android, ua: Android, class: '' }
-SonyEricssonST17a-Android-Android: { source: uap-core-device, device: SonyEricssonST17a, os: Android, ua: Android, class: '' }
-SonyEricssonST17i-Android-Android: { source: uap-core-device, device: SonyEricssonST17i, os: Android, ua: Android, class: '' }
-SonyEricssonST17iv-Android-Android: { source: uap-core-device, device: SonyEricssonST17iv, os: Android, ua: Android, class: '' }
-SonyEricssonST18a-Android-Android: { source: uap-core-device, device: SonyEricssonST18a, os: Android, ua: Android, class: '' }
-SonyEricssonST18av-Android-Android: { source: uap-core-device, device: SonyEricssonST18av, os: Android, ua: Android, class: '' }
-SonyEricssonST18i-Android-Android: { source: uap-core-device, device: SonyEricssonST18i, os: Android, ua: Android, class: '' }
-SonyEricssonST18iv-Android-Android: { source: uap-core-device, device: SonyEricssonST18iv, os: Android, ua: Android, class: '' }
-SonyEricssonST21i-Android-Android: { source: uap-core-device, device: SonyEricssonST21i, os: Android, ua: Android, class: '' }
-SonyEricssonST21i2-Android-Android: { source: uap-core-device, device: SonyEricssonST21i2, os: Android, ua: Android, class: '' }
-SonyEricssonST23i-Android-Android: { source: uap-core-device, device: SonyEricssonST23i, os: Android, ua: Android, class: '' }
-SonyEricssonST25a-Android-Android: { source: uap-core-device, device: SonyEricssonST25a, os: Android, ua: Android, class: '' }
-SonyEricssonST25i-Android-Android: { source: uap-core-device, device: SonyEricssonST25i, os: Android, ua: Android, class: '' }
-SonyEricssonST25i-o-Android-Android: { source: uap-core-device, device: SonyEricssonST25i-o, os: Android, ua: Android, class: '' }
-SonyEricssonST25iv-Android-Android: { source: uap-core-device, device: SonyEricssonST25iv, os: Android, ua: Android, class: '' }
-SonyEricssonST26i-Android-Android: { source: uap-core-device, device: SonyEricssonST26i, os: Android, ua: Android, class: '' }
-SonyEricssonST27a-Android-Android: { source: uap-core-device, device: SonyEricssonST27a, os: Android, ua: Android, class: '' }
-SonyEricssonST27iv-Android-Android: { source: uap-core-device, device: SonyEricssonST27iv, os: Android, ua: Android, class: '' }
-SonyEricssonU20a-Android-Android: { source: uap-core-device, device: SonyEricssonU20a, os: Android, ua: Android, class: '' }
-SonyEricssonU20i-Android-Android: { source: uap-core-device, device: SonyEricssonU20i, os: Android, ua: Android, class: '' }
-SonyEricssonU20iv-Android-Android: { source: uap-core-device, device: SonyEricssonU20iv, os: Android, ua: Android, class: '' }
-SonyEricssonWT19a-Android-Android: { source: uap-core-device, device: SonyEricssonWT19a, os: Android, ua: Android, class: '' }
-SonyEricssonWT19i-Android-Android: { source: uap-core-device, device: SonyEricssonWT19i, os: Android, ua: Android, class: '' }
-SonyEricssonWT19i-o-Android-Android: { source: uap-core-device, device: SonyEricssonWT19i-o, os: Android, ua: Android, class: '' }
-SonyEricssonWT19iv-Android-Android: { source: uap-core-device, device: SonyEricssonWT19iv, os: Android, ua: Android, class: '' }
-SonyEricssonx10-Android-Android: { source: uap-core-device, device: SonyEricssonx10, os: Android, ua: Android, class: '' }
-SonyEricssonX10a-Android-Android: { source: uap-core-device, device: SonyEricssonX10a, os: Android, ua: Android, class: '' }
-SonyEricssonX10i-Android-Android: { source: uap-core-device, device: SonyEricssonX10i, os: Android, ua: Android, class: '' }
-SonyEricssonX10i-o-Android-Android: { source: uap-core-device, device: SonyEricssonX10i-o, os: Android, ua: Android, class: '' }
-SonyEricssonX10iv-Android-Android: { source: uap-core-device, device: SonyEricssonX10iv, os: Android, ua: Android, class: '' }
-'SonyEricssonXperia neo L-Android-Safari': { source: uap-core-device, device: 'SonyEricssonXperia neo L', os: Android, ua: Safari, class: '' }
-'Sony Ericsson Xperia X1-Android-Android': { source: uap-core-device, device: 'Sony Ericsson Xperia X1', os: Android, ua: Android, class: '' }
-'Sony Ericsson Xperia X8-Android-Android': { source: uap-core-device, device: 'Sony Ericsson Xperia X8', os: Android, ua: Android, class: '' }
-'SonyEricssonXPERIA Z-Android-Android': { source: uap-core-device, device: 'SonyEricssonXPERIA Z', os: Android, ua: Android, class: '' }
-'SonyEricssonXPERIA Z ONE-Android-Android': { source: uap-core-device, device: 'SonyEricssonXPERIA Z ONE', os: Android, ua: Android, class: '' }
-SonyEricssonXperia.X8-Android-Android: { source: uap-core-device, device: SonyEricssonXperia.X8, os: Android, ua: Android, class: '' }
-SonyEricssonZ1i-Android-Android: { source: uap-core-device, device: SonyEricssonZ1i, os: Android, ua: Android, class: '' }
+'SonyEricssonAllwinner A10-Android-Android': { source: uap-core-device, device: 'SonyEricssonAllwinner A10', os: Android, ua: Android, class: mobile }
+SonyEricssonAnzu-Android-Android: { source: uap-core-device, device: SonyEricssonAnzu, os: Android, ua: Android, class: mobile }
+SonyEricssonC1505-Android-Android: { source: uap-core-device, device: SonyEricssonC1505, os: Android, ua: Android, class: mobile }
+SonyEricssonC1605-Android-Android: { source: uap-core-device, device: SonyEricssonC1605, os: Android, ua: Android, class: mobile }
+SonyEricssonC2105-Android-Android: { source: uap-core-device, device: SonyEricssonC2105, os: Android, ua: Android, class: mobile }
+SonyEricssonC5302-Android-Android: { source: uap-core-device, device: SonyEricssonC5302, os: Android, ua: Android, class: mobile }
+SonyEricssonC5303-Android-Android: { source: uap-core-device, device: SonyEricssonC5303, os: Android, ua: Android, class: mobile }
+SonyEricssonC6503-Android-Android: { source: uap-core-device, device: SonyEricssonC6503, os: Android, ua: Android, class: mobile }
+SonyEricssonC6602-Android-Android: { source: uap-core-device, device: SonyEricssonC6602, os: Android, ua: Android, class: mobile }
+SonyEricssonC6603-Android-Android: { source: uap-core-device, device: SonyEricssonC6603, os: Android, ua: Android, class: mobile }
+SonyEricssonE10a-Android-Android: { source: uap-core-device, device: SonyEricssonE10a, os: Android, ua: Android, class: mobile }
+SonyEricssonE10i-Android-Android: { source: uap-core-device, device: SonyEricssonE10i, os: Android, ua: Android, class: mobile }
+SonyEricssonE10i-o-Android-Android: { source: uap-core-device, device: SonyEricssonE10i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonE10iv-Android-Android: { source: uap-core-device, device: SonyEricssonE10iv, os: Android, ua: Android, class: mobile }
+SonyEricssonE15a-Android-Android: { source: uap-core-device, device: SonyEricssonE15a, os: Android, ua: Android, class: mobile }
+SonyEricssonE15av-Android-Android: { source: uap-core-device, device: SonyEricssonE15av, os: Android, ua: Android, class: mobile }
+SonyEricssonE15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonE15i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonE15iv-Android-Android: { source: uap-core-device, device: SonyEricssonE15iv, os: Android, ua: Android, class: mobile }
+SonyEricssonE16i-Android-Android: { source: uap-core-device, device: SonyEricssonE16i, os: Android, ua: Android, class: mobile }
+SonyEricssonGT-I9000-Android-Android: { source: uap-core-device, device: SonyEricssonGT-I9000, os: Android, ua: Android, class: mobile }
+SonyEricssonGT-I9300-Android-Android: { source: uap-core-device, device: SonyEricssonGT-I9300, os: Android, ua: Android, class: mobile }
+SonyEricssonHallon-Android-Android: { source: uap-core-device, device: SonyEricssonHallon, os: Android, ua: Android, class: mobile }
+'SonyEricssonHTC Desirev-Android-Android': { source: uap-core-device, device: 'SonyEricssonHTC Desirev', os: Android, ua: Android, class: mobile }
+SonyEricssonIS11S-Android-Android: { source: uap-core-device, device: SonyEricssonIS11S, os: Android, ua: Android, class: mobile }
+SonyEricssonIS12S-Android-Android: { source: uap-core-device, device: SonyEricssonIS12S, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15-Android-Android: { source: uap-core-device, device: SonyEricssonLT15, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15a-Android-Android: { source: uap-core-device, device: SonyEricssonLT15a, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15at-Android-Android: { source: uap-core-device, device: SonyEricssonLT15at, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15av-Android-Android: { source: uap-core-device, device: SonyEricssonLT15av, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15i-Android-Android: { source: uap-core-device, device: SonyEricssonLT15i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT15i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonLT15iv-Android-Android: { source: uap-core-device, device: SonyEricssonLT15iv, os: Android, ua: Android, class: mobile }
+SonyEricssonLT18-Android-Android: { source: uap-core-device, device: SonyEricssonLT18, os: Android, ua: Android, class: mobile }
+SonyEricssonlt18-Android-Android: { source: uap-core-device, device: SonyEricssonlt18, os: Android, ua: Android, class: mobile }
+SonyEricssonLT18a-Android-Android: { source: uap-core-device, device: SonyEricssonLT18a, os: Android, ua: Android, class: mobile }
+SonyEricssonLT18i-Android-Android: { source: uap-core-device, device: SonyEricssonLT18i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT18i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT18i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonLT18iv-Android-Android: { source: uap-core-device, device: SonyEricssonLT18iv, os: Android, ua: Android, class: mobile }
+SonyEricssonLT22i-Android-Android: { source: uap-core-device, device: SonyEricssonLT22i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT22i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT22i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonLT25i-Android-Android: { source: uap-core-device, device: SonyEricssonLT25i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT26i-Android-Android: { source: uap-core-device, device: SonyEricssonLT26i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT26i-o-Android-Android: { source: uap-core-device, device: SonyEricssonLT26i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonLT26ii-Android-Android: { source: uap-core-device, device: SonyEricssonLT26ii, os: Android, ua: Android, class: mobile }
+SonyEricssonLT26w-Android-Android: { source: uap-core-device, device: SonyEricssonLT26w, os: Android, ua: Android, class: mobile }
+SonyEricssonLT28at-Android-Android: { source: uap-core-device, device: SonyEricssonLT28at, os: Android, ua: Android, class: mobile }
+SonyEricssonLT28h-Android-Android: { source: uap-core-device, device: SonyEricssonLT28h, os: Android, ua: Android, class: mobile }
+SonyEricssonLT28i-Android-Android: { source: uap-core-device, device: SonyEricssonLT28i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT29i-Android-Android: { source: uap-core-device, device: SonyEricssonLT29i, os: Android, ua: Android, class: mobile }
+SonyEricssonLT30p-Android-Android: { source: uap-core-device, device: SonyEricssonLT30p, os: Android, ua: Android, class: mobile }
+SonyEricssonMK16-Android-Android: { source: uap-core-device, device: SonyEricssonMK16, os: Android, ua: Android, class: mobile }
+SonyEricssonMK16a-Android-Android: { source: uap-core-device, device: SonyEricssonMK16a, os: Android, ua: Android, class: mobile }
+SonyEricssonMK16i-Android-Android: { source: uap-core-device, device: SonyEricssonMK16i, os: Android, ua: Android, class: mobile }
+SonyEricssonMk16i-Android-Android: { source: uap-core-device, device: SonyEricssonMk16i, os: Android, ua: Android, class: mobile }
+SonyEricssonMT11a-Android-Android: { source: uap-core-device, device: SonyEricssonMT11a, os: Android, ua: Android, class: mobile }
+SonyEricssonMT11i-Android-Android: { source: uap-core-device, device: SonyEricssonMT11i, os: Android, ua: Android, class: mobile }
+SonyEricssonMT11i-o-Android-Android: { source: uap-core-device, device: SonyEricssonMT11i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonMT11iv-Android-Android: { source: uap-core-device, device: SonyEricssonMT11iv, os: Android, ua: Android, class: mobile }
+SonyEricssonMT15-Android-Android: { source: uap-core-device, device: SonyEricssonMT15, os: Android, ua: Android, class: mobile }
+SonyEricssonMT15a-Android-Android: { source: uap-core-device, device: SonyEricssonMT15a, os: Android, ua: Android, class: mobile }
+SonyEricssonMT15i-Android-Android: { source: uap-core-device, device: SonyEricssonMT15i, os: Android, ua: Android, class: mobile }
+SonyEricssonMT15i-o-Android-Android: { source: uap-core-device, device: SonyEricssonMT15i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonMT15iv-Android-Android: { source: uap-core-device, device: SonyEricssonMT15iv, os: Android, ua: Android, class: mobile }
+SonyEricssonMT18i-Android-Android: { source: uap-core-device, device: SonyEricssonMT18i, os: Android, ua: Android, class: mobile }
+SonyEricssonMT25i-Android-Android: { source: uap-core-device, device: SonyEricssonMT25i, os: Android, ua: Android, class: mobile }
+SonyEricssonMT27i-Android-Android: { source: uap-core-device, device: SonyEricssonMT27i, os: Android, ua: Android, class: mobile }
+SonyEricssonR800a-Android-Android: { source: uap-core-device, device: SonyEricssonR800a, os: Android, ua: Android, class: mobile }
+SonyEricssonR800at-Android-Android: { source: uap-core-device, device: SonyEricssonR800at, os: Android, ua: Android, class: mobile }
+SonyEricssonR800i-Android-Android: { source: uap-core-device, device: SonyEricssonR800i, os: Android, ua: Android, class: mobile }
+SonyEricssonR800iv-Android-Android: { source: uap-core-device, device: SonyEricssonR800iv, os: Android, ua: Android, class: mobile }
+SonyEricssonR800x-Android-Android: { source: uap-core-device, device: SonyEricssonR800x, os: Android, ua: Android, class: mobile }
+SonyEricssonrachael-Android-Android: { source: uap-core-device, device: SonyEricssonrachael, os: Android, ua: Android, class: mobile }
+SonyEricssonS51SE-Android-Android: { source: uap-core-device, device: SonyEricssonS51SE, os: Android, ua: Android, class: mobile }
+SonyEricssonSGP321-Android-Android: { source: uap-core-device, device: SonyEricssonSGP321, os: Android, ua: Android, class: mobile }
+SonyEricssonSK17a-Android-Android: { source: uap-core-device, device: SonyEricssonSK17a, os: Android, ua: Android, class: mobile }
+SonyEricssonSK17i-Android-Android: { source: uap-core-device, device: SonyEricssonSK17i, os: Android, ua: Android, class: mobile }
+SonyEricssonSK17i-o-Android-Android: { source: uap-core-device, device: SonyEricssonSK17i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonSK17iv-Android-Android: { source: uap-core-device, device: SonyEricssonSK17iv, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-01B-Android-Android: { source: uap-core-device, device: SonyEricssonSO-01B, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-01C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-01C, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-02C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-02C, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-02D-Android-Android: { source: uap-core-device, device: SonyEricssonSO-02D, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-03C-Android-Android: { source: uap-core-device, device: SonyEricssonSO-03C, os: Android, ua: Android, class: mobile }
+SonyEricssonSO-03D-Android-Android: { source: uap-core-device, device: SonyEricssonSO-03D, os: Android, ua: Android, class: mobile }
+'SonyEricssonSony Xperia Ray-Android-Android': { source: uap-core-device, device: 'SonyEricssonSony Xperia Ray', os: Android, ua: Android, class: mobile }
+SonyEricssonST15-Android-Android: { source: uap-core-device, device: SonyEricssonST15, os: Android, ua: Android, class: mobile }
+SonyEricssonST15a-Android-Android: { source: uap-core-device, device: SonyEricssonST15a, os: Android, ua: Android, class: mobile }
+SonyEricssonST15i-Android-Android: { source: uap-core-device, device: SonyEricssonST15i, os: Android, ua: Android, class: mobile }
+SonyEricssonST15iv-Android-Android: { source: uap-core-device, device: SonyEricssonST15iv, os: Android, ua: Android, class: mobile }
+SonyEricssonST17a-Android-Android: { source: uap-core-device, device: SonyEricssonST17a, os: Android, ua: Android, class: mobile }
+SonyEricssonST17i-Android-Android: { source: uap-core-device, device: SonyEricssonST17i, os: Android, ua: Android, class: mobile }
+SonyEricssonST17iv-Android-Android: { source: uap-core-device, device: SonyEricssonST17iv, os: Android, ua: Android, class: mobile }
+SonyEricssonST18a-Android-Android: { source: uap-core-device, device: SonyEricssonST18a, os: Android, ua: Android, class: mobile }
+SonyEricssonST18av-Android-Android: { source: uap-core-device, device: SonyEricssonST18av, os: Android, ua: Android, class: mobile }
+SonyEricssonST18i-Android-Android: { source: uap-core-device, device: SonyEricssonST18i, os: Android, ua: Android, class: mobile }
+SonyEricssonST18iv-Android-Android: { source: uap-core-device, device: SonyEricssonST18iv, os: Android, ua: Android, class: mobile }
+SonyEricssonST21i-Android-Android: { source: uap-core-device, device: SonyEricssonST21i, os: Android, ua: Android, class: mobile }
+SonyEricssonST21i2-Android-Android: { source: uap-core-device, device: SonyEricssonST21i2, os: Android, ua: Android, class: mobile }
+SonyEricssonST23i-Android-Android: { source: uap-core-device, device: SonyEricssonST23i, os: Android, ua: Android, class: mobile }
+SonyEricssonST25a-Android-Android: { source: uap-core-device, device: SonyEricssonST25a, os: Android, ua: Android, class: mobile }
+SonyEricssonST25i-Android-Android: { source: uap-core-device, device: SonyEricssonST25i, os: Android, ua: Android, class: mobile }
+SonyEricssonST25i-o-Android-Android: { source: uap-core-device, device: SonyEricssonST25i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonST25iv-Android-Android: { source: uap-core-device, device: SonyEricssonST25iv, os: Android, ua: Android, class: mobile }
+SonyEricssonST26i-Android-Android: { source: uap-core-device, device: SonyEricssonST26i, os: Android, ua: Android, class: mobile }
+SonyEricssonST27a-Android-Android: { source: uap-core-device, device: SonyEricssonST27a, os: Android, ua: Android, class: mobile }
+SonyEricssonST27iv-Android-Android: { source: uap-core-device, device: SonyEricssonST27iv, os: Android, ua: Android, class: mobile }
+SonyEricssonU20a-Android-Android: { source: uap-core-device, device: SonyEricssonU20a, os: Android, ua: Android, class: mobile }
+SonyEricssonU20i-Android-Android: { source: uap-core-device, device: SonyEricssonU20i, os: Android, ua: Android, class: mobile }
+SonyEricssonU20iv-Android-Android: { source: uap-core-device, device: SonyEricssonU20iv, os: Android, ua: Android, class: mobile }
+SonyEricssonWT19a-Android-Android: { source: uap-core-device, device: SonyEricssonWT19a, os: Android, ua: Android, class: mobile }
+SonyEricssonWT19i-Android-Android: { source: uap-core-device, device: SonyEricssonWT19i, os: Android, ua: Android, class: mobile }
+SonyEricssonWT19i-o-Android-Android: { source: uap-core-device, device: SonyEricssonWT19i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonWT19iv-Android-Android: { source: uap-core-device, device: SonyEricssonWT19iv, os: Android, ua: Android, class: mobile }
+SonyEricssonx10-Android-Android: { source: uap-core-device, device: SonyEricssonx10, os: Android, ua: Android, class: mobile }
+SonyEricssonX10a-Android-Android: { source: uap-core-device, device: SonyEricssonX10a, os: Android, ua: Android, class: mobile }
+SonyEricssonX10i-Android-Android: { source: uap-core-device, device: SonyEricssonX10i, os: Android, ua: Android, class: mobile }
+SonyEricssonX10i-o-Android-Android: { source: uap-core-device, device: SonyEricssonX10i-o, os: Android, ua: Android, class: mobile }
+SonyEricssonX10iv-Android-Android: { source: uap-core-device, device: SonyEricssonX10iv, os: Android, ua: Android, class: mobile }
+'SonyEricssonXperia neo L-Android-Safari': { source: uap-core-device, device: 'SonyEricssonXperia neo L', os: Android, ua: Safari, class: mobile }
+'Sony Ericsson Xperia X1-Android-Android': { source: uap-core-device, device: 'Sony Ericsson Xperia X1', os: Android, ua: Android, class: mobile }
+'Sony Ericsson Xperia X8-Android-Android': { source: uap-core-device, device: 'Sony Ericsson Xperia X8', os: Android, ua: Android, class: mobile }
+'SonyEricssonXPERIA Z-Android-Android': { source: uap-core-device, device: 'SonyEricssonXPERIA Z', os: Android, ua: Android, class: mobile }
+'SonyEricssonXPERIA Z ONE-Android-Android': { source: uap-core-device, device: 'SonyEricssonXPERIA Z ONE', os: Android, ua: Android, class: mobile }
+SonyEricssonXperia.X8-Android-Android: { source: uap-core-device, device: SonyEricssonXperia.X8, os: Android, ua: Android, class: mobile }
+SonyEricssonZ1i-Android-Android: { source: uap-core-device, device: SonyEricssonZ1i, os: Android, ua: Android, class: mobile }
 E07-Android-Android: { source: uap-core-device, device: E07, os: Android, ua: Android, class: '' }
 E102-Android-Android: { source: uap-core-device, device: E102, os: Android, ua: Android, class: '' }
 E102g-Android-Android: { source: uap-core-device, device: E102g, os: Android, ua: Android, class: '' }
@@ -13585,435 +13585,435 @@ X850-Android-Android: { source: uap-core-device, device: X850, os: Android, ua: 
 X876-Android-Android: { source: uap-core-device, device: X876, os: Android, ua: Android, class: '' }
 'X920-Android-Yandex Browser': { source: uap-core-device, device: X920, os: Android, ua: 'Yandex Browser', class: '' }
 X920e-Android-Android: { source: uap-core-device, device: X920e, os: Android, ua: Android, class: '' }
-'Xperia A888 Duo-Android-Android': { source: uap-core-device, device: 'Xperia A888 Duo', os: Android, ua: Android, class: '' }
-'Xperia Acro S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Acro S', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia acro S-Android-Android': { source: uap-core-device, device: 'Xperia acro S', os: Android, ua: Android, class: '' }
-'Xperia Active-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Active', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Arc-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Arc', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Arc S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Arc S', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Live with Walkman-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Live with Walkman', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Live With Walkman-Android-Android': { source: uap-core-device, device: 'Xperia Live With Walkman', os: Android, ua: Android, class: '' }
-'Xperia Mini-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Mini', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Mini Pro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Mini Pro', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Neo-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Neo', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Neo L-Android-Opera Mobile': { source: uap-core-device, device: 'Xperia Neo L', os: Android, ua: 'Opera Mobile', class: '' }
-'Xperia neo L-Android-UC Browser': { source: uap-core-device, device: 'Xperia neo L', os: Android, ua: 'UC Browser', class: '' }
-'Xperia Neo V-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Neo V', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Play-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Play', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Pro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Pro', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia Ray-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Ray', os: Android, ua: 'Chrome Mobile', class: '' }
-'Xperia X10-Android-Android': { source: uap-core-device, device: 'Xperia X10', os: Android, ua: Android, class: '' }
-'Xperia X10 Mini-Android-Android': { source: uap-core-device, device: 'Xperia X10 Mini', os: Android, ua: Android, class: '' }
-'Xperia X10 Z  HD (IV)-Android-Android': { source: uap-core-device, device: 'Xperia X10 Z  HD (IV)', os: Android, ua: Android, class: '' }
-'Xperia X8-Android-Android': { source: uap-core-device, device: 'Xperia X8', os: Android, ua: Android, class: '' }
-'XPERIA X8-Android-Android': { source: uap-core-device, device: 'XPERIA X8', os: Android, ua: Android, class: '' }
-'xperia x8 mod-Android-Android': { source: uap-core-device, device: 'xperia x8 mod', os: Android, ua: Android, class: '' }
-'SonyEricsson U1-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U1', os: 'Symbian OS', ua: 'UC Browser', class: '' }
-'SonyEricsson U5-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U5', os: 'Symbian OS', ua: 'UC Browser', class: '' }
-'SonyEricsson U5at-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U5at', os: 'Symbian OS', ua: 'UC Browser', class: '' }
-'SonyEricsson U8a-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U8a', os: 'Symbian OS', ua: 'UC Browser', class: '' }
-'SonyEricsson U8i-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U8i', os: 'Symbian OS', ua: 'UC Browser', class: '' }
-'Ericsson 290i-Other-Other': { source: uap-core-device, device: 'Ericsson 290i', os: Other, ua: Other, class: '' }
-'Ericsson A120i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A120i', os: Other, ua: NetFront, class: '' }
-'Ericsson A195i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A195i', os: Other, ua: NetFront, class: '' }
-'Ericsson A200i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A200i', os: Other, ua: NetFront, class: '' }
-'Ericsson A270-Other-NetFront': { source: uap-core-device, device: 'Ericsson A270', os: Other, ua: NetFront, class: '' }
-'Ericsson A290i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A290i', os: Other, ua: NetFront, class: '' }
-'Ericsson A320-Other-NetFront': { source: uap-core-device, device: 'Ericsson A320', os: Other, ua: NetFront, class: '' }
-'Ericsson AmFiTaMiN-Other-NetFront': { source: uap-core-device, device: 'Ericsson AmFiTaMiN', os: Other, ua: NetFront, class: '' }
-'Ericsson C123-Other-NetFront': { source: uap-core-device, device: 'Ericsson C123', os: Other, ua: NetFront, class: '' }
-'Ericsson C123v-Other-NetFront': { source: uap-core-device, device: 'Ericsson C123v', os: Other, ua: NetFront, class: '' }
-'Ericsson C510-Other-Other': { source: uap-core-device, device: 'Ericsson C510', os: Other, ua: Other, class: '' }
-'Ericsson C510a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C510a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson C510av-Other-NetFront': { source: uap-core-device, device: 'Ericsson C510av', os: Other, ua: NetFront, class: '' }
-'Ericsson C510v-Other-Other': { source: uap-core-device, device: 'Ericsson C510v', os: Other, ua: Other, class: '' }
-'Ericsson C702-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C702', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson C702a-Other-NetFront': { source: uap-core-device, device: 'Ericsson C702a', os: Other, ua: NetFront, class: '' }
-'Ericsson C702c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C702c', os: Other, ua: NetFront, class: '' }
-'Ericsson C901-Other-NetFront': { source: uap-core-device, device: 'Ericsson C901', os: Other, ua: NetFront, class: '' }
-'Ericsson C902-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C902', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson C902c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C902c', os: Other, ua: NetFront, class: '' }
-'Ericsson C902v-Other-Other': { source: uap-core-device, device: 'Ericsson C902v', os: Other, ua: Other, class: '' }
-'Ericsson C903-Other-NetFront': { source: uap-core-device, device: 'Ericsson C903', os: Other, ua: NetFront, class: '' }
-'Ericsson C903a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C903a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson C905-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson C905', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson C905a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C905a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson C905c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C905c', os: Other, ua: NetFront, class: '' }
-'Ericsson C905v-Other-Other': { source: uap-core-device, device: 'Ericsson C905v', os: Other, ua: Other, class: '' }
-'Ericsson CK13i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson CK13i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson CK15a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson CK15a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson CK15i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson CK15i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson D750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson D750i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson digivice-Other-NetFront': { source: uap-core-device, device: 'Ericsson digivice', os: Other, ua: NetFront, class: '' }
-'Ericsson E10i-Other-Other': { source: uap-core-device, device: 'Ericsson E10i', os: Other, ua: Other, class: '' }
-'Ericsson E10iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E10iBuild', os: Android, ua: Safari, class: '' }
-'Ericsson E15aBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E15aBuild', os: Android, ua: Safari, class: '' }
-'Ericsson E15i-Other-Other': { source: uap-core-device, device: 'Ericsson E15i', os: Other, ua: Other, class: '' }
-'Ericsson E15iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E15iBuild', os: Android, ua: Safari, class: '' }
-'Ericsson F100i-Other-NetFront': { source: uap-core-device, device: 'Ericsson F100i', os: Other, ua: NetFront, class: '' }
-'Ericsson F305-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson F305', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson F305c-Other-Other': { source: uap-core-device, device: 'Ericsson F305c', os: Other, ua: Other, class: '' }
-'Ericsson F500i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson F500i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson G502-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson G502', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson G502c-Other-NetFront': { source: uap-core-device, device: 'Ericsson G502c', os: Other, ua: NetFront, class: '' }
-'Ericsson G700-Other-UC Browser': { source: uap-core-device, device: 'Ericsson G700', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson G705-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson G705', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson G705u-Other-NetFront': { source: uap-core-device, device: 'Ericsson G705u', os: Other, ua: NetFront, class: '' }
-'Ericsson G900-Other-UC Browser': { source: uap-core-device, device: 'Ericsson G900', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson J105a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J105a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J105i-Other-QQ Browser Mobile': { source: uap-core-device, device: 'Ericsson J105i', os: Other, ua: 'QQ Browser Mobile', class: '' }
-'Ericsson J108-Other-IE': { source: uap-core-device, device: 'Ericsson J108', os: Other, ua: IE, class: '' }
-'Ericsson J108a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J108a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J108i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J108i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J10i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J10i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J10i2-Other-NetFront': { source: uap-core-device, device: 'Ericsson J10i2', os: Other, ua: NetFront, class: '' }
-'Ericsson J20-Other-NetFront': { source: uap-core-device, device: 'Ericsson J20', os: Other, ua: NetFront, class: '' }
-'Ericsson J200i-Other-Other': { source: uap-core-device, device: 'Ericsson J200i', os: Other, ua: Other, class: '' }
-'Ericsson J20a-Other-NetFront': { source: uap-core-device, device: 'Ericsson J20a', os: Other, ua: NetFront, class: '' }
-'Ericsson J20i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J20i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J210c-Other-Other': { source: uap-core-device, device: 'Ericsson J210c', os: Other, ua: Other, class: '' }
-'Ericsson J210i-Other-Other': { source: uap-core-device, device: 'Ericsson J210i', os: Other, ua: Other, class: '' }
-'Ericsson J220c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J220c', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson J220i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J220i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson J230c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J230c', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson J230i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J230i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson J300a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300a', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson J300c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson J300i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Jonathan-Other-NetFront': { source: uap-core-device, device: 'Ericsson Jonathan', os: Other, ua: NetFront, class: '' }
-'Ericsson K200i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K200i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson K220i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K220i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson K300-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K300a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K300a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K300c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K300i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K310a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K310a', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K310c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K310c', os: Other, ua: NetFront, class: '' }
-'Ericsson K310i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K310i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K310iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K310iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K320c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K320c', os: Other, ua: NetFront, class: '' }
-'Ericsson K320i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K320i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K330-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K330', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson K330a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K330a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson K500-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson K500', os: Other, ua: UP.Browser, class: '' }
-'Ericsson K500c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K500c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K500i-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson K500i', os: Other, ua: UP.Browser, class: '' }
-'Ericsson K506c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K506c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K508c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K508c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K508i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K508i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K510-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510', os: Other, ua: NetFront, class: '' }
-'Ericsson K510a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K510a', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K510c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510c', os: Other, ua: NetFront, class: '' }
-'Ericsson K510i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510i', os: Other, ua: NetFront, class: '' }
-'Ericsson K530c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K530c', os: Other, ua: NetFront, class: '' }
-'Ericsson K530i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K530i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K550c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K550c', os: Other, ua: NetFront, class: '' }
-'Ericsson K550i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K550i', os: Other, ua: NetFront, class: '' }
-'Ericsson K600-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K600c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K600i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K608i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K608i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson k608i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson k608i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K610a-Other-Other': { source: uap-core-device, device: 'Ericsson K610a', os: Other, ua: Other, class: '' }
-'Ericsson K610c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610c', os: Other, ua: NetFront, class: '' }
-'Ericsson K610i-Windows CE-NetFront': { source: uap-core-device, device: 'Ericsson K610i', os: 'Windows CE', ua: NetFront, class: '' }
-'Ericsson K610im-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610im', os: Other, ua: NetFront, class: '' }
-'Ericsson K610iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K618i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K618i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K618iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K618iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K630i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K630i', os: Other, ua: NetFront, class: '' }
-'Ericsson K660-Other-NetFront': { source: uap-core-device, device: 'Ericsson K660', os: Other, ua: NetFront, class: '' }
-'Ericsson K660i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K660i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K700-Other-NetFront': { source: uap-core-device, device: 'Ericsson K700', os: Other, ua: NetFront, class: '' }
-'Ericsson K700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K700c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K700i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K700i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K700v-Other-NetFront': { source: uap-core-device, device: 'Ericsson K700v', os: Other, ua: NetFront, class: '' }
-'Ericsson K750c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K750c', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K750i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson k750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson k750i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K758c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K758c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K770i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K770i', os: Other, ua: NetFront, class: '' }
-'Ericsson K770iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K770iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K790-Other-NetFront': { source: uap-core-device, device: 'Ericsson K790', os: Other, ua: NetFront, class: '' }
-'Ericsson K790a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K790a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K790c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K790c', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K790i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K790i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson K800a-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800a', os: Other, ua: NetFront, class: '' }
-'Ericsson K800c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800c', os: Other, ua: NetFront, class: '' }
-'Ericsson K800i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K800i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson k800i-Other-Other': { source: uap-core-device, device: 'Ericsson k800i', os: Other, ua: Other, class: '' }
-'Ericsson K800ii-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800ii', os: Other, ua: NetFront, class: '' }
-'Ericsson K800iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K810a-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810a', os: Other, ua: NetFront, class: '' }
-'Ericsson K810c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810c', os: Other, ua: NetFront, class: '' }
-'Ericsson K810i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K810i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson K810iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810iv', os: Other, ua: NetFront, class: '' }
-'Ericsson K818c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K818c', os: Other, ua: NetFront, class: '' }
-'Ericsson K850Fi-Other-NetFront': { source: uap-core-device, device: 'Ericsson K850Fi', os: Other, ua: NetFront, class: '' }
-'Ericsson K850i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K850i', os: Other, ua: NetFront, class: '' }
-'Ericsson K850iv-Other-Other': { source: uap-core-device, device: 'Ericsson K850iv', os: Other, ua: Other, class: '' }
-'Ericsson K858c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K858c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson K8J50i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K8J50i', os: Other, ua: NetFront, class: '' }
-'Ericsson K999-Other-NetFront': { source: uap-core-device, device: 'Ericsson K999', os: Other, ua: NetFront, class: '' }
-'Ericsson LeNnaLiiZA-Other-NetFront': { source: uap-core-device, device: 'Ericsson LeNnaLiiZA', os: Other, ua: NetFront, class: '' }
-'Ericsson LT15i-Other-Other': { source: uap-core-device, device: 'Ericsson LT15i', os: Other, ua: Other, class: '' }
-'Ericsson M1a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson M1a', os: Other, ua: 'ONE Browser', class: '' }
+'Xperia A888 Duo-Android-Android': { source: uap-core-device, device: 'Xperia A888 Duo', os: Android, ua: Android, class: mobile }
+'Xperia Acro S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Acro S', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia acro S-Android-Android': { source: uap-core-device, device: 'Xperia acro S', os: Android, ua: Android, class: mobile }
+'Xperia Active-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Active', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Arc-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Arc', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Arc S-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Arc S', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Live with Walkman-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Live with Walkman', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Live With Walkman-Android-Android': { source: uap-core-device, device: 'Xperia Live With Walkman', os: Android, ua: Android, class: mobile }
+'Xperia Mini-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Mini', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Mini Pro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Mini Pro', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Neo-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Neo', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Neo L-Android-Opera Mobile': { source: uap-core-device, device: 'Xperia Neo L', os: Android, ua: 'Opera Mobile', class: mobile }
+'Xperia neo L-Android-UC Browser': { source: uap-core-device, device: 'Xperia neo L', os: Android, ua: 'UC Browser', class: mobile }
+'Xperia Neo V-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Neo V', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Play-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Play', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Pro-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Pro', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia Ray-Android-Chrome Mobile': { source: uap-core-device, device: 'Xperia Ray', os: Android, ua: 'Chrome Mobile', class: mobile }
+'Xperia X10-Android-Android': { source: uap-core-device, device: 'Xperia X10', os: Android, ua: Android, class: mobile }
+'Xperia X10 Mini-Android-Android': { source: uap-core-device, device: 'Xperia X10 Mini', os: Android, ua: Android, class: mobile }
+'Xperia X10 Z  HD (IV)-Android-Android': { source: uap-core-device, device: 'Xperia X10 Z  HD (IV)', os: Android, ua: Android, class: mobile }
+'Xperia X8-Android-Android': { source: uap-core-device, device: 'Xperia X8', os: Android, ua: Android, class: mobile }
+'XPERIA X8-Android-Android': { source: uap-core-device, device: 'XPERIA X8', os: Android, ua: Android, class: mobile }
+'xperia x8 mod-Android-Android': { source: uap-core-device, device: 'xperia x8 mod', os: Android, ua: Android, class: mobile }
+'SonyEricsson U1-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U1', os: 'Symbian OS', ua: 'UC Browser', class: mobile }
+'SonyEricsson U5-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U5', os: 'Symbian OS', ua: 'UC Browser', class: mobile }
+'SonyEricsson U5at-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U5at', os: 'Symbian OS', ua: 'UC Browser', class: mobile }
+'SonyEricsson U8a-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U8a', os: 'Symbian OS', ua: 'UC Browser', class: mobile }
+'SonyEricsson U8i-Symbian OS-UC Browser': { source: uap-core-device, device: 'SonyEricsson U8i', os: 'Symbian OS', ua: 'UC Browser', class: mobile }
+'Ericsson 290i-Other-Other': { source: uap-core-device, device: 'Ericsson 290i', os: Other, ua: Other, class: mobile }
+'Ericsson A120i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A120i', os: Other, ua: NetFront, class: mobile }
+'Ericsson A195i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A195i', os: Other, ua: NetFront, class: mobile }
+'Ericsson A200i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A200i', os: Other, ua: NetFront, class: mobile }
+'Ericsson A270-Other-NetFront': { source: uap-core-device, device: 'Ericsson A270', os: Other, ua: NetFront, class: mobile }
+'Ericsson A290i-Other-NetFront': { source: uap-core-device, device: 'Ericsson A290i', os: Other, ua: NetFront, class: mobile }
+'Ericsson A320-Other-NetFront': { source: uap-core-device, device: 'Ericsson A320', os: Other, ua: NetFront, class: mobile }
+'Ericsson AmFiTaMiN-Other-NetFront': { source: uap-core-device, device: 'Ericsson AmFiTaMiN', os: Other, ua: NetFront, class: mobile }
+'Ericsson C123-Other-NetFront': { source: uap-core-device, device: 'Ericsson C123', os: Other, ua: NetFront, class: mobile }
+'Ericsson C123v-Other-NetFront': { source: uap-core-device, device: 'Ericsson C123v', os: Other, ua: NetFront, class: mobile }
+'Ericsson C510-Other-Other': { source: uap-core-device, device: 'Ericsson C510', os: Other, ua: Other, class: mobile }
+'Ericsson C510a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C510a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson C510av-Other-NetFront': { source: uap-core-device, device: 'Ericsson C510av', os: Other, ua: NetFront, class: mobile }
+'Ericsson C510v-Other-Other': { source: uap-core-device, device: 'Ericsson C510v', os: Other, ua: Other, class: mobile }
+'Ericsson C702-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C702', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson C702a-Other-NetFront': { source: uap-core-device, device: 'Ericsson C702a', os: Other, ua: NetFront, class: mobile }
+'Ericsson C702c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C702c', os: Other, ua: NetFront, class: mobile }
+'Ericsson C901-Other-NetFront': { source: uap-core-device, device: 'Ericsson C901', os: Other, ua: NetFront, class: mobile }
+'Ericsson C902-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C902', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson C902c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C902c', os: Other, ua: NetFront, class: mobile }
+'Ericsson C902v-Other-Other': { source: uap-core-device, device: 'Ericsson C902v', os: Other, ua: Other, class: mobile }
+'Ericsson C903-Other-NetFront': { source: uap-core-device, device: 'Ericsson C903', os: Other, ua: NetFront, class: mobile }
+'Ericsson C903a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C903a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson C905-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson C905', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson C905a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson C905a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson C905c-Other-NetFront': { source: uap-core-device, device: 'Ericsson C905c', os: Other, ua: NetFront, class: mobile }
+'Ericsson C905v-Other-Other': { source: uap-core-device, device: 'Ericsson C905v', os: Other, ua: Other, class: mobile }
+'Ericsson CK13i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson CK13i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson CK15a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson CK15a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson CK15i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson CK15i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson D750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson D750i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson digivice-Other-NetFront': { source: uap-core-device, device: 'Ericsson digivice', os: Other, ua: NetFront, class: mobile }
+'Ericsson E10i-Other-Other': { source: uap-core-device, device: 'Ericsson E10i', os: Other, ua: Other, class: mobile }
+'Ericsson E10iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E10iBuild', os: Android, ua: Safari, class: mobile }
+'Ericsson E15aBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E15aBuild', os: Android, ua: Safari, class: mobile }
+'Ericsson E15i-Other-Other': { source: uap-core-device, device: 'Ericsson E15i', os: Other, ua: Other, class: mobile }
+'Ericsson E15iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson E15iBuild', os: Android, ua: Safari, class: mobile }
+'Ericsson F100i-Other-NetFront': { source: uap-core-device, device: 'Ericsson F100i', os: Other, ua: NetFront, class: mobile }
+'Ericsson F305-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson F305', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson F305c-Other-Other': { source: uap-core-device, device: 'Ericsson F305c', os: Other, ua: Other, class: mobile }
+'Ericsson F500i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson F500i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson G502-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson G502', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson G502c-Other-NetFront': { source: uap-core-device, device: 'Ericsson G502c', os: Other, ua: NetFront, class: mobile }
+'Ericsson G700-Other-UC Browser': { source: uap-core-device, device: 'Ericsson G700', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson G705-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson G705', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson G705u-Other-NetFront': { source: uap-core-device, device: 'Ericsson G705u', os: Other, ua: NetFront, class: mobile }
+'Ericsson G900-Other-UC Browser': { source: uap-core-device, device: 'Ericsson G900', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson J105a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J105a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson J105i-Other-QQ Browser Mobile': { source: uap-core-device, device: 'Ericsson J105i', os: Other, ua: 'QQ Browser Mobile', class: mobile }
+'Ericsson J108-Other-IE': { source: uap-core-device, device: 'Ericsson J108', os: Other, ua: IE, class: mobile }
+'Ericsson J108a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J108a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson J108i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J108i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson J10i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J10i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson J10i2-Other-NetFront': { source: uap-core-device, device: 'Ericsson J10i2', os: Other, ua: NetFront, class: mobile }
+'Ericsson J20-Other-NetFront': { source: uap-core-device, device: 'Ericsson J20', os: Other, ua: NetFront, class: mobile }
+'Ericsson J200i-Other-Other': { source: uap-core-device, device: 'Ericsson J200i', os: Other, ua: Other, class: mobile }
+'Ericsson J20a-Other-NetFront': { source: uap-core-device, device: 'Ericsson J20a', os: Other, ua: NetFront, class: mobile }
+'Ericsson J20i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson J20i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson J210c-Other-Other': { source: uap-core-device, device: 'Ericsson J210c', os: Other, ua: Other, class: mobile }
+'Ericsson J210i-Other-Other': { source: uap-core-device, device: 'Ericsson J210i', os: Other, ua: Other, class: mobile }
+'Ericsson J220c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J220c', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson J220i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J220i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson J230c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J230c', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson J230i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson J230i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson J300a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300a', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson J300c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson J300i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson J300i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Jonathan-Other-NetFront': { source: uap-core-device, device: 'Ericsson Jonathan', os: Other, ua: NetFront, class: mobile }
+'Ericsson K200i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K200i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson K220i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K220i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson K300-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K300a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K300a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K300c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K300i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K300i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K310a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K310a', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K310c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K310c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K310i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K310i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K310iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K310iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K320c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K320c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K320i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K320i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K330-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K330', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson K330a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson K330a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson K500-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson K500', os: Other, ua: UP.Browser, class: mobile }
+'Ericsson K500c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K500c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K500i-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson K500i', os: Other, ua: UP.Browser, class: mobile }
+'Ericsson K506c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K506c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K508c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K508c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K508i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K508i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K510-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510', os: Other, ua: NetFront, class: mobile }
+'Ericsson K510a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K510a', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K510c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K510i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K510i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K530c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K530c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K530i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K530i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K550c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K550c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K550i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K550i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K600-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K600c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K600i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K600i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K608i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K608i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson k608i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson k608i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K610a-Other-Other': { source: uap-core-device, device: 'Ericsson K610a', os: Other, ua: Other, class: mobile }
+'Ericsson K610c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K610i-Windows CE-NetFront': { source: uap-core-device, device: 'Ericsson K610i', os: 'Windows CE', ua: NetFront, class: mobile }
+'Ericsson K610im-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610im', os: Other, ua: NetFront, class: mobile }
+'Ericsson K610iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K610iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K618i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K618i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K618iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K618iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K630i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K630i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K660-Other-NetFront': { source: uap-core-device, device: 'Ericsson K660', os: Other, ua: NetFront, class: mobile }
+'Ericsson K660i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K660i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K700-Other-NetFront': { source: uap-core-device, device: 'Ericsson K700', os: Other, ua: NetFront, class: mobile }
+'Ericsson K700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K700c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K700i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K700i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K700v-Other-NetFront': { source: uap-core-device, device: 'Ericsson K700v', os: Other, ua: NetFront, class: mobile }
+'Ericsson K750c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K750c', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K750i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson k750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson k750i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K758c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K758c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K770i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K770i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K770iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K770iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K790-Other-NetFront': { source: uap-core-device, device: 'Ericsson K790', os: Other, ua: NetFront, class: mobile }
+'Ericsson K790a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K790a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K790c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K790c', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K790i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson K790i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson K800a-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800a', os: Other, ua: NetFront, class: mobile }
+'Ericsson K800c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K800i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K800i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson k800i-Other-Other': { source: uap-core-device, device: 'Ericsson k800i', os: Other, ua: Other, class: mobile }
+'Ericsson K800ii-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800ii', os: Other, ua: NetFront, class: mobile }
+'Ericsson K800iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K800iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K810a-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810a', os: Other, ua: NetFront, class: mobile }
+'Ericsson K810c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K810i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson K810i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson K810iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson K810iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson K818c-Other-NetFront': { source: uap-core-device, device: 'Ericsson K818c', os: Other, ua: NetFront, class: mobile }
+'Ericsson K850Fi-Other-NetFront': { source: uap-core-device, device: 'Ericsson K850Fi', os: Other, ua: NetFront, class: mobile }
+'Ericsson K850i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K850i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K850iv-Other-Other': { source: uap-core-device, device: 'Ericsson K850iv', os: Other, ua: Other, class: mobile }
+'Ericsson K858c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson K858c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson K8J50i-Other-NetFront': { source: uap-core-device, device: 'Ericsson K8J50i', os: Other, ua: NetFront, class: mobile }
+'Ericsson K999-Other-NetFront': { source: uap-core-device, device: 'Ericsson K999', os: Other, ua: NetFront, class: mobile }
+'Ericsson LeNnaLiiZA-Other-NetFront': { source: uap-core-device, device: 'Ericsson LeNnaLiiZA', os: Other, ua: NetFront, class: mobile }
+'Ericsson LT15i-Other-Other': { source: uap-core-device, device: 'Ericsson LT15i', os: Other, ua: Other, class: mobile }
+'Ericsson M1a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson M1a', os: Other, ua: 'ONE Browser', class: mobile }
 'Ericsson M1i-Windows Phone-IE': { source: uap-core-device, device: 'Ericsson M1i', os: 'Windows Phone', ua: IE, class: mobile }
-'Ericsson M600c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600c', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson M600i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600i', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson M608c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M608c', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson MODEL-Other-NetFront': { source: uap-core-device, device: 'Ericsson MODEL', os: Other, ua: NetFront, class: '' }
-'Ericsson MODELv-Other-NetFront': { source: uap-core-device, device: 'Ericsson MODELv', os: Other, ua: NetFront, class: '' }
-'Ericsson MT11i-Other-Other': { source: uap-core-device, device: 'Ericsson MT11i', os: Other, ua: Other, class: '' }
-'Ericsson NEXTEL-Other-Other': { source: uap-core-device, device: 'Ericsson NEXTEL', os: Other, ua: Other, class: '' }
-'Ericsson NW910i-Other-NetFront': { source: uap-core-device, device: 'Ericsson NW910i', os: Other, ua: NetFront, class: '' }
-'Ericsson P100-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson P100', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson P100v-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson P100v', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson P1i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson P1i', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson P200-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P200', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson P700i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P700i', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson P800-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson P800', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson P900-Other-Other': { source: uap-core-device, device: 'Ericsson P900', os: Other, ua: Other, class: '' }
-'Ericsson P900i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson P900i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson P908-Other-Other': { source: uap-core-device, device: 'Ericsson P908', os: Other, ua: Other, class: '' }
-'Ericsson P910a-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910a', os: Symbian^3, ua: Other, class: '' }
-'Ericsson P910c-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910c', os: Symbian^3, ua: Other, class: '' }
-'Ericsson P910i-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910i', os: Symbian^3, ua: Other, class: '' }
-'Ericsson P990-Other-Other': { source: uap-core-device, device: 'Ericsson P990', os: Other, ua: Other, class: '' }
-'Ericsson P990i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P990i', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson PCCompanion-Other-Other': { source: uap-core-device, device: 'Ericsson PCCompanion', os: Other, ua: Other, class: '' }
-'Ericsson R300-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson R300', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson R300a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson R300a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson R306-Other-Other': { source: uap-core-device, device: 'Ericsson R306', os: Other, ua: Other, class: '' }
-'Ericsson R306a-Other-Other': { source: uap-core-device, device: 'Ericsson R306a', os: Other, ua: Other, class: '' }
-'Ericsson R800i-Other-Other': { source: uap-core-device, device: 'Ericsson R800i', os: Other, ua: Other, class: '' }
-'Ericsson S302-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson S302', os: Other, ua: UP.Browser, class: '' }
-'Ericsson S302c-Other-Other': { source: uap-core-device, device: 'Ericsson S302c', os: Other, ua: Other, class: '' }
-'Ericsson S312-Other-Other': { source: uap-core-device, device: 'Ericsson S312', os: Other, ua: Other, class: '' }
-'Ericsson S500c-Other-NetFront': { source: uap-core-device, device: 'Ericsson S500c', os: Other, ua: NetFront, class: '' }
-'Ericsson S500i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson S500i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson S600i-Other-NetFront': { source: uap-core-device, device: 'Ericsson S600i', os: Other, ua: NetFront, class: '' }
-'Ericsson S700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S700c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson S700i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S700i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson S710a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S710a', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson sakamoto-Other-NetFront': { source: uap-core-device, device: 'Ericsson sakamoto', os: Other, ua: NetFront, class: '' }
-'Ericsson T100-Other-Other': { source: uap-core-device, device: 'Ericsson T100', os: Other, ua: Other, class: '' }
-'Ericsson T123i-Other-NetFront': { source: uap-core-device, device: 'Ericsson T123i', os: Other, ua: NetFront, class: '' }
-'Ericsson T200-Other-Other': { source: uap-core-device, device: 'Ericsson T200', os: Other, ua: Other, class: '' }
-'Ericsson T226-Other-Other': { source: uap-core-device, device: 'Ericsson T226', os: Other, ua: Other, class: '' }
-'Ericsson T230-Other-Other': { source: uap-core-device, device: 'Ericsson T230', os: Other, ua: Other, class: '' }
-'Ericsson T237-Other-Other': { source: uap-core-device, device: 'Ericsson T237', os: Other, ua: Other, class: '' }
-'Ericsson T238-Other-Other': { source: uap-core-device, device: 'Ericsson T238', os: Other, ua: Other, class: '' }
-'Ericsson T250a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T250a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T250i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T250i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T280a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T280a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T280i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T280i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T290-Other-Other': { source: uap-core-device, device: 'Ericsson T290', os: Other, ua: Other, class: '' }
-'Ericsson T290a-Other-Other': { source: uap-core-device, device: 'Ericsson T290a', os: Other, ua: Other, class: '' }
-'Ericsson T290i-Other-Other': { source: uap-core-device, device: 'Ericsson T290i', os: Other, ua: Other, class: '' }
-'Ericsson T300-Other-Other': { source: uap-core-device, device: 'Ericsson T300', os: Other, ua: Other, class: '' }
-'Ericsson T303-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T303a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T303c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303c', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson T306-Other-Other': { source: uap-core-device, device: 'Ericsson T306', os: Other, ua: Other, class: '' }
-'Ericsson T310-Other-Other': { source: uap-core-device, device: 'Ericsson T310', os: Other, ua: Other, class: '' }
-'Ericsson T312-Other-Other': { source: uap-core-device, device: 'Ericsson T312', os: Other, ua: Other, class: '' }
-'Ericsson T316-Other-Other': { source: uap-core-device, device: 'Ericsson T316', os: Other, ua: Other, class: '' }
-'Ericsson T608-Other-Other': { source: uap-core-device, device: 'Ericsson T608', os: Other, ua: Other, class: '' }
-'Ericsson T610-Other-Other': { source: uap-core-device, device: 'Ericsson T610', os: Other, ua: Other, class: '' }
-'Ericsson T616-Other-Other': { source: uap-core-device, device: 'Ericsson T616', os: Other, ua: Other, class: '' }
-'Ericsson T618-Other-Other': { source: uap-core-device, device: 'Ericsson T618', os: Other, ua: Other, class: '' }
-'Ericsson T628-Other-Other': { source: uap-core-device, device: 'Ericsson T628', os: Other, ua: Other, class: '' }
-'Ericsson T630-Other-Other': { source: uap-core-device, device: 'Ericsson T630', os: Other, ua: Other, class: '' }
-'Ericsson T637-Other-Other': { source: uap-core-device, device: 'Ericsson T637', os: Other, ua: Other, class: '' }
-'Ericsson T650i-Other-NetFront': { source: uap-core-device, device: 'Ericsson T650i', os: Other, ua: NetFront, class: '' }
-'Ericsson T658c-Other-NetFront': { source: uap-core-device, device: 'Ericsson T658c', os: Other, ua: NetFront, class: '' }
-'Ericsson T68-Other-Other': { source: uap-core-device, device: 'Ericsson T68', os: Other, ua: Other, class: '' }
-'Ericsson T687-Other-Other': { source: uap-core-device, device: 'Ericsson T687', os: Other, ua: Other, class: '' }
-'Ericsson T700-Other-NetFront': { source: uap-core-device, device: 'Ericsson T700', os: Other, ua: NetFront, class: '' }
-'Ericsson T707-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson T707', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson T707a-Other-NetFront': { source: uap-core-device, device: 'Ericsson T707a', os: Other, ua: NetFront, class: '' }
-'Ericsson T715-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson T715', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson T715a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson T715a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson T818-Other-NetFront': { source: uap-core-device, device: 'Ericsson T818', os: Other, ua: NetFront, class: '' }
-'Ericsson TM506-Other-NetFront': { source: uap-core-device, device: 'Ericsson TM506', os: Other, ua: NetFront, class: '' }
-'Ericsson TM717-Other-Other': { source: uap-core-device, device: 'Ericsson TM717', os: Other, ua: Other, class: '' }
-'Ericsson U1-Other-Other': { source: uap-core-device, device: 'Ericsson U1', os: Other, ua: Other, class: '' }
-'Ericsson U100i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson U100i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson U10a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson U10a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson U10i-Other-NetFront': { source: uap-core-device, device: 'Ericsson U10i', os: Other, ua: NetFront, class: '' }
-'Ericsson U1a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1a', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U1i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1i', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U1iv-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1iv', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U1UCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U1UCBrowser', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson U20i-Other-Other': { source: uap-core-device, device: 'Ericsson U20i', os: Other, ua: Other, class: '' }
-'Ericsson U20iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson U20iBuild', os: Android, ua: Safari, class: '' }
-'Ericsson U5-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U5a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5a', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U5at-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5at', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U5atUCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U5atUCBrowser', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson U5i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5i', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U5iv-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5iv', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U8a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U8a', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U8i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U8i', os: 'Symbian OS', ua: 'Nokia Browser', class: '' }
-'Ericsson U8iUCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U8iUCBrowser', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson Unix7-Other-NetFront': { source: uap-core-device, device: 'Ericsson Unix7', os: Other, ua: NetFront, class: '' }
-'Ericsson V600i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson V600i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson V630i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson V630i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson V630iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson V630iv', os: Other, ua: NetFront, class: '' }
-'Ericsson V640iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson V640iv', os: Other, ua: NetFront, class: '' }
-'Ericsson V800-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson V800', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Vitek-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Vitek', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson W100a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W100a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson W100i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W100i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W150-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W150', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson W150a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W150a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson W150i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W150i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson w150i-Other-Other': { source: uap-core-device, device: 'Ericsson w150i', os: Other, ua: Other, class: '' }
-'Ericsson W20-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W20', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson w200-Other-NetFront': { source: uap-core-device, device: 'Ericsson w200', os: Other, ua: NetFront, class: '' }
-'Ericsson W200a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W200a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W200av-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200av', os: Other, ua: NetFront, class: '' }
-'Ericsson W200c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200c', os: Other, ua: NetFront, class: '' }
-'Ericsson W200i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W200i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W200iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W200vista-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200vista', os: Other, ua: NetFront, class: '' }
-'Ericsson W205-Other-Other': { source: uap-core-device, device: 'Ericsson W205', os: Other, ua: Other, class: '' }
-'Ericsson W205a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W205a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W20a-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W20a', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson W20i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W20i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson w300-Other-NetFront': { source: uap-core-device, device: 'Ericsson w300', os: Other, ua: NetFront, class: '' }
-'Ericsson W300c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W300c', os: Other, ua: NetFront, class: '' }
-'Ericsson W300i-Other-Other': { source: uap-core-device, device: 'Ericsson W300i', os: Other, ua: Other, class: '' }
-'Ericsson w300i-Other-NetFront': { source: uap-core-device, device: 'Ericsson w300i', os: Other, ua: NetFront, class: '' }
-'Ericsson W302-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson W302', os: Other, ua: UP.Browser, class: '' }
-'Ericsson W302c-Other-Other': { source: uap-core-device, device: 'Ericsson W302c', os: Other, ua: Other, class: '' }
-'Ericsson W350a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350a', os: Other, ua: NetFront, class: '' }
-'Ericsson W350c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350c', os: Other, ua: NetFront, class: '' }
-'Ericsson W350i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W350i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W350iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W380a-Other-Other': { source: uap-core-device, device: 'Ericsson W380a', os: Other, ua: Other, class: '' }
-'Ericsson W380i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W380i', os: Other, ua: NetFront, class: '' }
-'Ericsson W395-Other-Other': { source: uap-core-device, device: 'Ericsson W395', os: Other, ua: Other, class: '' }
-'Ericsson W395c-Other-Other': { source: uap-core-device, device: 'Ericsson W395c', os: Other, ua: Other, class: '' }
-'Ericsson W508-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W508', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W508a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W508a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W518a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W518a', os: Other, ua: NetFront, class: '' }
-'Ericsson W550-Other-Other': { source: uap-core-device, device: 'Ericsson W550', os: Other, ua: Other, class: '' }
-'Ericsson W550c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W550c', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W550i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W550i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W580-Other-Other': { source: uap-core-device, device: 'Ericsson W580', os: Other, ua: Other, class: '' }
-'Ericsson W580c-Other-Other': { source: uap-core-device, device: 'Ericsson W580c', os: Other, ua: Other, class: '' }
-'Ericsson W580i-Other-Other': { source: uap-core-device, device: 'Ericsson W580i', os: Other, ua: Other, class: '' }
-'Ericsson w580i-Other-Other': { source: uap-core-device, device: 'Ericsson w580i', os: Other, ua: Other, class: '' }
-'Ericsson W595-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595', os: Other, ua: NetFront, class: '' }
-'Ericsson W595a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W595a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W595av-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595av', os: Other, ua: NetFront, class: '' }
-'Ericsson W595c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595c', os: Other, ua: NetFront, class: '' }
-'Ericsson W595s-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595s', os: Other, ua: NetFront, class: '' }
-'Ericsson W595v-Other-Other': { source: uap-core-device, device: 'Ericsson W595v', os: Other, ua: Other, class: '' }
-'Ericsson W598e-Other-NetFront': { source: uap-core-device, device: 'Ericsson W598e', os: Other, ua: NetFront, class: '' }
-'Ericsson W600c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W600c', os: Other, ua: NetFront, class: '' }
-'Ericsson W600i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W600i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W610a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610a', os: Other, ua: NetFront, class: '' }
-'Ericsson W610c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610c', os: Other, ua: NetFront, class: '' }
-'Ericsson W610i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610i', os: Other, ua: NetFront, class: '' }
-'Ericsson W660i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W660i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W660iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W660iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W666i-Other-Other': { source: uap-core-device, device: 'Ericsson W666i', os: Other, ua: Other, class: '' }
-'Ericsson W700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W700c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson W700i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W700i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W705-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W705', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W705a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W705a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W705i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705i', os: Other, ua: NetFront, class: '' }
-'Ericsson W705u-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705u', os: Other, ua: NetFront, class: '' }
-'Ericsson W705v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705v', os: Other, ua: NetFront, class: '' }
-'Ericsson W710c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W710c', os: Other, ua: NetFront, class: '' }
-'Ericsson W710i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W710i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W715-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W715', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W715v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W715v', os: Other, ua: NetFront, class: '' }
-'Ericsson W750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W750i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson W760a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W760a', os: Other, ua: NetFront, class: '' }
-'Ericsson W760c-Other-Other': { source: uap-core-device, device: 'Ericsson W760c', os: Other, ua: Other, class: '' }
-'Ericsson W760i-Other-Other': { source: uap-core-device, device: 'Ericsson W760i', os: Other, ua: Other, class: '' }
-'Ericsson w760i-Other-Other': { source: uap-core-device, device: 'Ericsson w760i', os: Other, ua: Other, class: '' }
-'Ericsson W800c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W800c', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W800i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W800i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W810c-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W810c', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W810i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W810i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson w810i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson w810i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson W810iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W810iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W830a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W830a', os: Other, ua: NetFront, class: '' }
-'Ericsson W830c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W830c', os: Other, ua: NetFront, class: '' }
-'Ericsson W830i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W830i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W850i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W850i', os: Other, ua: NetFront, class: '' }
-'Ericsson W850iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W850iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W880i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W880i', os: Other, ua: NetFront, class: '' }
-'Ericsson W880iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W880iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W888c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W888c', os: Other, ua: NetFront, class: '' }
-'Ericsson W890i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W890i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W890iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W890iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W900c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W900c', os: Other, ua: NetFront, class: '' }
-'Ericsson W900i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W900i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W902-Other-NetFront': { source: uap-core-device, device: 'Ericsson W902', os: Other, ua: NetFront, class: '' }
-'Ericsson W902v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W902v', os: Other, ua: NetFront, class: '' }
-'Ericsson W908c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W908c', os: Other, ua: NetFront, class: '' }
-'Ericsson W910i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W910i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W910iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W910iv', os: Other, ua: NetFront, class: '' }
-'Ericsson W950i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W950i', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson W958c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson W958c', os: 'Symbian OS', ua: Opera, class: '' }
-'Ericsson W960i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W960i', os: Other, ua: 'UC Browser', class: '' }
-'Ericsson W980-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W980', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson W980i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W980i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson W980v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W980v', os: Other, ua: NetFront, class: '' }
-'Ericsson W995-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W995', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson W995a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W995a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson WL910i-Other-NetFront': { source: uap-core-device, device: 'Ericsson WL910i', os: Other, ua: NetFront, class: '' }
-'Ericsson WT13i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson WT13i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson X10i-Other-Other': { source: uap-core-device, device: 'Ericsson X10i', os: Other, ua: Other, class: '' }
-'Ericsson X10iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson X10iBuild', os: Android, ua: Safari, class: '' }
-'Ericsson X1a-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X1a', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Ericsson X1i-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X1i', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Ericsson X2-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson X2', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson X2a-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X2a', os: 'Windows CE', ua: 'IE Mobile', class: '' }
-'Ericsson X2i-Windows CE-UC Browser': { source: uap-core-device, device: 'Ericsson X2i', os: 'Windows CE', ua: 'UC Browser', class: '' }
-'Ericsson X5-Other-Other': { source: uap-core-device, device: 'Ericsson X5', os: Other, ua: Other, class: '' }
-'Ericsson Z1010-Other-Other': { source: uap-core-device, device: 'Ericsson Z1010', os: Other, ua: Other, class: '' }
-'Ericsson Z200-Other-Other': { source: uap-core-device, device: 'Ericsson Z200', os: Other, ua: Other, class: '' }
-'Ericsson Z250i-Other-Other': { source: uap-core-device, device: 'Ericsson Z250i', os: Other, ua: Other, class: '' }
-'Ericsson Z300a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson Z300a', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson Z300i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson Z300i', os: Other, ua: 'Teleca Browser', class: '' }
-'Ericsson Z310a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z310a', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson Z310av-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z310av', os: Other, ua: NetFront, class: '' }
-'Ericsson Z310i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z310i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson Z310iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z310iv', os: Other, ua: NetFront, class: '' }
-'Ericsson Z320a-Other-Other': { source: uap-core-device, device: 'Ericsson Z320a', os: Other, ua: Other, class: '' }
-'Ericsson Z320i-Other-Other': { source: uap-core-device, device: 'Ericsson Z320i', os: Other, ua: Other, class: '' }
-'Ericsson Z500a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z500a', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Z500i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z500i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Z520a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z520a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z520c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z520c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Z520i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z520i', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Z530c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z530c', os: Other, ua: NetFront, class: '' }
-'Ericsson Z530i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z530i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z550a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z550a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z550c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z550c', os: Other, ua: NetFront, class: '' }
-'Ericsson Z550i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z550i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z555a-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z555a', os: Other, ua: NetFront, class: '' }
-'Ericsson Z555i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z555i', os: Other, ua: NetFront, class: '' }
-'Ericsson Z558i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z558i', os: Other, ua: NetFront, class: '' }
-'Ericsson Z600-Other-Other': { source: uap-core-device, device: 'Ericsson Z600', os: Other, ua: Other, class: '' }
-'Ericsson Z608-Other-Other': { source: uap-core-device, device: 'Ericsson Z608', os: Other, ua: Other, class: '' }
-'Ericsson Z610i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z610i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson Z710c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z710c', os: Other, ua: NetFront, class: '' }
-'Ericsson Z710i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z710i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson Z750a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z750a', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z750i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z750i', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z770i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z770i', os: Other, ua: NetFront, class: '' }
-'Ericsson Z780i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z780i', os: Other, ua: 'ONE Browser', class: '' }
-'Ericsson Z800-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z800', os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson Z800c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z800c', os: Other, ua: SEMC-Browser, class: '' }
-'Ericsson Z800i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z800i', os: Other, ua: SEMC-Browser, class: '' }
+'Ericsson M600c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600c', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson M600i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M600i', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson M608c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson M608c', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson MODEL-Other-NetFront': { source: uap-core-device, device: 'Ericsson MODEL', os: Other, ua: NetFront, class: mobile }
+'Ericsson MODELv-Other-NetFront': { source: uap-core-device, device: 'Ericsson MODELv', os: Other, ua: NetFront, class: mobile }
+'Ericsson MT11i-Other-Other': { source: uap-core-device, device: 'Ericsson MT11i', os: Other, ua: Other, class: mobile }
+'Ericsson NEXTEL-Other-Other': { source: uap-core-device, device: 'Ericsson NEXTEL', os: Other, ua: Other, class: mobile }
+'Ericsson NW910i-Other-NetFront': { source: uap-core-device, device: 'Ericsson NW910i', os: Other, ua: NetFront, class: mobile }
+'Ericsson P100-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson P100', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson P100v-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson P100v', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson P1i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson P1i', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson P200-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P200', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson P700i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P700i', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson P800-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson P800', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson P900-Other-Other': { source: uap-core-device, device: 'Ericsson P900', os: Other, ua: Other, class: mobile }
+'Ericsson P900i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson P900i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson P908-Other-Other': { source: uap-core-device, device: 'Ericsson P908', os: Other, ua: Other, class: mobile }
+'Ericsson P910a-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910a', os: Symbian^3, ua: Other, class: mobile }
+'Ericsson P910c-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910c', os: Symbian^3, ua: Other, class: mobile }
+'Ericsson P910i-Symbian^3-Other': { source: uap-core-device, device: 'Ericsson P910i', os: Symbian^3, ua: Other, class: mobile }
+'Ericsson P990-Other-Other': { source: uap-core-device, device: 'Ericsson P990', os: Other, ua: Other, class: mobile }
+'Ericsson P990i-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson P990i', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson PCCompanion-Other-Other': { source: uap-core-device, device: 'Ericsson PCCompanion', os: Other, ua: Other, class: mobile }
+'Ericsson R300-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson R300', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson R300a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson R300a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson R306-Other-Other': { source: uap-core-device, device: 'Ericsson R306', os: Other, ua: Other, class: mobile }
+'Ericsson R306a-Other-Other': { source: uap-core-device, device: 'Ericsson R306a', os: Other, ua: Other, class: mobile }
+'Ericsson R800i-Other-Other': { source: uap-core-device, device: 'Ericsson R800i', os: Other, ua: Other, class: mobile }
+'Ericsson S302-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson S302', os: Other, ua: UP.Browser, class: mobile }
+'Ericsson S302c-Other-Other': { source: uap-core-device, device: 'Ericsson S302c', os: Other, ua: Other, class: mobile }
+'Ericsson S312-Other-Other': { source: uap-core-device, device: 'Ericsson S312', os: Other, ua: Other, class: mobile }
+'Ericsson S500c-Other-NetFront': { source: uap-core-device, device: 'Ericsson S500c', os: Other, ua: NetFront, class: mobile }
+'Ericsson S500i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson S500i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson S600i-Other-NetFront': { source: uap-core-device, device: 'Ericsson S600i', os: Other, ua: NetFront, class: mobile }
+'Ericsson S700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S700c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson S700i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S700i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson S710a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson S710a', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson sakamoto-Other-NetFront': { source: uap-core-device, device: 'Ericsson sakamoto', os: Other, ua: NetFront, class: mobile }
+'Ericsson T100-Other-Other': { source: uap-core-device, device: 'Ericsson T100', os: Other, ua: Other, class: mobile }
+'Ericsson T123i-Other-NetFront': { source: uap-core-device, device: 'Ericsson T123i', os: Other, ua: NetFront, class: mobile }
+'Ericsson T200-Other-Other': { source: uap-core-device, device: 'Ericsson T200', os: Other, ua: Other, class: mobile }
+'Ericsson T226-Other-Other': { source: uap-core-device, device: 'Ericsson T226', os: Other, ua: Other, class: mobile }
+'Ericsson T230-Other-Other': { source: uap-core-device, device: 'Ericsson T230', os: Other, ua: Other, class: mobile }
+'Ericsson T237-Other-Other': { source: uap-core-device, device: 'Ericsson T237', os: Other, ua: Other, class: mobile }
+'Ericsson T238-Other-Other': { source: uap-core-device, device: 'Ericsson T238', os: Other, ua: Other, class: mobile }
+'Ericsson T250a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T250a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T250i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T250i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T280a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T280a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T280i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T280i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T290-Other-Other': { source: uap-core-device, device: 'Ericsson T290', os: Other, ua: Other, class: mobile }
+'Ericsson T290a-Other-Other': { source: uap-core-device, device: 'Ericsson T290a', os: Other, ua: Other, class: mobile }
+'Ericsson T290i-Other-Other': { source: uap-core-device, device: 'Ericsson T290i', os: Other, ua: Other, class: mobile }
+'Ericsson T300-Other-Other': { source: uap-core-device, device: 'Ericsson T300', os: Other, ua: Other, class: mobile }
+'Ericsson T303-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T303a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T303c-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson T303c', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson T306-Other-Other': { source: uap-core-device, device: 'Ericsson T306', os: Other, ua: Other, class: mobile }
+'Ericsson T310-Other-Other': { source: uap-core-device, device: 'Ericsson T310', os: Other, ua: Other, class: mobile }
+'Ericsson T312-Other-Other': { source: uap-core-device, device: 'Ericsson T312', os: Other, ua: Other, class: mobile }
+'Ericsson T316-Other-Other': { source: uap-core-device, device: 'Ericsson T316', os: Other, ua: Other, class: mobile }
+'Ericsson T608-Other-Other': { source: uap-core-device, device: 'Ericsson T608', os: Other, ua: Other, class: mobile }
+'Ericsson T610-Other-Other': { source: uap-core-device, device: 'Ericsson T610', os: Other, ua: Other, class: mobile }
+'Ericsson T616-Other-Other': { source: uap-core-device, device: 'Ericsson T616', os: Other, ua: Other, class: mobile }
+'Ericsson T618-Other-Other': { source: uap-core-device, device: 'Ericsson T618', os: Other, ua: Other, class: mobile }
+'Ericsson T628-Other-Other': { source: uap-core-device, device: 'Ericsson T628', os: Other, ua: Other, class: mobile }
+'Ericsson T630-Other-Other': { source: uap-core-device, device: 'Ericsson T630', os: Other, ua: Other, class: mobile }
+'Ericsson T637-Other-Other': { source: uap-core-device, device: 'Ericsson T637', os: Other, ua: Other, class: mobile }
+'Ericsson T650i-Other-NetFront': { source: uap-core-device, device: 'Ericsson T650i', os: Other, ua: NetFront, class: mobile }
+'Ericsson T658c-Other-NetFront': { source: uap-core-device, device: 'Ericsson T658c', os: Other, ua: NetFront, class: mobile }
+'Ericsson T68-Other-Other': { source: uap-core-device, device: 'Ericsson T68', os: Other, ua: Other, class: mobile }
+'Ericsson T687-Other-Other': { source: uap-core-device, device: 'Ericsson T687', os: Other, ua: Other, class: mobile }
+'Ericsson T700-Other-NetFront': { source: uap-core-device, device: 'Ericsson T700', os: Other, ua: NetFront, class: mobile }
+'Ericsson T707-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson T707', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson T707a-Other-NetFront': { source: uap-core-device, device: 'Ericsson T707a', os: Other, ua: NetFront, class: mobile }
+'Ericsson T715-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson T715', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson T715a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson T715a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson T818-Other-NetFront': { source: uap-core-device, device: 'Ericsson T818', os: Other, ua: NetFront, class: mobile }
+'Ericsson TM506-Other-NetFront': { source: uap-core-device, device: 'Ericsson TM506', os: Other, ua: NetFront, class: mobile }
+'Ericsson TM717-Other-Other': { source: uap-core-device, device: 'Ericsson TM717', os: Other, ua: Other, class: mobile }
+'Ericsson U1-Other-Other': { source: uap-core-device, device: 'Ericsson U1', os: Other, ua: Other, class: mobile }
+'Ericsson U100i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson U100i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson U10a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson U10a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson U10i-Other-NetFront': { source: uap-core-device, device: 'Ericsson U10i', os: Other, ua: NetFront, class: mobile }
+'Ericsson U1a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1a', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U1i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1i', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U1iv-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U1iv', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U1UCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U1UCBrowser', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson U20i-Other-Other': { source: uap-core-device, device: 'Ericsson U20i', os: Other, ua: Other, class: mobile }
+'Ericsson U20iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson U20iBuild', os: Android, ua: Safari, class: mobile }
+'Ericsson U5-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U5a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5a', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U5at-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5at', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U5atUCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U5atUCBrowser', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson U5i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5i', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U5iv-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U5iv', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U8a-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U8a', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U8i-Symbian OS-Nokia Browser': { source: uap-core-device, device: 'Ericsson U8i', os: 'Symbian OS', ua: 'Nokia Browser', class: mobile }
+'Ericsson U8iUCBrowser-Other-UC Browser': { source: uap-core-device, device: 'Ericsson U8iUCBrowser', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson Unix7-Other-NetFront': { source: uap-core-device, device: 'Ericsson Unix7', os: Other, ua: NetFront, class: mobile }
+'Ericsson V600i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson V600i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson V630i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson V630i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson V630iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson V630iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson V640iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson V640iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson V800-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson V800', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Vitek-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Vitek', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson W100a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W100a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson W100i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W100i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W150-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W150', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson W150a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson W150a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson W150i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W150i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson w150i-Other-Other': { source: uap-core-device, device: 'Ericsson w150i', os: Other, ua: Other, class: mobile }
+'Ericsson W20-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W20', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson w200-Other-NetFront': { source: uap-core-device, device: 'Ericsson w200', os: Other, ua: NetFront, class: mobile }
+'Ericsson W200a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W200a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W200av-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200av', os: Other, ua: NetFront, class: mobile }
+'Ericsson W200c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W200i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W200i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W200iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W200vista-Other-NetFront': { source: uap-core-device, device: 'Ericsson W200vista', os: Other, ua: NetFront, class: mobile }
+'Ericsson W205-Other-Other': { source: uap-core-device, device: 'Ericsson W205', os: Other, ua: Other, class: mobile }
+'Ericsson W205a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W205a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W20a-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W20a', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson W20i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W20i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson w300-Other-NetFront': { source: uap-core-device, device: 'Ericsson w300', os: Other, ua: NetFront, class: mobile }
+'Ericsson W300c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W300c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W300i-Other-Other': { source: uap-core-device, device: 'Ericsson W300i', os: Other, ua: Other, class: mobile }
+'Ericsson w300i-Other-NetFront': { source: uap-core-device, device: 'Ericsson w300i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W302-Other-UP.Browser': { source: uap-core-device, device: 'Ericsson W302', os: Other, ua: UP.Browser, class: mobile }
+'Ericsson W302c-Other-Other': { source: uap-core-device, device: 'Ericsson W302c', os: Other, ua: Other, class: mobile }
+'Ericsson W350a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350a', os: Other, ua: NetFront, class: mobile }
+'Ericsson W350c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W350i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W350i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W350iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W350iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W380a-Other-Other': { source: uap-core-device, device: 'Ericsson W380a', os: Other, ua: Other, class: mobile }
+'Ericsson W380i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W380i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W395-Other-Other': { source: uap-core-device, device: 'Ericsson W395', os: Other, ua: Other, class: mobile }
+'Ericsson W395c-Other-Other': { source: uap-core-device, device: 'Ericsson W395c', os: Other, ua: Other, class: mobile }
+'Ericsson W508-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W508', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W508a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W508a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W518a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W518a', os: Other, ua: NetFront, class: mobile }
+'Ericsson W550-Other-Other': { source: uap-core-device, device: 'Ericsson W550', os: Other, ua: Other, class: mobile }
+'Ericsson W550c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W550c', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W550i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W550i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W580-Other-Other': { source: uap-core-device, device: 'Ericsson W580', os: Other, ua: Other, class: mobile }
+'Ericsson W580c-Other-Other': { source: uap-core-device, device: 'Ericsson W580c', os: Other, ua: Other, class: mobile }
+'Ericsson W580i-Other-Other': { source: uap-core-device, device: 'Ericsson W580i', os: Other, ua: Other, class: mobile }
+'Ericsson w580i-Other-Other': { source: uap-core-device, device: 'Ericsson w580i', os: Other, ua: Other, class: mobile }
+'Ericsson W595-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595', os: Other, ua: NetFront, class: mobile }
+'Ericsson W595a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W595a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W595av-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595av', os: Other, ua: NetFront, class: mobile }
+'Ericsson W595c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W595s-Other-NetFront': { source: uap-core-device, device: 'Ericsson W595s', os: Other, ua: NetFront, class: mobile }
+'Ericsson W595v-Other-Other': { source: uap-core-device, device: 'Ericsson W595v', os: Other, ua: Other, class: mobile }
+'Ericsson W598e-Other-NetFront': { source: uap-core-device, device: 'Ericsson W598e', os: Other, ua: NetFront, class: mobile }
+'Ericsson W600c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W600c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W600i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W600i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W610a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610a', os: Other, ua: NetFront, class: mobile }
+'Ericsson W610c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W610i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W610i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W660i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W660i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W660iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W660iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W666i-Other-Other': { source: uap-core-device, device: 'Ericsson W666i', os: Other, ua: Other, class: mobile }
+'Ericsson W700c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W700c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson W700i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W700i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W705-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W705', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W705a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W705a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W705i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W705u-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705u', os: Other, ua: NetFront, class: mobile }
+'Ericsson W705v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W705v', os: Other, ua: NetFront, class: mobile }
+'Ericsson W710c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W710c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W710i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W710i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W715-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W715', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W715v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W715v', os: Other, ua: NetFront, class: mobile }
+'Ericsson W750i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W750i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson W760a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W760a', os: Other, ua: NetFront, class: mobile }
+'Ericsson W760c-Other-Other': { source: uap-core-device, device: 'Ericsson W760c', os: Other, ua: Other, class: mobile }
+'Ericsson W760i-Other-Other': { source: uap-core-device, device: 'Ericsson W760i', os: Other, ua: Other, class: mobile }
+'Ericsson w760i-Other-Other': { source: uap-core-device, device: 'Ericsson w760i', os: Other, ua: Other, class: mobile }
+'Ericsson W800c-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W800c', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W800i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W800i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W810c-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W810c', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W810i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W810i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson w810i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson w810i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson W810iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W810iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W830a-Other-NetFront': { source: uap-core-device, device: 'Ericsson W830a', os: Other, ua: NetFront, class: mobile }
+'Ericsson W830c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W830c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W830i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W830i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W850i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W850i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W850iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W850iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W880i-Other-NetFront': { source: uap-core-device, device: 'Ericsson W880i', os: Other, ua: NetFront, class: mobile }
+'Ericsson W880iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W880iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W888c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W888c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W890i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W890i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W890iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W890iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W900c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W900c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W900i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W900i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W902-Other-NetFront': { source: uap-core-device, device: 'Ericsson W902', os: Other, ua: NetFront, class: mobile }
+'Ericsson W902v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W902v', os: Other, ua: NetFront, class: mobile }
+'Ericsson W908c-Other-NetFront': { source: uap-core-device, device: 'Ericsson W908c', os: Other, ua: NetFront, class: mobile }
+'Ericsson W910i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W910i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W910iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson W910iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson W950i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W950i', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson W958c-Symbian OS-Opera': { source: uap-core-device, device: 'Ericsson W958c', os: 'Symbian OS', ua: Opera, class: mobile }
+'Ericsson W960i-Other-UC Browser': { source: uap-core-device, device: 'Ericsson W960i', os: Other, ua: 'UC Browser', class: mobile }
+'Ericsson W980-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson W980', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson W980i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson W980i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson W980v-Other-NetFront': { source: uap-core-device, device: 'Ericsson W980v', os: Other, ua: NetFront, class: mobile }
+'Ericsson W995-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W995', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson W995a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson W995a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson WL910i-Other-NetFront': { source: uap-core-device, device: 'Ericsson WL910i', os: Other, ua: NetFront, class: mobile }
+'Ericsson WT13i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson WT13i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson X10i-Other-Other': { source: uap-core-device, device: 'Ericsson X10i', os: Other, ua: Other, class: mobile }
+'Ericsson X10iBuild-Android-Safari': { source: uap-core-device, device: 'Ericsson X10iBuild', os: Android, ua: Safari, class: mobile }
+'Ericsson X1a-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X1a', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Ericsson X1i-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X1i', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Ericsson X2-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson X2', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson X2a-Windows CE-IE Mobile': { source: uap-core-device, device: 'Ericsson X2a', os: 'Windows CE', ua: 'IE Mobile', class: mobile }
+'Ericsson X2i-Windows CE-UC Browser': { source: uap-core-device, device: 'Ericsson X2i', os: 'Windows CE', ua: 'UC Browser', class: mobile }
+'Ericsson X5-Other-Other': { source: uap-core-device, device: 'Ericsson X5', os: Other, ua: Other, class: mobile }
+'Ericsson Z1010-Other-Other': { source: uap-core-device, device: 'Ericsson Z1010', os: Other, ua: Other, class: mobile }
+'Ericsson Z200-Other-Other': { source: uap-core-device, device: 'Ericsson Z200', os: Other, ua: Other, class: mobile }
+'Ericsson Z250i-Other-Other': { source: uap-core-device, device: 'Ericsson Z250i', os: Other, ua: Other, class: mobile }
+'Ericsson Z300a-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson Z300a', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson Z300i-Other-Teleca Browser': { source: uap-core-device, device: 'Ericsson Z300i', os: Other, ua: 'Teleca Browser', class: mobile }
+'Ericsson Z310a-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z310a', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson Z310av-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z310av', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z310i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z310i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson Z310iv-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z310iv', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z320a-Other-Other': { source: uap-core-device, device: 'Ericsson Z320a', os: Other, ua: Other, class: mobile }
+'Ericsson Z320i-Other-Other': { source: uap-core-device, device: 'Ericsson Z320i', os: Other, ua: Other, class: mobile }
+'Ericsson Z500a-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z500a', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Z500i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z500i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Z520a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z520a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z520c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z520c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Z520i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z520i', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Z530c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z530c', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z530i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z530i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z550a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z550a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z550c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z550c', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z550i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z550i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z555a-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z555a', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z555i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z555i', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z558i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z558i', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z600-Other-Other': { source: uap-core-device, device: 'Ericsson Z600', os: Other, ua: Other, class: mobile }
+'Ericsson Z608-Other-Other': { source: uap-core-device, device: 'Ericsson Z608', os: Other, ua: Other, class: mobile }
+'Ericsson Z610i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z610i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson Z710c-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z710c', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z710i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z710i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson Z750a-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z750a', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z750i-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z750i', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z770i-Other-NetFront': { source: uap-core-device, device: 'Ericsson Z770i', os: Other, ua: NetFront, class: mobile }
+'Ericsson Z780i-Other-ONE Browser': { source: uap-core-device, device: 'Ericsson Z780i', os: Other, ua: 'ONE Browser', class: mobile }
+'Ericsson Z800-Other-QQ Browser Mini': { source: uap-core-device, device: 'Ericsson Z800', os: Other, ua: 'QQ Browser Mini', class: mobile }
+'Ericsson Z800c-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z800c', os: Other, ua: SEMC-Browser, class: mobile }
+'Ericsson Z800i-Other-SEMC-Browser': { source: uap-core-device, device: 'Ericsson Z800i', os: Other, ua: SEMC-Browser, class: mobile }
 SpiceMi1010-Android-Opera: { source: uap-core-device, device: SpiceMi1010, os: Android, ua: Opera, class: '' }
 Mi230-Android-Android: { source: uap-core-device, device: Mi230, os: Android, ua: Android, class: '' }
 'Spice Mi-270-Android-UC Browser': { source: uap-core-device, device: 'Spice Mi-270', os: Android, ua: 'UC Browser', class: '' }
@@ -15298,7 +15298,7 @@ A2-Android-Android: { source: uap-core-ua, device: A2, os: Android, ua: Android,
 'Samsung SGH-A897-Other-Opera Mini': { source: uap-core-ua, device: 'Samsung SGH-A897', os: Other, ua: 'Opera Mini', class: mobile }
 'HTC Desire S-Linux-QQ Browser Mobile': { source: uap-core-ua, device: 'HTC Desire S', os: Linux, ua: 'QQ Browser Mobile', class: mobile }
 'Other-Other-QQ Browser Mini': { source: uap-core-ua, device: Other, os: Other, ua: 'QQ Browser Mini', class: '' }
-'Ericsson J105i-Other-QQ Browser Mini': { source: uap-core-ua, device: 'Ericsson J105i', os: Other, ua: 'QQ Browser Mini', class: '' }
+'Ericsson J105i-Other-QQ Browser Mini': { source: uap-core-ua, device: 'Ericsson J105i', os: Other, ua: 'QQ Browser Mini', class: mobile }
 'Other-Linux-QQ Browser': { source: uap-core-ua, device: Other, os: Linux, ua: 'QQ Browser', class: '' }
 iPad-iOS-Dolphin: { source: uap-core-ua, device: iPad, os: iOS, ua: Dolphin, class: tablet }
 iPhone-iOS-Dolphin: { source: uap-core-ua, device: iPhone, os: iOS, ua: Dolphin, class: mobile }
