@@ -74,18 +74,18 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
         $validClass = ['desktop', 'tablet', 'mobile', 'spider'];
         $data = [];
         foreach ($testData as $key => $testCase) {
-            if (empty($testCase['class'])) {
+            if (empty($testCase['c'])) {
                 continue;
             }
-            if (!in_array($testCase['class'], $validClass)) {
-                throw new \RuntimeException("Invalid class '{$testCase['class']}' for '{$key}'");
+            if (!in_array($testCase['c'], $validClass)) {
+                throw new \RuntimeException("Invalid class '{$testCase['c']}' for '{$key}'");
             }
             $data[] = [
                 $key,
-                $testCase['device'],
-                $testCase['os'],
-                $testCase['ua'],
-                $testCase['class']
+                $testCase['d'],
+                $testCase['o'],
+                $testCase['u'],
+                $testCase['c']
             ];
         }
 

@@ -45,12 +45,12 @@ $addEntries = function ($sourceName, $sourcePath) use (&$testData, $parser) {
         }
 
         $testData[$key] = [
-            'source' => $sourceName,
-            'device' => $result->device->family,
-            'os'     => $result->os->family,
-            'ua'     => $result->ua->family,
+            's' => $sourceName,
+            'd' => $result->device->family,
+            'o'     => $result->os->family,
+            'u'     => $result->ua->family,
             // default value to be modified manually later
-            'class'  => ''
+            'c'  => ''
         ];
         $count++;
     }

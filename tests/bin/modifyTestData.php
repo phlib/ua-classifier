@@ -30,31 +30,31 @@ $countEmpty = 0;
 $countModify = 0;
 foreach ($testData as $key => &$testCase) {
     $countTotal++;
-    if (empty($testCase['class'])) {
+    if (empty($testCase['c'])) {
         $countEmpty++;
     } elseif ($config['skipNonEmpty'] !== false) {
         continue;
     }
 
-    if ($config['device'] !== null && preg_match($config['device'], $testCase['device']) === 0) {
+    if ($config['device'] !== null && preg_match($config['device'], $testCase['d']) === 0) {
         continue;
     }
-    if ($config['os'] !== null && preg_match($config['os'], $testCase['os']) === 0) {
+    if ($config['os'] !== null && preg_match($config['os'], $testCase['o']) === 0) {
         continue;
     }
-    if ($config['ua'] !== null && preg_match($config['ua'], $testCase['ua']) === 0) {
+    if ($config['ua'] !== null && preg_match($config['ua'], $testCase['u']) === 0) {
         continue;
     }
 
     // We're going to update this one
     $countModify++;
-    if (empty($testCase['class'])) {
+    if (empty($testCase['c'])) {
         $countEmpty--;
     }
 
     echo "Write '{$config['class']}' to key '{$key}' \n";
 
-    $testCase['class'] = $config['class'];
+    $testCase['c'] = $config['class'];
 }
 
 echo "\nReady to write {$countModify} entries of {$countTotal} total, leaving {$countEmpty} empty\n\n";
