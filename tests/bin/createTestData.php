@@ -6,9 +6,9 @@
 $outputFile = dirname(__DIR__) . '/test-cases.yaml';
 
 $sources = [
-    'uap-core-device' => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_device.yaml',
-    'uap-core-os'     => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_os.yaml',
-    'uap-core-ua'     => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_ua.yaml'
+    'uc-d' => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_device.yaml',
+    'uc-o' => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_os.yaml',
+    'uc-u' => 'https://raw.githubusercontent.com/ua-parser/uap-core/master/tests/test_ua.yaml'
 ];
 
 // Script
