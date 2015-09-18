@@ -5,6 +5,7 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 
 A PHP ua-parser device classification project, to provide functionality that was removed in [ua-parser](https://github.com/tobie/ua-parser) 2.0
+([4c77b2a](https://github.com/tobie/ua-parser/commit/4c77b2aa8d1f26f21e59c4901ea8c75bcbfb00aa))
 
 This is a port of the original re-implementation by [Jarnar/ua-classifier](https://bitbucket.org/Jarnar/ua-classifier)
 
@@ -18,4 +19,15 @@ $ composer require phlib/ua-classifier
 
 ## Usage
 
-@todo
+```php
+require_once 'vendor/autoload.php';
+
+// $result is UAParser result
+$classification = new \UAClassifier\Classifier($result);
+
+print $classification->isMobileDevice;
+print $classification->isMobile;
+print $classification->isTablet;
+print $classification->isSpider;
+print $classification->isComputer;
+```

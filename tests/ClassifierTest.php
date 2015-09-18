@@ -42,27 +42,27 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
 
         $this->assertEquals(
             $class === 'desktop',
-            $classifer->is_computer,
+            $classifer->isComputer,
             'Computer' . $msgString
         );
         $this->assertEquals(
             in_array($class, ['tablet', 'mobile']),
-            $classifer->is_mobileDevice,
+            $classifer->isMobileDevice,
             'Mobile device' . $msgString
         );
         $this->assertEquals(
             $class === 'tablet',
-            $classifer->is_tablet,
+            $classifer->isTablet,
             'Tablet' . $msgString
         );
         $this->assertEquals(
             $class === 'mobile',
-            $classifer->is_mobile,
+            $classifer->isMobile,
             'Mobile' . $msgString
         );
         $this->assertEquals(
             $class === 'spider',
-            $classifer->is_spider,
+            $classifer->isSpider,
             'Spider' . $msgString
         );
     }
