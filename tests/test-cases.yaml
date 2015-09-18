@@ -15143,114 +15143,114 @@ Spider-Other-Reaper: { s: uc-d, d: Spider, o: Other, u: Reaper, c: spider }
 Spider-Other-ZooShot: { s: uc-d, d: Spider, o: Other, u: ZooShot, c: spider }
 Spider-Other-holmes: { s: uc-d, d: Spider, o: Other, u: holmes, c: spider }
 'Other-Android-Chrome Mobile': { s: uc-d, d: Other, o: Android, u: 'Chrome Mobile', c: '' }
-'Generic Tablet-Android-Opera Tablet': { s: uap-core-os, d: 'Generic Tablet', o: Android, u: 'Opera Tablet', c: tablet }
-Other-BSD-Rekonq: { s: uap-core-os, d: Other, o: BSD, u: Rekonq, c: '' }
-Other-Debian-Conkeror: { s: uap-core-os, d: Other, o: Debian, u: Conkeror, c: '' }
-'iPhone-iOS-Opera Mini': { s: uap-core-os, d: iPhone, o: iOS, u: 'Opera Mini', c: mobile }
-Other-Linux-LuaKit: { s: uap-core-os, d: Other, o: Linux, u: LuaKit, c: '' }
-Other-Linux-Konqueror: { s: uap-core-os, d: Other, o: Linux, u: Konqueror, c: '' }
-'Other-Linux-Python Requests': { s: uap-core-os, d: Other, o: Linux, u: 'Python Requests', c: '' }
-Other-Linux-Conkeror: { s: uap-core-os, d: Other, o: Linux, u: Conkeror, c: '' }
-Other-Linux-Midori: { s: uap-core-os, d: Other, o: Linux, u: Midori, c: '' }
-Other-Linux-IceCat: { s: uap-core-os, d: Other, o: Linux, u: IceCat, c: '' }
-'Other-Linux-Firefox Beta': { s: uap-core-os, d: Other, o: Linux, u: 'Firefox Beta', c: '' }
-'Other-Mac OS X-Safari': { s: uap-core-os, d: Other, o: 'Mac OS X', u: Safari, c: desktop }
-'Other-Mac OS X-Skyfire': { s: uap-core-os, d: Other, o: 'Mac OS X', u: Skyfire, c: desktop }
-Other-Other-YottaaMonitor: { s: uap-core-os, d: Other, o: Other, u: YottaaMonitor, c: '' }
-Other-Other-Other: { s: uap-core-os, d: Other, o: Other, u: Other, c: '' }
-'Generic Smartphone-Symbian OS-Opera Mini': { s: uap-core-os, d: 'Generic Smartphone', o: 'Symbian OS', u: 'Opera Mini', c: mobile }
-'Generic Smartphone-Symbian OS-Opera Mobile': { s: uap-core-os, d: 'Generic Smartphone', o: 'Symbian OS', u: 'Opera Mobile', c: mobile }
-Other-Ubuntu-Firefox: { s: uap-core-os, d: Other, o: Ubuntu, u: Firefox, c: '' }
-Other-Ubuntu-Chromium: { s: uap-core-os, d: Other, o: Ubuntu, u: Chromium, c: '' }
-'Other-Ubuntu-Firefox (Shiretoko)': { s: uap-core-os, d: Other, o: Ubuntu, u: 'Firefox (Shiretoko)', c: '' }
-'Generic Smartphone-webOS-webOS Browser': { s: uap-core-os, d: 'Generic Smartphone', o: webOS, u: 'webOS Browser', c: mobile }
-Other-Windows-AdobeAIR: { s: uap-core-os, d: Other, o: Windows, u: AdobeAIR, c: desktop }
-'Other-Windows 10-IE': { s: uap-core-os, d: Other, o: 'Windows 10', u: IE, c: desktop }
-'Other-Windows 10-Edge': { s: uap-core-os, d: Other, o: 'Windows 10', u: Edge, c: desktop }
-'Other-Windows 10-Firefox': { s: uap-core-os, d: Other, o: 'Windows 10', u: Firefox, c: desktop }
-'Other-Windows 8.1-IE': { s: uap-core-os, d: Other, o: 'Windows 8.1', u: IE, c: desktop }
-'Other-Windows RT 8.1-IE': { s: uap-core-os, d: Other, o: 'Windows RT 8.1', u: IE, c: tablet }
-'Other-Windows 7-ThunderBrowse': { s: uap-core-os, d: Other, o: 'Windows 7', u: ThunderBrowse, c: desktop }
-'Other-Windows 7-MozillaDeveloperPreview': { s: uap-core-os, d: Other, o: 'Windows 7', u: MozillaDeveloperPreview, c: desktop }
-'Other-Windows 7-FireWeb': { s: uap-core-os, d: Other, o: 'Windows 7', u: FireWeb, c: desktop }
-'Other-Windows 8-IE': { s: uap-core-os, d: Other, o: 'Windows 8', u: IE, c: desktop }
-'Other-Windows RT-IE': { s: uap-core-os, d: Other, o: 'Windows RT', u: IE, c: tablet }
-'Other-Windows Vista-IE': { s: uap-core-os, d: Other, o: 'Windows Vista', u: IE, c: desktop }
-'Other-Windows XP-Lightning': { s: uap-core-os, d: Other, o: 'Windows XP', u: Lightning, c: desktop }
-'Other-Windows XP-Opera': { s: uap-core-os, d: Other, o: 'Windows XP', u: Opera, c: desktop }
-'Other-Windows XP-BOLT': { s: uap-core-os, d: Other, o: 'Windows XP', u: BOLT, c: desktop }
-'Other-Windows XP-Sleipnir': { s: uap-core-os, d: Other, o: 'Windows XP', u: Sleipnir, c: desktop }
-'Other-Windows XP-IE': { s: uap-core-os, d: Other, o: 'Windows XP', u: IE, c: desktop }
-'Other-Windows XP-RockMelt': { s: uap-core-os, d: Other, o: 'Windows XP', u: RockMelt, c: desktop }
-'Other-Windows XP-Comodo Dragon': { s: uap-core-os, d: Other, o: 'Windows XP', u: 'Comodo Dragon', c: desktop }
-'Other-Windows XP-Pale Moon (Firefox Variant)': { s: uap-core-os, d: Other, o: 'Windows XP', u: 'Pale Moon (Firefox Variant)', c: desktop }
-Other-Mandriva-Firefox: { s: uap-core-os, d: Other, o: Mandriva, u: Firefox, c: '' }
-'Other-Windows ME-Other': { s: uap-core-os, d: Other, o: 'Windows ME', u: Other, c: '' }
-'Samsung GT-S6012-Android-UC Browser': { s: uap-core-os, d: 'Samsung GT-S6012', o: Android, u: 'UC Browser', c: mobile }
-'Nokia 5228-Symbian OS-Nokia Services (WAP) Browser': { s: uap-core-os, d: 'Nokia 5228', o: 'Symbian OS', u: 'Nokia Services (WAP) Browser', c: mobile }
-'Nokia N97-Symbian OS-UC Browser': { s: uap-core-os, d: 'Nokia N97', o: 'Symbian OS', u: 'UC Browser', c: mobile }
-'Nokia N96-Symbian OS-UC Browser': { s: uap-core-os, d: 'Nokia N96', o: 'Symbian OS', u: 'UC Browser', c: mobile }
-'Nokia 5230-Symbian OS-QQ Browser Mini': { s: uap-core-os, d: 'Nokia 5230', o: 'Symbian OS', u: 'QQ Browser Mini', c: mobile }
-'Generic Smartphone-Bada-Opera Mini': { s: uap-core-os, d: 'Generic Smartphone', o: Bada, u: 'Opera Mini', c: mobile }
-'Lenovo A288t_TD-Android-iBrowser': { s: uap-core-os, d: 'Lenovo A288t_TD', o: Android, u: iBrowser, c: mobile }
-'Lenovo A288t_TD-Android-Baidu Explorer': { s: uap-core-os, d: 'Lenovo A288t_TD', o: Android, u: 'Baidu Explorer', c: mobile }
-'Generic Smartphone-Android-QQ Browser Mobile': { s: uap-core-os, d: 'Generic Smartphone', o: Android, u: 'QQ Browser Mobile', c: mobile }
-'Generic Smartphone-Android-Other': { s: uap-core-os, d: 'Generic Smartphone', o: Android, u: Other, c: mobile }
-Other-Linux-ELinks: { s: uap-core-os, d: Other, o: Linux, u: ELinks, c: '' }
-Other-OpenBSD-ELinks: { s: uap-core-os, d: Other, o: OpenBSD, u: ELinks, c: '' }
-Other-FreeBSD-ELinks: { s: uap-core-os, d: Other, o: FreeBSD, u: ELinks, c: '' }
-Other-Linux-Other: { s: uap-core-os, d: Other, o: Linux, u: Other, c: '' }
-Other-Linux-Links: { s: uap-core-os, d: Other, o: Linux, u: Links, c: '' }
-Other-FreeBSD-Links: { s: uap-core-os, d: Other, o: FreeBSD, u: Links, c: '' }
-Other-Linux-Netscape: { s: uap-core-os, d: Other, o: Linux, u: Netscape, c: '' }
-Other-FreeBSD-Opera: { s: uap-core-os, d: Other, o: FreeBSD, u: Opera, c: '' }
-Other-Linux-Opera: { s: uap-core-os, d: Other, o: Linux, u: Opera, c: '' }
-'Generic Smartphone-Maemo-Opera Mobile': { s: uap-core-os, d: 'Generic Smartphone', o: Maemo, u: 'Opera Mobile', c: mobile }
-Other-FreeBSD-Other: { s: uap-core-os, d: Other, o: FreeBSD, u: Other, c: '' }
-Other-Gentoo-Konqueror: { s: uap-core-os, d: Other, o: Gentoo, u: Konqueror, c: '' }
-Other-NetBSD-Konqueror: { s: uap-core-os, d: Other, o: NetBSD, u: Konqueror, c: '' }
-Other-Gentoo-Opera: { s: uap-core-os, d: Other, o: Gentoo, u: Opera, c: '' }
-Other-NetBSD-Other: { s: uap-core-os, d: Other, o: NetBSD, u: Other, c: '' }
-Other-OpenBSD-Opera: { s: uap-core-os, d: Other, o: OpenBSD, u: Opera, c: '' }
-Other-FreeBSD-Firefox: { s: uap-core-os, d: Other, o: FreeBSD, u: Firefox, c: '' }
-Other-Linux-Firefox: { s: uap-core-os, d: Other, o: Linux, u: Firefox, c: '' }
-'Other-FreeBSD-NCSA Mosaic': { s: uap-core-os, d: Other, o: FreeBSD, u: 'NCSA Mosaic', c: '' }
-'Samsung GT-S7500-Android-UC Browser': { s: uap-core-os, d: 'Samsung GT-S7500', o: Android, u: 'UC Browser', c: mobile }
-'Other-Android-UC Browser': { s: uap-core-os, d: Other, o: Android, u: 'UC Browser', c: '' }
-'Samsung GT-I9308-Android-UC Browser': { s: uap-core-os, d: 'Samsung GT-I9308', o: Android, u: 'UC Browser', c: mobile }
-'Samsung GT-S5570-Android-UC Browser': { s: uap-core-os, d: 'Samsung GT-S5570', o: Android, u: 'UC Browser', c: mobile }
-'Dell Streak-Android-UC Browser': { s: uap-core-os, d: 'Dell Streak', o: Android, u: 'UC Browser', c: tablet }
-'Other-Windows Phone-UC Browser': { s: uap-core-os, d: Other, o: 'Windows Phone', u: 'UC Browser', c: mobile }
-'iPad2,5-iOS-UC Browser': { s: uap-core-os, d: 'iPad2,5', o: iOS, u: 'UC Browser', c: tablet }
-'Generic Smartphone-Windows Phone-IE': { s: uap-core-os, d: 'Generic Smartphone', o: 'Windows Phone', u: IE, c: mobile }
-'Other-Windows NT-Firefox': { s: uap-core-os, d: Other, o: 'Windows NT', u: Firefox, c: desktop }
-'Other-Windows NT-Netscape': { s: uap-core-os, d: Other, o: 'Windows NT', u: Netscape, c: desktop }
-'Other-Windows ME-Firefox': { s: uap-core-os, d: Other, o: 'Windows ME', u: Firefox, c: desktop }
-'Other-Windows ME-Netscape': { s: uap-core-os, d: Other, o: 'Windows ME', u: Netscape, c: desktop }
-'Other-Windows 3.1-Safari': { s: uap-core-os, d: Other, o: 'Windows 3.1', u: Safari, c: desktop }
-'Other-Windows 3.1-Other': { s: uap-core-os, d: Other, o: 'Windows 3.1', u: Other, c: desktop }
-'Other-Windows 3.1-Firefox': { s: uap-core-os, d: Other, o: 'Windows 3.1', u: Firefox, c: desktop }
-'Other-Windows 95-Other': { s: uap-core-os, d: Other, o: 'Windows 95', u: Other, c: desktop }
-'Other-Windows 95-Netscape': { s: uap-core-os, d: Other, o: 'Windows 95', u: Netscape, c: desktop }
-'Other-Windows 95-Firefox': { s: uap-core-os, d: Other, o: 'Windows 95', u: Firefox, c: desktop }
-'Other-Windows CE-Firefox Mobile': { s: uap-core-os, d: Other, o: 'Windows CE', u: 'Firefox Mobile', c: mobile }
-'Other-Windows CE-Firefox': { s: uap-core-os, d: Other, o: 'Windows CE', u: Firefox, c: mobile }
-'Other-Windows CE-SeaMonkey': { s: uap-core-os, d: Other, o: 'Windows CE', u: SeaMonkey, c: mobile }
-'Samsung GT-B7350-Windows Mobile-Opera Mobile': { s: uap-core-os, d: 'Samsung GT-B7350', o: 'Windows Mobile', u: 'Opera Mobile', c: mobile }
-'Macmini2,1-Mac OS X-CFNetwork': { s: uap-core-os, d: 'Macmini2,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
-'MacBook5,2-Mac OS X-CFNetwork': { s: uap-core-os, d: 'MacBook5,2', o: 'Mac OS X', u: CFNetwork, c: desktop }
-'MacBookPro7,1-Mac OS X-CFNetwork': { s: uap-core-os, d: 'MacBookPro7,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
-'MacBook3,1-Mac OS X-CFNetwork': { s: uap-core-os, d: 'MacBook3,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
-'MacBookPro11,1-Mac OS X-CFNetwork': { s: uap-core-os, d: 'MacBookPro11,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
-iOS-Device-iOS-CFNetwork: { s: uap-core-os, d: iOS-Device, o: iOS, u: CFNetwork, c: mobile }
-'iOS-Device-Mac OS X-CFNetwork': { s: uap-core-os, d: iOS-Device, o: 'Mac OS X', u: CFNetwork, c: desktop }
-'Other-Mac OS X-Other': { s: uap-core-os, d: Other, o: 'Mac OS X', u: Other, c: desktop }
-'MacBookPro10,1-Mac OS X-CFNetwork': { s: uap-core-os, d: 'MacBookPro10,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
-'Generic Smartphone-iOS-Mobile Safari': { s: uap-core-os, d: 'Generic Smartphone', o: iOS, u: 'Mobile Safari', c: mobile }
-'Other-Mac OS X-MacAppStore': { s: uap-core-os, d: Other, o: 'Mac OS X', u: MacAppStore, c: desktop }
-'Other-Mac OS X-iTunes': { s: uap-core-os, d: Other, o: 'Mac OS X', u: iTunes, c: desktop }
-'Other-Mac OS X-Chrome': { s: uap-core-os, d: Other, o: 'Mac OS X', u: Chrome, c: desktop }
-'Other-Mac OS X-Firefox': { s: uap-core-os, d: Other, o: 'Mac OS X', u: Firefox, c: desktop }
+'Generic Tablet-Android-Opera Tablet': { s: uc-o, d: 'Generic Tablet', o: Android, u: 'Opera Tablet', c: tablet }
+Other-BSD-Rekonq: { s: uc-o, d: Other, o: BSD, u: Rekonq, c: '' }
+Other-Debian-Conkeror: { s: uc-o, d: Other, o: Debian, u: Conkeror, c: '' }
+'iPhone-iOS-Opera Mini': { s: uc-o, d: iPhone, o: iOS, u: 'Opera Mini', c: mobile }
+Other-Linux-LuaKit: { s: uc-o, d: Other, o: Linux, u: LuaKit, c: '' }
+Other-Linux-Konqueror: { s: uc-o, d: Other, o: Linux, u: Konqueror, c: '' }
+'Other-Linux-Python Requests': { s: uc-o, d: Other, o: Linux, u: 'Python Requests', c: '' }
+Other-Linux-Conkeror: { s: uc-o, d: Other, o: Linux, u: Conkeror, c: '' }
+Other-Linux-Midori: { s: uc-o, d: Other, o: Linux, u: Midori, c: '' }
+Other-Linux-IceCat: { s: uc-o, d: Other, o: Linux, u: IceCat, c: '' }
+'Other-Linux-Firefox Beta': { s: uc-o, d: Other, o: Linux, u: 'Firefox Beta', c: '' }
+'Other-Mac OS X-Safari': { s: uc-o, d: Other, o: 'Mac OS X', u: Safari, c: desktop }
+'Other-Mac OS X-Skyfire': { s: uc-o, d: Other, o: 'Mac OS X', u: Skyfire, c: desktop }
+Other-Other-YottaaMonitor: { s: uc-o, d: Other, o: Other, u: YottaaMonitor, c: '' }
+Other-Other-Other: { s: uc-o, d: Other, o: Other, u: Other, c: '' }
+'Generic Smartphone-Symbian OS-Opera Mini': { s: uc-o, d: 'Generic Smartphone', o: 'Symbian OS', u: 'Opera Mini', c: mobile }
+'Generic Smartphone-Symbian OS-Opera Mobile': { s: uc-o, d: 'Generic Smartphone', o: 'Symbian OS', u: 'Opera Mobile', c: mobile }
+Other-Ubuntu-Firefox: { s: uc-o, d: Other, o: Ubuntu, u: Firefox, c: '' }
+Other-Ubuntu-Chromium: { s: uc-o, d: Other, o: Ubuntu, u: Chromium, c: '' }
+'Other-Ubuntu-Firefox (Shiretoko)': { s: uc-o, d: Other, o: Ubuntu, u: 'Firefox (Shiretoko)', c: '' }
+'Generic Smartphone-webOS-webOS Browser': { s: uc-o, d: 'Generic Smartphone', o: webOS, u: 'webOS Browser', c: mobile }
+Other-Windows-AdobeAIR: { s: uc-o, d: Other, o: Windows, u: AdobeAIR, c: desktop }
+'Other-Windows 10-IE': { s: uc-o, d: Other, o: 'Windows 10', u: IE, c: desktop }
+'Other-Windows 10-Edge': { s: uc-o, d: Other, o: 'Windows 10', u: Edge, c: desktop }
+'Other-Windows 10-Firefox': { s: uc-o, d: Other, o: 'Windows 10', u: Firefox, c: desktop }
+'Other-Windows 8.1-IE': { s: uc-o, d: Other, o: 'Windows 8.1', u: IE, c: desktop }
+'Other-Windows RT 8.1-IE': { s: uc-o, d: Other, o: 'Windows RT 8.1', u: IE, c: tablet }
+'Other-Windows 7-ThunderBrowse': { s: uc-o, d: Other, o: 'Windows 7', u: ThunderBrowse, c: desktop }
+'Other-Windows 7-MozillaDeveloperPreview': { s: uc-o, d: Other, o: 'Windows 7', u: MozillaDeveloperPreview, c: desktop }
+'Other-Windows 7-FireWeb': { s: uc-o, d: Other, o: 'Windows 7', u: FireWeb, c: desktop }
+'Other-Windows 8-IE': { s: uc-o, d: Other, o: 'Windows 8', u: IE, c: desktop }
+'Other-Windows RT-IE': { s: uc-o, d: Other, o: 'Windows RT', u: IE, c: tablet }
+'Other-Windows Vista-IE': { s: uc-o, d: Other, o: 'Windows Vista', u: IE, c: desktop }
+'Other-Windows XP-Lightning': { s: uc-o, d: Other, o: 'Windows XP', u: Lightning, c: desktop }
+'Other-Windows XP-Opera': { s: uc-o, d: Other, o: 'Windows XP', u: Opera, c: desktop }
+'Other-Windows XP-BOLT': { s: uc-o, d: Other, o: 'Windows XP', u: BOLT, c: desktop }
+'Other-Windows XP-Sleipnir': { s: uc-o, d: Other, o: 'Windows XP', u: Sleipnir, c: desktop }
+'Other-Windows XP-IE': { s: uc-o, d: Other, o: 'Windows XP', u: IE, c: desktop }
+'Other-Windows XP-RockMelt': { s: uc-o, d: Other, o: 'Windows XP', u: RockMelt, c: desktop }
+'Other-Windows XP-Comodo Dragon': { s: uc-o, d: Other, o: 'Windows XP', u: 'Comodo Dragon', c: desktop }
+'Other-Windows XP-Pale Moon (Firefox Variant)': { s: uc-o, d: Other, o: 'Windows XP', u: 'Pale Moon (Firefox Variant)', c: desktop }
+Other-Mandriva-Firefox: { s: uc-o, d: Other, o: Mandriva, u: Firefox, c: '' }
+'Other-Windows ME-Other': { s: uc-o, d: Other, o: 'Windows ME', u: Other, c: '' }
+'Samsung GT-S6012-Android-UC Browser': { s: uc-o, d: 'Samsung GT-S6012', o: Android, u: 'UC Browser', c: mobile }
+'Nokia 5228-Symbian OS-Nokia Services (WAP) Browser': { s: uc-o, d: 'Nokia 5228', o: 'Symbian OS', u: 'Nokia Services (WAP) Browser', c: mobile }
+'Nokia N97-Symbian OS-UC Browser': { s: uc-o, d: 'Nokia N97', o: 'Symbian OS', u: 'UC Browser', c: mobile }
+'Nokia N96-Symbian OS-UC Browser': { s: uc-o, d: 'Nokia N96', o: 'Symbian OS', u: 'UC Browser', c: mobile }
+'Nokia 5230-Symbian OS-QQ Browser Mini': { s: uc-o, d: 'Nokia 5230', o: 'Symbian OS', u: 'QQ Browser Mini', c: mobile }
+'Generic Smartphone-Bada-Opera Mini': { s: uc-o, d: 'Generic Smartphone', o: Bada, u: 'Opera Mini', c: mobile }
+'Lenovo A288t_TD-Android-iBrowser': { s: uc-o, d: 'Lenovo A288t_TD', o: Android, u: iBrowser, c: mobile }
+'Lenovo A288t_TD-Android-Baidu Explorer': { s: uc-o, d: 'Lenovo A288t_TD', o: Android, u: 'Baidu Explorer', c: mobile }
+'Generic Smartphone-Android-QQ Browser Mobile': { s: uc-o, d: 'Generic Smartphone', o: Android, u: 'QQ Browser Mobile', c: mobile }
+'Generic Smartphone-Android-Other': { s: uc-o, d: 'Generic Smartphone', o: Android, u: Other, c: mobile }
+Other-Linux-ELinks: { s: uc-o, d: Other, o: Linux, u: ELinks, c: '' }
+Other-OpenBSD-ELinks: { s: uc-o, d: Other, o: OpenBSD, u: ELinks, c: '' }
+Other-FreeBSD-ELinks: { s: uc-o, d: Other, o: FreeBSD, u: ELinks, c: '' }
+Other-Linux-Other: { s: uc-o, d: Other, o: Linux, u: Other, c: '' }
+Other-Linux-Links: { s: uc-o, d: Other, o: Linux, u: Links, c: '' }
+Other-FreeBSD-Links: { s: uc-o, d: Other, o: FreeBSD, u: Links, c: '' }
+Other-Linux-Netscape: { s: uc-o, d: Other, o: Linux, u: Netscape, c: '' }
+Other-FreeBSD-Opera: { s: uc-o, d: Other, o: FreeBSD, u: Opera, c: '' }
+Other-Linux-Opera: { s: uc-o, d: Other, o: Linux, u: Opera, c: '' }
+'Generic Smartphone-Maemo-Opera Mobile': { s: uc-o, d: 'Generic Smartphone', o: Maemo, u: 'Opera Mobile', c: mobile }
+Other-FreeBSD-Other: { s: uc-o, d: Other, o: FreeBSD, u: Other, c: '' }
+Other-Gentoo-Konqueror: { s: uc-o, d: Other, o: Gentoo, u: Konqueror, c: '' }
+Other-NetBSD-Konqueror: { s: uc-o, d: Other, o: NetBSD, u: Konqueror, c: '' }
+Other-Gentoo-Opera: { s: uc-o, d: Other, o: Gentoo, u: Opera, c: '' }
+Other-NetBSD-Other: { s: uc-o, d: Other, o: NetBSD, u: Other, c: '' }
+Other-OpenBSD-Opera: { s: uc-o, d: Other, o: OpenBSD, u: Opera, c: '' }
+Other-FreeBSD-Firefox: { s: uc-o, d: Other, o: FreeBSD, u: Firefox, c: '' }
+Other-Linux-Firefox: { s: uc-o, d: Other, o: Linux, u: Firefox, c: '' }
+'Other-FreeBSD-NCSA Mosaic': { s: uc-o, d: Other, o: FreeBSD, u: 'NCSA Mosaic', c: '' }
+'Samsung GT-S7500-Android-UC Browser': { s: uc-o, d: 'Samsung GT-S7500', o: Android, u: 'UC Browser', c: mobile }
+'Other-Android-UC Browser': { s: uc-o, d: Other, o: Android, u: 'UC Browser', c: '' }
+'Samsung GT-I9308-Android-UC Browser': { s: uc-o, d: 'Samsung GT-I9308', o: Android, u: 'UC Browser', c: mobile }
+'Samsung GT-S5570-Android-UC Browser': { s: uc-o, d: 'Samsung GT-S5570', o: Android, u: 'UC Browser', c: mobile }
+'Dell Streak-Android-UC Browser': { s: uc-o, d: 'Dell Streak', o: Android, u: 'UC Browser', c: tablet }
+'Other-Windows Phone-UC Browser': { s: uc-o, d: Other, o: 'Windows Phone', u: 'UC Browser', c: mobile }
+'iPad2,5-iOS-UC Browser': { s: uc-o, d: 'iPad2,5', o: iOS, u: 'UC Browser', c: tablet }
+'Generic Smartphone-Windows Phone-IE': { s: uc-o, d: 'Generic Smartphone', o: 'Windows Phone', u: IE, c: mobile }
+'Other-Windows NT-Firefox': { s: uc-o, d: Other, o: 'Windows NT', u: Firefox, c: desktop }
+'Other-Windows NT-Netscape': { s: uc-o, d: Other, o: 'Windows NT', u: Netscape, c: desktop }
+'Other-Windows ME-Firefox': { s: uc-o, d: Other, o: 'Windows ME', u: Firefox, c: desktop }
+'Other-Windows ME-Netscape': { s: uc-o, d: Other, o: 'Windows ME', u: Netscape, c: desktop }
+'Other-Windows 3.1-Safari': { s: uc-o, d: Other, o: 'Windows 3.1', u: Safari, c: desktop }
+'Other-Windows 3.1-Other': { s: uc-o, d: Other, o: 'Windows 3.1', u: Other, c: desktop }
+'Other-Windows 3.1-Firefox': { s: uc-o, d: Other, o: 'Windows 3.1', u: Firefox, c: desktop }
+'Other-Windows 95-Other': { s: uc-o, d: Other, o: 'Windows 95', u: Other, c: desktop }
+'Other-Windows 95-Netscape': { s: uc-o, d: Other, o: 'Windows 95', u: Netscape, c: desktop }
+'Other-Windows 95-Firefox': { s: uc-o, d: Other, o: 'Windows 95', u: Firefox, c: desktop }
+'Other-Windows CE-Firefox Mobile': { s: uc-o, d: Other, o: 'Windows CE', u: 'Firefox Mobile', c: mobile }
+'Other-Windows CE-Firefox': { s: uc-o, d: Other, o: 'Windows CE', u: Firefox, c: mobile }
+'Other-Windows CE-SeaMonkey': { s: uc-o, d: Other, o: 'Windows CE', u: SeaMonkey, c: mobile }
+'Samsung GT-B7350-Windows Mobile-Opera Mobile': { s: uc-o, d: 'Samsung GT-B7350', o: 'Windows Mobile', u: 'Opera Mobile', c: mobile }
+'Macmini2,1-Mac OS X-CFNetwork': { s: uc-o, d: 'Macmini2,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
+'MacBook5,2-Mac OS X-CFNetwork': { s: uc-o, d: 'MacBook5,2', o: 'Mac OS X', u: CFNetwork, c: desktop }
+'MacBookPro7,1-Mac OS X-CFNetwork': { s: uc-o, d: 'MacBookPro7,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
+'MacBook3,1-Mac OS X-CFNetwork': { s: uc-o, d: 'MacBook3,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
+'MacBookPro11,1-Mac OS X-CFNetwork': { s: uc-o, d: 'MacBookPro11,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
+iOS-Device-iOS-CFNetwork: { s: uc-o, d: iOS-Device, o: iOS, u: CFNetwork, c: mobile }
+'iOS-Device-Mac OS X-CFNetwork': { s: uc-o, d: iOS-Device, o: 'Mac OS X', u: CFNetwork, c: desktop }
+'Other-Mac OS X-Other': { s: uc-o, d: Other, o: 'Mac OS X', u: Other, c: desktop }
+'MacBookPro10,1-Mac OS X-CFNetwork': { s: uc-o, d: 'MacBookPro10,1', o: 'Mac OS X', u: CFNetwork, c: desktop }
+'Generic Smartphone-iOS-Mobile Safari': { s: uc-o, d: 'Generic Smartphone', o: iOS, u: 'Mobile Safari', c: mobile }
+'Other-Mac OS X-MacAppStore': { s: uc-o, d: Other, o: 'Mac OS X', u: MacAppStore, c: desktop }
+'Other-Mac OS X-iTunes': { s: uc-o, d: Other, o: 'Mac OS X', u: iTunes, c: desktop }
+'Other-Mac OS X-Chrome': { s: uc-o, d: Other, o: 'Mac OS X', u: Chrome, c: desktop }
+'Other-Mac OS X-Firefox': { s: uc-o, d: Other, o: 'Mac OS X', u: Firefox, c: desktop }
 'Other-Windows XP-QQ Browser': { s: uc-u, d: Other, o: 'Windows XP', u: 'QQ Browser', c: desktop }
 'Other-Windows 8-QQ Browser': { s: uc-u, d: Other, o: 'Windows 8', u: 'QQ Browser', c: desktop }
 'XiaoMi MI 2S-Android-QQ Browser Mobile': { s: uc-u, d: 'XiaoMi MI 2S', o: Android, u: 'QQ Browser Mobile', c: '' }
