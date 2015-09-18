@@ -22,8 +22,10 @@ $ composer require phlib/ua-classifier
 ```php
 require_once 'vendor/autoload.php';
 
+$classifier = new \UAClassifier\Classifier();
+
 // $result is UAParser result
-$classification = new \UAClassifier\Classifier($result);
+$classification = $classifier->classify($result);
 
 print $classification->isMobileDevice;
 print $classification->isMobile;

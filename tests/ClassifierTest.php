@@ -13,12 +13,19 @@ use Symfony\Component\Yaml\Yaml;
 class ClassiferTest extends \PHPUnit_Framework_TestCase
 {
     /**
+     * @var Classifier
+     */
+    protected $classifier;
+
+    /**
      * @var \UAParser\Result\Client|\PHPUnit_Framework_MockObject_MockObject
      */
     protected $mockResult;
 
     public function setUp()
     {
+        $this->classifier = new Classifier();
+
         $this->mockResult = $this->getMockBuilder('UAParser\Result\Client')
             ->disableOriginalConstructor()
             ->getMock();
@@ -36,33 +43,33 @@ class ClassiferTest extends \PHPUnit_Framework_TestCase
         $this->mockResult->os->family = $os;
         $this->mockResult->ua->family = $ua;
 
-        $classifer = new Classifier($this->mockResult);
+        $c12n = $this->classifier->classify($this->mockResult);
 
-        $msgString = " check for '{$key}' ('{$class}' match by '{$classifer->matchType}')";
+        $msgString = " check for '{$key}' ('{$class}' match by '{$c12n->matchType}')";
 
         $this->assertEquals(
             $class === 'desktop',
-            $classifer->isComputer,
+            $c12n->isComputer,
             'Computer' . $msgString
         );
         $this->assertEquals(
             in_array($class, ['tablet', 'mobile']),
-            $classifer->isMobileDevice,
+            $c12n->isMobileDevice,
             'Mobile device' . $msgString
         );
         $this->assertEquals(
             $class === 'tablet',
-            $classifer->isTablet,
+            $c12n->isTablet,
             'Tablet' . $msgString
         );
         $this->assertEquals(
             $class === 'mobile',
-            $classifer->isMobile,
+            $c12n->isMobile,
             'Mobile' . $msgString
         );
         $this->assertEquals(
             $class === 'spider',
-            $classifer->isSpider,
+            $c12n->isSpider,
             'Spider' . $msgString
         );
     }

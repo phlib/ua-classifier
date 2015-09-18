@@ -3,61 +3,19 @@
 namespace UAClassifier;
 
 /**
+ * UAClassifier Classifier
+ *
  * @package UAClassifier
  */
 class Classifier
 {
-    /**
-     * @var \UAParser\Result\Client
-     */
-    private $result;
 
     /**
-     * @var string UA-Parser element used for match: 'device', 'os', 'ua'
-     */
-    public $matchType;
-
-    /**
-     * @var bool
-     */
-    public $isMobileDevice = false;
-
-    /**
-     * @var bool
-     */
-    public $isMobile = false;
-
-    /**
-     * @var bool
-     */
-    public $isTablet = false;
-
-    /**
-     * @var bool
-     */
-    public $isSpider = false;
-
-    /**
-     * @var bool
-     */
-    public $isComputer = true;
-
-    /**
-     * Constructor
+     * Get classification result for given Parser result
      *
      * @param \UAParser\Result\Client $parseResult
      */
-    public function __construct(\UAParser\Result\Client $parseResult)
-    {
-        $this->result = $parseResult;
-
-        $this->classify();
-    }
-
-    /**
-     *
-     */
-    protected function classify()
+    public function classify(\UAParser\Result\Client $parseResult)
     {
         $mobileOSs      = array('windows phone 6.5','windows ce','symbian os');
         $mobileBrowsers = array('firefox mobile','opera mobile','opera mini','mobile safari','webos','ie mobile','playstation portable',
@@ -68,46 +26,44 @@ class Classifier
         $mobileDevices  = array('iphone','ipod','ipad','htc','kindle','lumia','amoi','asus','bird','dell','docomo','huawei','i-mate','kyocera',
                                 'lenovo','lg','kin','motorola','philips','samsung','softbank','palm','hp ','generic feature phone','generic smartphone');
 
+        $classifyResult = new Result();
 
-        if (in_array(strtolower($this->result->device->family), $tablets)) {
-            $this->matchType      = 'device';
-            $this->isTablet       = true;
-            $this->isMobileDevice = true;
-            $this->isComputer     = false;
-            return;
+        switch (true) {
+            case (in_array(strtolower($parseResult->device->family), $tablets)):
+                $classifyResult->matchType      = 'device';
+                $classifyResult->isTablet       = true;
+                $classifyResult->isMobileDevice = true;
+                $classifyResult->isComputer     = false;
+                break;
+
+            case (in_array(strtolower($parseResult->device->family), $mobileDevices)):
+                $classifyResult->matchType      = 'device';
+                $classifyResult->isMobileDevice = true;
+                $classifyResult->isMobile       = true;
+                $classifyResult->isComputer     = false;
+                break;
+
+            case (strtolower($parseResult->device->family) == 'spider'):
+                $classifyResult->matchType  = 'device';
+                $classifyResult->isSpider   = true;
+                $classifyResult->isComputer = false;
+                break;
+
+            case (in_array(strtolower($parseResult->os->family), $mobileOSs)):
+                $classifyResult->matchType      = 'os';
+                $classifyResult->isMobileDevice = true;
+                $classifyResult->isMobile       = true;
+                $classifyResult->isComputer     = false;
+                break;
+
+            case (in_array(strtolower($parseResult->ua->family), $mobileBrowsers)):
+                $classifyResult->matchType      = 'ua';
+                $classifyResult->isMobileDevice = true;
+                $classifyResult->isMobile       = true;
+                $classifyResult->isComputer     = false;
+                break;
         }
 
-        if (in_array(strtolower($this->result->device->family), $mobileDevices)) {
-            $this->matchType      = 'device';
-            $this->isMobileDevice = true;
-            $this->isMobile       = true;
-            $this->isComputer     = false;
-            return;
-        }
-
-        if (strtolower($this->result->device->family) == 'spider') {
-            $this->matchType  = 'device';
-            $this->isSpider   = true;
-            $this->isComputer = false;
-            return;
-        }
-
-        if (in_array(strtolower($this->result->os->family), $mobileOSs)) {
-            $this->matchType      = 'os';
-            $this->isMobileDevice = true;
-            $this->isMobile       = true;
-            $this->isComputer     = false;
-            return;
-        }
-
-        if (in_array(strtolower($this->result->ua->family), $mobileBrowsers)) {
-            $this->matchType      = 'ua';
-            $this->isMobileDevice = true;
-            $this->isMobile       = true;
-            $this->isComputer     = false;
-            return;
-        }
-
-        return;
+        return $classifyResult;
     }
 }
