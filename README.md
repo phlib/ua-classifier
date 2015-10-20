@@ -1,7 +1,7 @@
 # phlib/ua-classifier
 
-[![Latest Version](https://img.shields.io/github/release/phlib/ua-classifier.svg)](https://github.com/phlib/ua-classifier/releases)
 [![Build Status](https://img.shields.io/travis/phlib/ua-classifier/master.svg)](https://travis-ci.org/phlib/ua-classifier)
+[![Latest Stable Version](https://img.shields.io/packagist/v/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 [![Total Downloads](https://img.shields.io/packagist/dt/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 
 A PHP ua-parser device classification project, to provide functionality that was removed in [ua-parser](https://github.com/tobie/ua-parser) 2.0
