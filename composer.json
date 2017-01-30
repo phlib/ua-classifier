@@ -8,6 +8,7 @@
         "uap-php"
     ],
     "homepage": "https://github.com/phlib/ua-classifier",
+    "license": "LGPL-3.0",
     "authors": [
         {
             "name": "Jan Luetke"
