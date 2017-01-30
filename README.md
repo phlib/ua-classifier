@@ -1,6 +1,7 @@
 # phlib/ua-classifier
 
 [![Build Status](https://img.shields.io/travis/phlib/ua-classifier/master.svg)](https://travis-ci.org/phlib/ua-classifier)
+[![Codecov](https://img.shields.io/codecov/c/github/phlib/ua-classifier.svg)](https://codecov.io/gh/phlib/ua-classifier)
 [![Latest Stable Version](https://img.shields.io/packagist/v/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 [![Total Downloads](https://img.shields.io/packagist/dt/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 
