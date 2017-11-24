@@ -1,6 +1,6 @@
 <?php
 
-namespace UAClassifer\Test;
+namespace UAClassifier\Test;
 
 use UAClassifier\Classifier;
 use Symfony\Component\Yaml\Yaml;
@@ -10,7 +10,7 @@ use Symfony\Component\Yaml\Yaml;
  *
  * @package Phlib\UAClassifier
  */
-class ClassiferTest extends \PHPUnit_Framework_TestCase
+class ClassifierTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @var Classifier
