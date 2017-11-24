@@ -22,7 +22,7 @@ if (is_file($outputFile) && !is_writable($outputFile)) {
 $testData = [];
 if (is_readable($outputFile)) {
     echo "Found existing file; loading data... ";
-    $testData = \Symfony\Component\Yaml\Yaml::parse($outputFile);
+    $testData = \Symfony\Component\Yaml\Yaml::parse(file_get_contents($outputFile));
     echo "Done\n\n";
 }
 

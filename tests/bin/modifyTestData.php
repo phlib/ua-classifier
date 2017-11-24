@@ -22,7 +22,7 @@ if ($config['device'] === null && $config['os'] === null && $config['ua'] === nu
 }
 
 echo "Loading data...\n";
-$testData = \Symfony\Component\Yaml\Yaml::parse($outputFile);
+$testData = \Symfony\Component\Yaml\Yaml::parse(file_get_contents($outputFile));
 echo "Iterating entries...\n\n";
 
 $countTotal = 0;
