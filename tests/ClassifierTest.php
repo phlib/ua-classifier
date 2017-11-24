@@ -4,13 +4,14 @@ namespace UAClassifier\Test;
 
 use UAClassifier\Classifier;
 use Symfony\Component\Yaml\Yaml;
+use PHPUnit\Framework\TestCase;
 
 /**
  * Test Classifier
  *
  * @package Phlib\UAClassifier
  */
-class ClassifierTest extends \PHPUnit_Framework_TestCase
+class ClassifierTest extends TestCase
 {
     /**
      * @var Classifier
@@ -29,9 +30,9 @@ class ClassifierTest extends \PHPUnit_Framework_TestCase
         $this->mockResult = $this->getMockBuilder('UAParser\Result\Client')
             ->disableOriginalConstructor()
             ->getMock();
-        $this->mockResult->device = $this->getMock('UAParser\Result\Device');
-        $this->mockResult->os = $this->getMock('UAParser\Result\OperatingSystem');
-        $this->mockResult->ua = $this->getMock('UAParser\Result\UserAgent');
+        $this->mockResult->device = $this->createMock('UAParser\Result\Device');
+        $this->mockResult->os = $this->createMock('UAParser\Result\OperatingSystem');
+        $this->mockResult->ua = $this->createMock('UAParser\Result\UserAgent');
     }
 
     /**
