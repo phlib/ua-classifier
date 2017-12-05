@@ -1516,101 +1516,101 @@ Aquila_LE_080-0508-Android-Chrome: { s: uc-d, d: Aquila_LE_080-0508, o: Android,
 'RAPAX SE 070-0508-Android-Chrome Mobile': { s: uc-d, d: 'RAPAX SE 070-0508', o: Android, u: 'Chrome Mobile', c: '' }
 RAPAX090-0508-Android-Android: { s: uc-d, d: RAPAX090-0508, o: Android, u: Android, c: '' }
 RAPAXSE080-0508-Android-Chrome: { s: uc-d, d: RAPAXSE080-0508, o: Android, u: Chrome, c: '' }
-'CobyKyros MID0714-Android-Android': { s: uc-d, d: 'CobyKyros MID0714', o: Android, u: Android, c: '' }
-'CobyKyros MID0734-Android-Android': { s: uc-d, d: 'CobyKyros MID0734', o: Android, u: Android, c: '' }
-'CobyKyros MID0814-Android-Android': { s: uc-d, d: 'CobyKyros MID0814', o: Android, u: Android, c: '' }
-'CobyKyros MID0848-Android-Android': { s: uc-d, d: 'CobyKyros MID0848', o: Android, u: Android, c: '' }
-'CobyKyros MID0928-Android-Android': { s: uc-d, d: 'CobyKyros MID0928', o: Android, u: Android, c: '' }
-'CobyKyros MID1001-Android-Android': { s: uc-d, d: 'CobyKyros MID1001', o: Android, u: Android, c: '' }
-'CobyKyros MID1002-Android-Android': { s: uc-d, d: 'CobyKyros MID1002', o: Android, u: Android, c: '' }
-'CobyKyros MID1004-Android-Android': { s: uc-d, d: 'CobyKyros MID1004', o: Android, u: Android, c: '' }
-'CobyKyros MID1014-Android-Android': { s: uc-d, d: 'CobyKyros MID1014', o: Android, u: Android, c: '' }
-'CobyKyros MID1018-Android-Android': { s: uc-d, d: 'CobyKyros MID1018', o: Android, u: Android, c: '' }
-'CobyKyros MID1024-Android-Android': { s: uc-d, d: 'CobyKyros MID1024', o: Android, u: Android, c: '' }
-'CobyKyros MID1027-Android-Android': { s: uc-d, d: 'CobyKyros MID1027', o: Android, u: Android, c: '' }
-'CobyKyros MID1028-Android-Android': { s: uc-d, d: 'CobyKyros MID1028', o: Android, u: Android, c: '' }
-'CobyKyros MID1040C-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1040C', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1042', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1045-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1045', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1048-Android-Opera': { s: uc-d, d: 'CobyKyros MID1048', o: Android, u: Opera, c: '' }
-'CobyKyros MID1054-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1054', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1060-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1060', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1065', o: Android, u: Chrome, c: '' }
-'CobyKyros MID1107-Android-Android': { s: uc-d, d: 'CobyKyros MID1107', o: Android, u: Android, c: '' }
-'CobyKyros MID1125-Android-Opera': { s: uc-d, d: 'CobyKyros MID1125', o: Android, u: Opera, c: '' }
-'CobyKyros MID1125A-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID1125A', o: Android, u: 'UC Browser', c: '' }
-'CobyKyros MID1126-Android-Android': { s: uc-d, d: 'CobyKyros MID1126', o: Android, u: Android, c: '' }
-'CobyKyros MID1200-Android-Android': { s: uc-d, d: 'CobyKyros MID1200', o: Android, u: Android, c: '' }
-'CobyKyros MID4331-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID4331', o: Android, u: 'Chrome Mobile', c: '' }
-'CobyKyros MID4501B-Android-Android': { s: uc-d, d: 'CobyKyros MID4501B', o: Android, u: Android, c: '' }
-'CobyKyros MID7000-Android-Android': { s: uc-d, d: 'CobyKyros MID7000', o: Android, u: Android, c: '' }
-'CobyKyros MID7002-Android-Android': { s: uc-d, d: 'CobyKyros MID7002', o: Android, u: Android, c: '' }
-'CobyKyros MID7004-Android-Android': { s: uc-d, d: 'CobyKyros MID7004', o: Android, u: Android, c: '' }
-'CobyKyros MID7005-Android-Opera Mobile': { s: uc-d, d: 'CobyKyros MID7005', o: Android, u: 'Opera Mobile', c: '' }
-'CobyKyros MID7007-Android-Android': { s: uc-d, d: 'CobyKyros MID7007', o: Android, u: Android, c: '' }
-'CobyKyros MID7008-Android-Android': { s: uc-d, d: 'CobyKyros MID7008', o: Android, u: Android, c: '' }
-'CobyKyros MID7010-Android-Android': { s: uc-d, d: 'CobyKyros MID7010', o: Android, u: Android, c: '' }
-'CobyKyros MID7010A-Android-Android': { s: uc-d, d: 'CobyKyros MID7010A', o: Android, u: Android, c: '' }
-'CobyKyros MID7011-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7011', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7012-Android-Android': { s: uc-d, d: 'CobyKyros MID7012', o: Android, u: Android, c: '' }
-'CobyKyros MID7012TV-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7012TV', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7014-Android-Android': { s: uc-d, d: 'CobyKyros MID7014', o: Android, u: Android, c: '' }
-'CobyKyros MID7015-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7015', o: Android, u: 'UC Browser', c: '' }
-'CobyKyros MID7015 GB-Android-Android': { s: uc-d, d: 'CobyKyros MID7015 GB', o: Android, u: Android, c: '' }
-'CobyKyros MID7015A-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7015A', o: Android, u: 'UC Browser', c: '' }
-'CobyKyros MID7016-Android-Android': { s: uc-d, d: 'CobyKyros MID7016', o: Android, u: Android, c: '' }
-'CobyKyros MID7016 GB 8K-Android-Android': { s: uc-d, d: 'CobyKyros MID7016 GB 8K', o: Android, u: Android, c: '' }
-'CobyKyros MID7020-Android-Android': { s: uc-d, d: 'CobyKyros MID7020', o: Android, u: Android, c: '' }
-'CobyKyros MID7022-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7022', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7022 8K-Android-Android': { s: uc-d, d: 'CobyKyros MID7022 8K', o: Android, u: Android, c: '' }
-'CobyKyros MID7024-Android-Android': { s: uc-d, d: 'CobyKyros MID7024', o: Android, u: Android, c: '' }
-'CobyKyros MID7026-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7026', o: Android, u: 'UC Browser', c: '' }
-'CobyKyros MID7030-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7030', o: Android, u: 'Chrome Mobile', c: '' }
-'CobyKyros MID7032-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7032', o: Android, u: 'Chrome Mobile', c: '' }
-'CobyKyros MID7033-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7033', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7034-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7034', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7034C-Android-Android': { s: uc-d, d: 'CobyKyros MID7034C', o: Android, u: Android, c: '' }
-'CobyKyros MID7035-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7035', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7035B-Android-Android': { s: uc-d, d: 'CobyKyros MID7035B', o: Android, u: Android, c: '' }
-'CobyKyros MID7035C-Android-Android': { s: uc-d, d: 'CobyKyros MID7035C', o: Android, u: Android, c: '' }
-'CobyKyros MID7036-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7036', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7038-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7038', o: Android, u: 'Chrome Mobile', c: '' }
-'CobyKyros MID7042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7042', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7045-Android-Android': { s: uc-d, d: 'CobyKyros MID7045', o: Android, u: Android, c: '' }
-'CobyKyros MID7046-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7046', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7047-Android-Android': { s: uc-d, d: 'CobyKyros MID7047', o: Android, u: Android, c: '' }
-'CobyKyros MID7047(3G)-4G-Android-Android': { s: uc-d, d: 'CobyKyros MID7047(3G)-4G', o: Android, u: Android, c: '' }
-'CobyKyros MID7047C 3G-Android-Android': { s: uc-d, d: 'CobyKyros MID7047C 3G', o: Android, u: Android, c: '' }
-'CobyKyros MID7048-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7048', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7051-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7051', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7052-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7052', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7060-Android-Android': { s: uc-d, d: 'CobyKyros MID7060', o: Android, u: Android, c: '' }
-'CobyKyros MID7065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7065', o: Android, u: Chrome, c: '' }
-'CobyKyros MID7105SR-Android-Android': { s: uc-d, d: 'CobyKyros MID7105SR', o: Android, u: Android, c: '' }
-'CobyKyros MID7120-Android-Android': { s: uc-d, d: 'CobyKyros MID7120', o: Android, u: Android, c: '' }
-'CobyKyros MID7120A-Android-Android': { s: uc-d, d: 'CobyKyros MID7120A', o: Android, u: Android, c: '' }
-'CobyKyros MID7125-Android-Android': { s: uc-d, d: 'CobyKyros MID7125', o: Android, u: Android, c: '' }
-'CobyKyros MID7127-Android-Android': { s: uc-d, d: 'CobyKyros MID7127', o: Android, u: Android, c: '' }
-'CobyKyros MID7200-Android-Android': { s: uc-d, d: 'CobyKyros MID7200', o: Android, u: Android, c: '' }
-'CobyKyros MID7510-Android-Android': { s: uc-d, d: 'CobyKyros MID7510', o: Android, u: Android, c: '' }
-'CobyKyros MID8020-Android-Android': { s: uc-d, d: 'CobyKyros MID8020', o: Android, u: Android, c: '' }
-'CobyKyros MID8024-Android-Android': { s: uc-d, d: 'CobyKyros MID8024', o: Android, u: Android, c: '' }
-'CobyKyros MID8042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8042', o: Android, u: Chrome, c: '' }
-'CobyKyros MID8048-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8048', o: Android, u: Chrome, c: '' }
-'CobyKyros MID8065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8065', o: Android, u: Chrome, c: '' }
-'CobyKyros MID8120-Android-Android': { s: uc-d, d: 'CobyKyros MID8120', o: Android, u: Android, c: '' }
-'CobyKyros MID8125-Android-Android': { s: uc-d, d: 'CobyKyros MID8125', o: Android, u: Android, c: '' }
-'CobyKyros MID8127-Android-Opera': { s: uc-d, d: 'CobyKyros MID8127', o: Android, u: Opera, c: '' }
-'CobyKyros MID8128-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8128', o: Android, u: Chrome, c: '' }
-'CobyKyros MID9042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9042', o: Android, u: Chrome, c: '' }
-'CobyKyros MID9120-Android-Android': { s: uc-d, d: 'CobyKyros MID9120', o: Android, u: Android, c: '' }
-'CobyKyros MID9701-Android-Android': { s: uc-d, d: 'CobyKyros MID9701', o: Android, u: Android, c: '' }
-'CobyKyros MID9702-Android-Android': { s: uc-d, d: 'CobyKyros MID9702', o: Android, u: Android, c: '' }
-'CobyKyros MID9711-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9711', o: Android, u: Chrome, c: '' }
-'CobyKyros MID9724-Android-Android': { s: uc-d, d: 'CobyKyros MID9724', o: Android, u: Android, c: '' }
-'CobyKyros MID9740-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9740', o: Android, u: Chrome, c: '' }
-'CobyKyros MID9742-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9742', o: Android, u: Chrome, c: '' }
-'CobyKyros MID9765-Android-Android': { s: uc-d, d: 'CobyKyros MID9765', o: Android, u: Android, c: '' }
+'CobyKyros MID0714-Android-Android': { s: uc-d, d: 'CobyKyros MID0714', o: Android, u: Android, c: tablet }
+'CobyKyros MID0734-Android-Android': { s: uc-d, d: 'CobyKyros MID0734', o: Android, u: Android, c: tablet }
+'CobyKyros MID0814-Android-Android': { s: uc-d, d: 'CobyKyros MID0814', o: Android, u: Android, c: tablet }
+'CobyKyros MID0848-Android-Android': { s: uc-d, d: 'CobyKyros MID0848', o: Android, u: Android, c: tablet }
+'CobyKyros MID0928-Android-Android': { s: uc-d, d: 'CobyKyros MID0928', o: Android, u: Android, c: tablet }
+'CobyKyros MID1001-Android-Android': { s: uc-d, d: 'CobyKyros MID1001', o: Android, u: Android, c: tablet }
+'CobyKyros MID1002-Android-Android': { s: uc-d, d: 'CobyKyros MID1002', o: Android, u: Android, c: tablet }
+'CobyKyros MID1004-Android-Android': { s: uc-d, d: 'CobyKyros MID1004', o: Android, u: Android, c: tablet }
+'CobyKyros MID1014-Android-Android': { s: uc-d, d: 'CobyKyros MID1014', o: Android, u: Android, c: tablet }
+'CobyKyros MID1018-Android-Android': { s: uc-d, d: 'CobyKyros MID1018', o: Android, u: Android, c: tablet }
+'CobyKyros MID1024-Android-Android': { s: uc-d, d: 'CobyKyros MID1024', o: Android, u: Android, c: tablet }
+'CobyKyros MID1027-Android-Android': { s: uc-d, d: 'CobyKyros MID1027', o: Android, u: Android, c: tablet }
+'CobyKyros MID1028-Android-Android': { s: uc-d, d: 'CobyKyros MID1028', o: Android, u: Android, c: tablet }
+'CobyKyros MID1040C-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1040C', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1042', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1045-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1045', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1048-Android-Opera': { s: uc-d, d: 'CobyKyros MID1048', o: Android, u: Opera, c: tablet }
+'CobyKyros MID1054-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1054', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1060-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1060', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID1065', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID1107-Android-Android': { s: uc-d, d: 'CobyKyros MID1107', o: Android, u: Android, c: tablet }
+'CobyKyros MID1125-Android-Opera': { s: uc-d, d: 'CobyKyros MID1125', o: Android, u: Opera, c: tablet }
+'CobyKyros MID1125A-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID1125A', o: Android, u: 'UC Browser', c: tablet }
+'CobyKyros MID1126-Android-Android': { s: uc-d, d: 'CobyKyros MID1126', o: Android, u: Android, c: tablet }
+'CobyKyros MID1200-Android-Android': { s: uc-d, d: 'CobyKyros MID1200', o: Android, u: Android, c: tablet }
+'CobyKyros MID4331-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID4331', o: Android, u: 'Chrome Mobile', c: tablet }
+'CobyKyros MID4501B-Android-Android': { s: uc-d, d: 'CobyKyros MID4501B', o: Android, u: Android, c: tablet }
+'CobyKyros MID7000-Android-Android': { s: uc-d, d: 'CobyKyros MID7000', o: Android, u: Android, c: tablet }
+'CobyKyros MID7002-Android-Android': { s: uc-d, d: 'CobyKyros MID7002', o: Android, u: Android, c: tablet }
+'CobyKyros MID7004-Android-Android': { s: uc-d, d: 'CobyKyros MID7004', o: Android, u: Android, c: tablet }
+'CobyKyros MID7005-Android-Opera Mobile': { s: uc-d, d: 'CobyKyros MID7005', o: Android, u: 'Opera Mobile', c: tablet }
+'CobyKyros MID7007-Android-Android': { s: uc-d, d: 'CobyKyros MID7007', o: Android, u: Android, c: tablet }
+'CobyKyros MID7008-Android-Android': { s: uc-d, d: 'CobyKyros MID7008', o: Android, u: Android, c: tablet }
+'CobyKyros MID7010-Android-Android': { s: uc-d, d: 'CobyKyros MID7010', o: Android, u: Android, c: tablet }
+'CobyKyros MID7010A-Android-Android': { s: uc-d, d: 'CobyKyros MID7010A', o: Android, u: Android, c: tablet }
+'CobyKyros MID7011-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7011', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7012-Android-Android': { s: uc-d, d: 'CobyKyros MID7012', o: Android, u: Android, c: tablet }
+'CobyKyros MID7012TV-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7012TV', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7014-Android-Android': { s: uc-d, d: 'CobyKyros MID7014', o: Android, u: Android, c: tablet }
+'CobyKyros MID7015-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7015', o: Android, u: 'UC Browser', c: tablet }
+'CobyKyros MID7015 GB-Android-Android': { s: uc-d, d: 'CobyKyros MID7015 GB', o: Android, u: Android, c: tablet }
+'CobyKyros MID7015A-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7015A', o: Android, u: 'UC Browser', c: tablet }
+'CobyKyros MID7016-Android-Android': { s: uc-d, d: 'CobyKyros MID7016', o: Android, u: Android, c: tablet }
+'CobyKyros MID7016 GB 8K-Android-Android': { s: uc-d, d: 'CobyKyros MID7016 GB 8K', o: Android, u: Android, c: tablet }
+'CobyKyros MID7020-Android-Android': { s: uc-d, d: 'CobyKyros MID7020', o: Android, u: Android, c: tablet }
+'CobyKyros MID7022-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7022', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7022 8K-Android-Android': { s: uc-d, d: 'CobyKyros MID7022 8K', o: Android, u: Android, c: tablet }
+'CobyKyros MID7024-Android-Android': { s: uc-d, d: 'CobyKyros MID7024', o: Android, u: Android, c: tablet }
+'CobyKyros MID7026-Android-UC Browser': { s: uc-d, d: 'CobyKyros MID7026', o: Android, u: 'UC Browser', c: tablet }
+'CobyKyros MID7030-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7030', o: Android, u: 'Chrome Mobile', c: tablet }
+'CobyKyros MID7032-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7032', o: Android, u: 'Chrome Mobile', c: tablet }
+'CobyKyros MID7033-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7033', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7034-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7034', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7034C-Android-Android': { s: uc-d, d: 'CobyKyros MID7034C', o: Android, u: Android, c: tablet }
+'CobyKyros MID7035-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7035', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7035B-Android-Android': { s: uc-d, d: 'CobyKyros MID7035B', o: Android, u: Android, c: tablet }
+'CobyKyros MID7035C-Android-Android': { s: uc-d, d: 'CobyKyros MID7035C', o: Android, u: Android, c: tablet }
+'CobyKyros MID7036-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7036', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7038-Android-Chrome Mobile': { s: uc-d, d: 'CobyKyros MID7038', o: Android, u: 'Chrome Mobile', c: tablet }
+'CobyKyros MID7042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7042', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7045-Android-Android': { s: uc-d, d: 'CobyKyros MID7045', o: Android, u: Android, c: tablet }
+'CobyKyros MID7046-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7046', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7047-Android-Android': { s: uc-d, d: 'CobyKyros MID7047', o: Android, u: Android, c: tablet }
+'CobyKyros MID7047(3G)-4G-Android-Android': { s: uc-d, d: 'CobyKyros MID7047(3G)-4G', o: Android, u: Android, c: tablet }
+'CobyKyros MID7047C 3G-Android-Android': { s: uc-d, d: 'CobyKyros MID7047C 3G', o: Android, u: Android, c: tablet }
+'CobyKyros MID7048-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7048', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7051-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7051', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7052-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7052', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7060-Android-Android': { s: uc-d, d: 'CobyKyros MID7060', o: Android, u: Android, c: tablet }
+'CobyKyros MID7065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID7065', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID7105SR-Android-Android': { s: uc-d, d: 'CobyKyros MID7105SR', o: Android, u: Android, c: tablet }
+'CobyKyros MID7120-Android-Android': { s: uc-d, d: 'CobyKyros MID7120', o: Android, u: Android, c: tablet }
+'CobyKyros MID7120A-Android-Android': { s: uc-d, d: 'CobyKyros MID7120A', o: Android, u: Android, c: tablet }
+'CobyKyros MID7125-Android-Android': { s: uc-d, d: 'CobyKyros MID7125', o: Android, u: Android, c: tablet }
+'CobyKyros MID7127-Android-Android': { s: uc-d, d: 'CobyKyros MID7127', o: Android, u: Android, c: tablet }
+'CobyKyros MID7200-Android-Android': { s: uc-d, d: 'CobyKyros MID7200', o: Android, u: Android, c: tablet }
+'CobyKyros MID7510-Android-Android': { s: uc-d, d: 'CobyKyros MID7510', o: Android, u: Android, c: tablet }
+'CobyKyros MID8020-Android-Android': { s: uc-d, d: 'CobyKyros MID8020', o: Android, u: Android, c: tablet }
+'CobyKyros MID8024-Android-Android': { s: uc-d, d: 'CobyKyros MID8024', o: Android, u: Android, c: tablet }
+'CobyKyros MID8042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8042', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID8048-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8048', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID8065-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8065', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID8120-Android-Android': { s: uc-d, d: 'CobyKyros MID8120', o: Android, u: Android, c: tablet }
+'CobyKyros MID8125-Android-Android': { s: uc-d, d: 'CobyKyros MID8125', o: Android, u: Android, c: tablet }
+'CobyKyros MID8127-Android-Opera': { s: uc-d, d: 'CobyKyros MID8127', o: Android, u: Opera, c: tablet }
+'CobyKyros MID8128-Android-Chrome': { s: uc-d, d: 'CobyKyros MID8128', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID9042-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9042', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID9120-Android-Android': { s: uc-d, d: 'CobyKyros MID9120', o: Android, u: Android, c: tablet }
+'CobyKyros MID9701-Android-Android': { s: uc-d, d: 'CobyKyros MID9701', o: Android, u: Android, c: tablet }
+'CobyKyros MID9702-Android-Android': { s: uc-d, d: 'CobyKyros MID9702', o: Android, u: Android, c: tablet }
+'CobyKyros MID9711-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9711', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID9724-Android-Android': { s: uc-d, d: 'CobyKyros MID9724', o: Android, u: Android, c: tablet }
+'CobyKyros MID9740-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9740', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID9742-Android-Chrome': { s: uc-d, d: 'CobyKyros MID9742', o: Android, u: Chrome, c: tablet }
+'CobyKyros MID9765-Android-Android': { s: uc-d, d: 'CobyKyros MID9765', o: Android, u: Android, c: tablet }
 '5010-Android-Baidu Browser': { s: uc-d, d: '5010', o: Android, u: 'Baidu Browser', c: '' }
 5210-Android-Android: { s: uc-d, d: '5210', o: Android, u: Android, c: '' }
 5210A-Android-Android: { s: uc-d, d: 5210A, o: Android, u: Android, c: '' }
