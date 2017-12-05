@@ -36,7 +36,8 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "UAClassifier\\Test\\": "tests"
+            "UAClassifier\\Test\\": "tests",
+            "": "cli"
         }
     },
     "suggest": {
