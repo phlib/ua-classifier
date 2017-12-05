@@ -1494,9 +1494,9 @@ TPC97113-Android-Android: { s: uc-d, d: TPC97113, o: Android, u: Android, c: '' 
 'Cloudfone Thrill 500g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 500g', o: Android, u: 'Chrome Mobile', c: mobile }
 'Cloudfone Thrill_430d-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430d', o: Android, u: 'UC Browser', c: mobile }
 'Cloudfone Thrill_430g-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430g', o: Android, u: 'UC Browser', c: mobile }
-'CloudPad 700d-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700d', o: Android, u: 'Chrome Mobile', c: '' }
-'CloudPad 700w-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700w', o: Android, u: 'Chrome Mobile', c: '' }
-'CloudPad 701tv-Android-Android': { s: uc-d, d: 'CloudPad 701tv', o: Android, u: Android, c: '' }
+'CloudPad 700d-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700d', o: Android, u: 'Chrome Mobile', c: tablet }
+'CloudPad 700w-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700w', o: Android, u: 'Chrome Mobile', c: tablet }
+'CloudPad 701tv-Android-Android': { s: uc-d, d: 'CloudPad 701tv', o: Android, u: Android, c: tablet }
 'Aquila 070-0508-Android-Chrome': { s: uc-d, d: 'Aquila 070-0508', o: Android, u: Chrome, c: '' }
 'Aquila 080-0508-Android-Chrome': { s: uc-d, d: 'Aquila 080-0508', o: Android, u: Chrome, c: '' }
 'AQUILA 080-1008-Android-Opera': { s: uc-d, d: 'AQUILA 080-1008', o: Android, u: Opera, c: '' }
