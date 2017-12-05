@@ -15981,11 +15981,11 @@ Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: '' }
 'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: '' }
 'iPad-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPad, o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
 iPad-iOS-Facebook: { s: uc-d, d: iPad, o: iOS, u: Facebook, c: '' }
-'iPhone-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
-iPhone-iOS-Facebook: { s: uc-d, d: iPhone, o: iOS, u: Facebook, c: '' }
-iPhone-Linux-Facebook: { s: uc-d, d: iPhone, o: Linux, u: Facebook, c: '' }
+'iPhone-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: iOS, u: 'Mobile Safari UI/WKWebView', c: mobile }
+iPhone-iOS-Facebook: { s: uc-d, d: iPhone, o: iOS, u: Facebook, c: mobile }
+iPhone-Linux-Facebook: { s: uc-d, d: iPhone, o: Linux, u: Facebook, c: mobile }
 iPod-iOS-Facebook: { s: uc-d, d: iPod, o: iOS, u: Facebook, c: '' }
-'iPhone-Other-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: Other, u: 'Mobile Safari UI/WKWebView', c: '' }
+'iPhone-Other-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: Other, u: 'Mobile Safari UI/WKWebView', c: mobile }
 'BlackBerry STL100-2-Other-Other': { s: uc-d, d: 'BlackBerry STL100-2', o: Other, u: Other, c: '' }
 'One Android 4.3-Android-Android': { s: uc-d, d: 'One Android 4.3', o: Android, u: Android, c: '' }
 'One by bigrammy-Android-Android': { s: uc-d, d: 'One by bigrammy', o: Android, u: Android, c: '' }
@@ -16070,9 +16070,9 @@ Other-Linux-Chrome: { s: uc-d, d: Other, o: Linux, u: Chrome, c: '' }
 Other-tvOS-Other: { s: uc-o, d: Other, o: tvOS, u: Other, c: '' }
 Other-iOS-Other: { s: uc-o, d: Other, o: iOS, u: Other, c: '' }
 Other-iOS-AdobeAIR: { s: uc-o, d: Other, o: iOS, u: AdobeAIR, c: '' }
-'iPhone-iOS-Chrome Mobile iOS': { s: uc-o, d: iPhone, o: iOS, u: 'Chrome Mobile iOS', c: '' }
+'iPhone-iOS-Chrome Mobile iOS': { s: uc-o, d: iPhone, o: iOS, u: 'Chrome Mobile iOS', c: mobile }
 Other-Chromecast-Chrome: { s: uc-o, d: Other, o: Chromecast, u: Chrome, c: '' }
-iPhone-iOS-Outlook-iOS-Android: { s: uc-o, d: iPhone, o: iOS, u: Outlook-iOS-Android, c: '' }
+iPhone-iOS-Outlook-iOS-Android: { s: uc-o, d: iPhone, o: iOS, u: Outlook-iOS-Android, c: mobile }
 'Other-Mac OS X-Electron': { s: uc-o, d: Other, o: 'Mac OS X', u: Electron, c: '' }
 Other-Windows-Other: { s: uc-o, d: Other, o: Windows, u: Other, c: '' }
 'Other-Windows 8.1-Electron': { s: uc-o, d: Other, o: 'Windows 8.1', u: Electron, c: '' }
@@ -16092,10 +16092,10 @@ Other-Other-Barca: { s: uc-u, d: Other, o: Other, u: Barca, c: '' }
 Other-Other-MailBar: { s: uc-u, d: Other, o: Other, u: MailBar, c: '' }
 Other-Linux-kmail2: { s: uc-u, d: Other, o: Linux, u: kmail2, c: '' }
 'Other-Mac OS X-Apple Mail': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Apple Mail', c: '' }
-'iPhone-Other-UC Browser': { s: uc-u, d: iPhone, o: Other, u: 'UC Browser', c: '' }
+'iPhone-Other-UC Browser': { s: uc-u, d: iPhone, o: Other, u: 'UC Browser', c: mobile }
 'Samsung GT-S5302-Linux-UC Browser': { s: uc-u, d: 'Samsung GT-S5302', o: Linux, u: 'UC Browser', c: '' }
 'Other-Windows 10-UC Browser': { s: uc-u, d: Other, o: 'Windows 10', u: 'UC Browser', c: '' }
-iPhone-iOS-CFNetwork: { s: uc-u, d: iPhone, o: iOS, u: CFNetwork, c: '' }
+iPhone-iOS-CFNetwork: { s: uc-u, d: iPhone, o: iOS, u: CFNetwork, c: mobile }
 'Samsung GT-I9506-ORANGE-Android-Samsung Internet': { s: uc-u, d: 'Samsung GT-I9506-ORANGE', o: Android, u: 'Samsung Internet', c: '' }
 'Samsung SM-T800-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-T800', o: Android, u: 'Samsung Internet', c: '' }
 'Samsung SM-G920F-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-G920F', o: Android, u: 'Samsung Internet', c: '' }
@@ -16104,7 +16104,7 @@ Spider-Other-123metaspider-Bot: { s: uc-u, d: Spider, o: Other, u: 123metaspider
 'Spider-Other-com WebBot': { s: uc-u, d: Spider, o: Other, u: 'com WebBot', c: '' }
 'Spider-Other-SiteCat Webbot': { s: uc-u, d: Spider, o: Other, u: 'SiteCat Webbot', c: '' }
 Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
-'iPhone-iOS-Firefox iOS': { s: uc-u, d: iPhone, o: iOS, u: 'Firefox iOS', c: '' }
+'iPhone-iOS-Firefox iOS': { s: uc-u, d: iPhone, o: iOS, u: 'Firefox iOS', c: mobile }
 'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: '' }
 'Other-Mac OS X-Spotify': { s: uc-u, d: Other, o: 'Mac OS X', u: Spotify, c: '' }
 'Other-Windows 7-Spotify': { s: uc-u, d: Other, o: 'Windows 7', u: Spotify, c: '' }
@@ -16116,7 +16116,7 @@ Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
 'HTC Desire-Android-Facebook': { s: uc-u, d: 'HTC Desire', o: Android, u: Facebook, c: '' }
 Other-Other-Facebook: { s: uc-u, d: Other, o: Other, u: Facebook, c: '' }
 'Generic Smartphone-Android-Facebook': { s: uc-u, d: 'Generic Smartphone', o: Android, u: Facebook, c: '' }
-iPhone-iOS-Pinterest: { s: uc-u, d: iPhone, o: iOS, u: Pinterest, c: '' }
+iPhone-iOS-Pinterest: { s: uc-u, d: iPhone, o: iOS, u: Pinterest, c: mobile }
 A3-A11-Android-Pinterest: { s: uc-u, d: A3-A11, o: Android, u: Pinterest, c: '' }
 'Generic Tablet-Android-Pinterest': { s: uc-u, d: 'Generic Tablet', o: Android, u: Pinterest, c: '' }
 'Generic Smartphone-Android-Pinterest': { s: uc-u, d: 'Generic Smartphone', o: Android, u: Pinterest, c: '' }
