@@ -294,18 +294,18 @@ ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tab
 'Airpad DS101M-Android-Chrome': { s: uc-d, d: 'Airpad DS101M', o: Android, u: Chrome, c: '' }
 'Airpad DS820M-Android-Chrome': { s: uc-d, d: 'Airpad DS820M', o: Android, u: Chrome, c: '' }
 'Airpad XL-Android-Android': { s: uc-d, d: 'Airpad XL', o: Android, u: Android, c: '' }
-'ALCATEL ONE TOUCH 4030D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 4030D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 5020D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5020D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 5035D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5035D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 6033X-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 6033X', o: Android, u: Other, c: '' }
-'ALCATEL one touch 890D-Android-Other': { s: uc-d, d: 'ALCATEL one touch 890D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 903D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 903D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 918D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 918D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 991D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 991D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 991T-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 991T', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 992D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 992D', o: Android, u: Other, c: '' }
-'ALCATEL ONE TOUCH 997D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 997D', o: Android, u: Other, c: '' }
-'ALCATEL one_touch_995-Android-Other': { s: uc-d, d: 'ALCATEL one_touch_995', o: Android, u: Other, c: '' }
+'ALCATEL ONE TOUCH 4030D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 4030D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 5020D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5020D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 5035D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5035D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 6033X-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 6033X', o: Android, u: Other, c: mobile }
+'ALCATEL one touch 890D-Android-Other': { s: uc-d, d: 'ALCATEL one touch 890D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 903D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 903D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 918D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 918D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 991D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 991D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 991T-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 991T', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 992D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 992D', o: Android, u: Other, c: mobile }
+'ALCATEL ONE TOUCH 997D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 997D', o: Android, u: Other, c: mobile }
+'ALCATEL one_touch_995-Android-Other': { s: uc-d, d: 'ALCATEL one_touch_995', o: Android, u: Other, c: mobile }
 'Alcatel One Touch EVO7-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch EVO7', o: Android, u: Chrome, c: tablet }
 'Alcatel One Touch T10-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch T10', o: Android, u: Chrome, c: tablet }
 'Alcatel One Touch T20-Android-Android': { s: uc-d, d: 'Alcatel One Touch T20', o: Android, u: Android, c: tablet }
