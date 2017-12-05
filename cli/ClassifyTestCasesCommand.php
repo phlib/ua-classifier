@@ -30,7 +30,7 @@ class ClassifyTestCasesCommand extends Command
         $io = new SymfonyStyle($input, $output);
         $io->title('Classification Configuration');
 
-        $classification = $io->choice('Select the classification to grant', ['Mobile', 'Tablet', 'Computer', 'Spider']);
+        $classification = $io->choice('Select the classification to grant', ['Mobile', 'Tablet', 'Desktop', 'Spider']);
         $target = $io->choice('Select what to classify by', ['User Agent', 'Operating System', 'Device']);
         $regex = $io->ask("Specify a regex to classify {$target}s with the {$classification} classification", null, function($value) {
             if (!preg_match('/^\/[\s\S]+\/$/', $value)) {
