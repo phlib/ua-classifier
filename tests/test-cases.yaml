@@ -730,27 +730,27 @@ MW0831-Android-Opera: { s: uc-d, d: MW0831, o: Android, u: Opera, c: '' }
 MW0831Plus-Android-Android: { s: uc-d, d: MW0831Plus, o: Android, u: Android, c: '' }
 MW0922-Android-Chrome: { s: uc-d, d: MW0922, o: Android, u: Chrome, c: '' }
 MW0931-Android-Android: { s: uc-d, d: MW0931, o: Android, u: Android, c: '' }
-'Aoson G7-Android-Android': { s: uc-d, d: 'Aoson G7', o: Android, u: Android, c: '' }
-'Aoson M-12-Android-Android': { s: uc-d, d: 'Aoson M-12', o: Android, u: Android, c: '' }
-'Aoson M1013-Android-Android': { s: uc-d, d: 'Aoson M1013', o: Android, u: Android, c: '' }
-'Aoson M11-Android-Chrome': { s: uc-d, d: 'Aoson M11', o: Android, u: Chrome, c: '' }
-'Aoson M11C-Android-Chrome': { s: uc-d, d: 'Aoson M11C', o: Android, u: Chrome, c: '' }
-'Aoson M11G-Android-Android': { s: uc-d, d: 'Aoson M11G', o: Android, u: Android, c: '' }
-'Aoson M12-Android-Chrome Mobile': { s: uc-d, d: 'Aoson M12', o: Android, u: 'Chrome Mobile', c: '' }
-'Aoson M12B-Android-Android': { s: uc-d, d: 'Aoson M12B', o: Android, u: Android, c: '' }
-'Aoson M19-Android-Yandex Browser': { s: uc-d, d: 'Aoson M19', o: Android, u: 'Yandex Browser', c: '' }
-'Aoson M713-Android-Chrome Mobile': { s: uc-d, d: 'Aoson M713', o: Android, u: 'Chrome Mobile', c: '' }
-'Aoson M71G-Android-Chrome': { s: uc-d, d: 'Aoson M71G', o: Android, u: Chrome, c: '' }
-'Aoson M71GS-Android-Chrome': { s: uc-d, d: 'Aoson M71GS', o: Android, u: Chrome, c: '' }
-'Aoson M72-Android-Android': { s: uc-d, d: 'Aoson M72', o: Android, u: Android, c: '' }
-'Aoson M721-Android-UC Browser': { s: uc-d, d: 'Aoson M721', o: Android, u: 'UC Browser', c: '' }
-'Aoson M723-Android-Chrome': { s: uc-d, d: 'Aoson M723', o: Android, u: Chrome, c: '' }
-'Aoson M73-Android-Android': { s: uc-d, d: 'Aoson M73', o: Android, u: Android, c: '' }
-'Aoson M785-Android-Android': { s: uc-d, d: 'Aoson M785', o: Android, u: Android, c: '' }
-'Aoson M92S-Android-Android': { s: uc-d, d: 'Aoson M92S', o: Android, u: Android, c: '' }
-'Aoson M19-Android-Android': { s: uc-d, d: 'Aoson M19', o: Android, u: Android, c: '' }
-'Aoson m33-Android-Android': { s: uc-d, d: 'Aoson m33', o: Android, u: Android, c: '' }
-'Aoson M33 3G-Android-Android': { s: uc-d, d: 'Aoson M33 3G', o: Android, u: Android, c: '' }
+'Aoson G7-Android-Android': { s: uc-d, d: 'Aoson G7', o: Android, u: Android, c: tablet }
+'Aoson M-12-Android-Android': { s: uc-d, d: 'Aoson M-12', o: Android, u: Android, c: tablet }
+'Aoson M1013-Android-Android': { s: uc-d, d: 'Aoson M1013', o: Android, u: Android, c: tablet }
+'Aoson M11-Android-Chrome': { s: uc-d, d: 'Aoson M11', o: Android, u: Chrome, c: tablet }
+'Aoson M11C-Android-Chrome': { s: uc-d, d: 'Aoson M11C', o: Android, u: Chrome, c: tablet }
+'Aoson M11G-Android-Android': { s: uc-d, d: 'Aoson M11G', o: Android, u: Android, c: tablet }
+'Aoson M12-Android-Chrome Mobile': { s: uc-d, d: 'Aoson M12', o: Android, u: 'Chrome Mobile', c: tablet }
+'Aoson M12B-Android-Android': { s: uc-d, d: 'Aoson M12B', o: Android, u: Android, c: tablet }
+'Aoson M19-Android-Yandex Browser': { s: uc-d, d: 'Aoson M19', o: Android, u: 'Yandex Browser', c: tablet }
+'Aoson M713-Android-Chrome Mobile': { s: uc-d, d: 'Aoson M713', o: Android, u: 'Chrome Mobile', c: tablet }
+'Aoson M71G-Android-Chrome': { s: uc-d, d: 'Aoson M71G', o: Android, u: Chrome, c: tablet }
+'Aoson M71GS-Android-Chrome': { s: uc-d, d: 'Aoson M71GS', o: Android, u: Chrome, c: tablet }
+'Aoson M72-Android-Android': { s: uc-d, d: 'Aoson M72', o: Android, u: Android, c: tablet }
+'Aoson M721-Android-UC Browser': { s: uc-d, d: 'Aoson M721', o: Android, u: 'UC Browser', c: tablet }
+'Aoson M723-Android-Chrome': { s: uc-d, d: 'Aoson M723', o: Android, u: Chrome, c: tablet }
+'Aoson M73-Android-Android': { s: uc-d, d: 'Aoson M73', o: Android, u: Android, c: tablet }
+'Aoson M785-Android-Android': { s: uc-d, d: 'Aoson M785', o: Android, u: Android, c: tablet }
+'Aoson M92S-Android-Android': { s: uc-d, d: 'Aoson M92S', o: Android, u: Android, c: tablet }
+'Aoson M19-Android-Android': { s: uc-d, d: 'Aoson M19', o: Android, u: Android, c: tablet }
+'Aoson m33-Android-Android': { s: uc-d, d: 'Aoson m33', o: Android, u: Android, c: tablet }
+'Aoson M33 3G-Android-Android': { s: uc-d, d: 'Aoson M33 3G', o: Android, u: Android, c: tablet }
 'Apanda A60-Android-Android': { s: uc-d, d: 'Apanda A60', o: Android, u: Android, c: '' }
 'Apanda A80S-Android-UC Browser': { s: uc-d, d: 'Apanda A80S', o: Android, u: 'UC Browser', c: '' }
 'iPad1,1-iOS-Mobile Safari': { s: uc-d, d: 'iPad1,1', o: iOS, u: 'Mobile Safari', c: tablet }
