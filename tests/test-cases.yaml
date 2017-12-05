@@ -15975,7 +15975,7 @@ ONE-Android-Android: { s: uc-u, d: ONE, o: Android, u: Android, c: '' }
 'Other-Mac OS X-Rival IQ': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Rival IQ', c: desktop }
 'iPod-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPod, o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
 'Nexus 5X-Android-Chrome Mobile': { s: uc-d, d: 'Nexus 5X', o: Android, u: 'Chrome Mobile', c: '' }
-'Generic Tablet-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Tablet', o: 'Firefox OS', u: 'Firefox Mobile', c: '' }
+'Generic Tablet-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Tablet', o: 'Firefox OS', u: 'Firefox Mobile', c: tablet }
 Spider-Other-NL-Crawler: { s: uc-d, d: Spider, o: Other, u: NL-Crawler, c: '' }
 Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: '' }
 'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: '' }
@@ -16108,7 +16108,7 @@ Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
 'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: tablet }
 'Other-Mac OS X-Spotify': { s: uc-u, d: Other, o: 'Mac OS X', u: Spotify, c: '' }
 'Other-Windows 7-Spotify': { s: uc-u, d: Other, o: 'Windows 7', u: Spotify, c: '' }
-'Generic Tablet-Android-Firefox Mobile': { s: uc-u, d: 'Generic Tablet', o: Android, u: 'Firefox Mobile', c: '' }
+'Generic Tablet-Android-Firefox Mobile': { s: uc-u, d: 'Generic Tablet', o: Android, u: 'Firefox Mobile', c: tablet }
 'LG E400-Other-Facebook': { s: uc-u, d: 'LG E400', o: Other, u: Facebook, c: '' }
 'LG P920-Other-Facebook': { s: uc-u, d: 'LG P920', o: Other, u: Facebook, c: '' }
 'Samsung SCH-R720-Android-Facebook': { s: uc-u, d: 'Samsung SCH-R720', o: Android, u: Facebook, c: '' }
@@ -16118,7 +16118,7 @@ Other-Other-Facebook: { s: uc-u, d: Other, o: Other, u: Facebook, c: '' }
 'Generic Smartphone-Android-Facebook': { s: uc-u, d: 'Generic Smartphone', o: Android, u: Facebook, c: mobile }
 iPhone-iOS-Pinterest: { s: uc-u, d: iPhone, o: iOS, u: Pinterest, c: mobile }
 A3-A11-Android-Pinterest: { s: uc-u, d: A3-A11, o: Android, u: Pinterest, c: '' }
-'Generic Tablet-Android-Pinterest': { s: uc-u, d: 'Generic Tablet', o: Android, u: Pinterest, c: '' }
+'Generic Tablet-Android-Pinterest': { s: uc-u, d: 'Generic Tablet', o: Android, u: Pinterest, c: tablet }
 'Generic Smartphone-Android-Pinterest': { s: uc-u, d: 'Generic Smartphone', o: Android, u: Pinterest, c: mobile }
 Other-Other-Pinterest: { s: uc-u, d: Other, o: Other, u: Pinterest, c: '' }
 Spider-Other-com/bot: { s: uc-u, d: Spider, o: Other, u: com/bot, c: '' }
