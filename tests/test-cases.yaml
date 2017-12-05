@@ -261,36 +261,36 @@ NOVO7PALADIN-Android-Android: { s: uc-d, d: NOVO7PALADIN, o: Android, u: Android
 novo9-Spark-Android-Android: { s: uc-d, d: novo9-Spark, o: Android, u: Android, c: tablet }
 NovoCrystal-Android-Chrome: { s: uc-d, d: NovoCrystal, o: Android, u: Chrome, c: tablet }
 GN135-Android-Android: { s: uc-d, d: GN135, o: Android, u: Android, c: mobile }
-OnePAD-Android-Safari: { s: uc-d, d: OnePAD, o: Android, u: Safari, c: '' }
-'OnePAD 725-Android-Chrome Mobile': { s: uc-d, d: 'OnePAD 725', o: Android, u: 'Chrome Mobile', c: '' }
-'OnePAD 730-Android-Chrome Mobile': { s: uc-d, d: 'OnePAD 730', o: Android, u: 'Chrome Mobile', c: '' }
-OnePad1000-Android-Android: { s: uc-d, d: OnePad1000, o: Android, u: Android, c: '' }
-OnePAD700-Android-Android: { s: uc-d, d: OnePAD700, o: Android, u: Android, c: '' }
+OnePAD-Android-Safari: { s: uc-d, d: OnePAD, o: Android, u: Safari, c: tablet }
+'OnePAD 725-Android-Chrome Mobile': { s: uc-d, d: 'OnePAD 725', o: Android, u: 'Chrome Mobile', c: tablet }
+'OnePAD 730-Android-Chrome Mobile': { s: uc-d, d: 'OnePAD 730', o: Android, u: 'Chrome Mobile', c: tablet }
+OnePad1000-Android-Android: { s: uc-d, d: OnePad1000, o: Android, u: Android, c: tablet }
+OnePAD700-Android-Android: { s: uc-d, d: OnePAD700, o: Android, u: Android, c: tablet }
 S211-Android-Android: { s: uc-d, d: S211, o: Android, u: Android, c: '' }
 TM350-Android-Android: { s: uc-d, d: TM350, o: Android, u: Android, c: '' }
 TM400-Android-Android: { s: uc-d, d: TM400, o: Android, u: Android, c: '' }
 TM450-Android-Other: { s: uc-d, d: TM450, o: Android, u: Other, c: '' }
 TM475-Android-Android: { s: uc-d, d: TM475, o: Android, u: Android, c: '' }
 TM500-Android-Android: { s: uc-d, d: TM500, o: Android, u: Android, c: '' }
-'OnePAD 1050-Android-Android': { s: uc-d, d: 'OnePAD 1050', o: Android, u: Android, c: '' }
-'OnePAD 1100-Android-Chrome': { s: uc-d, d: 'OnePAD 1100', o: Android, u: Chrome, c: '' }
-'OnePAD 1100B-Android-Android': { s: uc-d, d: 'OnePAD 1100B', o: Android, u: Android, c: '' }
-'OnePAD 1100x2-Android-Chrome': { s: uc-d, d: 'OnePAD 1100x2', o: Android, u: Chrome, c: '' }
-'OnePAD 705-Android-Android': { s: uc-d, d: 'OnePAD 705', o: Android, u: Android, c: '' }
-'OnePAD 715-Android-Chrome': { s: uc-d, d: 'OnePAD 715', o: Android, u: Chrome, c: '' }
-'OnePAD 720-Android-Android': { s: uc-d, d: 'OnePAD 720', o: Android, u: Android, c: '' }
-'OnePAD 725-Android-Android': { s: uc-d, d: 'OnePAD 725', o: Android, u: Android, c: '' }
-'OnePAD 730-Android-Android': { s: uc-d, d: 'OnePAD 730', o: Android, u: Android, c: '' }
-'OnePAD 735-Android-Android': { s: uc-d, d: 'OnePAD 735', o: Android, u: Android, c: '' }
-'OnePAD 735C-Android-Android': { s: uc-d, d: 'OnePAD 735C', o: Android, u: Android, c: '' }
-'OnePAD 735G-Android-Android': { s: uc-d, d: 'OnePAD 735G', o: Android, u: Android, c: '' }
-'OnePAD 735T-Android-Chrome': { s: uc-d, d: 'OnePAD 735T', o: Android, u: Chrome, c: '' }
-'OnePAD 90-Android-Chrome': { s: uc-d, d: 'OnePAD 90', o: Android, u: Chrome, c: '' }
-'OnePAD 900HD-Android-Chrome': { s: uc-d, d: 'OnePAD 900HD', o: Android, u: Chrome, c: '' }
-'OnePAD 900x2-Android-Android': { s: uc-d, d: 'OnePAD 900x2', o: Android, u: Android, c: '' }
-'ONEPAD 940-Android-Chrome': { s: uc-d, d: 'ONEPAD 940', o: Android, u: Chrome, c: '' }
-'OnePAD 970-Android-Chrome': { s: uc-d, d: 'OnePAD 970', o: Android, u: Chrome, c: '' }
-ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: '' }
+'OnePAD 1050-Android-Android': { s: uc-d, d: 'OnePAD 1050', o: Android, u: Android, c: tablet }
+'OnePAD 1100-Android-Chrome': { s: uc-d, d: 'OnePAD 1100', o: Android, u: Chrome, c: tablet }
+'OnePAD 1100B-Android-Android': { s: uc-d, d: 'OnePAD 1100B', o: Android, u: Android, c: tablet }
+'OnePAD 1100x2-Android-Chrome': { s: uc-d, d: 'OnePAD 1100x2', o: Android, u: Chrome, c: tablet }
+'OnePAD 705-Android-Android': { s: uc-d, d: 'OnePAD 705', o: Android, u: Android, c: tablet }
+'OnePAD 715-Android-Chrome': { s: uc-d, d: 'OnePAD 715', o: Android, u: Chrome, c: tablet }
+'OnePAD 720-Android-Android': { s: uc-d, d: 'OnePAD 720', o: Android, u: Android, c: tablet }
+'OnePAD 725-Android-Android': { s: uc-d, d: 'OnePAD 725', o: Android, u: Android, c: tablet }
+'OnePAD 730-Android-Android': { s: uc-d, d: 'OnePAD 730', o: Android, u: Android, c: tablet }
+'OnePAD 735-Android-Android': { s: uc-d, d: 'OnePAD 735', o: Android, u: Android, c: tablet }
+'OnePAD 735C-Android-Android': { s: uc-d, d: 'OnePAD 735C', o: Android, u: Android, c: tablet }
+'OnePAD 735G-Android-Android': { s: uc-d, d: 'OnePAD 735G', o: Android, u: Android, c: tablet }
+'OnePAD 735T-Android-Chrome': { s: uc-d, d: 'OnePAD 735T', o: Android, u: Chrome, c: tablet }
+'OnePAD 90-Android-Chrome': { s: uc-d, d: 'OnePAD 90', o: Android, u: Chrome, c: tablet }
+'OnePAD 900HD-Android-Chrome': { s: uc-d, d: 'OnePAD 900HD', o: Android, u: Chrome, c: tablet }
+'OnePAD 900x2-Android-Android': { s: uc-d, d: 'OnePAD 900x2', o: Android, u: Android, c: tablet }
+'ONEPAD 940-Android-Chrome': { s: uc-d, d: 'ONEPAD 940', o: Android, u: Chrome, c: tablet }
+'OnePAD 970-Android-Chrome': { s: uc-d, d: 'OnePAD 970', o: Android, u: Chrome, c: tablet }
+ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tablet }
 'Airpad DS101M-Android-Chrome': { s: uc-d, d: 'Airpad DS101M', o: Android, u: Chrome, c: '' }
 'Airpad DS820M-Android-Chrome': { s: uc-d, d: 'Airpad DS820M', o: Android, u: Chrome, c: '' }
 'Airpad XL-Android-Android': { s: uc-d, d: 'Airpad XL', o: Android, u: Android, c: '' }
