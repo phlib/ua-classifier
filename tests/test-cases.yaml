@@ -15979,8 +15979,8 @@ ONE-Android-Android: { s: uc-u, d: ONE, o: Android, u: Android, c: '' }
 Spider-Other-NL-Crawler: { s: uc-d, d: Spider, o: Other, u: NL-Crawler, c: '' }
 Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: '' }
 'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: '' }
-'iPad-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPad, o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
-iPad-iOS-Facebook: { s: uc-d, d: iPad, o: iOS, u: Facebook, c: '' }
+'iPad-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPad, o: iOS, u: 'Mobile Safari UI/WKWebView', c: tablet }
+iPad-iOS-Facebook: { s: uc-d, d: iPad, o: iOS, u: Facebook, c: tablet }
 'iPhone-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: iOS, u: 'Mobile Safari UI/WKWebView', c: mobile }
 iPhone-iOS-Facebook: { s: uc-d, d: iPhone, o: iOS, u: Facebook, c: mobile }
 iPhone-Linux-Facebook: { s: uc-d, d: iPhone, o: Linux, u: Facebook, c: mobile }
@@ -16065,7 +16065,7 @@ Other-Linux-Chrome: { s: uc-d, d: Other, o: Linux, u: Chrome, c: '' }
 'Other-Windows 7-Thunderbird': { s: uc-o, d: Other, o: 'Windows 7', u: Thunderbird, c: '' }
 'Other-Windows XP-Pale Moon': { s: uc-o, d: Other, o: 'Windows XP', u: 'Pale Moon', c: '' }
 'Generic Smartphone-Android-okhttp': { s: uc-o, d: 'Generic Smartphone', o: Android, u: okhttp, c: '' }
-'iPad-iOS-UC Browser': { s: uc-o, d: iPad, o: iOS, u: 'UC Browser', c: '' }
+'iPad-iOS-UC Browser': { s: uc-o, d: iPad, o: iOS, u: 'UC Browser', c: tablet }
 'Generic Smartphone-iOS-Mobile Safari UI/WKWebView': { s: uc-o, d: 'Generic Smartphone', o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
 Other-tvOS-Other: { s: uc-o, d: Other, o: tvOS, u: Other, c: '' }
 Other-iOS-Other: { s: uc-o, d: Other, o: iOS, u: Other, c: '' }
@@ -16105,7 +16105,7 @@ Spider-Other-123metaspider-Bot: { s: uc-u, d: Spider, o: Other, u: 123metaspider
 'Spider-Other-SiteCat Webbot': { s: uc-u, d: Spider, o: Other, u: 'SiteCat Webbot', c: '' }
 Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
 'iPhone-iOS-Firefox iOS': { s: uc-u, d: iPhone, o: iOS, u: 'Firefox iOS', c: mobile }
-'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: '' }
+'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: tablet }
 'Other-Mac OS X-Spotify': { s: uc-u, d: Other, o: 'Mac OS X', u: Spotify, c: '' }
 'Other-Windows 7-Spotify': { s: uc-u, d: Other, o: 'Windows 7', u: Spotify, c: '' }
 'Generic Tablet-Android-Firefox Mobile': { s: uc-u, d: 'Generic Tablet', o: Android, u: 'Firefox Mobile', c: '' }
@@ -16144,7 +16144,7 @@ Other-Other-Outlook: { s: uc-u, d: Other, o: Other, u: Outlook, c: '' }
 'Samsung SM-G800F-Android-MobileIron': { s: uc-u, d: 'Samsung SM-G800F', o: Android, u: MobileIron, c: '' }
 'Samsung GT-I9195I-Android-Crosswalk': { s: uc-u, d: 'Samsung GT-I9195I', o: Android, u: Crosswalk, c: '' }
 'Z831-Android-Chrome Mobile': { s: uc-u, d: Z831, o: Android, u: 'Chrome Mobile', c: '' }
-'iPad-iOS-Chrome Mobile': { s: uc-u, d: iPad, o: iOS, u: 'Chrome Mobile', c: '' }
+'iPad-iOS-Chrome Mobile': { s: uc-u, d: iPad, o: iOS, u: 'Chrome Mobile', c: tablet }
 'Samsung SM-G850F-Android-Chrome Mobile': { s: uc-u, d: 'Samsung SM-G850F', o: Android, u: 'Chrome Mobile', c: '' }
 Other-Other-MacOutlook: { s: uc-u, d: Other, o: Other, u: MacOutlook, c: '' }
 'Other-Mac OS X-Slack Desktop Client': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Slack Desktop Client', c: '' }
@@ -16164,7 +16164,7 @@ Other-Linux-Iron: { s: uc-u, d: Other, o: Linux, u: Iron, c: '' }
 'Other-Windows XP-Maxthon': { s: uc-u, d: Other, o: 'Windows XP', u: Maxthon, c: '' }
 'Samsung SM-G930P-Android-Chrome Mobile': { s: uc-u, d: 'Samsung SM-G930P', o: Android, u: 'Chrome Mobile', c: '' }
 'Other-Windows 7-Midori': { s: uc-u, d: Other, o: 'Windows 7', u: Midori, c: '' }
-iPad-iOS-Midori: { s: uc-u, d: iPad, o: iOS, u: Midori, c: '' }
+iPad-iOS-Midori: { s: uc-u, d: iPad, o: iOS, u: Midori, c: tablet }
 Other-Other-curl: { s: uc-u, d: Other, o: Other, u: curl, c: '' }
 'Other-Debian-Debian APT-HTTP': { s: uc-u, d: Other, o: Debian, u: 'Debian APT-HTTP', c: '' }
 Other-Other-jupdate: { s: uc-u, d: Other, o: Other, u: jupdate, c: '' }
