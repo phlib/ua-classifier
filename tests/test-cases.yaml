@@ -63,7 +63,7 @@ SprintLN240-BREW-NetFront: { s: uc-d, d: SprintLN240, o: BREW, u: NetFront, c: '
 'Other-Windows 3.1-NCSA Mosaic': { s: uc-d, d: Other, o: 'Windows 3.1', u: 'NCSA Mosaic', c: desktop }
 Other-Solaris-Firefox: { s: uc-d, d: Other, o: Solaris, u: Firefox, c: '' }
 'Other-Windows 7-Baidu Browser': { s: uc-d, d: Other, o: 'Windows 7', u: 'Baidu Browser', c: desktop }
-'Other-Windows 2000-ICE Browser': { s: uc-d, d: Other, o: 'Windows 2000', u: 'ICE Browser', c: '' }
+'Other-Windows 2000-ICE Browser': { s: uc-d, d: Other, o: 'Windows 2000', u: 'ICE Browser', c: desktop }
 'Generic Smartphone-iOS-QQ Browser Mobile': { s: uc-d, d: 'Generic Smartphone', o: iOS, u: 'QQ Browser Mobile', c: mobile }
 'Generic Feature Phone-VRE-Opera Mini': { s: uc-d, d: 'Generic Feature Phone', o: VRE, u: 'Opera Mini', c: mobile }
 'Generic Smartphone-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Smartphone', o: 'Firefox OS', u: 'Firefox Mobile', c: mobile }
@@ -15185,7 +15185,7 @@ Other-Windows-AdobeAIR: { s: uc-o, d: Other, o: Windows, u: AdobeAIR, c: desktop
 'Other-Windows XP-Comodo Dragon': { s: uc-o, d: Other, o: 'Windows XP', u: 'Comodo Dragon', c: desktop }
 'Other-Windows XP-Pale Moon (Firefox Variant)': { s: uc-o, d: Other, o: 'Windows XP', u: 'Pale Moon (Firefox Variant)', c: desktop }
 Other-Mandriva-Firefox: { s: uc-o, d: Other, o: Mandriva, u: Firefox, c: '' }
-'Other-Windows ME-Other': { s: uc-o, d: Other, o: 'Windows ME', u: Other, c: '' }
+'Other-Windows ME-Other': { s: uc-o, d: Other, o: 'Windows ME', u: Other, c: Desktop }
 'Samsung GT-S6012-Android-UC Browser': { s: uc-o, d: 'Samsung GT-S6012', o: Android, u: 'UC Browser', c: mobile }
 'Nokia 5228-Symbian OS-Nokia Services (WAP) Browser': { s: uc-o, d: 'Nokia 5228', o: 'Symbian OS', u: 'Nokia Services (WAP) Browser', c: mobile }
 'Nokia N97-Symbian OS-UC Browser': { s: uc-o, d: 'Nokia N97', o: 'Symbian OS', u: 'UC Browser', c: mobile }
@@ -15978,7 +15978,7 @@ ONE-Android-Android: { s: uc-u, d: ONE, o: Android, u: Android, c: '' }
 'Generic Tablet-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Tablet', o: 'Firefox OS', u: 'Firefox Mobile', c: tablet }
 Spider-Other-NL-Crawler: { s: uc-d, d: Spider, o: Other, u: NL-Crawler, c: '' }
 Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: '' }
-'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: '' }
+'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: Desktop }
 'iPad-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPad, o: iOS, u: 'Mobile Safari UI/WKWebView', c: tablet }
 iPad-iOS-Facebook: { s: uc-d, d: iPad, o: iOS, u: Facebook, c: tablet }
 'iPhone-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPhone, o: iOS, u: 'Mobile Safari UI/WKWebView', c: mobile }
@@ -16062,8 +16062,8 @@ RCT6773W22B-Android-Chrome: { s: uc-d, d: RCT6773W22B, o: Android, u: Chrome, c:
 Other-Linux-Chrome: { s: uc-d, d: Other, o: Linux, u: Chrome, c: '' }
 'rv:11 NOKIA-Windows Phone-IE Mobile': { s: uc-d, d: 'rv:11 NOKIA', o: 'Windows Phone', u: 'IE Mobile', c: '' }
 'Generic Smartphone-Android-Android': { s: uc-d, d: 'Generic Smartphone', o: Android, u: Android, c: mobile }
-'Other-Windows 7-Thunderbird': { s: uc-o, d: Other, o: 'Windows 7', u: Thunderbird, c: '' }
-'Other-Windows XP-Pale Moon': { s: uc-o, d: Other, o: 'Windows XP', u: 'Pale Moon', c: '' }
+'Other-Windows 7-Thunderbird': { s: uc-o, d: Other, o: 'Windows 7', u: Thunderbird, c: Desktop }
+'Other-Windows XP-Pale Moon': { s: uc-o, d: Other, o: 'Windows XP', u: 'Pale Moon', c: Desktop }
 'Generic Smartphone-Android-okhttp': { s: uc-o, d: 'Generic Smartphone', o: Android, u: okhttp, c: mobile }
 'iPad-iOS-UC Browser': { s: uc-o, d: iPad, o: iOS, u: 'UC Browser', c: tablet }
 'Generic Smartphone-iOS-Mobile Safari UI/WKWebView': { s: uc-o, d: 'Generic Smartphone', o: iOS, u: 'Mobile Safari UI/WKWebView', c: mobile }
@@ -16075,17 +16075,17 @@ Other-Chromecast-Chrome: { s: uc-o, d: Other, o: Chromecast, u: Chrome, c: '' }
 iPhone-iOS-Outlook-iOS-Android: { s: uc-o, d: iPhone, o: iOS, u: Outlook-iOS-Android, c: mobile }
 'Other-Mac OS X-Electron': { s: uc-o, d: Other, o: 'Mac OS X', u: Electron, c: '' }
 Other-Windows-Other: { s: uc-o, d: Other, o: Windows, u: Other, c: '' }
-'Other-Windows 8.1-Electron': { s: uc-o, d: Other, o: 'Windows 8.1', u: Electron, c: '' }
-'Other-Windows 10-Electron': { s: uc-o, d: Other, o: 'Windows 10', u: Electron, c: '' }
-'Other-Windows 7-Chrome': { s: uc-u, d: Other, o: 'Windows 7', u: Chrome, c: '' }
-'Spider-Windows 7-Catchpoint bot': { s: uc-u, d: Spider, o: 'Windows 7', u: 'Catchpoint bot', c: '' }
+'Other-Windows 8.1-Electron': { s: uc-o, d: Other, o: 'Windows 8.1', u: Electron, c: Desktop }
+'Other-Windows 10-Electron': { s: uc-o, d: Other, o: 'Windows 10', u: Electron, c: Desktop }
+'Other-Windows 7-Chrome': { s: uc-u, d: Other, o: 'Windows 7', u: Chrome, c: Desktop }
+'Spider-Windows 7-Catchpoint bot': { s: uc-u, d: Spider, o: 'Windows 7', u: 'Catchpoint bot', c: Desktop }
 Other-Other-GmailImageProxy: { s: uc-u, d: Other, o: Other, u: GmailImageProxy, c: '' }
 Spider-Other-TwitterBot: { s: uc-u, d: Spider, o: Other, u: TwitterBot, c: '' }
 'Generic Feature Phone-Other-Opera Mini': { s: uc-u, d: 'Generic Feature Phone', o: Other, u: 'Opera Mini', c: '' }
 'BlackBerry 9700-BlackBerry OS-Opera Mini': { s: uc-u, d: 'BlackBerry 9700', o: 'BlackBerry OS', u: 'Opera Mini', c: '' }
 'Generic Smartphone-Android-Opera Mini': { s: uc-u, d: 'Generic Smartphone', o: Android, u: 'Opera Mini', c: mobile }
 'Other-Linux-Pale Moon': { s: uc-u, d: Other, o: Linux, u: 'Pale Moon', c: '' }
-'Other-Windows 8-Postbox': { s: uc-u, d: Other, o: 'Windows 8', u: Postbox, c: '' }
+'Other-Windows 8-Postbox': { s: uc-u, d: Other, o: 'Windows 8', u: Postbox, c: Desktop }
 'Other-Windows-Lotus Notes': { s: uc-u, d: Other, o: Windows, u: 'Lotus Notes', c: '' }
 Other-Other-Barca: { s: uc-u, d: Other, o: Other, u: Barca, c: '' }
 'Other-Other-The Bat!': { s: uc-u, d: Other, o: Other, u: 'The Bat!', c: '' }
@@ -16094,7 +16094,7 @@ Other-Linux-kmail2: { s: uc-u, d: Other, o: Linux, u: kmail2, c: '' }
 'Other-Mac OS X-Apple Mail': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Apple Mail', c: '' }
 'iPhone-Other-UC Browser': { s: uc-u, d: iPhone, o: Other, u: 'UC Browser', c: mobile }
 'Samsung GT-S5302-Linux-UC Browser': { s: uc-u, d: 'Samsung GT-S5302', o: Linux, u: 'UC Browser', c: '' }
-'Other-Windows 10-UC Browser': { s: uc-u, d: Other, o: 'Windows 10', u: 'UC Browser', c: '' }
+'Other-Windows 10-UC Browser': { s: uc-u, d: Other, o: 'Windows 10', u: 'UC Browser', c: Desktop }
 iPhone-iOS-CFNetwork: { s: uc-u, d: iPhone, o: iOS, u: CFNetwork, c: mobile }
 'Samsung GT-I9506-ORANGE-Android-Samsung Internet': { s: uc-u, d: 'Samsung GT-I9506-ORANGE', o: Android, u: 'Samsung Internet', c: '' }
 'Samsung SM-T800-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-T800', o: Android, u: 'Samsung Internet', c: '' }
@@ -16107,7 +16107,7 @@ Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
 'iPhone-iOS-Firefox iOS': { s: uc-u, d: iPhone, o: iOS, u: 'Firefox iOS', c: mobile }
 'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: tablet }
 'Other-Mac OS X-Spotify': { s: uc-u, d: Other, o: 'Mac OS X', u: Spotify, c: '' }
-'Other-Windows 7-Spotify': { s: uc-u, d: Other, o: 'Windows 7', u: Spotify, c: '' }
+'Other-Windows 7-Spotify': { s: uc-u, d: Other, o: 'Windows 7', u: Spotify, c: Desktop }
 'Generic Tablet-Android-Firefox Mobile': { s: uc-u, d: 'Generic Tablet', o: Android, u: 'Firefox Mobile', c: tablet }
 'LG E400-Other-Facebook': { s: uc-u, d: 'LG E400', o: Other, u: Facebook, c: '' }
 'LG P920-Other-Facebook': { s: uc-u, d: 'LG P920', o: Other, u: Facebook, c: '' }
@@ -16129,17 +16129,17 @@ Other-Linux-qutebrowser: { s: uc-u, d: Other, o: Linux, u: qutebrowser, c: '' }
 Other-Other-QupZilla: { s: uc-u, d: Other, o: Other, u: QupZilla, c: '' }
 Other-BSD-QupZilla: { s: uc-u, d: Other, o: BSD, u: QupZilla, c: '' }
 Other-Linux-QupZilla: { s: uc-u, d: Other, o: Linux, u: QupZilla, c: '' }
-'Other-Windows 7-Otter': { s: uc-u, d: Other, o: 'Windows 7', u: Otter, c: '' }
+'Other-Windows 7-Otter': { s: uc-u, d: Other, o: 'Windows 7', u: Otter, c: Desktop }
 Other-Linux-Otter: { s: uc-u, d: Other, o: Linux, u: Otter, c: '' }
 'Lumia 930-Windows Phone-Edge Mobile': { s: uc-u, d: 'Lumia 930', o: 'Windows Phone', u: 'Edge Mobile', c: mobile }
 'Other-Mac OS X-Brave': { s: uc-u, d: Other, o: 'Mac OS X', u: Brave, c: '' }
-'Other-Windows 10-Brave': { s: uc-u, d: Other, o: 'Windows 10', u: Brave, c: '' }
-'Other-Windows 8.1-Brave': { s: uc-u, d: Other, o: 'Windows 8.1', u: Brave, c: '' }
+'Other-Windows 10-Brave': { s: uc-u, d: Other, o: 'Windows 10', u: Brave, c: Desktop }
+'Other-Windows 8.1-Brave': { s: uc-u, d: Other, o: 'Windows 8.1', u: Brave, c: Desktop }
 Other-Linux-Safari: { s: uc-u, d: Other, o: Linux, u: Safari, c: '' }
 Other-Other-Outlook: { s: uc-u, d: Other, o: Other, u: Outlook, c: '' }
-'Other-Windows 10-Outlook': { s: uc-u, d: Other, o: 'Windows 10', u: Outlook, c: '' }
-'Other-Windows 7-Windows Live Mail': { s: uc-u, d: Other, o: 'Windows 7', u: 'Windows Live Mail', c: '' }
-'Other-Windows XP-Windows Live Mail': { s: uc-u, d: Other, o: 'Windows XP', u: 'Windows Live Mail', c: '' }
+'Other-Windows 10-Outlook': { s: uc-u, d: Other, o: 'Windows 10', u: Outlook, c: Desktop }
+'Other-Windows 7-Windows Live Mail': { s: uc-u, d: Other, o: 'Windows 7', u: 'Windows Live Mail', c: Desktop }
+'Other-Windows XP-Windows Live Mail': { s: uc-u, d: Other, o: 'Windows XP', u: 'Windows Live Mail', c: Desktop }
 'Samsung GT-I9505-Android-Yandex Browser': { s: uc-u, d: 'Samsung GT-I9505', o: Android, u: 'Yandex Browser', c: '' }
 'Samsung SM-G800F-Android-MobileIron': { s: uc-u, d: 'Samsung SM-G800F', o: Android, u: MobileIron, c: '' }
 'Samsung GT-I9195I-Android-Crosswalk': { s: uc-u, d: 'Samsung GT-I9195I', o: Android, u: Crosswalk, c: '' }
@@ -16148,22 +16148,22 @@ Other-Other-Outlook: { s: uc-u, d: Other, o: Other, u: Outlook, c: '' }
 'Samsung SM-G850F-Android-Chrome Mobile': { s: uc-u, d: 'Samsung SM-G850F', o: Android, u: 'Chrome Mobile', c: '' }
 Other-Other-MacOutlook: { s: uc-u, d: Other, o: Other, u: MacOutlook, c: '' }
 'Other-Mac OS X-Slack Desktop Client': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Slack Desktop Client', c: '' }
-'Other-Windows 8-Chrome': { s: uc-u, d: Other, o: 'Windows 8', u: Chrome, c: '' }
+'Other-Windows 8-Chrome': { s: uc-u, d: Other, o: 'Windows 8', u: Chrome, c: Desktop }
 Other-Other-Microsoft-CryptoAPI: { s: uc-u, d: Other, o: Other, u: Microsoft-CryptoAPI, c: '' }
-'Other-Windows 7-Microsoft SkyDriveSync': { s: uc-u, d: Other, o: 'Windows 7', u: 'Microsoft SkyDriveSync', c: '' }
+'Other-Windows 7-Microsoft SkyDriveSync': { s: uc-u, d: Other, o: 'Windows 7', u: 'Microsoft SkyDriveSync', c: Desktop }
 Other-Other-ExchangeServicesClient: { s: uc-u, d: Other, o: Other, u: ExchangeServicesClient, c: '' }
 'Other-Mac OS X-ExchangeWebServices': { s: uc-u, d: Other, o: 'Mac OS X', u: ExchangeWebServices, c: '' }
 Other-Other-okhttp: { s: uc-u, d: Other, o: Other, u: okhttp, c: '' }
 'Other-Mac OS X-Iron': { s: uc-u, d: Other, o: 'Mac OS X', u: Iron, c: '' }
 Other-Linux-Iron: { s: uc-u, d: Other, o: Linux, u: Iron, c: '' }
-'Other-Windows 7-Iron': { s: uc-u, d: Other, o: 'Windows 7', u: Iron, c: '' }
+'Other-Windows 7-Iron': { s: uc-u, d: Other, o: 'Windows 7', u: Iron, c: Desktop }
 'Generic Smartphone-Android-AdobeAIR': { s: uc-u, d: 'Generic Smartphone', o: Android, u: AdobeAIR, c: mobile }
 'Other-Mac OS X-AdobeAIR': { s: uc-u, d: Other, o: 'Mac OS X', u: AdobeAIR, c: '' }
 'Generic Smartphone-Android-Kurio App': { s: uc-u, d: 'Generic Smartphone', o: Android, u: 'Kurio App', c: mobile }
 'Generic Smartphone-Android-BacaBerita App': { s: uc-u, d: 'Generic Smartphone', o: Android, u: 'BacaBerita App', c: mobile }
-'Other-Windows XP-Maxthon': { s: uc-u, d: Other, o: 'Windows XP', u: Maxthon, c: '' }
+'Other-Windows XP-Maxthon': { s: uc-u, d: Other, o: 'Windows XP', u: Maxthon, c: Desktop }
 'Samsung SM-G930P-Android-Chrome Mobile': { s: uc-u, d: 'Samsung SM-G930P', o: Android, u: 'Chrome Mobile', c: '' }
-'Other-Windows 7-Midori': { s: uc-u, d: Other, o: 'Windows 7', u: Midori, c: '' }
+'Other-Windows 7-Midori': { s: uc-u, d: Other, o: 'Windows 7', u: Midori, c: Desktop }
 iPad-iOS-Midori: { s: uc-u, d: iPad, o: iOS, u: Midori, c: tablet }
 Other-Other-curl: { s: uc-u, d: Other, o: Other, u: curl, c: '' }
 'Other-Debian-Debian APT-HTTP': { s: uc-u, d: Other, o: Debian, u: 'Debian APT-HTTP', c: '' }
@@ -16178,9 +16178,9 @@ Other-Other-urlgrabber: { s: uc-u, d: Other, o: Other, u: urlgrabber, c: '' }
 Other-Other-Wget: { s: uc-u, d: Other, o: Other, u: Wget, c: '' }
 Other-Windows-Windows-Update-Agent: { s: uc-u, d: Other, o: Windows, u: Windows-Update-Agent, c: '' }
 'XiaoMi MI NOTE Pro-Android-Baidu Browser': { s: uc-u, d: 'XiaoMi MI NOTE Pro', o: Android, u: 'Baidu Browser', c: '' }
-'Other-Windows 7-Dragon': { s: uc-u, d: Other, o: 'Windows 7', u: Dragon, c: '' }
+'Other-Windows 7-Dragon': { s: uc-u, d: Other, o: 'Windows 7', u: Dragon, c: Desktop }
 'Generic Smartphone-Windows CE-Minimo': { s: uc-u, d: 'Generic Smartphone', o: 'Windows CE', u: Minimo, c: mobile }
 'Other-Mac OS X-Opera Neon': { s: uc-u, d: Other, o: 'Mac OS X', u: 'Opera Neon', c: '' }
-'Other-Windows 8.1-Chrome': { s: uc-u, d: Other, o: 'Windows 8.1', u: Chrome, c: '' }
-'Other-Windows XP-Chrome': { s: uc-u, d: Other, o: 'Windows XP', u: Chrome, c: '' }
-'Other-Windows 10-Chrome': { s: uc-u, d: Other, o: 'Windows 10', u: Chrome, c: '' }
+'Other-Windows 8.1-Chrome': { s: uc-u, d: Other, o: 'Windows 8.1', u: Chrome, c: Desktop }
+'Other-Windows XP-Chrome': { s: uc-u, d: Other, o: 'Windows XP', u: Chrome, c: Desktop }
+'Other-Windows 10-Chrome': { s: uc-u, d: Other, o: 'Windows 10', u: Chrome, c: Desktop }
