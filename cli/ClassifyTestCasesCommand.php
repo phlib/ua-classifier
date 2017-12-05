@@ -104,7 +104,7 @@ class ClassifyTestCasesCommand extends Command
                 continue;
             }
             if (preg_match($regex, $testCase[$target])) {
-                $testCase['c'] = $this->classificationMap[$classification];
+                $testCase['c'] = lcfirst($this->classificationMap[$classification]);
                 $classifiedRecords++;
             }
             if (!$testCase['c']) {
