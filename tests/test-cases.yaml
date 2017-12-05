@@ -484,7 +484,7 @@ ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tab
 'Alcatel ELLE-N3-Other-Obigo': { s: uc-d, d: 'Alcatel ELLE-N3', o: Other, u: Obigo, c: '' }
 'Alcatel GLAMPHONE-ELLE-Other-Obigo': { s: uc-d, d: 'Alcatel GLAMPHONE-ELLE', o: Other, u: Obigo, c: '' }
 'Alcatel GLAMPHONE-ELLE-A-Other-Obigo': { s: uc-d, d: 'Alcatel GLAMPHONE-ELLE-A', o: Other, u: Obigo, c: '' }
-'Alcatel Lucent-Other-Connector Spider': { s: uc-d, d: 'Alcatel Lucent', o: Other, u: 'Connector Spider', c: '' }
+'Alcatel Lucent-Other-Connector Spider': { s: uc-d, d: 'Alcatel Lucent', o: Other, u: 'Connector Spider', c: Spider }
 'Alcatel M5-Other-Other': { s: uc-d, d: 'Alcatel M5', o: Other, u: Other, c: '' }
 'Alcatel MANDARINA-DUCK-Other-Other': { s: uc-d, d: 'Alcatel MANDARINA-DUCK', o: Other, u: Other, c: '' }
 'Alcatel Mandarina-Duck-Other-Other': { s: uc-d, d: 'Alcatel Mandarina-Duck', o: Other, u: Other, c: '' }
@@ -4272,7 +4272,7 @@ U9508-Android-Android: { s: uc-d, d: U9508, o: Android, u: Android, c: mobile }
 'Huawei M615-Other-Obigo': { s: uc-d, d: 'Huawei M615', o: Other, u: Obigo, c: mobile }
 'Huawei MediaPad-Android-Android': { s: uc-d, d: 'Huawei MediaPad', o: Android, u: Android, c: tablet }
 'Huawei P6-Android-Chrome Mobile': { s: uc-d, d: 'Huawei P6', o: Android, u: 'Chrome Mobile', c: mobile }
-'Huawei symantecspider-Other-Huaweisymantecspider': { s: uc-d, d: 'Huawei symantecspider', o: Other, u: Huaweisymantecspider, c: '' }
+'Huawei symantecspider-Other-Huaweisymantecspider': { s: uc-d, d: 'Huawei symantecspider', o: Other, u: Huaweisymantecspider, c: Spider }
 'Huawei T7200-Other-Obigo': { s: uc-d, d: 'Huawei T7200', o: Other, u: Obigo, c: mobile }
 'Huawei T8100-Android-Other': { s: uc-d, d: 'Huawei T8100', o: Android, u: Other, c: mobile }
 'Huawei T8301-Android-Other': { s: uc-d, d: 'Huawei T8301', o: Android, u: Other, c: mobile }
@@ -15544,7 +15544,7 @@ Spider-Other-Hailoobot: { s: uc-u, d: Spider, o: Other, u: Hailoobot, c: spider 
 Spider-Other-HiveCrawler: { s: uc-u, d: Spider, o: Other, u: HiveCrawler, c: spider }
 'Spider-Other-Host-Spy Crawler': { s: uc-u, d: Spider, o: Other, u: 'Host-Spy Crawler', c: spider }
 Spider-Other-HttpSpider: { s: uc-u, d: Spider, o: Other, u: HttpSpider, c: spider }
-'Huawei SymantecSpider-Windows XP-HuaweiSymantecSpider': { s: uc-u, d: 'Huawei SymantecSpider', o: 'Windows XP', u: HuaweiSymantecSpider, c: '' }
+'Huawei SymantecSpider-Windows XP-HuaweiSymantecSpider': { s: uc-u, d: 'Huawei SymantecSpider', o: 'Windows XP', u: HuaweiSymantecSpider, c: Spider }
 Spider-Other-IRLbot: { s: uc-u, d: Spider, o: Other, u: IRLbot, c: spider }
 'Spider-Other-Iplexx Spider': { s: uc-u, d: Spider, o: Other, u: 'Iplexx Spider', c: spider }
 Spider-Other-Jambot: { s: uc-u, d: Spider, o: Other, u: Jambot, c: spider }
@@ -15782,7 +15782,7 @@ Spider-Other-GSiteCrawler: { s: uc-u, d: Spider, o: Other, u: GSiteCrawler, c: s
 'Spider-Other-Gnam Spider': { s: uc-u, d: Spider, o: Other, u: 'Gnam Spider', c: spider }
 Spider-Other-GoScraper: { s: uc-u, d: Spider, o: Other, u: GoScraper, c: spider }
 'Spider-Other-GrowerIdeas Crawler': { s: uc-u, d: Spider, o: Other, u: 'GrowerIdeas Crawler', c: spider }
-'Huawei symantecspider-Windows XP-Huaweisymantecspider': { s: uc-u, d: 'Huawei symantecspider', o: 'Windows XP', u: Huaweisymantecspider, c: '' }
+'Huawei symantecspider-Windows XP-Huaweisymantecspider': { s: uc-u, d: 'Huawei symantecspider', o: 'Windows XP', u: Huaweisymantecspider, c: Spider }
 Spider-Other-ISSpider: { s: uc-u, d: Spider, o: Other, u: ISSpider, c: spider }
 'Spider-Other-IWE Spider': { s: uc-u, d: Spider, o: Other, u: 'IWE Spider', c: spider }
 'Spider-Other-IXE Crawler': { s: uc-u, d: Spider, o: Other, u: 'IXE Crawler', c: spider }
@@ -15976,8 +15976,8 @@ ONE-Android-Android: { s: uc-u, d: ONE, o: Android, u: Android, c: '' }
 'iPod-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPod, o: iOS, u: 'Mobile Safari UI/WKWebView', c: '' }
 'Nexus 5X-Android-Chrome Mobile': { s: uc-d, d: 'Nexus 5X', o: Android, u: 'Chrome Mobile', c: '' }
 'Generic Tablet-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Tablet', o: 'Firefox OS', u: 'Firefox Mobile', c: tablet }
-Spider-Other-NL-Crawler: { s: uc-d, d: Spider, o: Other, u: NL-Crawler, c: '' }
-Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: '' }
+Spider-Other-NL-Crawler: { s: uc-d, d: Spider, o: Other, u: NL-Crawler, c: Spider }
+Spider-Linux-PingdomBot: { s: uc-d, d: Spider, o: Linux, u: PingdomBot, c: Spider }
 'Other-Windows 8-Safari': { s: uc-d, d: Other, o: 'Windows 8', u: Safari, c: Desktop }
 'iPad-iOS-Mobile Safari UI/WKWebView': { s: uc-d, d: iPad, o: iOS, u: 'Mobile Safari UI/WKWebView', c: tablet }
 iPad-iOS-Facebook: { s: uc-d, d: iPad, o: iOS, u: Facebook, c: tablet }
@@ -16048,10 +16048,10 @@ LGL86C-Android-Firefox: { s: uc-d, d: LGL86C, o: Android, u: Firefox, c: '' }
 Roku-Roku-Roku: { s: uc-d, d: Roku, o: Roku, u: Roku, c: '' }
 'XiaoMi MI PAD-Android-Android': { s: uc-d, d: 'XiaoMi MI PAD', o: Android, u: Android, c: '' }
 'LG Web0S SmartTV-Web0S-Safari': { s: uc-d, d: 'LG Web0S SmartTV', o: Web0S, u: Safari, c: '' }
-'Spider-Windows 7-BingPreview': { s: uc-d, d: Spider, o: 'Windows 7', u: BingPreview, c: '' }
-'Spider-Windows Phone-BingPreview': { s: uc-d, d: Spider, o: 'Windows Phone', u: BingPreview, c: '' }
-Spider-Other-Slackbot-LinkExpanding: { s: uc-d, d: Spider, o: Other, u: Slackbot-LinkExpanding, c: '' }
-Spider-Other-Slack-ImgProxy: { s: uc-d, d: Spider, o: Other, u: Slack-ImgProxy, c: '' }
+'Spider-Windows 7-BingPreview': { s: uc-d, d: Spider, o: 'Windows 7', u: BingPreview, c: Spider }
+'Spider-Windows Phone-BingPreview': { s: uc-d, d: Spider, o: 'Windows Phone', u: BingPreview, c: Spider }
+Spider-Other-Slackbot-LinkExpanding: { s: uc-d, d: Spider, o: Other, u: Slackbot-LinkExpanding, c: Spider }
+Spider-Other-Slack-ImgProxy: { s: uc-d, d: Spider, o: Other, u: Slack-ImgProxy, c: Spider }
 'Samsung SMART-TV-Tizen-Samsung Internet': { s: uc-d, d: 'Samsung SMART-TV', o: Tizen, u: 'Samsung Internet', c: '' }
 'Huawei ATH-AL00-Android-Chrome Mobile': { s: uc-d, d: 'Huawei ATH-AL00', o: Android, u: 'Chrome Mobile', c: '' }
 'ONEPLUS A3010-Android-Chrome Mobile': { s: uc-d, d: 'ONEPLUS A3010', o: Android, u: 'Chrome Mobile', c: '' }
@@ -16080,7 +16080,7 @@ Other-Windows-Other: { s: uc-o, d: Other, o: Windows, u: Other, c: '' }
 'Other-Windows 7-Chrome': { s: uc-u, d: Other, o: 'Windows 7', u: Chrome, c: Desktop }
 'Spider-Windows 7-Catchpoint bot': { s: uc-u, d: Spider, o: 'Windows 7', u: 'Catchpoint bot', c: Desktop }
 Other-Other-GmailImageProxy: { s: uc-u, d: Other, o: Other, u: GmailImageProxy, c: '' }
-Spider-Other-TwitterBot: { s: uc-u, d: Spider, o: Other, u: TwitterBot, c: '' }
+Spider-Other-TwitterBot: { s: uc-u, d: Spider, o: Other, u: TwitterBot, c: Spider }
 'Generic Feature Phone-Other-Opera Mini': { s: uc-u, d: 'Generic Feature Phone', o: Other, u: 'Opera Mini', c: '' }
 'BlackBerry 9700-BlackBerry OS-Opera Mini': { s: uc-u, d: 'BlackBerry 9700', o: 'BlackBerry OS', u: 'Opera Mini', c: '' }
 'Generic Smartphone-Android-Opera Mini': { s: uc-u, d: 'Generic Smartphone', o: Android, u: 'Opera Mini', c: mobile }
@@ -16100,9 +16100,9 @@ iPhone-iOS-CFNetwork: { s: uc-u, d: iPhone, o: iOS, u: CFNetwork, c: mobile }
 'Samsung SM-T800-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-T800', o: Android, u: 'Samsung Internet', c: '' }
 'Samsung SM-G920F-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-G920F', o: Android, u: 'Samsung Internet', c: '' }
 'Samsung SM-T710-Android-Samsung Internet': { s: uc-u, d: 'Samsung SM-T710', o: Android, u: 'Samsung Internet', c: '' }
-Spider-Other-123metaspider-Bot: { s: uc-u, d: Spider, o: Other, u: 123metaspider-Bot, c: '' }
-'Spider-Other-com WebBot': { s: uc-u, d: Spider, o: Other, u: 'com WebBot', c: '' }
-'Spider-Other-SiteCat Webbot': { s: uc-u, d: Spider, o: Other, u: 'SiteCat Webbot', c: '' }
+Spider-Other-123metaspider-Bot: { s: uc-u, d: Spider, o: Other, u: 123metaspider-Bot, c: Spider }
+'Spider-Other-com WebBot': { s: uc-u, d: Spider, o: Other, u: 'com WebBot', c: Spider }
+'Spider-Other-SiteCat Webbot': { s: uc-u, d: Spider, o: Other, u: 'SiteCat Webbot', c: Spider }
 Other-Linux-SiteCon: { s: uc-u, d: Other, o: Linux, u: SiteCon, c: '' }
 'iPhone-iOS-Firefox iOS': { s: uc-u, d: iPhone, o: iOS, u: 'Firefox iOS', c: mobile }
 'iPad-iOS-Firefox iOS': { s: uc-u, d: iPad, o: iOS, u: 'Firefox iOS', c: tablet }
@@ -16121,9 +16121,9 @@ A3-A11-Android-Pinterest: { s: uc-u, d: A3-A11, o: Android, u: Pinterest, c: '' 
 'Generic Tablet-Android-Pinterest': { s: uc-u, d: 'Generic Tablet', o: Android, u: Pinterest, c: tablet }
 'Generic Smartphone-Android-Pinterest': { s: uc-u, d: 'Generic Smartphone', o: Android, u: Pinterest, c: mobile }
 Other-Other-Pinterest: { s: uc-u, d: Other, o: Other, u: Pinterest, c: '' }
-Spider-Other-com/bot: { s: uc-u, d: Spider, o: Other, u: com/bot, c: '' }
-Spider-Other-Pinterestbot: { s: uc-u, d: Spider, o: Other, u: Pinterestbot, c: '' }
-Spider-Android-Pinterestbot: { s: uc-u, d: Spider, o: Android, u: Pinterestbot, c: '' }
+Spider-Other-com/bot: { s: uc-u, d: Spider, o: Other, u: com/bot, c: Spider }
+Spider-Other-Pinterestbot: { s: uc-u, d: Spider, o: Other, u: Pinterestbot, c: Spider }
+Spider-Android-Pinterestbot: { s: uc-u, d: Spider, o: Android, u: Pinterestbot, c: Spider }
 Other-Linux-qutebrowser: { s: uc-u, d: Other, o: Linux, u: qutebrowser, c: '' }
 'Other-Mac OS X-QupZilla': { s: uc-u, d: Other, o: 'Mac OS X', u: QupZilla, c: '' }
 Other-Other-QupZilla: { s: uc-u, d: Other, o: Other, u: QupZilla, c: '' }
