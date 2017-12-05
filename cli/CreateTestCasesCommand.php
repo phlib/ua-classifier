@@ -41,7 +41,7 @@ class CreateTestCasesCommand extends Command
     protected function configure(): void
     {
         $this->setName('create-test-cases')
-             ->setDescription('Create the test case file `tests/test-cases.yaml`');
+             ->setDescription('Create test-case data for unit tests: `tests/test-cases.yaml`');
     }
 
     /**
@@ -65,7 +65,9 @@ class CreateTestCasesCommand extends Command
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
-        $io->text('<info>Parsed ' . count($this->testCaseData) . ' records</info>');
+
+        $totalRecords = count($this->testCaseData);
+        $io->text("<info>Parsed {$totalRecords} records</info>");
 
         $io->title('Fetching New Test Cases');
 
@@ -75,8 +77,7 @@ class CreateTestCasesCommand extends Command
         }
 
         if ($addedRecords > 0) {
-            $totalRecords = count($this->testCaseData);
-            $writeFile = $io->confirm("Ready to write {$addedRecords} new records, totalling {$totalRecords}?", true);
+            $writeFile = $io->confirm("Write {$addedRecords} new records, totalling {$totalRecords}?", true);
             if ($writeFile) {
                 $filesize = round(memory_get_usage() / 1024);
                 $io->text('Writing file...');

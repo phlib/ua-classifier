@@ -14,12 +14,31 @@ class ClassifyTestCasesCommand extends Command
     protected $testCaseData = [];
 
     /**
+     * @var array $classificationMap
+     */
+    protected $classificationMap = [
+        'm' => 'Mobile',
+        't' => 'Tablet',
+        'd' => 'Desktop',
+        's' => 'Spider'
+    ];
+
+    /**
+     * @var array $targetMap
+     */
+    protected $targetMap = [
+        'u' => 'User Agent',
+        'o' => 'Operating System',
+        'd' => 'Device'
+    ];
+
+    /**
      * @inheritdoc
      */
     protected function configure(): void
     {
         $this->setName('classify-test-cases')
-             ->setDescription('Add device classification to the test case file `tests/test-cases.yaml`');
+             ->setDescription('Update test-case data with prompted device classification');
     }
 
     /**
@@ -30,23 +49,20 @@ class ClassifyTestCasesCommand extends Command
         $io = new SymfonyStyle($input, $output);
         $io->title('Classification Configuration');
 
-        $classification = $io->choice('Select the classification to grant', ['Mobile', 'Tablet', 'Computer', 'Spider']);
-        $target = $io->choice('Select what to classify by', ['User Agent', 'Operating System', 'Device']);
-        $regex = $io->ask("Specify a regex to classify {$target}s with the {$classification} classification", null, function($value) {
+        $classification = $io->choice('Select classification to grant', $this->classificationMap);
+
+        $target = $io->choice('Apply classification by', $this->targetMap);
+
+        $regex = $io->ask("Specify regex to classify records by", null, function($value) {
             if (!preg_match('/^\/[\s\S]+\/$/', $value)) {
                 throw new \RuntimeException('Please enter a valid regex.');
             }
             return $value;
         });
-        $overwrite = $io->confirm('Overwrite existing classifications?', false);
 
-        $overwriteMessage = $overwrite ? '(overwriting)' : '(non-overwriting)';
-        $continue = $io->confirm("Classify all {$overwriteMessage} {$target}s that match {$regex} with the {$classification} classification?");
-        if ($continue) {
-            $this->classify($classification, $target, $regex, $overwrite, $io);
-        } else {
-            $io->warning('Classification aborted');
-        }
+        $overwrite = $io->confirm('Overwrite existing classifications', false);
+
+        $this->classify($classification, $target, $regex, $overwrite, $io);
     }
 
     /**
@@ -71,36 +87,33 @@ class ClassifyTestCasesCommand extends Command
             throw new \RuntimeException("Output file is not readable: {$outputFile}");
         }
 
-        $io->title('Loading Existing Test Cases');
+        $io->title('Classifying Test Cases');
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
+
         $totalRecords = count($this->testCaseData);
-        $io->text('<info>Parsed ' . count($this->testCaseData) . ' records</info>');
+        $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->title('Classifying Test Cases');
-
-        $io->text("Classifying <comment>${totalRecords}</comment> records which <comment>{$target}</comment> matches <comment>{$regex}</comment>...");
+        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> which <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
 
         $classifiedRecords = 0;
         $unclassifiedRecords = 0;
         foreach ($this->testCaseData as $key => &$testCase) {
+            if (!empty($testCase['c']) && $overwrite === false) {
+                continue;
+            }
+            if (preg_match($regex, $testCase[$target])) {
+                $testCase['c'] = $this->classificationMap[$classification];
+                $classifiedRecords++;
+            }
             if (!$testCase['c']) {
                 $unclassifiedRecords++;
             }
-            if ($testCase['c'] && !$overwrite) {
-                continue;
-            }
-            $target = lcfirst(substr($target, 0, 1));
-            if (!preg_match($regex, $testCase[$target])) {
-                continue;
-            }
-            $testCase['c'] = lcfirst($classification);
-            $classifiedRecords++;
         }
 
         if ($classifiedRecords > 0) {
-            $writeFile = $io->confirm("Ready to modify {$classifiedRecords} records, totalling {$totalRecords}? ({$unclassifiedRecords} unclassified records remaining)", true);
+            $writeFile = $io->confirm("Classify {$classifiedRecords} of {$totalRecords} records? ({$unclassifiedRecords} unclassified records remaining)", true);
             if ($writeFile) {
                 $filesize = round(memory_get_usage() / 1024);
                 $io->text('Writing file...');
@@ -110,7 +123,7 @@ class ClassifyTestCasesCommand extends Command
                 $io->warning('Writing of test-case file aborted');
             }
         } else {
-            $io->success('No records to be classified');
+            $io->success('No matching records to be classified');
         }
     }
 }
