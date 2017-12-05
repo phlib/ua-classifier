@@ -1475,25 +1475,25 @@ TPC10101-Android-Android: { s: uc-d, d: TPC10101, o: Android, u: Android, c: '' 
 'TPC7102-Android-Opera Mobile': { s: uc-d, d: TPC7102, o: Android, u: 'Opera Mobile', c: '' }
 TPC8101-Android-Android: { s: uc-d, d: TPC8101, o: Android, u: Android, c: '' }
 TPC97113-Android-Android: { s: uc-d, d: TPC97113, o: Android, u: Android, c: '' }
-'Cloudfone Excite 320e-Android-Android': { s: uc-d, d: 'Cloudfone Excite 320e', o: Android, u: Android, c: '' }
-'Cloudfone Excite 320g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 320g', o: Android, u: Android, c: '' }
-'Cloudfone Excite 350e-Android-Android': { s: uc-d, d: 'Cloudfone Excite 350e', o: Android, u: Android, c: '' }
-'Cloudfone Excite 350g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 350g', o: Android, u: Android, c: '' }
-'Cloudfone Excite 352g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 352g', o: Android, u: Android, c: '' }
-'Cloudfone ICE 350e-Android-Opera Mobile': { s: uc-d, d: 'Cloudfone ICE 350e', o: Android, u: 'Opera Mobile', c: '' }
-'Cloudfone ICE 401e-Android-Android': { s: uc-d, d: 'Cloudfone ICE 401e', o: Android, u: Android, c: '' }
-'Cloudfone Excite 350g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 350g', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone Excite 350i-Android-Opera Mobile': { s: uc-d, d: 'Cloudfone Excite 350i', o: Android, u: 'Opera Mobile', c: '' }
-'Cloudfone Excite 400d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 400d', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone Excite 402d-Android-Android': { s: uc-d, d: 'Cloudfone Excite 402d', o: Android, u: Android, c: '' }
-'Cloudfone Excite 500d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 500d', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone ICE 2Gs-Android-Android': { s: uc-d, d: 'Cloudfone ICE 2Gs', o: Android, u: Android, c: '' }
-'Cloudfone Thrill 400g-Android-Android': { s: uc-d, d: 'Cloudfone Thrill 400g', o: Android, u: Android, c: '' }
-'Cloudfone Thrill 430d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 430d', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone Thrill 430g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 430g', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone Thrill 500g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 500g', o: Android, u: 'Chrome Mobile', c: '' }
-'Cloudfone Thrill_430d-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430d', o: Android, u: 'UC Browser', c: '' }
-'Cloudfone Thrill_430g-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430g', o: Android, u: 'UC Browser', c: '' }
+'Cloudfone Excite 320e-Android-Android': { s: uc-d, d: 'Cloudfone Excite 320e', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 320g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 320g', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 350e-Android-Android': { s: uc-d, d: 'Cloudfone Excite 350e', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 350g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 350g', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 352g-Android-Android': { s: uc-d, d: 'Cloudfone Excite 352g', o: Android, u: Android, c: mobile }
+'Cloudfone ICE 350e-Android-Opera Mobile': { s: uc-d, d: 'Cloudfone ICE 350e', o: Android, u: 'Opera Mobile', c: mobile }
+'Cloudfone ICE 401e-Android-Android': { s: uc-d, d: 'Cloudfone ICE 401e', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 350g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 350g', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone Excite 350i-Android-Opera Mobile': { s: uc-d, d: 'Cloudfone Excite 350i', o: Android, u: 'Opera Mobile', c: mobile }
+'Cloudfone Excite 400d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 400d', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone Excite 402d-Android-Android': { s: uc-d, d: 'Cloudfone Excite 402d', o: Android, u: Android, c: mobile }
+'Cloudfone Excite 500d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Excite 500d', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone ICE 2Gs-Android-Android': { s: uc-d, d: 'Cloudfone ICE 2Gs', o: Android, u: Android, c: mobile }
+'Cloudfone Thrill 400g-Android-Android': { s: uc-d, d: 'Cloudfone Thrill 400g', o: Android, u: Android, c: mobile }
+'Cloudfone Thrill 430d-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 430d', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone Thrill 430g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 430g', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone Thrill 500g-Android-Chrome Mobile': { s: uc-d, d: 'Cloudfone Thrill 500g', o: Android, u: 'Chrome Mobile', c: mobile }
+'Cloudfone Thrill_430d-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430d', o: Android, u: 'UC Browser', c: mobile }
+'Cloudfone Thrill_430g-Android-UC Browser': { s: uc-d, d: 'Cloudfone Thrill_430g', o: Android, u: 'UC Browser', c: mobile }
 'CloudPad 700d-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700d', o: Android, u: 'Chrome Mobile', c: '' }
 'CloudPad 700w-Android-Chrome Mobile': { s: uc-d, d: 'CloudPad 700w', o: Android, u: 'Chrome Mobile', c: '' }
 'CloudPad 701tv-Android-Android': { s: uc-d, d: 'CloudPad 701tv', o: Android, u: Android, c: '' }
