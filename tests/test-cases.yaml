@@ -665,54 +665,54 @@ Jem-Android-Chrome: { s: uc-d, d: Jem, o: Android, u: Chrome, c: '' }
 'Kindle Fire HD-Android-Chrome': { s: uc-d, d: 'Kindle Fire HD', o: Android, u: Chrome, c: tablet }
 Otter-Android-Chrome: { s: uc-d, d: Otter, o: Android, u: Chrome, c: '' }
 Tate-Android-Chrome: { s: uc-d, d: Tate, o: Android, u: Chrome, c: '' }
-'Amoi A920W-Android-UC Browser': { s: uc-d, d: 'Amoi A920W', o: Android, u: 'UC Browser', c: '' }
-'Amoi E800C-Android-Android': { s: uc-d, d: 'Amoi E800C', o: Android, u: Android, c: '' }
-'Amoi M8228-Android-Chrome Mobile': { s: uc-d, d: 'Amoi M8228', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi N808-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N808', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi N820-Android-Android': { s: uc-d, d: 'Amoi N820', o: Android, u: Android, c: '' }
-'Amoi N821-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N821', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi N828-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N828', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi N828 - Port to THL W100-Android-Android': { s: uc-d, d: 'Amoi N828 - Port to THL W100', o: Android, u: Android, c: '' }
-'Amoi N850-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N850', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi N89-Android-UC Browser': { s: uc-d, d: 'Amoi N89', o: Android, u: 'UC Browser', c: '' }
-'Amoi N890-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N890', o: Android, u: 'Chrome Mobile', c: '' }
-'Amoi M8228-Android-Android': { s: uc-d, d: 'Amoi M8228', o: Android, u: Android, c: '' }
-'Amoi N808-Android-Android': { s: uc-d, d: 'Amoi N808', o: Android, u: Android, c: '' }
-'Amoi N816-Android-Android': { s: uc-d, d: 'Amoi N816', o: Android, u: Android, c: '' }
-'Amoi N821-Android-Android': { s: uc-d, d: 'Amoi N821', o: Android, u: Android, c: '' }
-'Amoi 8512-Other-Other': { s: uc-d, d: 'Amoi 8512', o: Other, u: Other, c: '' }
-'Amoi A310-Other-Other': { s: uc-d, d: 'Amoi A310', o: Other, u: Other, c: '' }
-'Amoi A320-Other-UP.Browser': { s: uc-d, d: 'Amoi A320', o: Other, u: UP.Browser, c: '' }
-'Amoi A500-Other-Other': { s: uc-d, d: 'Amoi A500', o: Other, u: Other, c: '' }
-'Amoi A660-Other-UP.Browser': { s: uc-d, d: 'Amoi A660', o: Other, u: UP.Browser, c: '' }
-'Amoi A865-Other-UP.Browser': { s: uc-d, d: 'Amoi A865', o: Other, u: UP.Browser, c: '' }
-'Amoi A869-Other-Other': { s: uc-d, d: 'Amoi A869', o: Other, u: Other, c: '' }
-'Amoi CA6-Other-Other': { s: uc-d, d: 'Amoi CA6', o: Other, u: Other, c: '' }
-'Amoi CA8-Other-UP.Browser': { s: uc-d, d: 'Amoi CA8', o: Other, u: UP.Browser, c: '' }
-'Amoi CS6-Other-Other': { s: uc-d, d: 'Amoi CS6', o: Other, u: Other, c: '' }
-'Amoi D80-Other-UP.Browser': { s: uc-d, d: 'Amoi D80', o: Other, u: UP.Browser, c: '' }
-'Amoi D85-Other-Other': { s: uc-d, d: 'Amoi D85', o: Other, u: Other, c: '' }
-'Amoi DF9-Other-UP.Browser': { s: uc-d, d: 'Amoi DF9', o: Other, u: UP.Browser, c: '' }
-'Amoi DV6-Other-UP.Browser': { s: uc-d, d: 'Amoi DV6', o: Other, u: UP.Browser, c: '' }
-'Amoi E5-Other-Other': { s: uc-d, d: 'Amoi E5', o: Other, u: Other, c: '' }
-'Amoi E50-Other-Other': { s: uc-d, d: 'Amoi E50', o: Other, u: Other, c: '' }
-'Amoi E72-Windows CE-UC Browser': { s: uc-d, d: 'Amoi E72', o: 'Windows CE', u: 'UC Browser', c: '' }
-'Amoi F60-Other-UP.Browser': { s: uc-d, d: 'Amoi F60', o: Other, u: UP.Browser, c: '' }
-'Amoi F620-Other-UP.Browser': { s: uc-d, d: 'Amoi F620', o: Other, u: UP.Browser, c: '' }
-'Amoi F8-Other-Other': { s: uc-d, d: 'Amoi F8', o: Other, u: Other, c: '' }
-'Amoi F90-Other-UP.Browser': { s: uc-d, d: 'Amoi F90', o: Other, u: UP.Browser, c: '' }
-'Amoi H9-Other-Other': { s: uc-d, d: 'Amoi H9', o: Other, u: Other, c: '' }
-'Amoi M30-Other-Other': { s: uc-d, d: 'Amoi M30', o: Other, u: Other, c: '' }
-'Amoi M350-Other-UP.Browser': { s: uc-d, d: 'Amoi M350', o: Other, u: UP.Browser, c: '' }
-'Amoi M515-Other-Other': { s: uc-d, d: 'Amoi M515', o: Other, u: Other, c: '' }
-'Amoi M6-Other-Other': { s: uc-d, d: 'Amoi M6', o: Other, u: Other, c: '' }
-'Amoi M630-Other-Other': { s: uc-d, d: 'Amoi M630', o: Other, u: Other, c: '' }
-'Amoi M636-Other-Other': { s: uc-d, d: 'Amoi M636', o: Other, u: Other, c: '' }
-'Amoi M8-Other-Other': { s: uc-d, d: 'Amoi M8', o: Other, u: Other, c: '' }
-'Amoi N810-Other-Other': { s: uc-d, d: 'Amoi N810', o: Other, u: Other, c: '' }
-'Amoi S6-Other-UP.Browser': { s: uc-d, d: 'Amoi S6', o: Other, u: UP.Browser, c: '' }
-'Amoi V600-Other-Other': { s: uc-d, d: 'Amoi V600', o: Other, u: Other, c: '' }
-'Amoi V810-Other-NetFront': { s: uc-d, d: 'Amoi V810', o: Other, u: NetFront, c: '' }
+'Amoi A920W-Android-UC Browser': { s: uc-d, d: 'Amoi A920W', o: Android, u: 'UC Browser', c: mobile }
+'Amoi E800C-Android-Android': { s: uc-d, d: 'Amoi E800C', o: Android, u: Android, c: mobile }
+'Amoi M8228-Android-Chrome Mobile': { s: uc-d, d: 'Amoi M8228', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi N808-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N808', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi N820-Android-Android': { s: uc-d, d: 'Amoi N820', o: Android, u: Android, c: mobile }
+'Amoi N821-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N821', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi N828-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N828', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi N828 - Port to THL W100-Android-Android': { s: uc-d, d: 'Amoi N828 - Port to THL W100', o: Android, u: Android, c: mobile }
+'Amoi N850-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N850', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi N89-Android-UC Browser': { s: uc-d, d: 'Amoi N89', o: Android, u: 'UC Browser', c: mobile }
+'Amoi N890-Android-Chrome Mobile': { s: uc-d, d: 'Amoi N890', o: Android, u: 'Chrome Mobile', c: mobile }
+'Amoi M8228-Android-Android': { s: uc-d, d: 'Amoi M8228', o: Android, u: Android, c: mobile }
+'Amoi N808-Android-Android': { s: uc-d, d: 'Amoi N808', o: Android, u: Android, c: mobile }
+'Amoi N816-Android-Android': { s: uc-d, d: 'Amoi N816', o: Android, u: Android, c: mobile }
+'Amoi N821-Android-Android': { s: uc-d, d: 'Amoi N821', o: Android, u: Android, c: mobile }
+'Amoi 8512-Other-Other': { s: uc-d, d: 'Amoi 8512', o: Other, u: Other, c: mobile }
+'Amoi A310-Other-Other': { s: uc-d, d: 'Amoi A310', o: Other, u: Other, c: mobile }
+'Amoi A320-Other-UP.Browser': { s: uc-d, d: 'Amoi A320', o: Other, u: UP.Browser, c: mobile }
+'Amoi A500-Other-Other': { s: uc-d, d: 'Amoi A500', o: Other, u: Other, c: mobile }
+'Amoi A660-Other-UP.Browser': { s: uc-d, d: 'Amoi A660', o: Other, u: UP.Browser, c: mobile }
+'Amoi A865-Other-UP.Browser': { s: uc-d, d: 'Amoi A865', o: Other, u: UP.Browser, c: mobile }
+'Amoi A869-Other-Other': { s: uc-d, d: 'Amoi A869', o: Other, u: Other, c: mobile }
+'Amoi CA6-Other-Other': { s: uc-d, d: 'Amoi CA6', o: Other, u: Other, c: mobile }
+'Amoi CA8-Other-UP.Browser': { s: uc-d, d: 'Amoi CA8', o: Other, u: UP.Browser, c: mobile }
+'Amoi CS6-Other-Other': { s: uc-d, d: 'Amoi CS6', o: Other, u: Other, c: mobile }
+'Amoi D80-Other-UP.Browser': { s: uc-d, d: 'Amoi D80', o: Other, u: UP.Browser, c: mobile }
+'Amoi D85-Other-Other': { s: uc-d, d: 'Amoi D85', o: Other, u: Other, c: mobile }
+'Amoi DF9-Other-UP.Browser': { s: uc-d, d: 'Amoi DF9', o: Other, u: UP.Browser, c: mobile }
+'Amoi DV6-Other-UP.Browser': { s: uc-d, d: 'Amoi DV6', o: Other, u: UP.Browser, c: mobile }
+'Amoi E5-Other-Other': { s: uc-d, d: 'Amoi E5', o: Other, u: Other, c: mobile }
+'Amoi E50-Other-Other': { s: uc-d, d: 'Amoi E50', o: Other, u: Other, c: mobile }
+'Amoi E72-Windows CE-UC Browser': { s: uc-d, d: 'Amoi E72', o: 'Windows CE', u: 'UC Browser', c: mobile }
+'Amoi F60-Other-UP.Browser': { s: uc-d, d: 'Amoi F60', o: Other, u: UP.Browser, c: mobile }
+'Amoi F620-Other-UP.Browser': { s: uc-d, d: 'Amoi F620', o: Other, u: UP.Browser, c: mobile }
+'Amoi F8-Other-Other': { s: uc-d, d: 'Amoi F8', o: Other, u: Other, c: mobile }
+'Amoi F90-Other-UP.Browser': { s: uc-d, d: 'Amoi F90', o: Other, u: UP.Browser, c: mobile }
+'Amoi H9-Other-Other': { s: uc-d, d: 'Amoi H9', o: Other, u: Other, c: mobile }
+'Amoi M30-Other-Other': { s: uc-d, d: 'Amoi M30', o: Other, u: Other, c: mobile }
+'Amoi M350-Other-UP.Browser': { s: uc-d, d: 'Amoi M350', o: Other, u: UP.Browser, c: mobile }
+'Amoi M515-Other-Other': { s: uc-d, d: 'Amoi M515', o: Other, u: Other, c: mobile }
+'Amoi M6-Other-Other': { s: uc-d, d: 'Amoi M6', o: Other, u: Other, c: mobile }
+'Amoi M630-Other-Other': { s: uc-d, d: 'Amoi M630', o: Other, u: Other, c: mobile }
+'Amoi M636-Other-Other': { s: uc-d, d: 'Amoi M636', o: Other, u: Other, c: mobile }
+'Amoi M8-Other-Other': { s: uc-d, d: 'Amoi M8', o: Other, u: Other, c: mobile }
+'Amoi N810-Other-Other': { s: uc-d, d: 'Amoi N810', o: Other, u: Other, c: mobile }
+'Amoi S6-Other-UP.Browser': { s: uc-d, d: 'Amoi S6', o: Other, u: UP.Browser, c: mobile }
+'Amoi V600-Other-Other': { s: uc-d, d: 'Amoi V600', o: Other, u: Other, c: mobile }
+'Amoi V810-Other-NetFront': { s: uc-d, d: 'Amoi V810', o: Other, u: NetFront, c: mobile }
 'Android A5000-Android-Other': { s: uc-d, d: 'Android A5000', o: Android, u: Other, c: '' }
 'Android GT-I9500-Android-Other': { s: uc-d, d: 'Android GT-I9500', o: Android, u: Other, c: '' }
 MW0710-Android-Chrome: { s: uc-d, d: MW0710, o: Android, u: Chrome, c: '' }
