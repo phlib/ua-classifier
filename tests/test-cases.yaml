@@ -2334,27 +2334,27 @@ GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: des
 'GoClever HYBRID-Android-Android': { s: uc-d, d: 'GoClever HYBRID', o: Android, u: Android, c: '' }
 'GoClever NETBOOK I102-Android-Android': { s: uc-d, d: 'GoClever NETBOOK I102', o: Android, u: Android, c: '' }
 'GoClever NETBOOK R103-Android-Android': { s: uc-d, d: 'GoClever NETBOOK R103', o: Android, u: Android, c: '' }
-'GoClever TAB 9300-Android-Opera Mobile': { s: uc-d, d: 'GoClever TAB 9300', o: Android, u: 'Opera Mobile', c: '' }
-'GoClever TAB A101-Android-Android': { s: uc-d, d: 'GoClever TAB A101', o: Android, u: Android, c: '' }
-'GoClever TAB A103-Android-Chrome': { s: uc-d, d: 'GoClever TAB A103', o: Android, u: Chrome, c: '' }
-'GoClever TAB A104-Android-Chrome': { s: uc-d, d: 'GoClever TAB A104', o: Android, u: Chrome, c: '' }
-'GoClever TAB A104.2-Android-Chrome': { s: uc-d, d: 'GoClever TAB A104.2', o: Android, u: Chrome, c: '' }
-'GoClever TAB A73-Android-Chrome': { s: uc-d, d: 'GoClever TAB A73', o: Android, u: Chrome, c: '' }
-'GoClever TAB A93-Android-Android': { s: uc-d, d: 'GoClever TAB A93', o: Android, u: Android, c: '' }
-'GoClever TAB A93.2-Android-Chrome': { s: uc-d, d: 'GoClever TAB A93.2', o: Android, u: Chrome, c: '' }
-'GoClever TAB A971-Android-Chrome': { s: uc-d, d: 'GoClever TAB A971', o: Android, u: Chrome, c: '' }
-'GoClever TAB A972BK-Android-Chrome': { s: uc-d, d: 'GoClever TAB A972BK', o: Android, u: Chrome, c: '' }
-'GoClever TAB I71-Android-Android': { s: uc-d, d: 'GoClever TAB I71', o: Android, u: Android, c: '' }
-'GoClever TAB M703G-Android-Android': { s: uc-d, d: 'GoClever TAB M703G', o: Android, u: Android, c: '' }
-'GoClever TAB M713G-Android-Chrome': { s: uc-d, d: 'GoClever TAB M713G', o: Android, u: Chrome, c: '' }
-'GoClever TAB M723G-Android-Chrome': { s: uc-d, d: 'GoClever TAB M723G', o: Android, u: Chrome, c: '' }
-'GoClever TAB M813G-Android-Yandex Browser': { s: uc-d, d: 'GoClever TAB M813G', o: Android, u: 'Yandex Browser', c: '' }
-'GoClever TAB R104-Android-Android': { s: uc-d, d: 'GoClever TAB R104', o: Android, u: Android, c: '' }
-'GoClever TAB R106-Android-Android': { s: uc-d, d: 'GoClever TAB R106', o: Android, u: Android, c: '' }
-'GoClever TAB R70-Android-Opera': { s: uc-d, d: 'GoClever TAB R70', o: Android, u: Opera, c: '' }
-'GoClever TAB R76.1-Android-Android': { s: uc-d, d: 'GoClever TAB R76.1', o: Android, u: Android, c: '' }
-'GoClever TAB T75-Android-Chrome Mobile': { s: uc-d, d: 'GoClever TAB T75', o: Android, u: 'Chrome Mobile', c: '' }
-'GoClever TAB T76-Android-Chrome': { s: uc-d, d: 'GoClever TAB T76', o: Android, u: Chrome, c: '' }
+'GoClever TAB 9300-Android-Opera Mobile': { s: uc-d, d: 'GoClever TAB 9300', o: Android, u: 'Opera Mobile', c: Tablet }
+'GoClever TAB A101-Android-Android': { s: uc-d, d: 'GoClever TAB A101', o: Android, u: Android, c: Tablet }
+'GoClever TAB A103-Android-Chrome': { s: uc-d, d: 'GoClever TAB A103', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A104-Android-Chrome': { s: uc-d, d: 'GoClever TAB A104', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A104.2-Android-Chrome': { s: uc-d, d: 'GoClever TAB A104.2', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A73-Android-Chrome': { s: uc-d, d: 'GoClever TAB A73', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A93-Android-Android': { s: uc-d, d: 'GoClever TAB A93', o: Android, u: Android, c: Tablet }
+'GoClever TAB A93.2-Android-Chrome': { s: uc-d, d: 'GoClever TAB A93.2', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A971-Android-Chrome': { s: uc-d, d: 'GoClever TAB A971', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB A972BK-Android-Chrome': { s: uc-d, d: 'GoClever TAB A972BK', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB I71-Android-Android': { s: uc-d, d: 'GoClever TAB I71', o: Android, u: Android, c: Tablet }
+'GoClever TAB M703G-Android-Android': { s: uc-d, d: 'GoClever TAB M703G', o: Android, u: Android, c: Tablet }
+'GoClever TAB M713G-Android-Chrome': { s: uc-d, d: 'GoClever TAB M713G', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB M723G-Android-Chrome': { s: uc-d, d: 'GoClever TAB M723G', o: Android, u: Chrome, c: Tablet }
+'GoClever TAB M813G-Android-Yandex Browser': { s: uc-d, d: 'GoClever TAB M813G', o: Android, u: 'Yandex Browser', c: Tablet }
+'GoClever TAB R104-Android-Android': { s: uc-d, d: 'GoClever TAB R104', o: Android, u: Android, c: Tablet }
+'GoClever TAB R106-Android-Android': { s: uc-d, d: 'GoClever TAB R106', o: Android, u: Android, c: Tablet }
+'GoClever TAB R70-Android-Opera': { s: uc-d, d: 'GoClever TAB R70', o: Android, u: Opera, c: Tablet }
+'GoClever TAB R76.1-Android-Android': { s: uc-d, d: 'GoClever TAB R76.1', o: Android, u: Android, c: Tablet }
+'GoClever TAB T75-Android-Chrome Mobile': { s: uc-d, d: 'GoClever TAB T75', o: Android, u: 'Chrome Mobile', c: Tablet }
+'GoClever TAB T76-Android-Chrome': { s: uc-d, d: 'GoClever TAB T76', o: Android, u: Chrome, c: Tablet }
 'Glass 1-Android-Android': { s: uc-d, d: 'Glass 1', o: Android, u: Android, c: '' }
 'Haier HW-W718-Android-Android': { s: uc-d, d: 'Haier HW-W718', o: Android, u: Android, c: '' }
 'Haier HW-W910-Android-Chrome Mobile': { s: uc-d, d: 'Haier HW-W910', o: Android, u: 'Chrome Mobile', c: '' }
