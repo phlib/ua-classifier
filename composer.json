@@ -40,5 +40,8 @@
     },
     "suggest": {
         "ua-parser/uap-php": "ua-classifier is designed to extend the results provided by ua-parser"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit --colors=always"
     }
 }
