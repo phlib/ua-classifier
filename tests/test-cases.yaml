@@ -463,8 +463,8 @@ ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tab
 'Alcatel One Touch TAB 7HD-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch TAB 7HD', o: Android, u: Chrome, c: tablet }
 'Alcatel One Touch TAB 8HD-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch TAB 8HD', o: Android, u: Chrome, c: tablet }
 'Alcatel One Touch TAB_7HD-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch TAB_7HD', o: Android, u: 'UC Browser', c: tablet }
-'Alcatel Optimus_Madrid-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel Optimus_Madrid', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel Vodafone Smart II-Android-Android': { s: uc-d, d: 'Alcatel Vodafone Smart II', o: Android, u: Android, c: '' }
+'Alcatel Optimus_Madrid-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel Optimus_Madrid', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel Vodafone Smart II-Android-Android': { s: uc-d, d: 'Alcatel Vodafone Smart II', o: Android, u: Android, c: mobile }
 'Alcatel ONE TOUCH 5040X-Windows Phone-IE Mobile': { s: uc-d, d: 'Alcatel ONE TOUCH 5040X', o: 'Windows Phone', u: 'IE Mobile', c: mobile }
 'Alcatel One Touch 4012X-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Alcatel One Touch 4012X', o: 'Firefox OS', u: 'Firefox Mobile', c: mobile }
 'Alcatel BE3-Other-Other': { s: uc-d, d: 'Alcatel BE3', o: Other, u: Other, c: '' }
