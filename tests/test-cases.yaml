@@ -309,154 +309,154 @@ ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tab
 'Alcatel One Touch EVO7-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch EVO7', o: Android, u: Chrome, c: '' }
 'Alcatel One Touch T10-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch T10', o: Android, u: Chrome, c: '' }
 'Alcatel One Touch T20-Android-Android': { s: uc-d, d: 'Alcatel One Touch T20', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4007A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4007D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4007E-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007E', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4007X-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4007X', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 4010A-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4010A', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 4010D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4010D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4010X-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4010X', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 4011X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4011X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4015D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4015D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 4015X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4015X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4030A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4030D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 4030D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 4030E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030E', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4030X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4033A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4033D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4033E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033E', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 4033X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5020D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 5020E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020E', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020N-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020N', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020T-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020T', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020W', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5020X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020X_Orange', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5021E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5021E', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5035A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5035A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5035a-Android-Android': { s: uc-d, d: 'Alcatel One Touch 5035a', o: Android, u: Android, c: '' }
-'Alcatel One Touch 5035D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5035D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 5035E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5035E', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5035X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5035X', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 5036D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5036D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 5036X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5036X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6010D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6010D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6010X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6010X', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 6010X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6010X_Orange', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6012A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6012D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6012X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6030A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6030D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6030D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 6030N-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030N', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6030X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6030X', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 6030X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030X_Orange', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6032-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6032', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6033A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6033A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6033M-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6033M', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6033X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6033X', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 6034R-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6034R', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6036Y-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6036Y', o: Android, u: Android, c: '' }
-'Alcatel One Touch 6040A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6040D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6040E-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6040E', o: Android, u: Android, c: '' }
-'Alcatel One Touch 6040X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 6043D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6043D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 7024W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7024W', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7025D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7025D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7040D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7040D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7041D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7041D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7041X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7041X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7045X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7045X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 7047D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7047D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8000A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8000A', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8000D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8000D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8008D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8008W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008W', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8008X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008X', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8020D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8020D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 8020X-Android-Android': { s: uc-d, d: 'Alcatel One Touch 8020X', o: Android, u: Android, c: '' }
-'Alcatel One Touch 890-Android-Android': { s: uc-d, d: 'Alcatel One Touch 890', o: Android, u: Android, c: '' }
-'Alcatel One Touch 890D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 890D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 891-Android-Android': { s: uc-d, d: 'Alcatel One Touch 891', o: Android, u: Android, c: '' }
-'Alcatel One Touch 903-Android-Android': { s: uc-d, d: 'Alcatel One Touch 903', o: Android, u: Android, c: '' }
-'Alcatel One Touch 903A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 903A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 903D-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 903D', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 906-Android-Android': { s: uc-d, d: 'Alcatel One Touch 906', o: Android, u: Android, c: '' }
-'Alcatel One Touch 906Y-Android-Android': { s: uc-d, d: 'Alcatel One Touch 906Y', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908F-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908F Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F Orange', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908F_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F_Orange', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908M-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908M', o: Android, u: Android, c: '' }
-'Alcatel One Touch 908S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 909A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 909B-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909B', o: Android, u: Android, c: '' }
-'Alcatel One Touch 909S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 910-Android-Android': { s: uc-d, d: 'Alcatel One Touch 910', o: Android, u: Android, c: '' }
-'Alcatel One Touch 910A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 910A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 916-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916', o: Android, u: Android, c: '' }
-'Alcatel One Touch 916_Helsinki-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916_Helsinki', o: Android, u: Android, c: '' }
-'Alcatel One Touch 916_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916_Orange', o: Android, u: Android, c: '' }
-'Alcatel One Touch 916A-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 916A', o: Android, u: 'UC Browser', c: '' }
-'Alcatel One Touch 916D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918_Orange', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918M-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 918M', o: Android, u: 'UC Browser', c: '' }
-'Alcatel One Touch 918N-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918N', o: Android, u: Android, c: '' }
-'Alcatel One Touch 918S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 919-Android-Android': { s: uc-d, d: 'Alcatel One Touch 919', o: Android, u: Android, c: '' }
-'Alcatel One Touch 919 HelloKitty-Android-Android': { s: uc-d, d: 'Alcatel One Touch 919 HelloKitty', o: Android, u: Android, c: '' }
-'Alcatel One Touch 922-Android-Android': { s: uc-d, d: 'Alcatel One Touch 922', o: Android, u: Android, c: '' }
-'Alcatel One Touch 927-Android-Android': { s: uc-d, d: 'Alcatel One Touch 927', o: Android, u: Android, c: '' }
-'Alcatel One Touch 930D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 930D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 960C-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 960C', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 980-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 980', o: Android, u: 'UC Browser', c: '' }
-'Alcatel One Touch 980A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 980A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 981A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 981A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 983-Android-Android': { s: uc-d, d: 'Alcatel One Touch 983', o: Android, u: Android, c: '' }
-'Alcatel One Touch 983A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 983A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 985-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985', o: Android, u: Android, c: '' }
-'Alcatel One Touch 985A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 985D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 985N-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985N', o: Android, u: Android, c: '' }
-'Alcatel One Touch 986-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 986', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 986+-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 986+', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 988-Android-Android': { s: uc-d, d: 'Alcatel One Touch 988', o: Android, u: Android, c: '' }
-'Alcatel One Touch 990-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990', o: Android, u: Android, c: '' }
-'Alcatel One Touch 990A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 990M-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990M', o: Android, u: Android, c: '' }
-'Alcatel One Touch 990S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991_Orange', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991D', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991D_ALDE-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991D_ALDE', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 991T-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991T', o: Android, u: Android, c: '' }
-'Alcatel One Touch 992D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 992D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 993-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 993', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 993D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 993D', o: Android, u: Chrome, c: '' }
-'Alcatel One Touch 995-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 995', o: Android, u: 'Opera Mobile', c: '' }
-'Alcatel One Touch 995A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 995A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 995S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 995S', o: Android, u: Android, c: '' }
-'Alcatel One Touch 997-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 997A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 997A', o: Android, u: Android, c: '' }
-'Alcatel One Touch 997D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997D', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 997d-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997d', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch 998-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 998', o: Android, u: 'Chrome Mobile', c: '' }
+'Alcatel One Touch 4007A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 4007D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 4007E-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4007E', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 4007X-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4007X', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 4010A-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4010A', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 4010D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4010D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 4010X-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 4010X', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 4011X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4011X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4015D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 4015D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 4015X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4015X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4030A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4030D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 4030D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 4030E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030E', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4030X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4030X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4033A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4033D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4033E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033E', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 4033X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 4033X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5020D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 5020E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020E', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020N-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020N', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020T-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020T', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020W', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5020X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5020X_Orange', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5021E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5021E', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5035A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5035A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5035a-Android-Android': { s: uc-d, d: 'Alcatel One Touch 5035a', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 5035D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5035D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 5035E-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5035E', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5035X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 5035X', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 5036D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5036D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 5036X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 5036X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6010D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6010D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6010X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6010X', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 6010X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6010X_Orange', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6012A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6012D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6012X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6012X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6030A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6030D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6030D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 6030N-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030N', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6030X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6030X', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 6030X_Orange-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6030X_Orange', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6032-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6032', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6033A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6033A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6033M-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6033M', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6033X-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 6033X', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 6034R-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6034R', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6036Y-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6036Y', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 6040A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6040D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6040E-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6040E', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 6040X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 6040X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 6043D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 6043D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 7024W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7024W', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7025D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7025D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7040D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7040D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7041D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7041D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7041X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7041X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7045X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7045X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 7047D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 7047D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8000A-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8000A', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8000D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8000D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8008D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8008W-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008W', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8008X-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8008X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8020D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 8020D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 8020X-Android-Android': { s: uc-d, d: 'Alcatel One Touch 8020X', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 890-Android-Android': { s: uc-d, d: 'Alcatel One Touch 890', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 890D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 890D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 891-Android-Android': { s: uc-d, d: 'Alcatel One Touch 891', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 903-Android-Android': { s: uc-d, d: 'Alcatel One Touch 903', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 903A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 903A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 903D-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 903D', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 906-Android-Android': { s: uc-d, d: 'Alcatel One Touch 906', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 906Y-Android-Android': { s: uc-d, d: 'Alcatel One Touch 906Y', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908F-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908F Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F Orange', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908F_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908F_Orange', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908M-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908M', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 908S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 908S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 909A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 909B-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909B', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 909S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 909S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 910-Android-Android': { s: uc-d, d: 'Alcatel One Touch 910', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 910A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 910A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 916-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 916_Helsinki-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916_Helsinki', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 916_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916_Orange', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 916A-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 916A', o: Android, u: 'UC Browser', c: mobile }
+'Alcatel One Touch 916D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 916D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918_Orange', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918M-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 918M', o: Android, u: 'UC Browser', c: mobile }
+'Alcatel One Touch 918N-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918N', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 918S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 918S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 919-Android-Android': { s: uc-d, d: 'Alcatel One Touch 919', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 919 HelloKitty-Android-Android': { s: uc-d, d: 'Alcatel One Touch 919 HelloKitty', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 922-Android-Android': { s: uc-d, d: 'Alcatel One Touch 922', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 927-Android-Android': { s: uc-d, d: 'Alcatel One Touch 927', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 930D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 930D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 960C-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 960C', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 980-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch 980', o: Android, u: 'UC Browser', c: mobile }
+'Alcatel One Touch 980A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 980A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 981A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 981A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 983-Android-Android': { s: uc-d, d: 'Alcatel One Touch 983', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 983A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 983A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 985-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 985A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 985D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 985N-Android-Android': { s: uc-d, d: 'Alcatel One Touch 985N', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 986-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 986', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 986+-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 986+', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 988-Android-Android': { s: uc-d, d: 'Alcatel One Touch 988', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 990-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 990A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 990M-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990M', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 990S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 990S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991_Orange-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991_Orange', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991D-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991D', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991D_ALDE-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991D_ALDE', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 991T-Android-Android': { s: uc-d, d: 'Alcatel One Touch 991T', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 992D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 992D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 993-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 993', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 993D-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch 993D', o: Android, u: Chrome, c: mobile }
+'Alcatel One Touch 995-Android-Opera Mobile': { s: uc-d, d: 'Alcatel One Touch 995', o: Android, u: 'Opera Mobile', c: mobile }
+'Alcatel One Touch 995A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 995A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 995S-Android-Android': { s: uc-d, d: 'Alcatel One Touch 995S', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 997-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 997A-Android-Android': { s: uc-d, d: 'Alcatel One Touch 997A', o: Android, u: Android, c: mobile }
+'Alcatel One Touch 997D-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997D', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 997d-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 997d', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch 998-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch 998', o: Android, u: 'Chrome Mobile', c: mobile }
 'Alcatel One Touch EVO 7HD-Android-Android': { s: uc-d, d: 'Alcatel One Touch EVO 7HD', o: Android, u: Android, c: '' }
 'Alcatel One Touch EVO7HD-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch EVO7HD', o: Android, u: Chrome, c: '' }
 'Alcatel One Touch EVO8HD-Android-Android': { s: uc-d, d: 'Alcatel One Touch EVO8HD', o: Android, u: Android, c: '' }
-'Alcatel One Touch Fierce-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch Fierce', o: Android, u: 'Chrome Mobile', c: '' }
-'Alcatel One Touch IDOL MINI-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch IDOL MINI', o: Android, u: 'Chrome Mobile', c: '' }
+'Alcatel One Touch Fierce-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch Fierce', o: Android, u: 'Chrome Mobile', c: mobile }
+'Alcatel One Touch IDOL MINI-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel One Touch IDOL MINI', o: Android, u: 'Chrome Mobile', c: mobile }
 'Alcatel One Touch T10-Android-UC Browser': { s: uc-d, d: 'Alcatel One Touch T10', o: Android, u: 'UC Browser', c: '' }
 'Alcatel One Touch T60-Android-Android': { s: uc-d, d: 'Alcatel One Touch T60', o: Android, u: Android, c: '' }
 'Alcatel One Touch TAB 7-Android-Chrome': { s: uc-d, d: 'Alcatel One Touch TAB 7', o: Android, u: Chrome, c: '' }
@@ -466,7 +466,7 @@ ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tab
 'Alcatel Optimus_Madrid-Android-Chrome Mobile': { s: uc-d, d: 'Alcatel Optimus_Madrid', o: Android, u: 'Chrome Mobile', c: '' }
 'Alcatel Vodafone Smart II-Android-Android': { s: uc-d, d: 'Alcatel Vodafone Smart II', o: Android, u: Android, c: '' }
 'Alcatel ONE TOUCH 5040X-Windows Phone-IE Mobile': { s: uc-d, d: 'Alcatel ONE TOUCH 5040X', o: 'Windows Phone', u: 'IE Mobile', c: mobile }
-'Alcatel One Touch 4012X-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Alcatel One Touch 4012X', o: 'Firefox OS', u: 'Firefox Mobile', c: '' }
+'Alcatel One Touch 4012X-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Alcatel One Touch 4012X', o: 'Firefox OS', u: 'Firefox Mobile', c: mobile }
 'Alcatel BE3-Other-Other': { s: uc-d, d: 'Alcatel BE3', o: Other, u: Other, c: '' }
 'Alcatel BE4-Other-Other': { s: uc-d, d: 'Alcatel BE4', o: Other, u: Other, c: '' }
 'Alcatel BE5-Other-Other': { s: uc-d, d: 'Alcatel BE5', o: Other, u: Other, c: '' }
