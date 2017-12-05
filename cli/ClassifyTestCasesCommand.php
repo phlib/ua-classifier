@@ -30,7 +30,7 @@ class ClassifyTestCasesCommand extends Command
         $io = new SymfonyStyle($input, $output);
         $io->title('Classification Configuration');
 
-        $classification = $io->choice('Select the classification to give', ['Mobile', 'Tablet', 'Computer', 'Spider']);
+        $classification = $io->choice('Select the classification to grant', ['Mobile', 'Tablet', 'Computer', 'Spider']);
         $target = $io->choice('Select what to classify by', ['User Agent', 'Operating System', 'Device']);
         $regex = $io->ask("Specify a regex to classify {$target}s with the {$classification} classification", null, function($value) {
             if (!preg_match('/^\/[\s\S]+\/$/', $value)) {
@@ -50,10 +50,12 @@ class ClassifyTestCasesCommand extends Command
     }
 
     /**
-     * @param $classification
-     * @param $target
-     * @param $regex
-     * @param $overwrite
+     * Classify test-cases with the specified classification which target matches the regex.
+     *
+     * @param $classification string
+     * @param $target string
+     * @param $regex string
+     * @param $overwrite bool
      * @param $io SymfonyStyle
      */
     protected function classify($classification, $target, $regex, $overwrite, $io): void
