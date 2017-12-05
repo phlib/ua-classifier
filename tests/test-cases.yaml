@@ -14715,11 +14715,11 @@ WeTab-WeTab-WeTab: { s: uc-d, d: WeTab, o: WeTab, u: WeTab, c: tablet }
 'Xoro TelePAD1030-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1030', o: Android, u: Chrome, c: '' }
 'Xoro TelePAD1032-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1032', o: Android, u: Chrome, c: '' }
 'Xoro TelePAD731-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD731', o: Android, u: Chrome, c: '' }
-'Yarvik SMP35-100-Android-Android': { s: uc-d, d: 'Yarvik SMP35-100', o: Android, u: Android, c: '' }
-'Yarvik SMP35-200-Android-Android': { s: uc-d, d: 'Yarvik SMP35-200', o: Android, u: Android, c: '' }
-'Yarvik SMP45-210-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP45-210', o: Android, u: 'Chrome Mobile', c: '' }
-'Yarvik SMP50-200-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP50-200', o: Android, u: 'Chrome Mobile', c: '' }
-'Yarvik SMP53-210-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP53-210', o: Android, u: 'Chrome Mobile', c: '' }
+'Yarvik SMP35-100-Android-Android': { s: uc-d, d: 'Yarvik SMP35-100', o: Android, u: Android, c: mobile }
+'Yarvik SMP35-200-Android-Android': { s: uc-d, d: 'Yarvik SMP35-200', o: Android, u: Android, c: mobile }
+'Yarvik SMP45-210-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP45-210', o: Android, u: 'Chrome Mobile', c: mobile }
+'Yarvik SMP50-200-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP50-200', o: Android, u: 'Chrome Mobile', c: mobile }
+'Yarvik SMP53-210-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP53-210', o: Android, u: 'Chrome Mobile', c: mobile }
 'Yarvik TAB07-100-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik TAB07-100', o: Android, u: 'Chrome Mobile', c: tablet }
 'Yarvik TAB07-101-Android-Android': { s: uc-d, d: 'Yarvik TAB07-101', o: Android, u: Android, c: tablet }
 'Yarvik TAB07-200-Android-Android': { s: uc-d, d: 'Yarvik TAB07-200', o: Android, u: Android, c: tablet }
