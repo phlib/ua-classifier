@@ -8971,15 +8971,15 @@ NXM908HC-Android-Android: { s: uc-d, d: NXM908HC, o: Android, u: Android, c: '' 
 'Lumia 1320-Windows Phone-Other': { s: uc-d, d: 'Lumia 1320', o: 'Windows Phone', u: Other, c: mobile }
 'Lumia 1520-Windows Phone-Other': { s: uc-d, d: 'Lumia 1520', o: 'Windows Phone', u: Other, c: mobile }
 'Lumia 505-Windows-UC Browser': { s: uc-d, d: 'Lumia 505', o: Windows, u: 'UC Browser', c: mobile }
-'Lumia 510-Other-Other': { s: uc-d, d: 'Lumia 510', o: Other, u: Other, c: '' }
+'Lumia 510-Other-Other': { s: uc-d, d: 'Lumia 510', o: Other, u: Other, c: mobile }
 'Lumia 520-Windows Phone-Other': { s: uc-d, d: 'Lumia 520', o: 'Windows Phone', u: Other, c: mobile }
-'Lumia 610-Other-Other': { s: uc-d, d: 'Lumia 610', o: Other, u: Other, c: '' }
+'Lumia 610-Other-Other': { s: uc-d, d: 'Lumia 610', o: Other, u: Other, c: mobile }
 'Lumia 620-Windows Phone-Other': { s: uc-d, d: 'Lumia 620', o: 'Windows Phone', u: Other, c: mobile }
 'Lumia 625-Windows Phone-Other': { s: uc-d, d: 'Lumia 625', o: 'Windows Phone', u: Other, c: mobile }
-'Lumia 710-Other-Other': { s: uc-d, d: 'Lumia 710', o: Other, u: Other, c: '' }
+'Lumia 710-Other-Other': { s: uc-d, d: 'Lumia 710', o: Other, u: Other, c: mobile }
 'Lumia 720-Windows Phone-Other': { s: uc-d, d: 'Lumia 720', o: 'Windows Phone', u: Other, c: mobile }
 'Lumia 820-Windows Phone-Other': { s: uc-d, d: 'Lumia 820', o: 'Windows Phone', u: Other, c: mobile }
-'Lumia 900-Windows CE-Other': { s: uc-d, d: 'Lumia 900', o: 'Windows CE', u: Other, c: '' }
+'Lumia 900-Windows CE-Other': { s: uc-d, d: 'Lumia 900', o: 'Windows CE', u: Other, c: mobile }
 'Lumia 920-Windows Phone-Other': { s: uc-d, d: 'Lumia 920', o: 'Windows Phone', u: Other, c: mobile }
 'Lumia 925-Windows Phone-Other': { s: uc-d, d: 'Lumia 925', o: 'Windows Phone', u: Other, c: mobile }
 'Nokia 500-Symbian^3-Safari': { s: uc-d, d: 'Nokia 500', o: Symbian^3, u: Safari, c: mobile }
@@ -16131,7 +16131,7 @@ Other-BSD-QupZilla: { s: uc-u, d: Other, o: BSD, u: QupZilla, c: '' }
 Other-Linux-QupZilla: { s: uc-u, d: Other, o: Linux, u: QupZilla, c: '' }
 'Other-Windows 7-Otter': { s: uc-u, d: Other, o: 'Windows 7', u: Otter, c: '' }
 Other-Linux-Otter: { s: uc-u, d: Other, o: Linux, u: Otter, c: '' }
-'Lumia 930-Windows Phone-Edge Mobile': { s: uc-u, d: 'Lumia 930', o: 'Windows Phone', u: 'Edge Mobile', c: '' }
+'Lumia 930-Windows Phone-Edge Mobile': { s: uc-u, d: 'Lumia 930', o: 'Windows Phone', u: 'Edge Mobile', c: mobile }
 'Other-Mac OS X-Brave': { s: uc-u, d: Other, o: 'Mac OS X', u: Brave, c: '' }
 'Other-Windows 10-Brave': { s: uc-u, d: Other, o: 'Windows 10', u: Brave, c: '' }
 'Other-Windows 8.1-Brave': { s: uc-u, d: Other, o: 'Windows 8.1', u: Brave, c: '' }
