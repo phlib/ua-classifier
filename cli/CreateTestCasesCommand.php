@@ -64,7 +64,7 @@ class CreateTestCasesCommand extends Command
         }
 
         $io = new SymfonyStyle($input, $output);
-        $io->title('Loading Existing Test Cases');
+        $io->section('Loading Existing Test Cases');
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
@@ -72,7 +72,7 @@ class CreateTestCasesCommand extends Command
         $totalRecords = count($this->testCaseData);
         $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->title('Fetching New Test Cases');
+        $io->section('Fetching New Test Cases');
 
         $addedRecords = 0;
         foreach ($this->sources as $source) {

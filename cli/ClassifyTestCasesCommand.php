@@ -50,7 +50,7 @@ class ClassifyTestCasesCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output): void
     {
         $io = new SymfonyStyle($input, $output);
-        $io->title('Classification Configuration');
+        $io->section('Classification Configuration');
 
         $classification = $io->choice('Select classification to grant', $this->classificationMap);
 
@@ -90,7 +90,7 @@ class ClassifyTestCasesCommand extends Command
             throw new \RuntimeException("Output file is not readable: {$outputFile}");
         }
 
-        $io->title('Classifying Test Cases');
+        $io->section('Classifying Test Cases');
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
