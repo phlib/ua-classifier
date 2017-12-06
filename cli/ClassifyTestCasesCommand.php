@@ -57,7 +57,7 @@ class ClassifyTestCasesCommand extends Command
         $target = $io->choice('Apply classification by', $this->targetMap);
 
         $regex = $io->ask("Specify regex to classify records by", null, function($value) {
-            if (!preg_match('/^\/[\s\S]+\/$/', $value)) {
+            if (!preg_match('/^\/[\s\S]+\/[gmixXsuUAJD]?$/', $value)) {
                 throw new \RuntimeException('Please enter a valid regex.');
             }
             return $value;
