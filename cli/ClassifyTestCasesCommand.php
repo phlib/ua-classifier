@@ -98,7 +98,8 @@ class ClassifyTestCasesCommand extends Command
         $totalRecords = count($this->testCaseData);
         $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> where <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
+        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> where"
+            . " <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
 
         $classifiedRecords = 0;
         $unclassifiedRecords = 0;
@@ -116,7 +117,8 @@ class ClassifyTestCasesCommand extends Command
         }
 
         if ($classifiedRecords > 0) {
-            $writeFile = $io->confirm("Classify {$classifiedRecords} of {$totalRecords} records? ({$unclassifiedRecords} unclassified records remaining)", true);
+            $writeFile = $io->confirm("Classify {$classifiedRecords} of {$totalRecords} records?"
+             . " ({$unclassifiedRecords} unclassified records remaining)", true);
             if ($writeFile) {
                 $filesize = round(memory_get_usage() / 1024);
                 $io->text('Writing file...');
