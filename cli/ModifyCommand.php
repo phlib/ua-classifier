@@ -1,4 +1,7 @@
 <?php
+declare(strict_types=1);
+
+namespace UAClassifier\Cli;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -6,7 +9,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Yaml\Yaml;
 
-class ClassifyTestCasesCommand extends Command
+class ModifyCommand extends Command
 {
     /**
      * @var array $testCaseData Array to append test case data to before parsing to YAML
@@ -37,8 +40,8 @@ class ClassifyTestCasesCommand extends Command
      */
     protected function configure(): void
     {
-        $this->setName('classify-test-cases')
-             ->setDescription('Update test-case data with prompted device classification');
+        $this->setName('modify')
+             ->setDescription('Modify test-case data with prompted device classification');
     }
 
     /**
@@ -47,14 +50,14 @@ class ClassifyTestCasesCommand extends Command
     protected function execute(InputInterface $input, OutputInterface $output): void
     {
         $io = new SymfonyStyle($input, $output);
-        $io->title('Classification Configuration');
+        $io->section('Classification Configuration');
 
         $classification = $io->choice('Select classification to grant', $this->classificationMap);
 
         $target = $io->choice('Apply classification by', $this->targetMap);
 
         $regex = $io->ask("Specify regex to classify records by", null, function($value) {
-            if (!preg_match('/^\/[\s\S]+\/$/', $value)) {
+            if (!preg_match('/^\/.+\/[gmixXsuUAJD]?$/', $value)) {
                 throw new \RuntimeException('Please enter a valid regex.');
             }
             return $value;
@@ -87,7 +90,7 @@ class ClassifyTestCasesCommand extends Command
             throw new \RuntimeException("Output file is not readable: {$outputFile}");
         }
 
-        $io->title('Classifying Test Cases');
+        $io->section('Classifying Test Cases');
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
@@ -95,7 +98,8 @@ class ClassifyTestCasesCommand extends Command
         $totalRecords = count($this->testCaseData);
         $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> which <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
+        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> where"
+            . " <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
 
         $classifiedRecords = 0;
         $unclassifiedRecords = 0;
@@ -113,7 +117,8 @@ class ClassifyTestCasesCommand extends Command
         }
 
         if ($classifiedRecords > 0) {
-            $writeFile = $io->confirm("Classify {$classifiedRecords} of {$totalRecords} records? ({$unclassifiedRecords} unclassified records remaining)", true);
+            $writeFile = $io->confirm("Classify {$classifiedRecords} of {$totalRecords} records?"
+             . " ({$unclassifiedRecords} unclassified records remaining)", true);
             if ($writeFile) {
                 $filesize = round(memory_get_usage() / 1024);
                 $io->text('Writing file...');

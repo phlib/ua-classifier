@@ -37,10 +37,13 @@
     "autoload-dev": {
         "psr-4": {
             "UAClassifier\\Test\\": "tests",
-            "": "cli"
+            "UAClassifier\\Cli\\": "cli"
         }
     },
     "suggest": {
         "ua-parser/uap-php": "ua-classifier is designed to extend the results provided by ua-parser"
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit --colors=always"
     }
 }

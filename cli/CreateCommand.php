@@ -1,4 +1,7 @@
 <?php
+declare(strict_types=1);
+
+namespace UAClassifier\Cli;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
@@ -7,7 +10,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Yaml\Yaml;
 use UAParser\Parser;
 
-class CreateTestCasesCommand extends Command
+class CreateCommand extends Command
 {
     /**
      * @var array $sources ua-parser/uap-core test-case data sources
@@ -40,7 +43,7 @@ class CreateTestCasesCommand extends Command
      */
     protected function configure(): void
     {
-        $this->setName('create-test-cases')
+        $this->setName('create')
              ->setDescription('Create test-case data for unit tests: `tests/test-cases.yaml`');
     }
 
@@ -61,7 +64,7 @@ class CreateTestCasesCommand extends Command
         }
 
         $io = new SymfonyStyle($input, $output);
-        $io->title('Loading Existing Test Cases');
+        $io->section('Loading Existing Test Cases');
 
         $io->text("Parsing test cases from: <comment>{$outputFile}</comment>");
         $this->testCaseData = Yaml::parse(file_get_contents($outputFile));
@@ -69,7 +72,7 @@ class CreateTestCasesCommand extends Command
         $totalRecords = count($this->testCaseData);
         $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->title('Fetching New Test Cases');
+        $io->section('Fetching New Test Cases');
 
         $addedRecords = 0;
         foreach ($this->sources as $source) {
