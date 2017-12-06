@@ -9,7 +9,7 @@ use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Yaml\Yaml;
 
-class ClassifyTestCasesCommand extends Command
+class ModifyCommand extends Command
 {
     /**
      * @var array $testCaseData Array to append test case data to before parsing to YAML
@@ -40,8 +40,8 @@ class ClassifyTestCasesCommand extends Command
      */
     protected function configure(): void
     {
-        $this->setName('classify-test-cases')
-             ->setDescription('Update test-case data with prompted device classification');
+        $this->setName('modify')
+             ->setDescription('Modify test-case data with prompted device classification');
     }
 
     /**

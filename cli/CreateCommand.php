@@ -10,7 +10,7 @@ use Symfony\Component\Console\Style\SymfonyStyle;
 use Symfony\Component\Yaml\Yaml;
 use UAParser\Parser;
 
-class CreateTestCasesCommand extends Command
+class CreateCommand extends Command
 {
     /**
      * @var array $sources ua-parser/uap-core test-case data sources
@@ -43,7 +43,7 @@ class CreateTestCasesCommand extends Command
      */
     protected function configure(): void
     {
-        $this->setName('create-test-cases')
+        $this->setName('create')
              ->setDescription('Create test-case data for unit tests: `tests/test-cases.yaml`');
     }
 
