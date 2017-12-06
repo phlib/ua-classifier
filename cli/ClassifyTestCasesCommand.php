@@ -98,7 +98,7 @@ class ClassifyTestCasesCommand extends Command
         $totalRecords = count($this->testCaseData);
         $io->text("<info>Parsed {$totalRecords} records</info>");
 
-        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> which <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
+        $io->text("Classifying records as <comment>{$this->classificationMap[$classification]}</comment> where <comment>{$this->targetMap[$target]}</comment> matches <comment>{$regex}</comment>");
 
         $classifiedRecords = 0;
         $unclassifiedRecords = 0;
