@@ -12,6 +12,5 @@ $application = new Application();
 
 $application->add(new CreateCommand);
 $application->add(new ModifyCommand);
-$application->add(new ModifyInteractiveCommand);
 
 $application->run();
