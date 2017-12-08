@@ -64,17 +64,17 @@ class ModifyInteractiveCommand extends Command
         $io->section('Classifying Test Cases Interactively');
 
         $classifiedRecords = 0;
-        foreach ($this->testCaseData as $index => &$testCase) {
+        foreach ($this->testCaseData as $key => &$testCase) {
             if ($testCase['c']) {
-                $io->text("Skipping record: <comment>{$index}</comment> (already classified)");
+                $io->text("Skipping record: <comment>{$key}</comment> (already classified)");
                 continue;
             }
             if ($testCase['d'] === 'Other') {
-                $io->text("Skipping record: <comment>{$index}</comment> (empty device)");
+                $io->text("Skipping record: <comment>{$key}</comment> (empty device)");
                 continue;
             }
 
-            $io->text("Classifying record: <comment>{$index}</comment>");
+            $io->text("Classifying record: <comment>{$key}</comment>");
             $googleImageSearchUrl = 'https://www.google.com/search?tbm=isch&q=' . urlencode($testCase['d']);
             exec('open ' . escapeshellarg($googleImageSearchUrl));
 
