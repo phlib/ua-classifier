@@ -14675,27 +14675,27 @@ WeTab-WeTab-WeTab: { s: uc-d, d: WeTab, o: WeTab, u: WeTab, c: tablet }
 'XiaoMi MI 3C-Android-Android': { s: uc-d, d: 'XiaoMi MI 3C', o: Android, u: Android, c: '' }
 'XiaoMi MI 3W-Android-Chrome Mobile': { s: uc-d, d: 'XiaoMi MI 3W', o: Android, u: 'Chrome Mobile', c: '' }
 'XiaoMi MI-ONE Plus-Android-Chrome Mobile': { s: uc-d, d: 'XiaoMi MI-ONE Plus', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo A1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A1000', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo A700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A700', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo A800-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A800', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo B700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo B700', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Play-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Play', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q700', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q800-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo q800-Android-Android': { s: uc-d, d: 'Xolo q800', o: Android, u: Android, c: '' }
+'Xolo A1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A1000', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo A700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A700', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo A800-Android-Chrome Mobile': { s: uc-d, d: 'Xolo A800', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo B700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo B700', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Play-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Play', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q700', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q800-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo q800-Android-Android': { s: uc-d, d: 'Xolo q800', o: Android, u: Android, c: mobile }
 'Xolo QC800-Android-Android': { s: uc-d, d: 'Xolo QC800', o: Android, u: Android, c: tablet }
-'Xolo X1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X1000', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo X500-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X500', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo X900-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X900', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q100-Android-Android': { s: uc-d, d: 'Xolo Q100', o: Android, u: Android, c: '' }
-'Xolo Q1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q1000', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q1000S-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q1000S', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q3000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q3000', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q600-Android-Android': { s: uc-d, d: 'Xolo Q600', o: Android, u: Android, c: '' }
-'Xolo Q700i-Android-Opera Mobile': { s: uc-d, d: 'Xolo Q700i', o: Android, u: 'Opera Mobile', c: '' }
-'Xolo Q700S-Android-Android': { s: uc-d, d: 'Xolo Q700S', o: Android, u: Android, c: '' }
-'Xolo Q800X-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800X', o: Android, u: 'Chrome Mobile', c: '' }
-'Xolo Q900-Android-Android': { s: uc-d, d: 'Xolo Q900', o: Android, u: Android, c: '' }
+'Xolo X1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X1000', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo X500-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X500', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo X900-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X900', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q100-Android-Android': { s: uc-d, d: 'Xolo Q100', o: Android, u: Android, c: mobile }
+'Xolo Q1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q1000', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q1000S-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q1000S', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q3000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q3000', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q600-Android-Android': { s: uc-d, d: 'Xolo Q600', o: Android, u: Android, c: mobile }
+'Xolo Q700i-Android-Opera Mobile': { s: uc-d, d: 'Xolo Q700i', o: Android, u: 'Opera Mobile', c: mobile }
+'Xolo Q700S-Android-Android': { s: uc-d, d: 'Xolo Q700S', o: Android, u: Android, c: mobile }
+'Xolo Q800X-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800X', o: Android, u: 'Chrome Mobile', c: mobile }
+'Xolo Q900-Android-Android': { s: uc-d, d: 'Xolo Q900', o: Android, u: Android, c: mobile }
 'Xoro PAD 716-Android-Android': { s: uc-d, d: 'Xoro PAD 716', o: Android, u: Android, c: tablet }
 'Xoro PAD 790-Android-Android': { s: uc-d, d: 'Xoro PAD 790', o: Android, u: Android, c: tablet }
 'Xoro PAD 9715D-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9715D', o: Android, u: Chrome, c: tablet }
