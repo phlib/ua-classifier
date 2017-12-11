@@ -14683,7 +14683,7 @@ WeTab-WeTab-WeTab: { s: uc-d, d: WeTab, o: WeTab, u: WeTab, c: tablet }
 'Xolo Q700-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q700', o: Android, u: 'Chrome Mobile', c: '' }
 'Xolo Q800-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800', o: Android, u: 'Chrome Mobile', c: '' }
 'Xolo q800-Android-Android': { s: uc-d, d: 'Xolo q800', o: Android, u: Android, c: '' }
-'Xolo QC800-Android-Android': { s: uc-d, d: 'Xolo QC800', o: Android, u: Android, c: '' }
+'Xolo QC800-Android-Android': { s: uc-d, d: 'Xolo QC800', o: Android, u: Android, c: tablet }
 'Xolo X1000-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X1000', o: Android, u: 'Chrome Mobile', c: '' }
 'Xolo X500-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X500', o: Android, u: 'Chrome Mobile', c: '' }
 'Xolo X900-Android-Chrome Mobile': { s: uc-d, d: 'Xolo X900', o: Android, u: 'Chrome Mobile', c: '' }
