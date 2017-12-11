@@ -147,7 +147,10 @@ class ModifyCommand extends Command
         $io->section('Classifying Test Cases Interactively');
         $classifiedRecords = 0;
 
-        $this->classificationMap['q'] = 'Quit - save & close';
+        $this->classificationMap = array_merge($this->classificationMap, [
+           'u' => 'Unclassified - skip',
+           'q' => 'Quit - save & close'
+        ]);
 
         foreach ($this->testCaseData as $key => &$testCase) {
             if ($testCase['c']) {
@@ -166,6 +169,9 @@ class ModifyCommand extends Command
             $classification = $io->choice('Select classification to grant', $this->classificationMap);
             if ($classification === 'q') {
                 break;
+            }
+            if ($classification === 'u') {
+                continue;
             }
             $testCase['c'] = lcfirst($this->classificationMap[$classification]);
             $classifiedRecords++;
