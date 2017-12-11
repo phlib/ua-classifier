@@ -14696,25 +14696,25 @@ WeTab-WeTab-WeTab: { s: uc-d, d: WeTab, o: WeTab, u: WeTab, c: tablet }
 'Xolo Q700S-Android-Android': { s: uc-d, d: 'Xolo Q700S', o: Android, u: Android, c: '' }
 'Xolo Q800X-Android-Chrome Mobile': { s: uc-d, d: 'Xolo Q800X', o: Android, u: 'Chrome Mobile', c: '' }
 'Xolo Q900-Android-Android': { s: uc-d, d: 'Xolo Q900', o: Android, u: Android, c: '' }
-'Xoro PAD 716-Android-Android': { s: uc-d, d: 'Xoro PAD 716', o: Android, u: Android, c: '' }
-'Xoro PAD 790-Android-Android': { s: uc-d, d: 'Xoro PAD 790', o: Android, u: Android, c: '' }
-'Xoro PAD 9715D-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9715D', o: Android, u: Chrome, c: '' }
-'Xoro PAD 9716DR-Android-Android': { s: uc-d, d: 'Xoro PAD 9716DR', o: Android, u: Android, c: '' }
-'Xoro PAD 9718DR-Android-Opera': { s: uc-d, d: 'Xoro PAD 9718DR', o: Android, u: Opera, c: '' }
-'Xoro PAD 9719QR-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9719QR', o: Android, u: Chrome, c: '' }
-'Xoro PAD 9720QR-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9720QR', o: Android, u: Chrome, c: '' }
-'Xoro PAD701-Android-Chrome': { s: uc-d, d: 'Xoro PAD701', o: Android, u: Chrome, c: '' }
-'Xoro PAD705-Android-Android': { s: uc-d, d: 'Xoro PAD705', o: Android, u: Android, c: '' }
-'Xoro PAD711-Android-Android': { s: uc-d, d: 'Xoro PAD711', o: Android, u: Android, c: '' }
-'Xoro PAD717D-Android-Chrome Mobile': { s: uc-d, d: 'Xoro PAD717D', o: Android, u: 'Chrome Mobile', c: '' }
-'Xoro PAD721-Android-Chrome': { s: uc-d, d: 'Xoro PAD721', o: Android, u: Chrome, c: '' }
-'Xoro PAD722-Android-Chrome': { s: uc-d, d: 'Xoro PAD722', o: Android, u: Chrome, c: '' }
-'Xoro PAD730-Android-Chrome': { s: uc-d, d: 'Xoro PAD730', o: Android, u: Chrome, c: '' }
-'Xoro PAD732-Android-Chrome': { s: uc-d, d: 'Xoro PAD732', o: Android, u: Chrome, c: '' }
-'Xoro PAD900-Android-Chrome': { s: uc-d, d: 'Xoro PAD900', o: Android, u: Chrome, c: '' }
-'Xoro TelePAD1030-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1030', o: Android, u: Chrome, c: '' }
-'Xoro TelePAD1032-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1032', o: Android, u: Chrome, c: '' }
-'Xoro TelePAD731-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD731', o: Android, u: Chrome, c: '' }
+'Xoro PAD 716-Android-Android': { s: uc-d, d: 'Xoro PAD 716', o: Android, u: Android, c: tablet }
+'Xoro PAD 790-Android-Android': { s: uc-d, d: 'Xoro PAD 790', o: Android, u: Android, c: tablet }
+'Xoro PAD 9715D-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9715D', o: Android, u: Chrome, c: tablet }
+'Xoro PAD 9716DR-Android-Android': { s: uc-d, d: 'Xoro PAD 9716DR', o: Android, u: Android, c: tablet }
+'Xoro PAD 9718DR-Android-Opera': { s: uc-d, d: 'Xoro PAD 9718DR', o: Android, u: Opera, c: tablet }
+'Xoro PAD 9719QR-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9719QR', o: Android, u: Chrome, c: tablet }
+'Xoro PAD 9720QR-Android-Chrome': { s: uc-d, d: 'Xoro PAD 9720QR', o: Android, u: Chrome, c: tablet }
+'Xoro PAD701-Android-Chrome': { s: uc-d, d: 'Xoro PAD701', o: Android, u: Chrome, c: tablet }
+'Xoro PAD705-Android-Android': { s: uc-d, d: 'Xoro PAD705', o: Android, u: Android, c: tablet }
+'Xoro PAD711-Android-Android': { s: uc-d, d: 'Xoro PAD711', o: Android, u: Android, c: tablet }
+'Xoro PAD717D-Android-Chrome Mobile': { s: uc-d, d: 'Xoro PAD717D', o: Android, u: 'Chrome Mobile', c: tablet }
+'Xoro PAD721-Android-Chrome': { s: uc-d, d: 'Xoro PAD721', o: Android, u: Chrome, c: tablet }
+'Xoro PAD722-Android-Chrome': { s: uc-d, d: 'Xoro PAD722', o: Android, u: Chrome, c: tablet }
+'Xoro PAD730-Android-Chrome': { s: uc-d, d: 'Xoro PAD730', o: Android, u: Chrome, c: tablet }
+'Xoro PAD732-Android-Chrome': { s: uc-d, d: 'Xoro PAD732', o: Android, u: Chrome, c: tablet }
+'Xoro PAD900-Android-Chrome': { s: uc-d, d: 'Xoro PAD900', o: Android, u: Chrome, c: tablet }
+'Xoro TelePAD1030-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1030', o: Android, u: Chrome, c: tablet }
+'Xoro TelePAD1032-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD1032', o: Android, u: Chrome, c: tablet }
+'Xoro TelePAD731-Android-Chrome': { s: uc-d, d: 'Xoro TelePAD731', o: Android, u: Chrome, c: tablet }
 'Yarvik SMP35-100-Android-Android': { s: uc-d, d: 'Yarvik SMP35-100', o: Android, u: Android, c: mobile }
 'Yarvik SMP35-200-Android-Android': { s: uc-d, d: 'Yarvik SMP35-200', o: Android, u: Android, c: mobile }
 'Yarvik SMP45-210-Android-Chrome Mobile': { s: uc-d, d: 'Yarvik SMP45-210', o: Android, u: 'Chrome Mobile', c: mobile }
