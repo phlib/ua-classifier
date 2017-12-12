@@ -154,7 +154,7 @@ class ModifyCommand extends Command
 
         foreach ($this->testCaseData as $key => &$testCase) {
             if ($testCase['c']) {
-                $io->text("Skipping record: <comment>{$key}</comment> (already classified)");
+                $io->text("Skipping record: <comment>{$key}</comment> (already classified - {$testCase['c']})");
                 continue;
             }
             if ($testCase['d'] === 'Other') {
