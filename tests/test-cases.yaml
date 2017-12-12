@@ -1645,9 +1645,9 @@ RAPAXSE080-0508-Android-Chrome: { s: uc-d, d: RAPAXSE080-0508, o: Android, u: Ch
 '9150-Android-QQ Browser Mobile': { s: uc-d, d: '9150', o: Android, u: 'QQ Browser Mobile', c: '' }
 9970-Android-Android: { s: uc-d, d: '9970', o: Android, u: Android, c: '' }
 '9976A-Android-Chrome Mobile': { s: uc-d, d: 9976A, o: Android, u: 'Chrome Mobile', c: '' }
-'Coolpad-5820-Android-UC Browser': { s: uc-d, d: Coolpad-5820, o: Android, u: 'UC Browser', c: '' }
-'coolpad-W706-Android-UC Browser': { s: uc-d, d: coolpad-W706, o: Android, u: 'UC Browser', c: '' }
-coolpad-W706+-Android-Android: { s: uc-d, d: coolpad-W706+, o: Android, u: Android, c: '' }
+'Coolpad-5820-Android-UC Browser': { s: uc-d, d: Coolpad-5820, o: Android, u: 'UC Browser', c: mobile }
+'coolpad-W706-Android-UC Browser': { s: uc-d, d: coolpad-W706, o: Android, u: 'UC Browser', c: mobile }
+coolpad-W706+-Android-Android: { s: uc-d, d: coolpad-W706+, o: Android, u: Android, c: mobile }
 Flo-Android-Android: { s: uc-d, d: Flo, o: Android, u: Android, c: '' }
 W706-Android-Android: { s: uc-d, d: W706, o: Android, u: Android, c: '' }
 W706+-Android-Android: { s: uc-d, d: W706+, o: Android, u: Android, c: '' }
