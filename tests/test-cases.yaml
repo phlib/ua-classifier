@@ -9060,8 +9060,8 @@ Nook-Android-Android: { s: uc-d, d: Nook, o: Android, u: Android, c: tablet }
 'Odys XELIO7PRO-Android-Opera': { s: uc-d, d: 'Odys XELIO7PRO', o: Android, u: Opera, c: '' }
 'Odys XENO10-Android-Opera': { s: uc-d, d: 'Odys XENO10', o: Android, u: Opera, c: '' }
 'Odys XPRESS PRO-Android-Chrome': { s: uc-d, d: 'Odys XPRESS PRO', o: Android, u: Chrome, c: '' }
-'Olivetti OliPad 100-Android-Android': { s: uc-d, d: 'Olivetti OliPad 100', o: Android, u: Android, c: '' }
-'Olivetti OliPad 100G-Android-Android': { s: uc-d, d: 'Olivetti OliPad 100G', o: Android, u: Android, c: '' }
+'Olivetti OliPad 100-Android-Android': { s: uc-d, d: 'Olivetti OliPad 100', o: Android, u: Android, c: tablet }
+'Olivetti OliPad 100G-Android-Android': { s: uc-d, d: 'Olivetti OliPad 100G', o: Android, u: Android, c: tablet }
 'Olivetti OP110-Android-Opera': { s: uc-d, d: 'Olivetti OP110', o: Android, u: Opera, c: '' }
 'Omega MID7503-Android-Android': { s: uc-d, d: 'Omega MID7503', o: Android, u: Android, c: '' }
 'Omega MID9711-Android-Android': { s: uc-d, d: 'Omega MID9711', o: Android, u: Android, c: '' }
