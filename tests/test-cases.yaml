@@ -1,5 +1,5 @@
 'Alcatel OT510A-Other-Obigo': { s: uc-d, d: 'Alcatel OT510A', o: Other, u: Obigo, c: mobile }
-'Alcatel OH5-Other-UP.Browser': { s: uc-d, d: 'Alcatel OH5', o: Other, u: UP.Browser, c: '' }
+'Alcatel OH5-Other-UP.Browser': { s: uc-d, d: 'Alcatel OH5', o: Other, u: UP.Browser, c: mobile }
 'HTC Amaze 4G-Android-Android': { s: uc-d, d: 'HTC Amaze 4G', o: Android, u: Android, c: mobile }
 'AppleTV-ATV OS X-Other': { s: uc-d, d: AppleTV, o: 'ATV OS X', u: Other, c: desktop }
 'BlackBerry-BlackBerry OS-Opera Mini': { s: uc-d, d: BlackBerry, o: 'BlackBerry OS', u: 'Opera Mini', c: mobile }
@@ -8,7 +8,7 @@
 'BlackBerry Touch-BlackBerry OS-BlackBerry WebKit': { s: uc-d, d: 'BlackBerry Touch', o: 'BlackBerry OS', u: 'BlackBerry WebKit', c: mobile }
 'Samsung Galaxy Nexus-Android-Chrome Mobile': { s: uc-d, d: 'Samsung Galaxy Nexus', o: Android, u: 'Chrome Mobile', c: mobile }
 'Samsung GT-P7510-Android-Android': { s: uc-d, d: 'Samsung GT-P7510', o: Android, u: Android, c: tablet }
-'HP TouchPad-webOS-webOS Browser': { s: uc-d, d: 'HP TouchPad', o: webOS, u: 'webOS Browser', c: '' }
+'HP TouchPad-webOS-webOS Browser': { s: uc-d, d: 'HP TouchPad', o: webOS, u: 'webOS Browser', c: tablet }
 'HTC Desire-Android-Android': { s: uc-d, d: 'HTC Desire', o: Android, u: Android, c: mobile }
 'HTC WildfireS-Android-Android': { s: uc-d, d: 'HTC WildfireS', o: Android, u: Android, c: mobile }
 'HTC Hero-Linux-QQ Browser': { s: uc-d, d: 'HTC Hero', o: Linux, u: 'QQ Browser', c: mobile }
@@ -57,8 +57,8 @@ Kindle-Kindle-Kindle: { s: uc-d, d: Kindle, o: Kindle, u: Kindle, c: tablet }
 'Other-iOS-UC Browser': { s: uc-d, d: Other, o: iOS, u: 'UC Browser', c: mobile }
 'Other-Other-UC Browser': { s: uc-d, d: Other, o: Other, u: 'UC Browser', c: mobile }
 'Generic Smartphone-BREW-NetFront': { s: uc-d, d: 'Generic Smartphone', o: BREW, u: NetFront, c: mobile }
-'SprintE4100-Brew MP-NetFront': { s: uc-d, d: SprintE4100, o: 'Brew MP', u: NetFront, c: '' }
-SprintLN240-BREW-NetFront: { s: uc-d, d: SprintLN240, o: BREW, u: NetFront, c: '' }
+'SprintE4100-Brew MP-NetFront': { s: uc-d, d: SprintE4100, o: 'Brew MP', u: NetFront, c: mobile }
+SprintLN240-BREW-NetFront: { s: uc-d, d: SprintLN240, o: BREW, u: NetFront, c: mobile }
 'Other-Mac OS-IE': { s: uc-d, d: Other, o: 'Mac OS', u: IE, c: desktop }
 'Other-Windows 3.1-NCSA Mosaic': { s: uc-d, d: Other, o: 'Windows 3.1', u: 'NCSA Mosaic', c: desktop }
 Other-Solaris-Firefox: { s: uc-d, d: Other, o: Solaris, u: Firefox, c: '' }
@@ -68,9 +68,9 @@ Other-Solaris-Firefox: { s: uc-d, d: Other, o: Solaris, u: Firefox, c: '' }
 'Generic Feature Phone-VRE-Opera Mini': { s: uc-d, d: 'Generic Feature Phone', o: VRE, u: 'Opera Mini', c: mobile }
 'Generic Smartphone-Firefox OS-Firefox Mobile': { s: uc-d, d: 'Generic Smartphone', o: 'Firefox OS', u: 'Firefox Mobile', c: mobile }
 'Generic Tablet-Firefox OS-Firefox': { s: uc-d, d: 'Generic Tablet', o: 'Firefox OS', u: Firefox, c: tablet }
-'Pantech P6010-Brew MP-NetFront': { s: uc-d, d: 'Pantech P6010', o: 'Brew MP', u: NetFront, c: '' }
-'Pantech P7040-Other-Obigo': { s: uc-d, d: 'Pantech P7040', o: Other, u: Obigo, c: '' }
-PJ83100/2.20.502.7-Android-Android: { s: uc-d, d: PJ83100/2.20.502.7, o: Android, u: Android, c: '' }
+'Pantech P6010-Brew MP-NetFront': { s: uc-d, d: 'Pantech P6010', o: 'Brew MP', u: NetFront, c: mobile }
+'Pantech P7040-Other-Obigo': { s: uc-d, d: 'Pantech P7040', o: Other, u: Obigo, c: mobile }
+PJ83100/2.20.502.7-Android-Android: { s: uc-d, d: PJ83100/2.20.502.7, o: Android, u: Android, c: mobile }
 'PlayStation 3-Other-NetFront': { s: uc-d, d: 'PlayStation 3', o: Other, u: NetFront, c: desktop }
 'PlayStation 3-Other-NetFront NX': { s: uc-d, d: 'PlayStation 3', o: Other, u: 'NetFront NX', c: desktop }
 'PlayStation Portable-Other-NetFront': { s: uc-d, d: 'PlayStation Portable', o: Other, u: NetFront, c: mobile }
@@ -84,7 +84,7 @@ PJ83100/2.20.502.7-Android-Android: { s: uc-d, d: PJ83100/2.20.502.7, o: Android
 'Samsung SGH-L710-Android-Chrome Mobile': { s: uc-d, d: 'Samsung SGH-L710', o: Android, u: 'Chrome Mobile', c: mobile }
 'Samsung SM-L710-Android-Chrome Mobile': { s: uc-d, d: 'Samsung SM-L710', o: Android, u: 'Chrome Mobile', c: mobile }
 Spider-Other-Googlebot: { s: uc-d, d: Spider, o: Other, u: Googlebot, c: spider }
-'TECNO T3-Android-Android': { s: uc-d, d: 'TECNO T3', o: Android, u: Android, c: '' }
+'TECNO T3-Android-Android': { s: uc-d, d: 'TECNO T3', o: Android, u: Android, c: mobile }
 'Tesla Model S-Linux-QtCarBrowser': { s: uc-d, d: 'Tesla Model S', o: Linux, u: QtCarBrowser, c: tablet }
 WebTV-WebTV-IE: { s: uc-d, d: WebTV, o: WebTV, u: IE, c: desktop }
 Spider-Other-AdsBot-Google: { s: uc-d, d: Spider, o: Other, u: AdsBot-Google, c: spider }
@@ -114,14 +114,14 @@ Spider-Other-Riddler: { s: uc-d, d: Spider, o: Other, u: Riddler, c: spider }
 'Samsung GT-I9100-Android-Android': { s: uc-d, d: 'Samsung GT-I9100', o: Android, u: Android, c: mobile }
 'Samsung SCH-I605-Android-Chrome Mobile': { s: uc-d, d: 'Samsung SCH-I605', o: Android, u: 'Chrome Mobile', c: mobile }
 'Samsung SGH-T869-Android-Android': { s: uc-d, d: 'Samsung SGH-T869', o: Android, u: Android, c: mobile }
-'Pantech P8010-Android-Android': { s: uc-d, d: 'Pantech P8010', o: Android, u: Android, c: '' }
-F-10D-Android-Android: { s: uc-d, d: F-10D, o: Android, u: Android, c: '' }
-'sprd SPHS-on-Hsdroid-Android-Android': { s: uc-d, d: 'sprd SPHS-on-Hsdroid', o: Android, u: Android, c: '' }
+'Pantech P8010-Android-Android': { s: uc-d, d: 'Pantech P8010', o: Android, u: Android, c: mobile }
+F-10D-Android-Android: { s: uc-d, d: F-10D, o: Android, u: Android, c: mobile }
+'sprd SPHS-on-Hsdroid-Android-Android': { s: uc-d, d: 'sprd SPHS-on-Hsdroid', o: Android, u: Android, c: mobile }
 'Sony LT30p-Android-Android': { s: uc-d, d: 'Sony LT30p', o: Android, u: Android, c: mobile }
 Spider-Other-DBot: { s: uc-d, d: Spider, o: Other, u: DBot, c: spider }
 Spider-Other-Other: { s: uc-d, d: Spider, o: Other, u: Other, c: spider }
-'ZTE Z830-Android-Chrome Mobile': { s: uc-d, d: 'ZTE Z830', o: Android, u: 'Chrome Mobile', c: '' }
-SBM200SH-Android-Android: { s: uc-d, d: SBM200SH, o: Android, u: Android, c: '' }
+'ZTE Z830-Android-Chrome Mobile': { s: uc-d, d: 'ZTE Z830', o: Android, u: 'Chrome Mobile', c: mobile }
+SBM200SH-Android-Android: { s: uc-d, d: SBM200SH, o: Android, u: Android, c: mobile }
 'Motorola DROID RAZR HD-Android-Chrome Mobile': { s: uc-d, d: 'Motorola DROID RAZR HD', o: Android, u: 'Chrome Mobile', c: mobile }
 'Motorola DROID BIONIC 4G-Android-Android': { s: uc-d, d: 'Motorola DROID BIONIC 4G', o: Android, u: Android, c: mobile }
 'Motorola DROID RAZR-Android-Android': { s: uc-d, d: 'Motorola DROID RAZR', o: Android, u: Android, c: mobile }
@@ -135,37 +135,37 @@ Spider-Other-ProoXiBot: { s: uc-d, d: Spider, o: Other, u: ProoXiBot, c: spider 
 Spider-Other-Scrapy: { s: uc-d, d: Spider, o: Other, u: Scrapy, c: spider }
 Spider-Other-Genieo: { s: uc-d, d: Spider, o: Other, u: Genieo, c: spider }
 'Spider-Other-Screaming Frog SEO Spider': { s: uc-d, d: Spider, o: Other, u: 'Screaming Frog SEO Spider', c: spider }
-'3Q BC9710AM-Android-Chrome': { s: uc-d, d: '3Q BC9710AM', o: Android, u: Chrome, c: '' }
-'3Q LC0720C-Android-Chrome': { s: uc-d, d: '3Q LC0720C', o: Android, u: Chrome, c: '' }
-'3Q LC0723B-Android-Android': { s: uc-d, d: '3Q LC0723B', o: Android, u: Android, c: '' }
-'3Q LC0725B-Android-Chrome': { s: uc-d, d: '3Q LC0725B', o: Android, u: Chrome, c: '' }
-'3Q LC0810C-Android-Chrome': { s: uc-d, d: '3Q LC0810C', o: Android, u: Chrome, c: '' }
-'3Q LC0816C-Android-Safari': { s: uc-d, d: '3Q LC0816C', o: Android, u: Safari, c: '' }
-'3Q LC0901D-Android-Android': { s: uc-d, d: '3Q LC0901D', o: Android, u: Android, c: '' }
-'3Q LC1016C-Android-Chrome': { s: uc-d, d: '3Q LC1016C', o: Android, u: Chrome, c: '' }
-'3Q RC0709B-Android-Opera': { s: uc-d, d: '3Q RC0709B', o: Android, u: Opera, c: '' }
-'3Q RC0710B-Android-Chrome': { s: uc-d, d: '3Q RC0710B', o: Android, u: Chrome, c: '' }
-'3Q RC0718C-Android-Yandex Browser': { s: uc-d, d: '3Q RC0718C', o: Android, u: 'Yandex Browser', c: '' }
-'3Q RC0719H-Android-Android': { s: uc-d, d: '3Q RC0719H', o: Android, u: Android, c: '' }
-'3Q RC0721B-Android-Chrome': { s: uc-d, d: '3Q RC0721B', o: Android, u: Chrome, c: '' }
-'3Q RC0722C-Android-Opera': { s: uc-d, d: '3Q RC0722C', o: Android, u: Opera, c: '' }
-'3Q RC0738C-Android-Android': { s: uc-d, d: '3Q RC0738C', o: Android, u: Android, c: '' }
-'3Q RC0813C-Android-Opera': { s: uc-d, d: '3Q RC0813C', o: Android, u: Opera, c: '' }
-'3Q RC0813CM-Android-Android': { s: uc-d, d: '3Q RC0813CM', o: Android, u: Android, c: '' }
-'3Q RC0817C-Android-Android': { s: uc-d, d: '3Q RC0817C', o: Android, u: Android, c: '' }
-'3Q RC1018C-Android-Android': { s: uc-d, d: '3Q RC1018C', o: Android, u: Android, c: '' }
-'3Q RC7802F-Android-Android': { s: uc-d, d: '3Q RC7802F', o: Android, u: Android, c: '' }
-'3Q RC9711B-Android-Android': { s: uc-d, d: '3Q RC9711B', o: Android, u: Android, c: '' }
-'3Q RC9712C-Android-Android': { s: uc-d, d: '3Q RC9712C', o: Android, u: Android, c: '' }
-'3Q RC9716B-Android-Chrome': { s: uc-d, d: '3Q RC9716B', o: Android, u: Chrome, c: '' }
-'3Q RC9717B-Android-Yandex Browser': { s: uc-d, d: '3Q RC9717B', o: Android, u: 'Yandex Browser', c: '' }
-'3Q RC9724C-Android-Android': { s: uc-d, d: '3Q RC9724C', o: Android, u: Android, c: '' }
-'3Q RC9730C-Android-Android': { s: uc-d, d: '3Q RC9730C', o: Android, u: Android, c: '' }
-'3Q RC9731C-Android-Yandex Browser': { s: uc-d, d: '3Q RC9731C', o: Android, u: 'Yandex Browser', c: '' }
-'3Q ER71B-Android-Android': { s: uc-d, d: '3Q ER71B', o: Android, u: Android, c: '' }
-A1-810-Android-Chrome: { s: uc-d, d: A1-810, o: Android, u: Chrome, c: '' }
-A1-811-Android-Chrome: { s: uc-d, d: A1-811, o: Android, u: Chrome, c: '' }
-A1-830-Android-Chrome: { s: uc-d, d: A1-830, o: Android, u: Chrome, c: '' }
+'3Q BC9710AM-Android-Chrome': { s: uc-d, d: '3Q BC9710AM', o: Android, u: Chrome, c: tablet }
+'3Q LC0720C-Android-Chrome': { s: uc-d, d: '3Q LC0720C', o: Android, u: Chrome, c: tablet }
+'3Q LC0723B-Android-Android': { s: uc-d, d: '3Q LC0723B', o: Android, u: Android, c: tablet }
+'3Q LC0725B-Android-Chrome': { s: uc-d, d: '3Q LC0725B', o: Android, u: Chrome, c: tablet }
+'3Q LC0810C-Android-Chrome': { s: uc-d, d: '3Q LC0810C', o: Android, u: Chrome, c: tablet }
+'3Q LC0816C-Android-Safari': { s: uc-d, d: '3Q LC0816C', o: Android, u: Safari, c: tablet }
+'3Q LC0901D-Android-Android': { s: uc-d, d: '3Q LC0901D', o: Android, u: Android, c: tablet }
+'3Q LC1016C-Android-Chrome': { s: uc-d, d: '3Q LC1016C', o: Android, u: Chrome, c: tablet }
+'3Q RC0709B-Android-Opera': { s: uc-d, d: '3Q RC0709B', o: Android, u: Opera, c: tablet }
+'3Q RC0710B-Android-Chrome': { s: uc-d, d: '3Q RC0710B', o: Android, u: Chrome, c: tablet }
+'3Q RC0718C-Android-Yandex Browser': { s: uc-d, d: '3Q RC0718C', o: Android, u: 'Yandex Browser', c: tablet }
+'3Q RC0719H-Android-Android': { s: uc-d, d: '3Q RC0719H', o: Android, u: Android, c: tablet }
+'3Q RC0721B-Android-Chrome': { s: uc-d, d: '3Q RC0721B', o: Android, u: Chrome, c: tablet }
+'3Q RC0722C-Android-Opera': { s: uc-d, d: '3Q RC0722C', o: Android, u: Opera, c: tablet }
+'3Q RC0738C-Android-Android': { s: uc-d, d: '3Q RC0738C', o: Android, u: Android, c: tablet }
+'3Q RC0813C-Android-Opera': { s: uc-d, d: '3Q RC0813C', o: Android, u: Opera, c: tablet }
+'3Q RC0813CM-Android-Android': { s: uc-d, d: '3Q RC0813CM', o: Android, u: Android, c: tablet }
+'3Q RC0817C-Android-Android': { s: uc-d, d: '3Q RC0817C', o: Android, u: Android, c: tablet }
+'3Q RC1018C-Android-Android': { s: uc-d, d: '3Q RC1018C', o: Android, u: Android, c: tablet }
+'3Q RC7802F-Android-Android': { s: uc-d, d: '3Q RC7802F', o: Android, u: Android, c: tablet }
+'3Q RC9711B-Android-Android': { s: uc-d, d: '3Q RC9711B', o: Android, u: Android, c: tablet }
+'3Q RC9712C-Android-Android': { s: uc-d, d: '3Q RC9712C', o: Android, u: Android, c: tablet }
+'3Q RC9716B-Android-Chrome': { s: uc-d, d: '3Q RC9716B', o: Android, u: Chrome, c: tablet }
+'3Q RC9717B-Android-Yandex Browser': { s: uc-d, d: '3Q RC9717B', o: Android, u: 'Yandex Browser', c: tablet }
+'3Q RC9724C-Android-Android': { s: uc-d, d: '3Q RC9724C', o: Android, u: Android, c: tablet }
+'3Q RC9730C-Android-Android': { s: uc-d, d: '3Q RC9730C', o: Android, u: Android, c: tablet }
+'3Q RC9731C-Android-Yandex Browser': { s: uc-d, d: '3Q RC9731C', o: Android, u: 'Yandex Browser', c: tablet }
+'3Q ER71B-Android-Android': { s: uc-d, d: '3Q ER71B', o: Android, u: Android, c: tablet }
+A1-810-Android-Chrome: { s: uc-d, d: A1-810, o: Android, u: Chrome, c: tablet }
+A1-811-Android-Chrome: { s: uc-d, d: A1-811, o: Android, u: Chrome, c: tablet }
+A1-830-Android-Chrome: { s: uc-d, d: A1-830, o: Android, u: Chrome, c: tablet }
 A100-Android-Chrome: { s: uc-d, d: A100, o: Android, u: Chrome, c: '' }
 A101-Android-Opera: { s: uc-d, d: A101, o: Android, u: Opera, c: '' }
 A110-Android-Chrome: { s: uc-d, d: A110, o: Android, u: Chrome, c: '' }
@@ -180,39 +180,39 @@ A700-Android-Chrome: { s: uc-d, d: A700, o: Android, u: Chrome, c: '' }
 'A700 3G-Android-Android': { s: uc-d, d: 'A700 3G', o: Android, u: Android, c: '' }
 'A700 Lite-Android-Android': { s: uc-d, d: 'A700 Lite', o: Android, u: Android, c: '' }
 'A701-Android-Chrome Mobile': { s: uc-d, d: A701, o: Android, u: 'Chrome Mobile', c: '' }
-B1-710-Android-Chrome: { s: uc-d, d: B1-710, o: Android, u: Chrome, c: '' }
-B1-711-Android-Chrome: { s: uc-d, d: B1-711, o: Android, u: Chrome, c: '' }
-B1-A71-Android-Chrome: { s: uc-d, d: B1-A71, o: Android, u: Chrome, c: '' }
-DA220HQL-Android-Chrome: { s: uc-d, d: DA220HQL, o: Android, u: Chrome, c: '' }
-DA222HQL-Android-Chrome: { s: uc-d, d: DA222HQL, o: Android, u: Chrome, c: '' }
-'Slider SL101-Android-Chrome': { s: uc-d, d: 'Slider SL101', o: Android, u: Chrome, c: '' }
+B1-710-Android-Chrome: { s: uc-d, d: B1-710, o: Android, u: Chrome, c: tablet }
+B1-711-Android-Chrome: { s: uc-d, d: B1-711, o: Android, u: Chrome, c: tablet }
+B1-A71-Android-Chrome: { s: uc-d, d: B1-A71, o: Android, u: Chrome, c: tablet }
+DA220HQL-Android-Chrome: { s: uc-d, d: DA220HQL, o: Android, u: Chrome, c: desktop }
+DA222HQL-Android-Chrome: { s: uc-d, d: DA222HQL, o: Android, u: Chrome, c: desktop }
+'Slider SL101-Android-Chrome': { s: uc-d, d: 'Slider SL101', o: Android, u: Chrome, c: tablet }
 'V360-Android-Chrome Mobile': { s: uc-d, d: V360, o: Android, u: 'Chrome Mobile', c: '' }
 'V370-Android-Chrome Mobile': { s: uc-d, d: V370, o: Android, u: 'Chrome Mobile', c: '' }
 W500-Android-Android: { s: uc-d, d: W500, o: Android, u: Android, c: '' }
 'W700-Android-Chrome Mobile': { s: uc-d, d: W700, o: Android, u: 'Chrome Mobile', c: '' }
-'Iconia A500-Android-Chrome': { s: uc-d, d: 'Iconia A500', o: Android, u: Chrome, c: '' }
-'Iconia A501-Android-Android': { s: uc-d, d: 'Iconia A501', o: Android, u: Android, c: '' }
+'Iconia A500-Android-Chrome': { s: uc-d, d: 'Iconia A500', o: Android, u: Chrome, c: tablet }
+'Iconia A501-Android-Android': { s: uc-d, d: 'Iconia A501', o: Android, u: Android, c: tablet }
 Liquid-Android-Android: { s: uc-d, d: Liquid, o: Android, u: Android, c: '' }
 'Liquid Metal-Android-Android': { s: uc-d, d: 'Liquid Metal', o: Android, u: Android, c: '' }
-'Liquid MT-Android-Opera Mobile': { s: uc-d, d: 'Liquid MT', o: Android, u: 'Opera Mobile', c: '' }
-'Liquid Mt-Android-Android': { s: uc-d, d: 'Liquid Mt', o: Android, u: Android, c: '' }
-Liquid-Metal-S120-Android-Android: { s: uc-d, d: Liquid-Metal-S120, o: Android, u: Android, c: '' }
+'Liquid MT-Android-Opera Mobile': { s: uc-d, d: 'Liquid MT', o: Android, u: 'Opera Mobile', c: mobile }
+'Liquid Mt-Android-Android': { s: uc-d, d: 'Liquid Mt', o: Android, u: Android, c: mobile }
+Liquid-Metal-S120-Android-Android: { s: uc-d, d: Liquid-Metal-S120, o: Android, u: Android, c: mobile }
 'S500-Android-Chrome Mobile': { s: uc-d, d: S500, o: Android, u: 'Chrome Mobile', c: '' }
 'S510-Android-Chrome Mobile': { s: uc-d, d: S510, o: Android, u: 'Chrome Mobile', c: '' }
-'Z110-Android-Opera Mobile': { s: uc-d, d: Z110, o: Android, u: 'Opera Mobile', c: '' }
+'Z110-Android-Opera Mobile': { s: uc-d, d: Z110, o: Android, u: 'Opera Mobile', c: mobile }
 'Z120-Android-Chrome Mobile': { s: uc-d, d: Z120, o: Android, u: 'Chrome Mobile', c: '' }
 'Z130-Android-Chrome Mobile': { s: uc-d, d: Z130, o: Android, u: 'Chrome Mobile', c: '' }
 'Z150-Android-Chrome Mobile': { s: uc-d, d: Z150, o: Android, u: 'Chrome Mobile', c: '' }
-'ACER E2-Android-Android': { s: uc-d, d: 'ACER E2', o: Android, u: Android, c: '' }
-'Acer E320-Android-Android': { s: uc-d, d: 'Acer E320', o: Android, u: Android, c: '' }
-'Acer E320-orange-Android-Android': { s: uc-d, d: 'Acer E320-orange', o: Android, u: Android, c: '' }
-'Acer E330-Android-Android': { s: uc-d, d: 'Acer E330', o: Android, u: Android, c: '' }
+'ACER E2-Android-Android': { s: uc-d, d: 'ACER E2', o: Android, u: Android, c: mobile }
+'Acer E320-Android-Android': { s: uc-d, d: 'Acer E320', o: Android, u: Android, c: mobile }
+'Acer E320-orange-Android-Android': { s: uc-d, d: 'Acer E320-orange', o: Android, u: Android, c: mobile }
+'Acer E330-Android-Android': { s: uc-d, d: 'Acer E330', o: Android, u: Android, c: mobile }
 'Acer Iconia A500-Android-Android': { s: uc-d, d: 'Acer Iconia A500', o: Android, u: Android, c: tablet }
-'Acer Liquid-Android-Android': { s: uc-d, d: 'Acer Liquid', o: Android, u: Android, c: '' }
-'ACER Liquid E2-Android-Chrome Mobile': { s: uc-d, d: 'ACER Liquid E2', o: Android, u: 'Chrome Mobile', c: '' }
-'ACER LIQUID E2-Android-Android': { s: uc-d, d: 'ACER LIQUID E2', o: Android, u: Android, c: '' }
-'Acer Liquid Metal-Android-Android': { s: uc-d, d: 'Acer Liquid Metal', o: Android, u: Android, c: '' }
-'Acer Z110-Android-Android': { s: uc-d, d: 'Acer Z110', o: Android, u: Android, c: '' }
+'Acer Liquid-Android-Android': { s: uc-d, d: 'Acer Liquid', o: Android, u: Android, c: mobile }
+'ACER Liquid E2-Android-Chrome Mobile': { s: uc-d, d: 'ACER Liquid E2', o: Android, u: 'Chrome Mobile', c: mobile }
+'ACER LIQUID E2-Android-Android': { s: uc-d, d: 'ACER LIQUID E2', o: Android, u: Android, c: mobile }
+'Acer Liquid Metal-Android-Android': { s: uc-d, d: 'Acer Liquid Metal', o: Android, u: Android, c: mobile }
+'Acer Z110-Android-Android': { s: uc-d, d: 'Acer Z110', o: Android, u: Android, c: mobile }
 'Acer Allegro-Windows Phone-IE Mobile': { s: uc-d, d: 'Acer Allegro', o: 'Windows Phone', u: 'IE Mobile', c: mobile }
 'AdMob Octagon-Windows Phone-IE Mobile': { s: uc-d, d: 'AdMob Octagon', o: 'Windows Phone', u: 'IE Mobile', c: mobile }
 Vega-Android-Chrome: { s: uc-d, d: Vega, o: Android, u: Chrome, c: '' }
