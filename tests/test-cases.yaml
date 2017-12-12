@@ -7946,26 +7946,26 @@ Diamond-Android-Opera: { s: uc-d, d: Diamond, o: Android, u: Opera, c: '' }
 'MyPad 103-Android-Android': { s: uc-d, d: 'MyPad 103', o: Android, u: Android, c: tablet }
 'MyPad 2-Android-Chrome Mobile': { s: uc-d, d: 'MyPad 2', o: Android, u: 'Chrome Mobile', c: tablet }
 'MyPad P3-Android-Android': { s: uc-d, d: 'MyPad P3', o: Android, u: Android, c: tablet }
-'MyPhone A818 Slim Duo-Android-Android': { s: uc-d, d: 'MyPhone A818 Slim Duo', o: Android, u: Android, c: '' }
-'MyPhone A818_Slim_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A818_Slim_Duo', o: Android, u: 'UC Browser', c: '' }
-'MyPhone A818g Duo-Android-Android': { s: uc-d, d: 'MyPhone A818g Duo', o: Android, u: Android, c: '' }
-'MyPhone A848 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848 Duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A848g Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848g Duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A848i Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848i Duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A888 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A888 Duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A888_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A888_Duo', o: Android, u: 'UC Browser', c: '' }
-'MyPhone a898 duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone a898 duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A898 duo-Android-Android': { s: uc-d, d: 'MyPhone A898 duo', o: Android, u: Android, c: '' }
-'MyPhone A898 Duo-Android-Android': { s: uc-d, d: 'MyPhone A898 Duo', o: Android, u: Android, c: '' }
-'MyPhone A919 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A919 Duo', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPhone A919_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A919_Duo', o: Android, u: 'UC Browser', c: '' }
-'MyPhone A919i Duo-Android-Android': { s: uc-d, d: 'MyPhone A919i Duo', o: Android, u: Android, c: '' }
-'MyPhone Agua Cyclone-Android-Opera Mobile': { s: uc-d, d: 'MyPhone Agua Cyclone', o: Android, u: 'Opera Mobile', c: '' }
-'MyPhone Agua Iceberg-Android-Android': { s: uc-d, d: 'MyPhone Agua Iceberg', o: Android, u: Android, c: '' }
-'MyPhone Agua Iceberg Mini-Android-Android': { s: uc-d, d: 'MyPhone Agua Iceberg Mini', o: Android, u: Android, c: '' }
-'MyPhone Agua Rain 2G-Android-Android': { s: uc-d, d: 'MyPhone Agua Rain 2G', o: Android, u: Android, c: '' }
-'MyPhone Agua Storm-Android-Android': { s: uc-d, d: 'MyPhone Agua Storm', o: Android, u: Android, c: '' }
-'MyPhone Agua Vortex-Android-Android': { s: uc-d, d: 'MyPhone Agua Vortex', o: Android, u: Android, c: '' }
+'MyPhone A818 Slim Duo-Android-Android': { s: uc-d, d: 'MyPhone A818 Slim Duo', o: Android, u: Android, c: mobile }
+'MyPhone A818_Slim_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A818_Slim_Duo', o: Android, u: 'UC Browser', c: mobile }
+'MyPhone A818g Duo-Android-Android': { s: uc-d, d: 'MyPhone A818g Duo', o: Android, u: Android, c: mobile }
+'MyPhone A848 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848 Duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A848g Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848g Duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A848i Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A848i Duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A888 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A888 Duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A888_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A888_Duo', o: Android, u: 'UC Browser', c: mobile }
+'MyPhone a898 duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone a898 duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A898 duo-Android-Android': { s: uc-d, d: 'MyPhone A898 duo', o: Android, u: Android, c: mobile }
+'MyPhone A898 Duo-Android-Android': { s: uc-d, d: 'MyPhone A898 Duo', o: Android, u: Android, c: mobile }
+'MyPhone A919 Duo-Android-Chrome Mobile': { s: uc-d, d: 'MyPhone A919 Duo', o: Android, u: 'Chrome Mobile', c: mobile }
+'MyPhone A919_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A919_Duo', o: Android, u: 'UC Browser', c: mobile }
+'MyPhone A919i Duo-Android-Android': { s: uc-d, d: 'MyPhone A919i Duo', o: Android, u: Android, c: mobile }
+'MyPhone Agua Cyclone-Android-Opera Mobile': { s: uc-d, d: 'MyPhone Agua Cyclone', o: Android, u: 'Opera Mobile', c: mobile }
+'MyPhone Agua Iceberg-Android-Android': { s: uc-d, d: 'MyPhone Agua Iceberg', o: Android, u: Android, c: mobile }
+'MyPhone Agua Iceberg Mini-Android-Android': { s: uc-d, d: 'MyPhone Agua Iceberg Mini', o: Android, u: Android, c: mobile }
+'MyPhone Agua Rain 2G-Android-Android': { s: uc-d, d: 'MyPhone Agua Rain 2G', o: Android, u: Android, c: mobile }
+'MyPhone Agua Storm-Android-Android': { s: uc-d, d: 'MyPhone Agua Storm', o: Android, u: Android, c: mobile }
+'MyPhone Agua Vortex-Android-Android': { s: uc-d, d: 'MyPhone Agua Vortex', o: Android, u: Android, c: mobile }
 'A5 Duo-Android-Opera Mobile': { s: uc-d, d: 'A5 Duo', o: Android, u: 'Opera Mobile', c: '' }
 'A818 Duo-Android-Opera Mobile': { s: uc-d, d: 'A818 Duo', o: Android, u: 'Opera Mobile', c: '' }
 'a818 duo-Android-Safari': { s: uc-d, d: 'a818 duo', o: Android, u: Safari, c: '' }
