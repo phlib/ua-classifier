@@ -291,9 +291,9 @@ TM500-Android-Android: { s: uc-d, d: TM500, o: Android, u: Android, c: '' }
 'ONEPAD 940-Android-Chrome': { s: uc-d, d: 'ONEPAD 940', o: Android, u: Chrome, c: tablet }
 'OnePAD 970-Android-Chrome': { s: uc-d, d: 'OnePAD 970', o: Android, u: Chrome, c: tablet }
 ONEPAD940-Android-Chrome: { s: uc-d, d: ONEPAD940, o: Android, u: Chrome, c: tablet }
-'Airpad DS101M-Android-Chrome': { s: uc-d, d: 'Airpad DS101M', o: Android, u: Chrome, c: '' }
-'Airpad DS820M-Android-Chrome': { s: uc-d, d: 'Airpad DS820M', o: Android, u: Chrome, c: '' }
-'Airpad XL-Android-Android': { s: uc-d, d: 'Airpad XL', o: Android, u: Android, c: '' }
+'Airpad DS101M-Android-Chrome': { s: uc-d, d: 'Airpad DS101M', o: Android, u: Chrome, c: tablet }
+'Airpad DS820M-Android-Chrome': { s: uc-d, d: 'Airpad DS820M', o: Android, u: Chrome, c: tablet }
+'Airpad XL-Android-Android': { s: uc-d, d: 'Airpad XL', o: Android, u: Android, c: tablet }
 'ALCATEL ONE TOUCH 4030D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 4030D', o: Android, u: Other, c: mobile }
 'ALCATEL ONE TOUCH 5020D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5020D', o: Android, u: Other, c: mobile }
 'ALCATEL ONE TOUCH 5035D-Android-Other': { s: uc-d, d: 'ALCATEL ONE TOUCH 5035D', o: Android, u: Other, c: mobile }
