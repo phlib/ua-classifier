@@ -14455,7 +14455,7 @@ VT71-Android-Chrome: { s: uc-d, d: VT71, o: Android, u: Chrome, c: '' }
 'ViewPad 10e-Android-Chrome': { s: uc-d, d: 'ViewPad 10e', o: Android, u: Chrome, c: tablet }
 'ViewPad 10S-Android-Opera': { s: uc-d, d: 'ViewPad 10S', o: Android, u: Opera, c: tablet }
 'ViewPad 10s-Android-Android': { s: uc-d, d: 'ViewPad 10s', o: Android, u: Android, c: tablet }
-'ViewPad 4-Android-Android': { s: uc-d, d: 'ViewPad 4', o: Android, u: Android, c: '' }
+'ViewPad 4-Android-Android': { s: uc-d, d: 'ViewPad 4', o: Android, u: Android, c: mobile }
 'ViewPad 701N-Android-Android': { s: uc-d, d: 'ViewPad 701N', o: Android, u: Android, c: tablet }
 'ViewPad 7D-Android-Chrome Mobile': { s: uc-d, d: 'ViewPad 7D', o: Android, u: 'Chrome Mobile', c: tablet }
 'ViewPad 7Q-Android-Android': { s: uc-d, d: 'ViewPad 7Q', o: Android, u: Android, c: tablet }
