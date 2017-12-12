@@ -7943,9 +7943,9 @@ PRIMO8-Android-Chrome: { s: uc-d, d: PRIMO8, o: Android, u: Chrome, c: '' }
 Primo81-Android-Chrome: { s: uc-d, d: Primo81, o: Android, u: Chrome, c: '' }
 Diamond-Android-Opera: { s: uc-d, d: Diamond, o: Android, u: Opera, c: '' }
 'Titanium-Android-Chrome Mobile': { s: uc-d, d: Titanium, o: Android, u: 'Chrome Mobile', c: '' }
-'MyPad 103-Android-Android': { s: uc-d, d: 'MyPad 103', o: Android, u: Android, c: '' }
-'MyPad 2-Android-Chrome Mobile': { s: uc-d, d: 'MyPad 2', o: Android, u: 'Chrome Mobile', c: '' }
-'MyPad P3-Android-Android': { s: uc-d, d: 'MyPad P3', o: Android, u: Android, c: '' }
+'MyPad 103-Android-Android': { s: uc-d, d: 'MyPad 103', o: Android, u: Android, c: tablet }
+'MyPad 2-Android-Chrome Mobile': { s: uc-d, d: 'MyPad 2', o: Android, u: 'Chrome Mobile', c: tablet }
+'MyPad P3-Android-Android': { s: uc-d, d: 'MyPad P3', o: Android, u: Android, c: tablet }
 'MyPhone A818 Slim Duo-Android-Android': { s: uc-d, d: 'MyPhone A818 Slim Duo', o: Android, u: Android, c: '' }
 'MyPhone A818_Slim_Duo-Android-UC Browser': { s: uc-d, d: 'MyPhone A818_Slim_Duo', o: Android, u: 'UC Browser', c: '' }
 'MyPhone A818g Duo-Android-Android': { s: uc-d, d: 'MyPhone A818g Duo', o: Android, u: Android, c: '' }
