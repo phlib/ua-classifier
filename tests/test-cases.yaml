@@ -4612,19 +4612,19 @@ NT-3902S-Android-Chrome: { s: uc-d, d: NT-3902S, o: Android, u: Chrome, c: '' }
 'i-mobile i-STYLE Q4-Android-Chrome Mobile': { s: uc-d, d: 'i-mobile i-STYLE Q4', o: Android, u: 'Chrome Mobile', c: '' }
 'i-mobile i-STYLE Q4A-Android-Chrome Mobile': { s: uc-d, d: 'i-mobile i-STYLE Q4A', o: Android, u: 'Chrome Mobile', c: '' }
 'i-mobile i-STYLE2.1-Android-Chrome Mobile': { s: uc-d, d: 'i-mobile i-STYLE2.1', o: Android, u: 'Chrome Mobile', c: '' }
-'ImPAD 0114-Android-Android': { s: uc-d, d: 'ImPAD 0114', o: Android, u: Android, c: '' }
-'ImPAD 0413-Android-Chrome Mobile': { s: uc-d, d: 'ImPAD 0413', o: Android, u: 'Chrome Mobile', c: '' }
-'ImPAD 1311-Android-Android': { s: uc-d, d: 'ImPAD 1311', o: Android, u: Android, c: '' }
-'ImPAD 1412 rev2-Android-Android': { s: uc-d, d: 'ImPAD 1412 rev2', o: Android, u: Android, c: '' }
-'ImPAD 2113-Android-Yandex Browser': { s: uc-d, d: 'ImPAD 2113', o: Android, u: 'Yandex Browser', c: '' }
-'ImPAD 3113-Android-Android': { s: uc-d, d: 'ImPAD 3113', o: Android, u: Android, c: '' }
-'ImPAD 4313-Android-Opera': { s: uc-d, d: 'ImPAD 4313', o: Android, u: Opera, c: '' }
-'ImPAD 6213M-Android-Android': { s: uc-d, d: 'ImPAD 6213M', o: Android, u: Android, c: '' }
-'ImPAD 6213M_v2-Android-Yandex Browser': { s: uc-d, d: 'ImPAD 6213M_v2', o: Android, u: 'Yandex Browser', c: '' }
-'ImPAD 6413-Android-Android': { s: uc-d, d: 'ImPAD 6413', o: Android, u: Android, c: '' }
-'ImPAD 8901-Android-Android': { s: uc-d, d: 'ImPAD 8901', o: Android, u: Android, c: '' }
-'ImPAD 9702-Android-Opera': { s: uc-d, d: 'ImPAD 9702', o: Android, u: Opera, c: '' }
-'ImPAD 9704-Android-Android': { s: uc-d, d: 'ImPAD 9704', o: Android, u: Android, c: '' }
+'ImPAD 0114-Android-Android': { s: uc-d, d: 'ImPAD 0114', o: Android, u: Android, c: tablet }
+'ImPAD 0413-Android-Chrome Mobile': { s: uc-d, d: 'ImPAD 0413', o: Android, u: 'Chrome Mobile', c: tablet }
+'ImPAD 1311-Android-Android': { s: uc-d, d: 'ImPAD 1311', o: Android, u: Android, c: tablet }
+'ImPAD 1412 rev2-Android-Android': { s: uc-d, d: 'ImPAD 1412 rev2', o: Android, u: Android, c: tablet }
+'ImPAD 2113-Android-Yandex Browser': { s: uc-d, d: 'ImPAD 2113', o: Android, u: 'Yandex Browser', c: tablet }
+'ImPAD 3113-Android-Android': { s: uc-d, d: 'ImPAD 3113', o: Android, u: Android, c: tablet }
+'ImPAD 4313-Android-Opera': { s: uc-d, d: 'ImPAD 4313', o: Android, u: Opera, c: tablet }
+'ImPAD 6213M-Android-Android': { s: uc-d, d: 'ImPAD 6213M', o: Android, u: Android, c: tablet }
+'ImPAD 6213M_v2-Android-Yandex Browser': { s: uc-d, d: 'ImPAD 6213M_v2', o: Android, u: 'Yandex Browser', c: tablet }
+'ImPAD 6413-Android-Android': { s: uc-d, d: 'ImPAD 6413', o: Android, u: Android, c: tablet }
+'ImPAD 8901-Android-Android': { s: uc-d, d: 'ImPAD 8901', o: Android, u: Android, c: tablet }
+'ImPAD 9702-Android-Opera': { s: uc-d, d: 'ImPAD 9702', o: Android, u: Opera, c: tablet }
+'ImPAD 9704-Android-Android': { s: uc-d, d: 'ImPAD 9704', o: Android, u: Android, c: tablet }
 'Infinix X351-Android-Opera Mobile': { s: uc-d, d: 'Infinix X351', o: Android, u: 'Opera Mobile', c: '' }
 'Infinix X352-Android-Android': { s: uc-d, d: 'Infinix X352', o: Android, u: Android, c: '' }
 'Infinix X400-Android-Chrome Mobile': { s: uc-d, d: 'Infinix X400', o: Android, u: 'Chrome Mobile', c: '' }
