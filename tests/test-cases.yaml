@@ -2121,57 +2121,57 @@ IQ454-Android-Android: { s: uc-d, d: IQ454, o: Android, u: Android, c: '' }
 'IQ9.1-Android-Chrome Mobile': { s: uc-d, d: IQ9.1, o: Android, u: 'Chrome Mobile', c: '' }
 IQTALK-Android-Android: { s: uc-d, d: IQTALK, o: Android, u: Android, c: '' }
 'IQTalk Crystal-Android-Android': { s: uc-d, d: 'IQTalk Crystal', o: Android, u: Android, c: '' }
-'Fly F350-Android-Android': { s: uc-d, d: 'Fly F350', o: Android, u: Android, c: '' }
-'Fly F40-Android-Android': { s: uc-d, d: 'Fly F40', o: Android, u: Android, c: '' }
-'FLY F40+-Android-Android': { s: uc-d, d: 'FLY F40+', o: Android, u: Android, c: '' }
-'FLY F410-Android-Chrome Mobile': { s: uc-d, d: 'FLY F410', o: Android, u: 'Chrome Mobile', c: '' }
-'FLY F45s-Android-Chrome Mobile': { s: uc-d, d: 'FLY F45s', o: Android, u: 'Chrome Mobile', c: '' }
-'FLY IQ 442 Miracle-Android-Android': { s: uc-d, d: 'FLY IQ 442 Miracle', o: Android, u: Android, c: '' }
-'Fly IQ 450-Android-Android': { s: uc-d, d: 'Fly IQ 450', o: Android, u: Android, c: '' }
-'FLY IQ230-Android-Android': { s: uc-d, d: 'FLY IQ230', o: Android, u: Android, c: '' }
-'Fly IQ235-Android-Android': { s: uc-d, d: 'Fly IQ235', o: Android, u: Android, c: '' }
-'Fly IQ237-Android-Android': { s: uc-d, d: 'Fly IQ237', o: Android, u: Android, c: '' }
-'Fly IQ238-Android-Android': { s: uc-d, d: 'Fly IQ238', o: Android, u: Android, c: '' }
-'Fly IQ239-Android-Android': { s: uc-d, d: 'Fly IQ239', o: Android, u: Android, c: '' }
-'Fly IQ245-Android-Android': { s: uc-d, d: 'Fly IQ245', o: Android, u: Android, c: '' }
-'Fly IQ245 Plus-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ245 Plus', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ245Plus-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ245Plus', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ245ro.product.brand=Lenovo-Android-Android': { s: uc-d, d: 'Fly IQ245ro.product.brand=Lenovo', o: Android, u: Android, c: '' }
-'Fly IQ246-Android-Android': { s: uc-d, d: 'Fly IQ246', o: Android, u: Android, c: '' }
-'FLY IQ256-Android-Opera Mobile': { s: uc-d, d: 'FLY IQ256', o: Android, u: 'Opera Mobile', c: '' }
-'FLY IQ256 Horizon-Android-Android': { s: uc-d, d: 'FLY IQ256 Horizon', o: Android, u: Android, c: '' }
-'Fly IQ270-Android-Android': { s: uc-d, d: 'Fly IQ270', o: Android, u: Android, c: '' }
-'Fly IQ275-Android-Android': { s: uc-d, d: 'Fly IQ275', o: Android, u: Android, c: '' }
-'Fly IQ280-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ280', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ285-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ285', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ285 Turbo-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ285 Turbo', o: Android, u: 'Opera Mobile', c: '' }
-'FLY IQ310-Android-Opera Mobile': { s: uc-d, d: 'FLY IQ310', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ320-Android-Android': { s: uc-d, d: 'Fly IQ320', o: Android, u: Android, c: '' }
-'Fly IQ430-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ430', o: Android, u: 'Opera Mobile', c: '' }
-'Fly IQ431-Android-Android': { s: uc-d, d: 'Fly IQ431', o: Android, u: Android, c: '' }
-'Fly IQ432-Android-Android': { s: uc-d, d: 'Fly IQ432', o: Android, u: Android, c: '' }
-'Fly IQ440-Android-Android': { s: uc-d, d: 'Fly IQ440', o: Android, u: Android, c: '' }
-'Fly IQ4403-Android-Android': { s: uc-d, d: 'Fly IQ4403', o: Android, u: Android, c: '' }
-'Fly IQ4404-Android-Android': { s: uc-d, d: 'Fly IQ4404', o: Android, u: Android, c: '' }
-'Fly IQ4405_Quad-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ4405_Quad', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ441-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ441', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ4410 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4410 Quad', o: Android, u: Android, c: '' }
-'Fly IQ4411 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4411 Quad', o: Android, u: Android, c: '' }
-'Fly IQ4412 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4412 Quad', o: Android, u: Android, c: '' }
-'Fly IQ442-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ442', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ442_Quad-Android-Android': { s: uc-d, d: 'Fly IQ442_Quad', o: Android, u: Android, c: '' }
-'FLY IQ443-Android-Chrome Mobile': { s: uc-d, d: 'FLY IQ443', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ444-Android-Android': { s: uc-d, d: 'Fly IQ444', o: Android, u: Android, c: '' }
-'Fly IQ444 Quattro-Android-Android': { s: uc-d, d: 'Fly IQ444 Quattro', o: Android, u: Android, c: '' }
-'Fly IQ445-Android-Android': { s: uc-d, d: 'Fly IQ445', o: Android, u: Android, c: '' }
-'Fly IQ446-Android-Android': { s: uc-d, d: 'Fly IQ446', o: Android, u: Android, c: '' }
-'Fly IQ447-Android-Android': { s: uc-d, d: 'Fly IQ447', o: Android, u: Android, c: '' }
-'Fly IQ449-Android-Android': { s: uc-d, d: 'Fly IQ449', o: Android, u: Android, c: '' }
-'Fly IQ450-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ450', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ450 Quattro-Android-Android': { s: uc-d, d: 'Fly IQ450 Quattro', o: Android, u: Android, c: '' }
-'Fly IQ451-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ451', o: Android, u: 'Chrome Mobile', c: '' }
-'Fly IQ452 Quad-Android-Android': { s: uc-d, d: 'Fly IQ452 Quad', o: Android, u: Android, c: '' }
-'Fly IQ454-Android-Android': { s: uc-d, d: 'Fly IQ454', o: Android, u: Android, c: '' }
+'Fly F350-Android-Android': { s: uc-d, d: 'Fly F350', o: Android, u: Android, c: mobile }
+'Fly F40-Android-Android': { s: uc-d, d: 'Fly F40', o: Android, u: Android, c: mobile }
+'FLY F40+-Android-Android': { s: uc-d, d: 'FLY F40+', o: Android, u: Android, c: mobile }
+'FLY F410-Android-Chrome Mobile': { s: uc-d, d: 'FLY F410', o: Android, u: 'Chrome Mobile', c: mobile }
+'FLY F45s-Android-Chrome Mobile': { s: uc-d, d: 'FLY F45s', o: Android, u: 'Chrome Mobile', c: mobile }
+'FLY IQ 442 Miracle-Android-Android': { s: uc-d, d: 'FLY IQ 442 Miracle', o: Android, u: Android, c: mobile }
+'Fly IQ 450-Android-Android': { s: uc-d, d: 'Fly IQ 450', o: Android, u: Android, c: mobile }
+'FLY IQ230-Android-Android': { s: uc-d, d: 'FLY IQ230', o: Android, u: Android, c: mobile }
+'Fly IQ235-Android-Android': { s: uc-d, d: 'Fly IQ235', o: Android, u: Android, c: mobile }
+'Fly IQ237-Android-Android': { s: uc-d, d: 'Fly IQ237', o: Android, u: Android, c: mobile }
+'Fly IQ238-Android-Android': { s: uc-d, d: 'Fly IQ238', o: Android, u: Android, c: mobile }
+'Fly IQ239-Android-Android': { s: uc-d, d: 'Fly IQ239', o: Android, u: Android, c: mobile }
+'Fly IQ245-Android-Android': { s: uc-d, d: 'Fly IQ245', o: Android, u: Android, c: mobile }
+'Fly IQ245 Plus-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ245 Plus', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ245Plus-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ245Plus', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ245ro.product.brand=Lenovo-Android-Android': { s: uc-d, d: 'Fly IQ245ro.product.brand=Lenovo', o: Android, u: Android, c: mobile }
+'Fly IQ246-Android-Android': { s: uc-d, d: 'Fly IQ246', o: Android, u: Android, c: mobile }
+'FLY IQ256-Android-Opera Mobile': { s: uc-d, d: 'FLY IQ256', o: Android, u: 'Opera Mobile', c: mobile }
+'FLY IQ256 Horizon-Android-Android': { s: uc-d, d: 'FLY IQ256 Horizon', o: Android, u: Android, c: mobile }
+'Fly IQ270-Android-Android': { s: uc-d, d: 'Fly IQ270', o: Android, u: Android, c: mobile }
+'Fly IQ275-Android-Android': { s: uc-d, d: 'Fly IQ275', o: Android, u: Android, c: mobile }
+'Fly IQ280-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ280', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ285-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ285', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ285 Turbo-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ285 Turbo', o: Android, u: 'Opera Mobile', c: mobile }
+'FLY IQ310-Android-Opera Mobile': { s: uc-d, d: 'FLY IQ310', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ320-Android-Android': { s: uc-d, d: 'Fly IQ320', o: Android, u: Android, c: mobile }
+'Fly IQ430-Android-Opera Mobile': { s: uc-d, d: 'Fly IQ430', o: Android, u: 'Opera Mobile', c: mobile }
+'Fly IQ431-Android-Android': { s: uc-d, d: 'Fly IQ431', o: Android, u: Android, c: mobile }
+'Fly IQ432-Android-Android': { s: uc-d, d: 'Fly IQ432', o: Android, u: Android, c: mobile }
+'Fly IQ440-Android-Android': { s: uc-d, d: 'Fly IQ440', o: Android, u: Android, c: mobile }
+'Fly IQ4403-Android-Android': { s: uc-d, d: 'Fly IQ4403', o: Android, u: Android, c: mobile }
+'Fly IQ4404-Android-Android': { s: uc-d, d: 'Fly IQ4404', o: Android, u: Android, c: mobile }
+'Fly IQ4405_Quad-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ4405_Quad', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ441-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ441', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ4410 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4410 Quad', o: Android, u: Android, c: mobile }
+'Fly IQ4411 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4411 Quad', o: Android, u: Android, c: mobile }
+'Fly IQ4412 Quad-Android-Android': { s: uc-d, d: 'Fly IQ4412 Quad', o: Android, u: Android, c: mobile }
+'Fly IQ442-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ442', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ442_Quad-Android-Android': { s: uc-d, d: 'Fly IQ442_Quad', o: Android, u: Android, c: mobile }
+'FLY IQ443-Android-Chrome Mobile': { s: uc-d, d: 'FLY IQ443', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ444-Android-Android': { s: uc-d, d: 'Fly IQ444', o: Android, u: Android, c: mobile }
+'Fly IQ444 Quattro-Android-Android': { s: uc-d, d: 'Fly IQ444 Quattro', o: Android, u: Android, c: mobile }
+'Fly IQ445-Android-Android': { s: uc-d, d: 'Fly IQ445', o: Android, u: Android, c: mobile }
+'Fly IQ446-Android-Android': { s: uc-d, d: 'Fly IQ446', o: Android, u: Android, c: mobile }
+'Fly IQ447-Android-Android': { s: uc-d, d: 'Fly IQ447', o: Android, u: Android, c: mobile }
+'Fly IQ449-Android-Android': { s: uc-d, d: 'Fly IQ449', o: Android, u: Android, c: mobile }
+'Fly IQ450-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ450', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ450 Quattro-Android-Android': { s: uc-d, d: 'Fly IQ450 Quattro', o: Android, u: Android, c: mobile }
+'Fly IQ451-Android-Chrome Mobile': { s: uc-d, d: 'Fly IQ451', o: Android, u: 'Chrome Mobile', c: mobile }
+'Fly IQ452 Quad-Android-Android': { s: uc-d, d: 'Fly IQ452 Quad', o: Android, u: Android, c: mobile }
+'Fly IQ454-Android-Android': { s: uc-d, d: 'Fly IQ454', o: Android, u: Android, c: mobile }
 'Freescale imx51_bbg-Android-Android': { s: uc-d, d: 'Freescale imx51_bbg', o: Android, u: Android, c: '' }
 'Freescale imx51_p3-Android-Android': { s: uc-d, d: 'Freescale imx51_p3', o: Android, u: Android, c: '' }
 'Freescale imx53_loco-Android-Android': { s: uc-d, d: 'Freescale imx53_loco', o: Android, u: Android, c: '' }
