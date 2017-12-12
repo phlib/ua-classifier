@@ -6814,14 +6814,14 @@ MID713-Android-Android: { s: uc-d, d: MID713, o: Android, u: Android, c: '' }
 'Mediacom M-MP927I-Android-Chrome': { s: uc-d, d: 'Mediacom M-MP927I', o: Android, u: Chrome, c: '' }
 'Mediacom M-MP940M-Android-Android': { s: uc-d, d: 'Mediacom M-MP940M', o: Android, u: Android, c: '' }
 'Mediacom M-MP99S4-Android-Android': { s: uc-d, d: 'Mediacom M-MP99S4', o: Android, u: Android, c: '' }
-'Mediacom SmartPad 85S23G-Android-Android': { s: uc-d, d: 'Mediacom SmartPad 85S23G', o: Android, u: Android, c: '' }
-'Mediacom SmartPad1010i-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad1010i', o: Android, u: Chrome, c: '' }
-'Mediacom SmartPad720i-DroidCom-Android-Android': { s: uc-d, d: 'Mediacom SmartPad720i-DroidCom', o: Android, u: Android, c: '' }
-'Mediacom SmartPad7503G-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad7503G', o: Android, u: Chrome, c: '' }
-'Mediacom SmartPad810c-Android-Android': { s: uc-d, d: 'Mediacom SmartPad810c', o: Android, u: Android, c: '' }
-'Mediacom SmartPad870-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad870', o: Android, u: Chrome, c: '' }
-'Mediacom SmartPad970s2-Android-Android': { s: uc-d, d: 'Mediacom SmartPad970s2', o: Android, u: Android, c: '' }
-'Mediacom SmartPad970s23G-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad970s23G', o: Android, u: Chrome, c: '' }
+'Mediacom SmartPad 85S23G-Android-Android': { s: uc-d, d: 'Mediacom SmartPad 85S23G', o: Android, u: Android, c: tablet }
+'Mediacom SmartPad1010i-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad1010i', o: Android, u: Chrome, c: tablet }
+'Mediacom SmartPad720i-DroidCom-Android-Android': { s: uc-d, d: 'Mediacom SmartPad720i-DroidCom', o: Android, u: Android, c: tablet }
+'Mediacom SmartPad7503G-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad7503G', o: Android, u: Chrome, c: tablet }
+'Mediacom SmartPad810c-Android-Android': { s: uc-d, d: 'Mediacom SmartPad810c', o: Android, u: Android, c: tablet }
+'Mediacom SmartPad870-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad870', o: Android, u: Chrome, c: tablet }
+'Mediacom SmartPad970s2-Android-Android': { s: uc-d, d: 'Mediacom SmartPad970s2', o: Android, u: Android, c: tablet }
+'Mediacom SmartPad970s23G-Android-Chrome': { s: uc-d, d: 'Mediacom SmartPad970s23G', o: Android, u: Chrome, c: tablet }
 IS11N-Android-Android: { s: uc-d, d: IS11N, o: Android, u: Android, c: '' }
 'MEDION LIFE P4310-Android-Other': { s: uc-d, d: 'MEDION LIFE P4310', o: Android, u: Other, c: '' }
 'MEDION P4013-Android-Other': { s: uc-d, d: 'MEDION P4013', o: Android, u: Other, c: '' }
