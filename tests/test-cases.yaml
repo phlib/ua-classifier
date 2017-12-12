@@ -2360,11 +2360,11 @@ GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: des
 'Haier HW-W910-Android-Chrome Mobile': { s: uc-d, d: 'Haier HW-W910', o: Android, u: 'Chrome Mobile', c: '' }
 'Haier HW-W910 Elbuit v5.2-Android-Chrome Mobile': { s: uc-d, d: 'Haier HW-W910 Elbuit v5.2', o: Android, u: 'Chrome Mobile', c: '' }
 'Haier W700-Android-Android': { s: uc-d, d: 'Haier W700', o: Android, u: Android, c: '' }
-'Haipad PAD1016-Android-Chrome': { s: uc-d, d: 'Haipad PAD1016', o: Android, u: Chrome, c: '' }
-'Haipad M7-Android-Chrome': { s: uc-d, d: 'Haipad M7', o: Android, u: Chrome, c: '' }
-'Haipad M701-Android-Android': { s: uc-d, d: 'Haipad M701', o: Android, u: Android, c: '' }
-'Haipad M8-Android-Opera': { s: uc-d, d: 'Haipad M8', o: Android, u: Opera, c: '' }
-'Haipad M9-Android-Chrome Mobile': { s: uc-d, d: 'Haipad M9', o: Android, u: 'Chrome Mobile', c: '' }
+'Haipad PAD1016-Android-Chrome': { s: uc-d, d: 'Haipad PAD1016', o: Android, u: Chrome, c: tablet }
+'Haipad M7-Android-Chrome': { s: uc-d, d: 'Haipad M7', o: Android, u: Chrome, c: tablet }
+'Haipad M701-Android-Android': { s: uc-d, d: 'Haipad M701', o: Android, u: Android, c: tablet }
+'Haipad M8-Android-Opera': { s: uc-d, d: 'Haipad M8', o: Android, u: Opera, c: tablet }
+'Haipad M9-Android-Chrome Mobile': { s: uc-d, d: 'Haipad M9', o: Android, u: 'Chrome Mobile', c: tablet }
 'Hannspree SN10T1-Android-Chrome': { s: uc-d, d: 'Hannspree SN10T1', o: Android, u: Chrome, c: '' }
 'Hannspree SN10T2-Android-Android': { s: uc-d, d: 'Hannspree SN10T2', o: Android, u: Android, c: '' }
 'Hannspree SN14T71-Android-Chrome': { s: uc-d, d: 'Hannspree SN14T71', o: Android, u: Chrome, c: '' }
