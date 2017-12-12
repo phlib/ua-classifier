@@ -14229,8 +14229,8 @@ TECNO_N9-Android-Chrome: { s: uc-d, d: TECNO_N9, o: Android, u: Chrome, c: '' }
 'Telechips TCC8902-Android-Android': { s: uc-d, d: 'Telechips TCC8902', o: Android, u: Android, c: '' }
 'Telechips TCC9300-Android-Android': { s: uc-d, d: 'Telechips TCC9300', o: Android, u: Android, c: '' }
 'T-Hub2-Android-Opera Mobile': { s: uc-d, d: T-Hub2, o: Android, u: 'Opera Mobile', c: '' }
-'Terra PAD1001-Android-Chrome': { s: uc-d, d: 'Terra PAD1001', o: Android, u: Chrome, c: '' }
-'Terra PAD1002-Android-Chrome': { s: uc-d, d: 'Terra PAD1002', o: Android, u: Chrome, c: '' }
+'Terra PAD1001-Android-Chrome': { s: uc-d, d: 'Terra PAD1001', o: Android, u: Chrome, c: tablet }
+'Terra PAD1002-Android-Chrome': { s: uc-d, d: 'Terra PAD1002', o: Android, u: Chrome, c: tablet }
 'TB-7000-Android-Opera Mobile': { s: uc-d, d: TB-7000, o: Android, u: 'Opera Mobile', c: '' }
 TB-805A-Android-Android: { s: uc-d, d: TB-805A, o: Android, u: Android, c: '' }
 TB-805AE-Android-Android: { s: uc-d, d: TB-805AE, o: Android, u: Android, c: '' }
