@@ -9312,15 +9312,15 @@ P8000-Android-Android: { s: uc-d, d: P8000, o: Android, u: Android, c: '' }
 'Pantech TXT80455-BREW-Opera Mini': { s: uc-d, d: 'Pantech TXT80455', o: BREW, u: 'Opera Mini', c: '' }
 'Pantech TXT8045660-BREW-Opera Mini': { s: uc-d, d: 'Pantech TXT8045660', o: BREW, u: 'Opera Mini', c: '' }
 'Pantech TXT8045d-BREW-Opera Mini': { s: uc-d, d: 'Pantech TXT8045d', o: BREW, u: 'Opera Mini', c: '' }
-'PAPYRE pad 711-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 711', o: Android, u: Chrome, c: '' }
-'PAPYRE Pad 712-Android-Chrome': { s: uc-d, d: 'PAPYRE Pad 712', o: Android, u: Chrome, c: '' }
-'PAPYRE pad 712-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 712', o: Android, u: Chrome, c: '' }
-'PAPYRE pad 713-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 713', o: Android, u: Chrome, c: '' }
-'PAPYRE Pad 715-Android-Chrome': { s: uc-d, d: 'PAPYRE Pad 715', o: Android, u: Chrome, c: '' }
-'PAPYRE pad 715-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 715', o: Android, u: Chrome, c: '' }
-'Papyre pad 970-Android-Chrome': { s: uc-d, d: 'Papyre pad 970', o: Android, u: Chrome, c: '' }
-'PAPYRE pad_7.1-Android-Android': { s: uc-d, d: 'PAPYRE pad_7.1', o: Android, u: Android, c: '' }
-'Papyre pad-970-Android-Chrome': { s: uc-d, d: 'Papyre pad-970', o: Android, u: Chrome, c: '' }
+'PAPYRE pad 711-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 711', o: Android, u: Chrome, c: tablet }
+'PAPYRE Pad 712-Android-Chrome': { s: uc-d, d: 'PAPYRE Pad 712', o: Android, u: Chrome, c: tablet }
+'PAPYRE pad 712-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 712', o: Android, u: Chrome, c: tablet }
+'PAPYRE pad 713-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 713', o: Android, u: Chrome, c: tablet }
+'PAPYRE Pad 715-Android-Chrome': { s: uc-d, d: 'PAPYRE Pad 715', o: Android, u: Chrome, c: tablet }
+'PAPYRE pad 715-Android-Chrome': { s: uc-d, d: 'PAPYRE pad 715', o: Android, u: Chrome, c: tablet }
+'Papyre pad 970-Android-Chrome': { s: uc-d, d: 'Papyre pad 970', o: Android, u: Chrome, c: tablet }
+'PAPYRE pad_7.1-Android-Android': { s: uc-d, d: 'PAPYRE pad_7.1', o: Android, u: Android, c: tablet }
+'Papyre pad-970-Android-Chrome': { s: uc-d, d: 'Papyre pad-970', o: Android, u: Chrome, c: tablet }
 'Pearl X10.Dual-Android-Chrome': { s: uc-d, d: 'Pearl X10.Dual', o: Android, u: Chrome, c: '' }
 'Pearl X10.dual-Android-Android': { s: uc-d, d: 'Pearl X10.dual', o: Android, u: Android, c: '' }
 'Pearl X10.Dual+-Android-Chrome': { s: uc-d, d: 'Pearl X10.Dual+', o: Android, u: Chrome, c: '' }
