@@ -923,31 +923,31 @@ PAD-FMD700P-Android-Chrome: { s: uc-d, d: PAD-FMD700P, o: Android, u: Chrome, c:
 'Arnova 90 G4-Android-Opera': { s: uc-d, d: 'Arnova 90 G4', o: Android, u: Opera, c: '' }
 'Arnova 90G3-Android-Chrome': { s: uc-d, d: 'Arnova 90G3', o: Android, u: Chrome, c: '' }
 'Arnova 97G4-Android-Chrome': { s: uc-d, d: 'Arnova 97G4', o: Android, u: Chrome, c: '' }
-'Assistant AP-100-Android-Chrome': { s: uc-d, d: 'Assistant AP-100', o: Android, u: Chrome, c: '' }
-'Assistant AP-101-Android-Android': { s: uc-d, d: 'Assistant AP-101', o: Android, u: Android, c: '' }
-'Assistant AP-102-Android-Android': { s: uc-d, d: 'Assistant AP-102', o: Android, u: Android, c: '' }
-'Assistant AP-103-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-103', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-104-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-104', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-105-Android-Android': { s: uc-d, d: 'Assistant AP-105', o: Android, u: Android, c: '' }
-'Assistant AP-106-Android-Android': { s: uc-d, d: 'Assistant AP-106', o: Android, u: Android, c: '' }
-'Assistant AP-110-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-110', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-701-Android-Android': { s: uc-d, d: 'Assistant AP-701', o: Android, u: Android, c: '' }
-'Assistant AP-703-Android-Opera Mobile': { s: uc-d, d: 'Assistant AP-703', o: Android, u: 'Opera Mobile', c: '' }
-'Assistant AP-703BT-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-703BT', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-704-Android-Android': { s: uc-d, d: 'Assistant AP-704', o: Android, u: Android, c: '' }
-'Assistant AP-705-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-705', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-708-Android-Opera': { s: uc-d, d: 'Assistant AP-708', o: Android, u: Opera, c: '' }
-'Assistant AP-712-Android-Chrome': { s: uc-d, d: 'Assistant AP-712', o: Android, u: Chrome, c: '' }
-'Assistant AP-713-Android-Opera': { s: uc-d, d: 'Assistant AP-713', o: Android, u: Opera, c: '' }
-'Assistant AP-714-Android-Android': { s: uc-d, d: 'Assistant AP-714', o: Android, u: Android, c: '' }
-'Assistant AP-715-Android-Android': { s: uc-d, d: 'Assistant AP-715', o: Android, u: Android, c: '' }
-'Assistant AP-717G-Android-Android': { s: uc-d, d: 'Assistant AP-717G', o: Android, u: Android, c: '' }
-'Assistant AP-727G-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-727G', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-785-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-785', o: Android, u: 'Yandex Browser', c: '' }
-'Assistant AP-80104-Android-Android': { s: uc-d, d: 'Assistant AP-80104', o: Android, u: Android, c: '' }
-'Assistant AP-803-Android-Android': { s: uc-d, d: 'Assistant AP-803', o: Android, u: Android, c: '' }
-'Assistant AP-804-Android-Android': { s: uc-d, d: 'Assistant AP-804', o: Android, u: Android, c: '' }
-'Assistant AP-941-Android-Android': { s: uc-d, d: 'Assistant AP-941', o: Android, u: Android, c: '' }
+'Assistant AP-100-Android-Chrome': { s: uc-d, d: 'Assistant AP-100', o: Android, u: Chrome, c: tablet }
+'Assistant AP-101-Android-Android': { s: uc-d, d: 'Assistant AP-101', o: Android, u: Android, c: tablet }
+'Assistant AP-102-Android-Android': { s: uc-d, d: 'Assistant AP-102', o: Android, u: Android, c: tablet }
+'Assistant AP-103-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-103', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-104-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-104', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-105-Android-Android': { s: uc-d, d: 'Assistant AP-105', o: Android, u: Android, c: tablet }
+'Assistant AP-106-Android-Android': { s: uc-d, d: 'Assistant AP-106', o: Android, u: Android, c: tablet }
+'Assistant AP-110-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-110', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-701-Android-Android': { s: uc-d, d: 'Assistant AP-701', o: Android, u: Android, c: tablet }
+'Assistant AP-703-Android-Opera Mobile': { s: uc-d, d: 'Assistant AP-703', o: Android, u: 'Opera Mobile', c: tablet }
+'Assistant AP-703BT-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-703BT', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-704-Android-Android': { s: uc-d, d: 'Assistant AP-704', o: Android, u: Android, c: tablet }
+'Assistant AP-705-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-705', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-708-Android-Opera': { s: uc-d, d: 'Assistant AP-708', o: Android, u: Opera, c: tablet }
+'Assistant AP-712-Android-Chrome': { s: uc-d, d: 'Assistant AP-712', o: Android, u: Chrome, c: tablet }
+'Assistant AP-713-Android-Opera': { s: uc-d, d: 'Assistant AP-713', o: Android, u: Opera, c: tablet }
+'Assistant AP-714-Android-Android': { s: uc-d, d: 'Assistant AP-714', o: Android, u: Android, c: tablet }
+'Assistant AP-715-Android-Android': { s: uc-d, d: 'Assistant AP-715', o: Android, u: Android, c: tablet }
+'Assistant AP-717G-Android-Android': { s: uc-d, d: 'Assistant AP-717G', o: Android, u: Android, c: tablet }
+'Assistant AP-727G-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-727G', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-785-Android-Yandex Browser': { s: uc-d, d: 'Assistant AP-785', o: Android, u: 'Yandex Browser', c: tablet }
+'Assistant AP-80104-Android-Android': { s: uc-d, d: 'Assistant AP-80104', o: Android, u: Android, c: tablet }
+'Assistant AP-803-Android-Android': { s: uc-d, d: 'Assistant AP-803', o: Android, u: Android, c: tablet }
+'Assistant AP-804-Android-Android': { s: uc-d, d: 'Assistant AP-804', o: Android, u: Android, c: tablet }
+'Assistant AP-941-Android-Android': { s: uc-d, d: 'Assistant AP-941', o: Android, u: Android, c: tablet }
 'asus PadFone 2-Android-Other': { s: uc-d, d: 'asus PadFone 2', o: Android, u: Other, c: mobile }
 'Asus eeepc-Android-Opera': { s: uc-d, d: 'Asus eeepc', o: Android, u: Opera, c: desktop }
 'Asus K00C-Android-Chrome': { s: uc-d, d: 'Asus K00C', o: Android, u: Chrome, c: mobile }
