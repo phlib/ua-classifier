@@ -2241,28 +2241,28 @@ GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: des
 'GFIVE President(G7)-Android-Chrome Mobile': { s: uc-d, d: 'GFIVE President(G7)', o: Android, u: 'Chrome Mobile', c: mobile }
 'GFIVE President(G9)-Android-Android': { s: uc-d, d: 'GFIVE President(G9)', o: Android, u: Android, c: mobile }
 'GFIVE Spark(A1)-Android-Safari': { s: uc-d, d: 'GFIVE Spark(A1)', o: Android, u: Safari, c: mobile }
-'GSmart Aku A1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Aku A1', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Alto A2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Alto A2', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart G1305-Android-Android': { s: uc-d, d: 'GSmart G1305', o: Android, u: Android, c: '' }
-'GSmart G1315-Android-Android': { s: uc-d, d: 'GSmart G1315', o: Android, u: Android, c: '' }
-'GSmart G1317-Android-Android': { s: uc-d, d: 'GSmart G1317', o: Android, u: Android, c: '' }
-'GSmart G1317D-Android-Android': { s: uc-d, d: 'GSmart G1317D', o: Android, u: Android, c: '' }
-'GSmart G1317S-Android-Android': { s: uc-d, d: 'GSmart G1317S', o: Android, u: Android, c: '' }
-'GSmart G1342-Android-Chrome Mobile': { s: uc-d, d: 'GSmart G1342', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart G1345-Android-Android': { s: uc-d, d: 'GSmart G1345', o: Android, u: Android, c: '' }
-'GSmart G1355-Android-Opera Mobile': { s: uc-d, d: 'GSmart G1355', o: Android, u: 'Opera Mobile', c: '' }
-'GSmart G1362-Android-Chrome Mobile': { s: uc-d, d: 'GSmart G1362', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart GS202-Android-Chrome': { s: uc-d, d: 'GSmart GS202', o: Android, u: Chrome, c: '' }
-'GSmart GS202+-Android-Chrome Mobile': { s: uc-d, d: 'GSmart GS202+', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Guru G1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Guru G1', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Maya M1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Maya M1', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Maya M1 v2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Maya M1 v2', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Rey R3-Android-Android': { s: uc-d, d: 'GSmart Rey R3', o: Android, u: Android, c: '' }
-'GSmart Rio R1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Rio R1', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Rola-Android-Android': { s: uc-d, d: 'GSmart Rola', o: Android, u: Android, c: '' }
-'GSmart Roma R2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Roma R2', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Sierra S1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Sierra S1', o: Android, u: 'Chrome Mobile', c: '' }
-'GSmart Tuku T2-Android-Android': { s: uc-d, d: 'GSmart Tuku T2', o: Android, u: Android, c: '' }
+'GSmart Aku A1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Aku A1', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Alto A2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Alto A2', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart G1305-Android-Android': { s: uc-d, d: 'GSmart G1305', o: Android, u: Android, c: mobile }
+'GSmart G1315-Android-Android': { s: uc-d, d: 'GSmart G1315', o: Android, u: Android, c: mobile }
+'GSmart G1317-Android-Android': { s: uc-d, d: 'GSmart G1317', o: Android, u: Android, c: mobile }
+'GSmart G1317D-Android-Android': { s: uc-d, d: 'GSmart G1317D', o: Android, u: Android, c: mobile }
+'GSmart G1317S-Android-Android': { s: uc-d, d: 'GSmart G1317S', o: Android, u: Android, c: mobile }
+'GSmart G1342-Android-Chrome Mobile': { s: uc-d, d: 'GSmart G1342', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart G1345-Android-Android': { s: uc-d, d: 'GSmart G1345', o: Android, u: Android, c: mobile }
+'GSmart G1355-Android-Opera Mobile': { s: uc-d, d: 'GSmart G1355', o: Android, u: 'Opera Mobile', c: mobile }
+'GSmart G1362-Android-Chrome Mobile': { s: uc-d, d: 'GSmart G1362', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart GS202-Android-Chrome': { s: uc-d, d: 'GSmart GS202', o: Android, u: Chrome, c: mobile }
+'GSmart GS202+-Android-Chrome Mobile': { s: uc-d, d: 'GSmart GS202+', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Guru G1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Guru G1', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Maya M1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Maya M1', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Maya M1 v2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Maya M1 v2', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Rey R3-Android-Android': { s: uc-d, d: 'GSmart Rey R3', o: Android, u: Android, c: mobile }
+'GSmart Rio R1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Rio R1', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Rola-Android-Android': { s: uc-d, d: 'GSmart Rola', o: Android, u: Android, c: mobile }
+'GSmart Roma R2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Roma R2', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Sierra S1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Sierra S1', o: Android, u: 'Chrome Mobile', c: mobile }
+'GSmart Tuku T2-Android-Android': { s: uc-d, d: 'GSmart Tuku T2', o: Android, u: Android, c: mobile }
 'GIONEE A9-Android-Android': { s: uc-d, d: 'GIONEE A9', o: Android, u: Android, c: '' }
 'GIONEE Ctrl_V1-Android-Baidu Explorer': { s: uc-d, d: 'GIONEE Ctrl_V1', o: Android, u: 'Baidu Explorer', c: '' }
 'GIONEE Ctrl_V2-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V2', o: Android, u: Android, c: '' }
