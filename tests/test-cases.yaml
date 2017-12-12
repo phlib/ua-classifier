@@ -2365,13 +2365,13 @@ GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: des
 'Haipad M701-Android-Android': { s: uc-d, d: 'Haipad M701', o: Android, u: Android, c: tablet }
 'Haipad M8-Android-Opera': { s: uc-d, d: 'Haipad M8', o: Android, u: Opera, c: tablet }
 'Haipad M9-Android-Chrome Mobile': { s: uc-d, d: 'Haipad M9', o: Android, u: 'Chrome Mobile', c: tablet }
-'Hannspree SN10T1-Android-Chrome': { s: uc-d, d: 'Hannspree SN10T1', o: Android, u: Chrome, c: '' }
-'Hannspree SN10T2-Android-Android': { s: uc-d, d: 'Hannspree SN10T2', o: Android, u: Android, c: '' }
-'Hannspree SN14T71-Android-Chrome': { s: uc-d, d: 'Hannspree SN14T71', o: Android, u: Chrome, c: '' }
-'Hannspree SN70T3-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T3', o: Android, u: Chrome, c: '' }
-'Hannspree SN70T31-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T31', o: Android, u: Chrome, c: '' }
-'Hannspree SN70T32-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T32', o: Android, u: Chrome, c: '' }
-'Hannspree SN97T41W-Android-Chrome': { s: uc-d, d: 'Hannspree SN97T41W', o: Android, u: Chrome, c: '' }
+'Hannspree SN10T1-Android-Chrome': { s: uc-d, d: 'Hannspree SN10T1', o: Android, u: Chrome, c: tablet }
+'Hannspree SN10T2-Android-Android': { s: uc-d, d: 'Hannspree SN10T2', o: Android, u: Android, c: tablet }
+'Hannspree SN14T71-Android-Chrome': { s: uc-d, d: 'Hannspree SN14T71', o: Android, u: Chrome, c: tablet }
+'Hannspree SN70T3-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T3', o: Android, u: Chrome, c: tablet }
+'Hannspree SN70T31-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T31', o: Android, u: Chrome, c: tablet }
+'Hannspree SN70T32-Android-Chrome': { s: uc-d, d: 'Hannspree SN70T32', o: Android, u: Chrome, c: tablet }
+'Hannspree SN97T41W-Android-Chrome': { s: uc-d, d: 'Hannspree SN97T41W', o: Android, u: Chrome, c: tablet }
 'HCLme CONNECT 2G-Android-Opera Mobile': { s: uc-d, d: 'HCLme CONNECT 2G', o: Android, u: 'Opera Mobile', c: '' }
 'HCLme U1-Android-Chrome Mobile': { s: uc-d, d: 'HCLme U1', o: Android, u: 'Chrome Mobile', c: '' }
 'HCLme V1-Android-Opera Mobile': { s: uc-d, d: 'HCLme V1', o: Android, u: 'Opera Mobile', c: '' }
