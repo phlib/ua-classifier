@@ -2263,68 +2263,68 @@ GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: des
 'GSmart Roma R2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Roma R2', o: Android, u: 'Chrome Mobile', c: mobile }
 'GSmart Sierra S1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Sierra S1', o: Android, u: 'Chrome Mobile', c: mobile }
 'GSmart Tuku T2-Android-Android': { s: uc-d, d: 'GSmart Tuku T2', o: Android, u: Android, c: mobile }
-'GIONEE A9-Android-Android': { s: uc-d, d: 'GIONEE A9', o: Android, u: Android, c: '' }
-'GIONEE Ctrl_V1-Android-Baidu Explorer': { s: uc-d, d: 'GIONEE Ctrl_V1', o: Android, u: 'Baidu Explorer', c: '' }
-'GIONEE Ctrl_V2-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V2', o: Android, u: Android, c: '' }
-'GIONEE Ctrl_V3-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V3', o: Android, u: Android, c: '' }
-'GIONEE Ctrl_V4-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V4', o: Android, u: Android, c: '' }
-'GiONEE E3-Android-Android': { s: uc-d, d: 'GiONEE E3', o: Android, u: Android, c: '' }
-'GiONEE E3T-Android-Android': { s: uc-d, d: 'GiONEE E3T', o: Android, u: Android, c: '' }
-'GiONEE E6-Android-Android': { s: uc-d, d: 'GiONEE E6', o: Android, u: Android, c: '' }
-'GiONEE E7-Android-Android': { s: uc-d, d: 'GiONEE E7', o: Android, u: Android, c: '' }
-'GIONEE GN100-Android-Android': { s: uc-d, d: 'GIONEE GN100', o: Android, u: Android, c: '' }
-'GIONEE GN105-Android-Android': { s: uc-d, d: 'GIONEE GN105', o: Android, u: Android, c: '' }
-'GIONEE GN106-Android-Android': { s: uc-d, d: 'GIONEE GN106', o: Android, u: Android, c: '' }
-'GiONEE GN136-Android-Android': { s: uc-d, d: 'GiONEE GN136', o: Android, u: Android, c: '' }
-'GiONEE GN137-Android-Android': { s: uc-d, d: 'GiONEE GN137', o: Android, u: Android, c: '' }
-'GIONEE GN170-Android-Android': { s: uc-d, d: 'GIONEE GN170', o: Android, u: Android, c: '' }
-'GiONEE GN181-Android-Android': { s: uc-d, d: 'GiONEE GN181', o: Android, u: Android, c: '' }
-'GIONEE GN205-Android-Android': { s: uc-d, d: 'GIONEE GN205', o: Android, u: Android, c: '' }
-'GiONEE GN205H-Android-Android': { s: uc-d, d: 'GiONEE GN205H', o: Android, u: Android, c: '' }
-'GiONEE GN305-Android-Android': { s: uc-d, d: 'GiONEE GN305', o: Android, u: Android, c: '' }
-'GIONEE GN380-Android-Android': { s: uc-d, d: 'GIONEE GN380', o: Android, u: Android, c: '' }
-'GiONEE GN600-Android-Chrome Mobile': { s: uc-d, d: 'GiONEE GN600', o: Android, u: 'Chrome Mobile', c: '' }
-'GiONEE GN700W-Android-Android': { s: uc-d, d: 'GiONEE GN700W', o: Android, u: Android, c: '' }
-'GiONEE GN708W-Android-Android': { s: uc-d, d: 'GiONEE GN708W', o: Android, u: Android, c: '' }
-'GIONEE GN800-Android-Android': { s: uc-d, d: 'GIONEE GN800', o: Android, u: Android, c: '' }
-'GiONEE GN810-Android-Android': { s: uc-d, d: 'GiONEE GN810', o: Android, u: Android, c: '' }
-'GiONEE GN868H-Android-Android': { s: uc-d, d: 'GiONEE GN868H', o: Android, u: Android, c: '' }
-'GiONEE GN9000-Android-Android': { s: uc-d, d: 'GiONEE GN9000', o: Android, u: Android, c: '' }
-'GIONEE Gpad_G1-Android-Android': { s: uc-d, d: 'GIONEE Gpad_G1', o: Android, u: Android, c: '' }
-'GiONEE INFINITY_PASSION-Android-Android': { s: uc-d, d: 'GiONEE INFINITY_PASSION', o: Android, u: Android, c: '' }
-'GIONEE S101-Android-Android': { s: uc-d, d: 'GIONEE S101', o: Android, u: Android, c: '' }
-'GiONEE V182-Android-Android': { s: uc-d, d: 'GiONEE V182', o: Android, u: Android, c: '' }
-'GiONEE V185-Android-Android': { s: uc-d, d: 'GiONEE V185', o: Android, u: Android, c: '' }
-'GiONEE W800-Android-Android': { s: uc-d, d: 'GiONEE W800', o: Android, u: Android, c: '' }
-'Gionee Ctrl_V1-Android-Chrome Mobile': { s: uc-d, d: 'Gionee Ctrl_V1', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN100-Android-Android': { s: uc-d, d: 'Gionee GN100', o: Android, u: Android, c: '' }
-'Gionee GN100T-Android-Android': { s: uc-d, d: 'Gionee GN100T', o: Android, u: Android, c: '' }
-'Gionee GN105-Android-Android': { s: uc-d, d: 'Gionee GN105', o: Android, u: Android, c: '' }
-'Gionee GN106-Android-Android': { s: uc-d, d: 'Gionee GN106', o: Android, u: Android, c: '' }
-'Gionee GN107-Android-Android': { s: uc-d, d: 'Gionee GN107', o: Android, u: Android, c: '' }
-'Gionee GN108-Android-Android': { s: uc-d, d: 'Gionee GN108', o: Android, u: Android, c: '' }
-'Gionee GN137-Android-Android': { s: uc-d, d: 'Gionee GN137', o: Android, u: Android, c: '' }
-'Gionee GN160T-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN160T', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN170-Android-Android': { s: uc-d, d: 'Gionee GN170', o: Android, u: Android, c: '' }
-'Gionee GN180-Android-Android': { s: uc-d, d: 'Gionee GN180', o: Android, u: Android, c: '' }
-'Gionee GN205-Android-Android': { s: uc-d, d: 'Gionee GN205', o: Android, u: Android, c: '' }
-'Gionee GN205H-Android-Android': { s: uc-d, d: 'Gionee GN205H', o: Android, u: Android, c: '' }
-'Gionee GN305-Android-Android': { s: uc-d, d: 'Gionee GN305', o: Android, u: Android, c: '' }
-'Gionee GN360-Android-Baidu Browser': { s: uc-d, d: 'Gionee GN360', o: Android, u: 'Baidu Browser', c: '' }
-'Gionee GN380-Android-Android': { s: uc-d, d: 'Gionee GN380', o: Android, u: Android, c: '' }
-'Gionee GN600-Android-Android': { s: uc-d, d: 'Gionee GN600', o: Android, u: Android, c: '' }
-'Gionee GN700W-Android-Android': { s: uc-d, d: 'Gionee GN700W', o: Android, u: Android, c: '' }
-'Gionee GN708T-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN708T', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN708W-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN708W', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN787-Android-Android': { s: uc-d, d: 'Gionee GN787', o: Android, u: Android, c: '' }
-'Gionee GN800-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN800', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN858-Android-Android': { s: uc-d, d: 'Gionee GN858', o: Android, u: Android, c: '' }
-'Gionee GN868-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN868', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN868H-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN868H', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee GN878-Android-Android': { s: uc-d, d: 'Gionee GN878', o: Android, u: Android, c: '' }
-'Gionee GN9002-Android-Android': { s: uc-d, d: 'Gionee GN9002', o: Android, u: Android, c: '' }
-'Gionee INFINITY_PASSION-Android-Chrome Mobile': { s: uc-d, d: 'Gionee INFINITY_PASSION', o: Android, u: 'Chrome Mobile', c: '' }
-'Gionee E3-Android-Chrome Mobile': { s: uc-d, d: 'Gionee E3', o: Android, u: 'Chrome Mobile', c: '' }
+'GIONEE A9-Android-Android': { s: uc-d, d: 'GIONEE A9', o: Android, u: Android, c: mobile }
+'GIONEE Ctrl_V1-Android-Baidu Explorer': { s: uc-d, d: 'GIONEE Ctrl_V1', o: Android, u: 'Baidu Explorer', c: mobile }
+'GIONEE Ctrl_V2-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V2', o: Android, u: Android, c: mobile }
+'GIONEE Ctrl_V3-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V3', o: Android, u: Android, c: mobile }
+'GIONEE Ctrl_V4-Android-Android': { s: uc-d, d: 'GIONEE Ctrl_V4', o: Android, u: Android, c: mobile }
+'GiONEE E3-Android-Android': { s: uc-d, d: 'GiONEE E3', o: Android, u: Android, c: mobile }
+'GiONEE E3T-Android-Android': { s: uc-d, d: 'GiONEE E3T', o: Android, u: Android, c: mobile }
+'GiONEE E6-Android-Android': { s: uc-d, d: 'GiONEE E6', o: Android, u: Android, c: mobile }
+'GiONEE E7-Android-Android': { s: uc-d, d: 'GiONEE E7', o: Android, u: Android, c: mobile }
+'GIONEE GN100-Android-Android': { s: uc-d, d: 'GIONEE GN100', o: Android, u: Android, c: mobile }
+'GIONEE GN105-Android-Android': { s: uc-d, d: 'GIONEE GN105', o: Android, u: Android, c: mobile }
+'GIONEE GN106-Android-Android': { s: uc-d, d: 'GIONEE GN106', o: Android, u: Android, c: mobile }
+'GiONEE GN136-Android-Android': { s: uc-d, d: 'GiONEE GN136', o: Android, u: Android, c: mobile }
+'GiONEE GN137-Android-Android': { s: uc-d, d: 'GiONEE GN137', o: Android, u: Android, c: mobile }
+'GIONEE GN170-Android-Android': { s: uc-d, d: 'GIONEE GN170', o: Android, u: Android, c: mobile }
+'GiONEE GN181-Android-Android': { s: uc-d, d: 'GiONEE GN181', o: Android, u: Android, c: mobile }
+'GIONEE GN205-Android-Android': { s: uc-d, d: 'GIONEE GN205', o: Android, u: Android, c: mobile }
+'GiONEE GN205H-Android-Android': { s: uc-d, d: 'GiONEE GN205H', o: Android, u: Android, c: mobile }
+'GiONEE GN305-Android-Android': { s: uc-d, d: 'GiONEE GN305', o: Android, u: Android, c: mobile }
+'GIONEE GN380-Android-Android': { s: uc-d, d: 'GIONEE GN380', o: Android, u: Android, c: mobile }
+'GiONEE GN600-Android-Chrome Mobile': { s: uc-d, d: 'GiONEE GN600', o: Android, u: 'Chrome Mobile', c: mobile }
+'GiONEE GN700W-Android-Android': { s: uc-d, d: 'GiONEE GN700W', o: Android, u: Android, c: mobile }
+'GiONEE GN708W-Android-Android': { s: uc-d, d: 'GiONEE GN708W', o: Android, u: Android, c: mobile }
+'GIONEE GN800-Android-Android': { s: uc-d, d: 'GIONEE GN800', o: Android, u: Android, c: mobile }
+'GiONEE GN810-Android-Android': { s: uc-d, d: 'GiONEE GN810', o: Android, u: Android, c: mobile }
+'GiONEE GN868H-Android-Android': { s: uc-d, d: 'GiONEE GN868H', o: Android, u: Android, c: mobile }
+'GiONEE GN9000-Android-Android': { s: uc-d, d: 'GiONEE GN9000', o: Android, u: Android, c: mobile }
+'GIONEE Gpad_G1-Android-Android': { s: uc-d, d: 'GIONEE Gpad_G1', o: Android, u: Android, c: mobile }
+'GiONEE INFINITY_PASSION-Android-Android': { s: uc-d, d: 'GiONEE INFINITY_PASSION', o: Android, u: Android, c: mobile }
+'GIONEE S101-Android-Android': { s: uc-d, d: 'GIONEE S101', o: Android, u: Android, c: mobile }
+'GiONEE V182-Android-Android': { s: uc-d, d: 'GiONEE V182', o: Android, u: Android, c: mobile }
+'GiONEE V185-Android-Android': { s: uc-d, d: 'GiONEE V185', o: Android, u: Android, c: mobile }
+'GiONEE W800-Android-Android': { s: uc-d, d: 'GiONEE W800', o: Android, u: Android, c: mobile }
+'Gionee Ctrl_V1-Android-Chrome Mobile': { s: uc-d, d: 'Gionee Ctrl_V1', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN100-Android-Android': { s: uc-d, d: 'Gionee GN100', o: Android, u: Android, c: mobile }
+'Gionee GN100T-Android-Android': { s: uc-d, d: 'Gionee GN100T', o: Android, u: Android, c: mobile }
+'Gionee GN105-Android-Android': { s: uc-d, d: 'Gionee GN105', o: Android, u: Android, c: mobile }
+'Gionee GN106-Android-Android': { s: uc-d, d: 'Gionee GN106', o: Android, u: Android, c: mobile }
+'Gionee GN107-Android-Android': { s: uc-d, d: 'Gionee GN107', o: Android, u: Android, c: mobile }
+'Gionee GN108-Android-Android': { s: uc-d, d: 'Gionee GN108', o: Android, u: Android, c: mobile }
+'Gionee GN137-Android-Android': { s: uc-d, d: 'Gionee GN137', o: Android, u: Android, c: mobile }
+'Gionee GN160T-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN160T', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN170-Android-Android': { s: uc-d, d: 'Gionee GN170', o: Android, u: Android, c: mobile }
+'Gionee GN180-Android-Android': { s: uc-d, d: 'Gionee GN180', o: Android, u: Android, c: mobile }
+'Gionee GN205-Android-Android': { s: uc-d, d: 'Gionee GN205', o: Android, u: Android, c: mobile }
+'Gionee GN205H-Android-Android': { s: uc-d, d: 'Gionee GN205H', o: Android, u: Android, c: mobile }
+'Gionee GN305-Android-Android': { s: uc-d, d: 'Gionee GN305', o: Android, u: Android, c: mobile }
+'Gionee GN360-Android-Baidu Browser': { s: uc-d, d: 'Gionee GN360', o: Android, u: 'Baidu Browser', c: mobile }
+'Gionee GN380-Android-Android': { s: uc-d, d: 'Gionee GN380', o: Android, u: Android, c: mobile }
+'Gionee GN600-Android-Android': { s: uc-d, d: 'Gionee GN600', o: Android, u: Android, c: mobile }
+'Gionee GN700W-Android-Android': { s: uc-d, d: 'Gionee GN700W', o: Android, u: Android, c: mobile }
+'Gionee GN708T-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN708T', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN708W-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN708W', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN787-Android-Android': { s: uc-d, d: 'Gionee GN787', o: Android, u: Android, c: mobile }
+'Gionee GN800-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN800', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN858-Android-Android': { s: uc-d, d: 'Gionee GN858', o: Android, u: Android, c: mobile }
+'Gionee GN868-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN868', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN868H-Android-Chrome Mobile': { s: uc-d, d: 'Gionee GN868H', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee GN878-Android-Android': { s: uc-d, d: 'Gionee GN878', o: Android, u: Android, c: mobile }
+'Gionee GN9002-Android-Android': { s: uc-d, d: 'Gionee GN9002', o: Android, u: Android, c: mobile }
+'Gionee INFINITY_PASSION-Android-Chrome Mobile': { s: uc-d, d: 'Gionee INFINITY_PASSION', o: Android, u: 'Chrome Mobile', c: mobile }
+'Gionee E3-Android-Chrome Mobile': { s: uc-d, d: 'Gionee E3', o: Android, u: 'Chrome Mobile', c: mobile }
 'GoClever FONE 450-Android-Android': { s: uc-d, d: 'GoClever FONE 450', o: Android, u: Android, c: '' }
 'GoClever FONE 500-Android-Chrome Mobile': { s: uc-d, d: 'GoClever FONE 500', o: Android, u: 'Chrome Mobile', c: '' }
 'GoClever INSIGNIA 5-Android-Chrome Mobile': { s: uc-d, d: 'GoClever INSIGNIA 5', o: Android, u: 'Chrome Mobile', c: '' }
