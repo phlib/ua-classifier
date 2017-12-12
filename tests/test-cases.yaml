@@ -2226,21 +2226,21 @@ Inettv-Other-NetFront: { s: uc-d, d: Inettv, o: Other, u: NetFront, c: desktop }
 Inettv-Linux-Other: { s: uc-d, d: Inettv, o: Linux, u: Other, c: desktop }
 Inettv-Other-Other: { s: uc-d, d: Inettv, o: Other, u: Other, c: desktop }
 GoogleTV-GoogleTV-Chrome: { s: uc-d, d: GoogleTV, o: GoogleTV, u: Chrome, c: desktop }
-'G''FIVE A56-Android-UC Browser': { s: uc-d, d: 'G''FIVE A56', o: Android, u: 'UC Browser', c: '' }
-'GFIVE A57-Android-Android': { s: uc-d, d: 'GFIVE A57', o: Android, u: Android, c: '' }
-'GFIVE A77-Android-Safari': { s: uc-d, d: 'GFIVE A77', o: Android, u: Safari, c: '' }
-'GFIVE Aurora(A79)-Android-Safari': { s: uc-d, d: 'GFIVE Aurora(A79)', o: Android, u: Safari, c: '' }
-'GFIVE Blade (F500)-Android-Safari': { s: uc-d, d: 'GFIVE Blade (F500)', o: Android, u: Safari, c: '' }
-'GFIVE Bravo-Android-Opera Mobile': { s: uc-d, d: 'GFIVE Bravo', o: Android, u: 'Opera Mobile', c: '' }
-'GFIVE Bravo(G95)-Android-Android': { s: uc-d, d: 'GFIVE Bravo(G95)', o: Android, u: Android, c: '' }
-'GFIVE G9-Android-Chrome Mobile': { s: uc-d, d: 'GFIVE G9', o: Android, u: 'Chrome Mobile', c: '' }
-'GFIVE Glory-Android-UC Browser': { s: uc-d, d: 'GFIVE Glory', o: Android, u: 'UC Browser', c: '' }
-'GFIVE Glory Bee(E670)-Android-Safari': { s: uc-d, d: 'GFIVE Glory Bee(E670)', o: Android, u: Safari, c: '' }
-'GFIVE Glory(A86)-Android-Android': { s: uc-d, d: 'GFIVE Glory(A86)', o: Android, u: Android, c: '' }
-'GFIVE Prado-Android-Android': { s: uc-d, d: 'GFIVE Prado', o: Android, u: Android, c: '' }
-'GFIVE President(G7)-Android-Chrome Mobile': { s: uc-d, d: 'GFIVE President(G7)', o: Android, u: 'Chrome Mobile', c: '' }
-'GFIVE President(G9)-Android-Android': { s: uc-d, d: 'GFIVE President(G9)', o: Android, u: Android, c: '' }
-'GFIVE Spark(A1)-Android-Safari': { s: uc-d, d: 'GFIVE Spark(A1)', o: Android, u: Safari, c: '' }
+'G''FIVE A56-Android-UC Browser': { s: uc-d, d: 'G''FIVE A56', o: Android, u: 'UC Browser', c: mobile }
+'GFIVE A57-Android-Android': { s: uc-d, d: 'GFIVE A57', o: Android, u: Android, c: mobile }
+'GFIVE A77-Android-Safari': { s: uc-d, d: 'GFIVE A77', o: Android, u: Safari, c: mobile }
+'GFIVE Aurora(A79)-Android-Safari': { s: uc-d, d: 'GFIVE Aurora(A79)', o: Android, u: Safari, c: mobile }
+'GFIVE Blade (F500)-Android-Safari': { s: uc-d, d: 'GFIVE Blade (F500)', o: Android, u: Safari, c: mobile }
+'GFIVE Bravo-Android-Opera Mobile': { s: uc-d, d: 'GFIVE Bravo', o: Android, u: 'Opera Mobile', c: mobile }
+'GFIVE Bravo(G95)-Android-Android': { s: uc-d, d: 'GFIVE Bravo(G95)', o: Android, u: Android, c: mobile }
+'GFIVE G9-Android-Chrome Mobile': { s: uc-d, d: 'GFIVE G9', o: Android, u: 'Chrome Mobile', c: mobile }
+'GFIVE Glory-Android-UC Browser': { s: uc-d, d: 'GFIVE Glory', o: Android, u: 'UC Browser', c: mobile }
+'GFIVE Glory Bee(E670)-Android-Safari': { s: uc-d, d: 'GFIVE Glory Bee(E670)', o: Android, u: Safari, c: mobile }
+'GFIVE Glory(A86)-Android-Android': { s: uc-d, d: 'GFIVE Glory(A86)', o: Android, u: Android, c: mobile }
+'GFIVE Prado-Android-Android': { s: uc-d, d: 'GFIVE Prado', o: Android, u: Android, c: mobile }
+'GFIVE President(G7)-Android-Chrome Mobile': { s: uc-d, d: 'GFIVE President(G7)', o: Android, u: 'Chrome Mobile', c: mobile }
+'GFIVE President(G9)-Android-Android': { s: uc-d, d: 'GFIVE President(G9)', o: Android, u: Android, c: mobile }
+'GFIVE Spark(A1)-Android-Safari': { s: uc-d, d: 'GFIVE Spark(A1)', o: Android, u: Safari, c: mobile }
 'GSmart Aku A1-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Aku A1', o: Android, u: 'Chrome Mobile', c: '' }
 'GSmart Alto A2-Android-Chrome Mobile': { s: uc-d, d: 'GSmart Alto A2', o: Android, u: 'Chrome Mobile', c: '' }
 'GSmart G1305-Android-Android': { s: uc-d, d: 'GSmart G1305', o: Android, u: Android, c: '' }
