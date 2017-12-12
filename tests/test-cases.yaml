@@ -1801,11 +1801,11 @@ IP1020-8GB-Android-Android: { s: uc-d, d: IP1020-8GB, o: Android, u: Android, c:
 iP880-Android-Opera: { s: uc-d, d: iP880, o: Android, u: Opera, c: '' }
 'iP890-3G-Android-Yandex Browser': { s: uc-d, d: iP890-3G, o: Android, u: 'Yandex Browser', c: '' }
 'iP977-Android-Yandex Browser': { s: uc-d, d: iP977, o: Android, u: 'Yandex Browser', c: '' }
-'AirTab ES70-Android-Yandex Browser': { s: uc-d, d: 'AirTab ES70', o: Android, u: 'Yandex Browser', c: '' }
-'AirTab M81w-Android-Android': { s: uc-d, d: 'AirTab M81w', o: Android, u: Android, c: '' }
-'AirTab M971g-Android-Chrome': { s: uc-d, d: 'AirTab M971g', o: Android, u: Chrome, c: '' }
-'AirTab M975w-Android-Chrome': { s: uc-d, d: 'AirTab M975w', o: Android, u: Chrome, c: '' }
-'AirTab P970g-Android-Chrome': { s: uc-d, d: 'AirTab P970g', o: Android, u: Chrome, c: '' }
+'AirTab ES70-Android-Yandex Browser': { s: uc-d, d: 'AirTab ES70', o: Android, u: 'Yandex Browser', c: tablet }
+'AirTab M81w-Android-Android': { s: uc-d, d: 'AirTab M81w', o: Android, u: Android, c: tablet }
+'AirTab M971g-Android-Chrome': { s: uc-d, d: 'AirTab M971g', o: Android, u: Chrome, c: tablet }
+'AirTab M975w-Android-Chrome': { s: uc-d, d: 'AirTab M975w', o: Android, u: Chrome, c: tablet }
+'AirTab P970g-Android-Chrome': { s: uc-d, d: 'AirTab P970g', o: Android, u: Chrome, c: tablet }
 'DoCoMo CA01C-Other-Other': { s: uc-d, d: 'DoCoMo CA01C', o: Other, u: Other, c: '' }
 'DoCoMo D701i-Other-Other': { s: uc-d, d: 'DoCoMo D701i', o: Other, u: Other, c: '' }
 'DoCoMo D701iWM-Other-Other': { s: uc-d, d: 'DoCoMo D701iWM', o: Other, u: Other, c: '' }
