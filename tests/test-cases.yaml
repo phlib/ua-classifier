@@ -14450,25 +14450,25 @@ X2-Android-Android: { s: uc-d, d: X2, o: Android, u: Android, c: '' }
 'Videocon v7500-Android-Android': { s: uc-d, d: 'Videocon v7500', o: Android, u: Android, c: '' }
 VT71-Android-Chrome: { s: uc-d, d: VT71, o: Android, u: Chrome, c: '' }
 'VT75C-Android-Chrome Mobile': { s: uc-d, d: VT75C, o: Android, u: 'Chrome Mobile', c: '' }
-'ViewPad 100N Pro-Android-Android': { s: uc-d, d: 'ViewPad 100N Pro', o: Android, u: Android, c: '' }
-'ViewPad 100Q-Android-Android': { s: uc-d, d: 'ViewPad 100Q', o: Android, u: Android, c: '' }
-'ViewPad 10e-Android-Chrome': { s: uc-d, d: 'ViewPad 10e', o: Android, u: Chrome, c: '' }
-'ViewPad 10S-Android-Opera': { s: uc-d, d: 'ViewPad 10S', o: Android, u: Opera, c: '' }
-'ViewPad 10s-Android-Android': { s: uc-d, d: 'ViewPad 10s', o: Android, u: Android, c: '' }
+'ViewPad 100N Pro-Android-Android': { s: uc-d, d: 'ViewPad 100N Pro', o: Android, u: Android, c: tablet }
+'ViewPad 100Q-Android-Android': { s: uc-d, d: 'ViewPad 100Q', o: Android, u: Android, c: tablet }
+'ViewPad 10e-Android-Chrome': { s: uc-d, d: 'ViewPad 10e', o: Android, u: Chrome, c: tablet }
+'ViewPad 10S-Android-Opera': { s: uc-d, d: 'ViewPad 10S', o: Android, u: Opera, c: tablet }
+'ViewPad 10s-Android-Android': { s: uc-d, d: 'ViewPad 10s', o: Android, u: Android, c: tablet }
 'ViewPad 4-Android-Android': { s: uc-d, d: 'ViewPad 4', o: Android, u: Android, c: '' }
-'ViewPad 701N-Android-Android': { s: uc-d, d: 'ViewPad 701N', o: Android, u: Android, c: '' }
-'ViewPad 7D-Android-Chrome Mobile': { s: uc-d, d: 'ViewPad 7D', o: Android, u: 'Chrome Mobile', c: '' }
-'ViewPad 7Q-Android-Android': { s: uc-d, d: 'ViewPad 7Q', o: Android, u: Android, c: '' }
-'ViewPad 97Q-Android-Opera': { s: uc-d, d: 'ViewPad 97Q', o: Android, u: Opera, c: '' }
-'ViewPad_10e-Android-UC Browser': { s: uc-d, d: ViewPad_10e, o: Android, u: 'UC Browser', c: '' }
-ViewPad7-Android-Android: { s: uc-d, d: ViewPad7, o: Android, u: Android, c: '' }
-ViewPad7e-Android-Opera: { s: uc-d, d: ViewPad7e, o: Android, u: Opera, c: '' }
-ViewPad7X-Android-Opera: { s: uc-d, d: ViewPad7X, o: Android, u: Opera, c: '' }
-ViewPad7x-Android-Android: { s: uc-d, d: ViewPad7x, o: Android, u: Android, c: '' }
-ViewPad97A-Android-Chrome: { s: uc-d, d: ViewPad97A, o: Android, u: Chrome, c: '' }
-ViewPad97a-Android-Android: { s: uc-d, d: ViewPad97a, o: Android, u: Android, c: '' }
-'ViewPad97a K1-Android-Chrome': { s: uc-d, d: 'ViewPad97a K1', o: Android, u: Chrome, c: '' }
-'ViewPad97a Pro-Android-Chrome': { s: uc-d, d: 'ViewPad97a Pro', o: Android, u: Chrome, c: '' }
+'ViewPad 701N-Android-Android': { s: uc-d, d: 'ViewPad 701N', o: Android, u: Android, c: tablet }
+'ViewPad 7D-Android-Chrome Mobile': { s: uc-d, d: 'ViewPad 7D', o: Android, u: 'Chrome Mobile', c: tablet }
+'ViewPad 7Q-Android-Android': { s: uc-d, d: 'ViewPad 7Q', o: Android, u: Android, c: tablet }
+'ViewPad 97Q-Android-Opera': { s: uc-d, d: 'ViewPad 97Q', o: Android, u: Opera, c: tablet }
+'ViewPad_10e-Android-UC Browser': { s: uc-d, d: ViewPad_10e, o: Android, u: 'UC Browser', c: tablet }
+ViewPad7-Android-Android: { s: uc-d, d: ViewPad7, o: Android, u: Android, c: tablet }
+ViewPad7e-Android-Opera: { s: uc-d, d: ViewPad7e, o: Android, u: Opera, c: tablet }
+ViewPad7X-Android-Opera: { s: uc-d, d: ViewPad7X, o: Android, u: Opera, c: tablet }
+ViewPad7x-Android-Android: { s: uc-d, d: ViewPad7x, o: Android, u: Android, c: tablet }
+ViewPad97A-Android-Chrome: { s: uc-d, d: ViewPad97A, o: Android, u: Chrome, c: tablet }
+ViewPad97a-Android-Android: { s: uc-d, d: ViewPad97a, o: Android, u: Android, c: tablet }
+'ViewPad97a K1-Android-Chrome': { s: uc-d, d: 'ViewPad97a K1', o: Android, u: Chrome, c: tablet }
+'ViewPad97a Pro-Android-Chrome': { s: uc-d, d: 'ViewPad97a Pro', o: Android, u: Chrome, c: tablet }
 ViewPhone3-Android-Android: { s: uc-d, d: ViewPhone3, o: Android, u: Android, c: '' }
 VSD220-Android-Chrome: { s: uc-d, d: VSD220, o: Android, u: Chrome, c: '' }
 VSD241-Android-Chrome: { s: uc-d, d: VSD241, o: Android, u: Chrome, c: '' }
