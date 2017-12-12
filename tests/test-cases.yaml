@@ -4788,14 +4788,14 @@ IS11T-Android-Android: { s: uc-d, d: IS11T, o: Android, u: Android, c: '' }
 'ISW16SH-Android-Chrome Mobile': { s: uc-d, d: ISW16SH, o: Android, u: 'Chrome Mobile', c: '' }
 'INFOBAR A01-Android-Android': { s: uc-d, d: 'INFOBAR A01', o: Android, u: Android, c: '' }
 'INFOBAR C01-Android-Android': { s: uc-d, d: 'INFOBAR C01', o: Android, u: Android, c: '' }
-'Joypad C102-Android-Chrome': { s: uc-d, d: 'Joypad C102', o: Android, u: Chrome, c: '' }
-'JOYPAD C71-Android-Android': { s: uc-d, d: 'JOYPAD C71', o: Android, u: Android, c: '' }
-'JOYPAD C72-Android-Chrome': { s: uc-d, d: 'JOYPAD C72', o: Android, u: Chrome, c: '' }
-'JOYPAD C73-Android-Chrome': { s: uc-d, d: 'JOYPAD C73', o: Android, u: Chrome, c: '' }
-'Joypad C74-Android-Opera Mobile': { s: uc-d, d: 'Joypad C74', o: Android, u: 'Opera Mobile', c: '' }
-'JOYPAD C75-Android-Chrome Mobile': { s: uc-d, d: 'JOYPAD C75', o: Android, u: 'Chrome Mobile', c: '' }
-'JOYPAD C81-Android-Android': { s: uc-d, d: 'JOYPAD C81', o: Android, u: Android, c: '' }
-'JOYPAD C82-Android-Chrome': { s: uc-d, d: 'JOYPAD C82', o: Android, u: Chrome, c: '' }
+'Joypad C102-Android-Chrome': { s: uc-d, d: 'Joypad C102', o: Android, u: Chrome, c: tablet }
+'JOYPAD C71-Android-Android': { s: uc-d, d: 'JOYPAD C71', o: Android, u: Android, c: tablet }
+'JOYPAD C72-Android-Chrome': { s: uc-d, d: 'JOYPAD C72', o: Android, u: Chrome, c: tablet }
+'JOYPAD C73-Android-Chrome': { s: uc-d, d: 'JOYPAD C73', o: Android, u: Chrome, c: tablet }
+'Joypad C74-Android-Opera Mobile': { s: uc-d, d: 'Joypad C74', o: Android, u: 'Opera Mobile', c: tablet }
+'JOYPAD C75-Android-Chrome Mobile': { s: uc-d, d: 'JOYPAD C75', o: Android, u: 'Chrome Mobile', c: tablet }
+'JOYPAD C81-Android-Android': { s: uc-d, d: 'JOYPAD C81', o: Android, u: Android, c: tablet }
+'JOYPAD C82-Android-Chrome': { s: uc-d, d: 'JOYPAD C82', o: Android, u: Chrome, c: tablet }
 Arc-Android-Chrome: { s: uc-d, d: Arc, o: Android, u: Chrome, c: '' }
 K080-Android-Android: { s: uc-d, d: K080, o: Android, u: Android, c: '' }
 'VOX-Android-Chrome Mobile': { s: uc-d, d: VOX, o: Android, u: 'Chrome Mobile', c: '' }
