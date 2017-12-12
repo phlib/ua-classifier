@@ -2202,9 +2202,9 @@ G1-Android-Chrome: { s: uc-d, d: G1, o: Android, u: Chrome, c: '' }
 'Garmin-Asus A10-Android-Android': { s: uc-d, d: 'Garmin-Asus A10', o: Android, u: Android, c: '' }
 'Garmin-Asus A50-Android-Android': { s: uc-d, d: 'Garmin-Asus A50', o: Android, u: Android, c: '' }
 'Garmin Garminfone-Android-Android': { s: uc-d, d: 'Garmin Garminfone', o: Android, u: Android, c: '' }
-'Geeksphone ONE-Android-Android': { s: uc-d, d: 'Geeksphone ONE', o: Android, u: Android, c: '' }
-'Geeksphone ZERO-Android-Android': { s: uc-d, d: 'Geeksphone ZERO', o: Android, u: Android, c: '' }
-'Geeksphone Zero-Android-Android': { s: uc-d, d: 'Geeksphone Zero', o: Android, u: Android, c: '' }
+'Geeksphone ONE-Android-Android': { s: uc-d, d: 'Geeksphone ONE', o: Android, u: Android, c: mobile }
+'Geeksphone ZERO-Android-Android': { s: uc-d, d: 'Geeksphone ZERO', o: Android, u: Android, c: mobile }
+'Geeksphone Zero-Android-Android': { s: uc-d, d: 'Geeksphone Zero', o: Android, u: Android, c: mobile }
 'Generic Tablet-Android-Puffin': { s: uc-d, d: 'Generic Tablet', o: Android, u: Puffin, c: tablet }
 'Generic Smartphone-Android-Puffin': { s: uc-d, d: 'Generic Smartphone', o: Android, u: Puffin, c: mobile }
 'Vodafone Smart Tab III 7-Android-Android': { s: uc-d, d: 'Vodafone Smart Tab III 7', o: Android, u: Android, c: '' }
