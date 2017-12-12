@@ -1348,14 +1348,14 @@ B-Tab774-Android-Android: { s: uc-d, d: B-Tab774, o: Android, u: Android, c: '' 
 'Broncho N701-Android-Android': { s: uc-d, d: 'Broncho N701', o: Android, u: Android, c: '' }
 'Captiva 10.1 HD-Android-Chrome': { s: uc-d, d: 'Captiva 10.1 HD', o: Android, u: Chrome, c: '' }
 'Captiva 9.7 Super FHD-Android-Chrome': { s: uc-d, d: 'Captiva 9.7 Super FHD', o: Android, u: Chrome, c: '' }
-'Captiva PAD 10-Android-Android': { s: uc-d, d: 'Captiva PAD 10', o: Android, u: Android, c: '' }
-'Captiva PAD 10.1-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1', o: Android, u: Chrome, c: '' }
-'Captiva PAD 10.1 Quad FHD-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1 Quad FHD', o: Android, u: Chrome, c: '' }
-'Captiva PAD 10.1 Quad FHD 3G-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1 Quad FHD 3G', o: Android, u: Chrome, c: '' }
-'Captiva PAD 7-Android-Chrome': { s: uc-d, d: 'Captiva PAD 7', o: Android, u: Chrome, c: '' }
-'Captiva PAD 8-Android-Opera': { s: uc-d, d: 'Captiva PAD 8', o: Android, u: Opera, c: '' }
-'Captiva PAD 8 GPS-Android-Android': { s: uc-d, d: 'Captiva PAD 8 GPS', o: Android, u: Android, c: '' }
-'Captiva PAD 8 Pro-Android-Opera': { s: uc-d, d: 'Captiva PAD 8 Pro', o: Android, u: Opera, c: '' }
+'Captiva PAD 10-Android-Android': { s: uc-d, d: 'Captiva PAD 10', o: Android, u: Android, c: tablet }
+'Captiva PAD 10.1-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1', o: Android, u: Chrome, c: tablet }
+'Captiva PAD 10.1 Quad FHD-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1 Quad FHD', o: Android, u: Chrome, c: tablet }
+'Captiva PAD 10.1 Quad FHD 3G-Android-Chrome': { s: uc-d, d: 'Captiva PAD 10.1 Quad FHD 3G', o: Android, u: Chrome, c: tablet }
+'Captiva PAD 7-Android-Chrome': { s: uc-d, d: 'Captiva PAD 7', o: Android, u: Chrome, c: tablet }
+'Captiva PAD 8-Android-Opera': { s: uc-d, d: 'Captiva PAD 8', o: Android, u: Opera, c: tablet }
+'Captiva PAD 8 GPS-Android-Android': { s: uc-d, d: 'Captiva PAD 8 GPS', o: Android, u: Android, c: tablet }
+'Captiva PAD 8 Pro-Android-Opera': { s: uc-d, d: 'Captiva PAD 8 Pro', o: Android, u: Opera, c: tablet }
 C771-Android-Android: { s: uc-d, d: C771, o: Android, u: Android, c: '' }
 'CAL21-Android-Chrome Mobile': { s: uc-d, d: CAL21, o: Android, u: 'Chrome Mobile', c: '' }
 IS11CA-Android-Android: { s: uc-d, d: IS11CA, o: Android, u: Android, c: '' }
