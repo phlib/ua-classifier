@@ -3,6 +3,8 @@ declare(strict_types=1);
 
 namespace UAClassifier;
 
+use UAParser\Result\Client;
+
 /**
  * UAClassifier Classifier
  *
@@ -41,10 +43,10 @@ class Classifier
     /**
      * Get classification result for given Parser result
      *
-     * @param \UAParser\Result\Client $parseResult
+     * @param Client $parseResult
      * @return Result
      */
-    public function classify(\UAParser\Result\Client $parseResult)
+    public function classify(Client $parseResult)
     {
         $classifyResult = new Result();
 
