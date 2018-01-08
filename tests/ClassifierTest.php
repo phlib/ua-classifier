@@ -38,6 +38,11 @@ class ClassifierTest extends TestCase
 
     /**
      * @dataProvider providerClassifier
+     * @param string $key
+     * @param string $device
+     * @param string $os
+     * @param string $ua
+     * @param string $class
      */
     public function testClassifier($key, $device, $os, $ua, $class)
     {
