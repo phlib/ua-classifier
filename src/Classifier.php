@@ -21,7 +21,7 @@ class Classifier
 
         /**
          * Apple Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_iOS_devices
          */
         'iphone.*',
@@ -29,7 +29,7 @@ class Classifier
 
         /**
          * Samsung Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Samsung_Galaxy
          */
         'samsung (sm-n|sm-g9|sm-g850x|sm-a|sm-c[579]|sgh-n075t|sm-j|sm-g(150|1600)|sm-g362h|sm-c115|sm-g7|sm-g750f|sm-g3|sm-e|g(313hz|sm-g318)|sm-z|sgh|sph|yp|shw|shv|sec|sch|sc).*',
@@ -38,7 +38,7 @@ class Classifier
 
         /**
          * Nokia Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_Nokia_products
          */
         'lumia \d.*',
@@ -49,21 +49,21 @@ class Classifier
 
         /**
          * Motorola Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_Motorola_products
          */
         'motorola (a|c|e|em|ex|i|m|mpx|q|zn|t|v|w|xt|krzr|k|pebl|u|razr|rizr|rokr|z|slvr|l|wx|zine)\d{0,4}.*',
 
         /**
          * LG Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_LG_mobile_phones
          */
         'lg (a|ad|ax|b|bd|bl|bp|bx|c|cb|cd|ce|cf|cg|cm|cp|ct|cu|cx|d|f|g|gb|gc|gd|gm|gr|gs|gt|gu|gw|kb|kc|ke|kf|kg|km|kp|ks|ku|lg|lu|lx|m|me|mg|mx|p|pm|s|su|t|td|tg|tm|te|tu|u|un|us|ux|v|vi|vn|vm|vs|vx|x)\d{2,5}.*',
 
         /**
          * HTC Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Comparison_of_HTC_devices
          */
         'htc (s|t|p|x)\d{0,4}.*',
@@ -71,7 +71,7 @@ class Classifier
 
         /**
          * Huawei Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Category:Huawei_mobile_phones
          */
         'huawei (g|m|p|t|u|v)\d{1,4}.*',
@@ -79,21 +79,21 @@ class Classifier
 
         /**
          * Sony Ericsson Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_Sony_Ericsson_products
          */
         'ericsson (c|ck|e|f|g|j|k|lt|m|mt|p|r|s|t|tm|u|v|w|wt|x|z)\d{1,4}.*',
 
         /**
          * Siemens Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Siemens_Mobile
          */
         'siemens (a|af|ap|al|ax|c|cc|cf|cl|cx|e|ic|m|mc|me|mt|p|s|sf|sfg|sg|sk|sl|sp|st|sx|sxg|u).*',
 
         /**
          * Asus Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Asus#Smartphones
          */
         'asus (a|j|z|v|m|k|ww|p|z)\d{1,3}.*',
@@ -101,21 +101,21 @@ class Classifier
 
         /**
          * Lenovo Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Lenovo_smartphones
          */
         'lenovo (a|e|i|k|p|s|v)\d{2,3}.*',
 
         /**
          * Nintendo Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Nintendo_video_game_consoles#Portable_consoles
          */
         'nintendo (ds|dsi|3ds)',
 
         /**
          * PlayStation Mobile Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/PlayStation
          */
         'playstation (portable|vita)'
@@ -127,13 +127,13 @@ class Classifier
     private $mobileOSs = [
         /**
          * Microsoft Mobile Operating Systems
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Windows_Mobile
          */
         'windows (phone|mobile|ce).*',
 
         'symbian os',
-        
+
         'blackberry os'
     ];
 
@@ -154,21 +154,21 @@ class Classifier
 
         /**
          * Apple Tablet Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_iOS_devices
          */
         'ipad.*',
 
         /**
          * Samsung Tablet Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Samsung_Galaxy
          */
         'samsung (gt-p|sm-t|galaxy tab|sm-p).*',
 
         /**
          * Amazon Tablet Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Amazon_Kindle
          */
         'kindle fire.*',
@@ -191,7 +191,7 @@ class Classifier
 
         /**
          * HTC Tablet Devices
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/Comparison_of_HTC_devices
          */
         'htc (htc(_| )?)?(flyer.*)',
@@ -215,9 +215,9 @@ class Classifier
         'wetab.*',
 
         'playbook','dell streak.*','versus touchpad.*', 'mediapad.*',
-        'versus touchtab.*', 'hp touchpad.*','asus nexus.*', 'touchmate', 
+        'versus touchtab.*', 'hp touchpad.*','asus nexus.*', 'touchmate',
     ];
-    
+
     /**
      * @var array Array of regular expressions which match tablet operating systems
      */
@@ -252,14 +252,14 @@ class Classifier
     private $desktopOSs = [
         /**
          * Microsoft Desktop Operating Systems
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/List_of_Microsoft_operating_systems
          */
         'windows (2000|3\.1|95|98|me|nt|xp|vista|7|8|8.1|10)',
 
         /**
          * Apple Desktop Operating Systems
-         * 
+         *
          * @link https://en.wikipedia.org/wiki/MacOS
          */
         'mac os x'
@@ -321,69 +321,69 @@ class Classifier
         }
 
         // Spider rules
-        array_push($this->rules, [
+        $this->rules[] = [
             'device' => 'spider',
-            'class' => 'spider'
-        ]);
+            'class'  => 'spider'
+        ];
 
         // Device rules
         foreach ($this->mobileDevices as $mobileDevice) {
-            array_push($this->rules, [
+            $this->rules[] = [
                 'device' => $mobileDevice,
-                'class' => 'mobile'
-            ]);
+                'class'  => 'mobile'
+            ];
         }
         foreach ($this->tabletDevices as $tabletDevice) {
-            array_push($this->rules, [
+            $this->rules[] = [
                 'device' => $tabletDevice,
-                'class' => 'tablet'
-            ]);
+                'class'  => 'tablet'
+            ];
         }
         foreach ($this->desktopDevices as $desktopDevice) {
-            array_push($this->rules, [
+            $this->rules[] = [
                 'device' => $desktopDevice,
-                'class' => 'desktop'
-            ]);
+                'class'  => 'desktop'
+            ];
         }
 
         // Operating system rules
         foreach ($this->mobileOSs as $mobileOS) {
-            array_push($this->rules, [
-                'os' => $mobileOS,
+            $this->rules[] = [
+                'os'    => $mobileOS,
                 'class' => 'mobile'
-            ]);
+            ];
         }
         foreach ($this->tabletOSs as $tabletOS) {
-            array_push($this->rules, [
-                'os' => $tabletOS,
+            $this->rules[] = [
+                'os'    => $tabletOS,
                 'class' => 'tablet'
-            ]);
+            ];
         }
         foreach ($this->desktopOSs as $desktopOS) {
-            array_push($this->rules, [
-                'os' => $desktopOS,
+            $this->rules[] = [
+                'os'    => $desktopOS,
                 'class' => 'desktop'
-            ]);
+            ];
         }
 
         // Browser rules
         foreach ($this->mobileBrowsers as $mobileBrowser) {
-            array_push($this->rules, [
-                'ua' => $mobileBrowser,
+            $this->rules[] = [
+                'ua'    => $mobileBrowser,
                 'class' => 'mobile'
-            ]);
-        }        
+            ];
+        }
         foreach ($this->tabletBrowsers as $tabletBrowser) {
-            array_push($this->rules, [
-                'ua' => $tabletBrowser,
+            $this->rules[] = [
+                'ua'    => $tabletBrowser,
                 'class' => 'tablet'
-            ]);
+            ];
         }
         foreach ($this->desktopBrowsers as $desktopBrowser) {
-            array_push($this->rules, [
-                'ua' => $desktopBrowser,
+            $this->rules[] = [
+                'ua'    => $desktopBrowser,
                 'class' => 'desktop'
-            ]);
+            ];
         }
 
         return $this->rules;
