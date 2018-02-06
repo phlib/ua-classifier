@@ -281,7 +281,7 @@ class Classifier
      * @param Client $parseResult
      * @return Result
      */
-    public function classify(Client $parseResult)
+    public function classify(Client $parseResult) : Result
     {
         $result = new Result();
 
@@ -315,7 +315,7 @@ class Classifier
         return $result;
     }
 
-    private function getRules() {
+    private function getRules() : array {
         if ($this->rules) {
             return $this->rules;
         }
