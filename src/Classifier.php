@@ -15,7 +15,7 @@ class Classifier
     /**
      * @var array Array of regular expressions which match mobile devices
      */
-    public $mobileDevices = [
+    private $mobileDevices = [
         'generic feature phone',
         'generic smartphone',
 
@@ -124,7 +124,7 @@ class Classifier
     /**
      * @var array Array of regular expressions which match mobile operating systems
      */
-    public $mobileOSs = [
+    private $mobileOSs = [
         /**
          * Microsoft Mobile Operating Systems
          * 
@@ -140,7 +140,7 @@ class Classifier
     /**
      * @var array Array of regular expressions which match mobile browsers
      */
-    public $mobileBrowsers = [
+    private $mobileBrowsers = [
         'chrome mobile', 'firefox mobile','opera mobile','opera mini','mobile safari','webos','ie mobile','playstation portable',
         'nokia','blackberry','palm','android','maemo','obigo','netfront','avantgo','teleca','semc-browser','iris','up.browser','symphony','minimo','bunjaloo','jasmine','dolfin','polaris','brew',
         'uc browser','tizen browser'
@@ -149,7 +149,7 @@ class Classifier
     /**
      * @var array Array of regular expressions which match tablet devices
      */
-    public $tabletDevices = [
+    private $tabletDevices = [
         'generic tablet',
 
         /**
@@ -221,17 +221,17 @@ class Classifier
     /**
      * @var array Array of regular expressions which match tablet operating systems
      */
-    public $tabletOSs = ['blackberry tablet os'];
+    private $tabletOSs = ['blackberry tablet os'];
 
     /**
      * @var array Array of regular expressions which match tablet browsers
      */
-    public $tabletBrowsers = ['amazon silk', 'silk'];
+    private $tabletBrowsers = ['amazon silk', 'silk'];
 
     /**
      * @var array Array of regular expressions which match desktop devices
      */
-    public $desktopDevices = [
+    private $desktopDevices = [
         /**
          * Consoles
          */
@@ -249,7 +249,7 @@ class Classifier
     /**
      * @var array Array of regular expressions which match desktop operating systems
      */
-    public $desktopOSs = [
+    private $desktopOSs = [
         /**
          * Microsoft Desktop Operating Systems
          * 
@@ -268,85 +268,12 @@ class Classifier
     /**
      * @var array Array of regular expressions which match desktop browsers
      */
-    public $desktopBrowsers = [];
+    private $desktopBrowsers = [];
 
     /**
      * @var array Array of regex rules with matching classifications
      */
-    public $rules = [];
-
-    public function __construct()
-    {
-        $rules = [];
-
-        // Spider rules
-        array_push($rules, [
-            'device' => 'spider',
-            'class' => 'spider'
-        ]);
-
-        // Device rules
-        foreach ($this->mobileDevices as $mobileDevice) {
-            array_push($rules, [
-                'device' => $mobileDevice,
-                'class' => 'mobile'
-            ]);
-        }
-        foreach ($this->tabletDevices as $tabletDevice) {
-            array_push($rules, [
-                'device' => $tabletDevice,
-                'class' => 'tablet'
-            ]);
-        }
-        foreach ($this->desktopDevices as $desktopDevice) {
-            array_push($rules, [
-                'device' => $desktopDevice,
-                'class' => 'desktop'
-            ]);
-        }
-
-        // Operating system rules
-        foreach ($this->mobileOSs as $mobileOS) {
-            array_push($rules, [
-                'os' => $mobileOS,
-                'class' => 'mobile'
-            ]);
-        }
-        foreach ($this->tabletOSs as $tabletOS) {
-            array_push($rules, [
-                'os' => $tabletOS,
-                'class' => 'tablet'
-            ]);
-        }
-        foreach ($this->desktopOSs as $desktopOS) {
-            array_push($rules, [
-                'os' => $desktopOS,
-                'class' => 'desktop'
-            ]);
-        }
-
-        // Browser rules
-        foreach ($this->mobileBrowsers as $mobileBrowser) {
-            array_push($rules, [
-                'ua' => $mobileBrowser,
-                'class' => 'mobile'
-            ]);
-        }        
-        foreach ($this->tabletBrowsers as $tabletBrowser) {
-            array_push($rules, [
-                'ua' => $tabletBrowser,
-                'class' => 'tablet'
-            ]);
-        }
-        foreach ($this->desktopBrowsers as $desktopBrowser) {
-            array_push($rules, [
-                'ua' => $desktopBrowser,
-                'class' => 'desktop'
-            ]);
-        }
-
-        $this->rules = $rules;
-    }
+    private $rules = [];
 
     /**
      * Get classification result for given Parser result
@@ -358,7 +285,7 @@ class Classifier
     {
         $result = new Result();
 
-        foreach ($this->rules as $rule) {
+        foreach ($this->getRules() as $rule) {
             if (isset($rule['device']) &&
                 preg_match('/^' . $rule['device'] . '$/i', $parseResult->device->family) === 0
             ) {
@@ -386,5 +313,79 @@ class Classifier
         }
 
         return $result;
+    }
+
+    private function getRules() {
+        if ($this->rules) {
+            return $this->rules;
+        }
+
+        // Spider rules
+        array_push($this->rules, [
+            'device' => 'spider',
+            'class' => 'spider'
+        ]);
+
+        // Device rules
+        foreach ($this->mobileDevices as $mobileDevice) {
+            array_push($this->rules, [
+                'device' => $mobileDevice,
+                'class' => 'mobile'
+            ]);
+        }
+        foreach ($this->tabletDevices as $tabletDevice) {
+            array_push($this->rules, [
+                'device' => $tabletDevice,
+                'class' => 'tablet'
+            ]);
+        }
+        foreach ($this->desktopDevices as $desktopDevice) {
+            array_push($this->rules, [
+                'device' => $desktopDevice,
+                'class' => 'desktop'
+            ]);
+        }
+
+        // Operating system rules
+        foreach ($this->mobileOSs as $mobileOS) {
+            array_push($this->rules, [
+                'os' => $mobileOS,
+                'class' => 'mobile'
+            ]);
+        }
+        foreach ($this->tabletOSs as $tabletOS) {
+            array_push($this->rules, [
+                'os' => $tabletOS,
+                'class' => 'tablet'
+            ]);
+        }
+        foreach ($this->desktopOSs as $desktopOS) {
+            array_push($this->rules, [
+                'os' => $desktopOS,
+                'class' => 'desktop'
+            ]);
+        }
+
+        // Browser rules
+        foreach ($this->mobileBrowsers as $mobileBrowser) {
+            array_push($this->rules, [
+                'ua' => $mobileBrowser,
+                'class' => 'mobile'
+            ]);
+        }        
+        foreach ($this->tabletBrowsers as $tabletBrowser) {
+            array_push($this->rules, [
+                'ua' => $tabletBrowser,
+                'class' => 'tablet'
+            ]);
+        }
+        foreach ($this->desktopBrowsers as $desktopBrowser) {
+            array_push($this->rules, [
+                'ua' => $desktopBrowser,
+                'class' => 'desktop'
+            ]);
+        }
+
+        return $this->rules;
     }
 }
