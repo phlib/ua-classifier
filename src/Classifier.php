@@ -315,6 +315,11 @@ class Classifier
         return $result;
     }
 
+    /**
+     * Gets array of regex rules with matching classifications
+     *
+     * @return array
+     */
     private function getRules() : array {
         if ($this->rules) {
             return $this->rules;
