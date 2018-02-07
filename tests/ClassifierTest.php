@@ -8,9 +8,9 @@ use Symfony\Component\Yaml\Yaml;
 use PHPUnit\Framework\TestCase;
 
 /**
- * Test Classifier
+ * UAClassifier Test ClassifierTest
  *
- * @package Phlib\UAClassifier
+ * @package UAClassifier
  */
 class ClassifierTest extends TestCase
 {
