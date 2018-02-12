@@ -13,32 +13,9 @@ use UAParser\Result\Client;
 class Classifier
 {
     /**
-     * @var array
+     * @var array Array of regex rules with matching classifications
      */
-    public $mobileOSs = ['windows phone 6.5','windows ce','symbian os'];
-
-    /**
-     * @var array
-     */
-    public $mobileBrowsers = [
-        'firefox mobile','opera mobile','opera mini','mobile safari','webos','ie mobile','playstation portable',
-        'nokia','blackberry','palm','silk','android','maemo','obigo','netfront','avantgo','teleca','semc-browser',
-        'bolt','iris','up.browser','symphony','minimo','bunjaloo','jasmine','dolfin','polaris','brew','chrome mobile',
-        'uc browser','tizen browser'
-    ];
-
-    /**
-     * @var array
-     */
-    public $tablets = ['kindle','ipad','playbook','touchpad','dell streak','galaxy tab','xoom'];
-
-    /**
-     * @var array
-     */
-    public $mobileDevices = [
-        'iphone','ipod','ipad','htc','kindle','lumia','amoi','asus','bird','dell','docomo','huawei','i-mate','kyocera',
-        'lenovo','lg','kin','motorola','philips','samsung','softbank','palm','hp ','generic feature phone','generic smartphone'
-    ];
+    private $rules = [];
 
     /**
      * Get classification result for given Parser result
@@ -46,46 +23,117 @@ class Classifier
      * @param Client $parseResult
      * @return Result
      */
-    public function classify(Client $parseResult)
+    public function classify(Client $parseResult) : Result
     {
-        $classifyResult = new Result();
+        $result = new Result();
 
-        switch (true) {
-            case (in_array(strtolower($parseResult->device->family), $this->tablets)):
-                $classifyResult->matchType      = 'device';
-                $classifyResult->isTablet       = true;
-                $classifyResult->isMobileDevice = true;
-                $classifyResult->isComputer     = false;
-                break;
+        foreach ($this->getRules() as $rule) {
+            if (isset($rule['device']) &&
+                preg_match('/^' . $rule['device'] . '$/i', $parseResult->device->family) === 0
+            ) {
+                continue;
+            }
+            if (isset($rule['os']) &&
+                preg_match('/^' . $rule['os'] . '$/i', $parseResult->os->family) === 0
+            ) {
+                continue;
+            }
+            if (isset($rule['ua']) &&
+                preg_match('/^' . $rule['ua'] . '$/i', $parseResult->ua->family) === 0
+            ) {
+                continue;
+            }
 
-            case (in_array(strtolower($parseResult->device->family), $this->mobileDevices)):
-                $classifyResult->matchType      = 'device';
-                $classifyResult->isMobileDevice = true;
-                $classifyResult->isMobile       = true;
-                $classifyResult->isComputer     = false;
-                break;
+            $result->isMobileDevice = in_array($rule['class'], ['tablet', 'mobile']);
+            $result->isMobile       = $rule['class'] === 'mobile';
+            $result->isTablet       = $rule['class'] === 'tablet';
+            $result->isSpider       = $rule['class'] === 'spider';
+            $result->isComputer     = $rule['class'] === 'desktop';
+            $result->matchType      = $rule['class'];
 
-            case (strtolower($parseResult->device->family) == 'spider'):
-                $classifyResult->matchType  = 'device';
-                $classifyResult->isSpider   = true;
-                $classifyResult->isComputer = false;
-                break;
-
-            case (in_array(strtolower($parseResult->os->family), $this->mobileOSs)):
-                $classifyResult->matchType      = 'os';
-                $classifyResult->isMobileDevice = true;
-                $classifyResult->isMobile       = true;
-                $classifyResult->isComputer     = false;
-                break;
-
-            case (in_array(strtolower($parseResult->ua->family), $this->mobileBrowsers)):
-                $classifyResult->matchType      = 'ua';
-                $classifyResult->isMobileDevice = true;
-                $classifyResult->isMobile       = true;
-                $classifyResult->isComputer     = false;
-                break;
+            break;
         }
 
-        return $classifyResult;
+        return $result;
+    }
+
+    /**
+     * Gets array of regex rules with matching classifications
+     *
+     * @return array
+     */
+    private function getRules() : array
+    {
+        if ($this->rules) {
+            return $this->rules;
+        }
+
+        // Spider Rules
+        $this->rules[] = [
+            'device' => 'spider',
+            'class'  => 'spider'
+        ];
+
+        // Device Rules
+        foreach (Rules\Mobile::$device as $mobileDevice) {
+            $this->rules[] = [
+                'device' => $mobileDevice,
+                'class'  => 'mobile'
+            ];
+        }
+        foreach (Rules\Tablet::$device as $tabletDevice) {
+            $this->rules[] = [
+                'device' => $tabletDevice,
+                'class'  => 'tablet'
+            ];
+        }
+        foreach (Rules\Desktop::$device as $desktopDevice) {
+            $this->rules[] = [
+                'device' => $desktopDevice,
+                'class'  => 'desktop'
+            ];
+        }
+
+        // Operating System Rules
+        foreach (Rules\Mobile::$os as $mobileOS) {
+            $this->rules[] = [
+                'os'    => $mobileOS,
+                'class' => 'mobile'
+            ];
+        }
+        foreach (Rules\Tablet::$os as $tabletOS) {
+            $this->rules[] = [
+                'os'    => $tabletOS,
+                'class' => 'tablet'
+            ];
+        }
+        foreach (Rules\Desktop::$os as $desktopOS) {
+            $this->rules[] = [
+                'os'    => $desktopOS,
+                'class' => 'desktop'
+            ];
+        }
+
+        // Browser Rules
+        foreach (Rules\Mobile::$browser as $mobileBrowser) {
+            $this->rules[] = [
+                'ua'    => $mobileBrowser,
+                'class' => 'mobile'
+            ];
+        }
+        foreach (Rules\Tablet::$browser as $tabletBrowser) {
+            $this->rules[] = [
+                'ua'    => $tabletBrowser,
+                'class' => 'tablet'
+            ];
+        }
+        foreach (Rules\Desktop::$browser as $desktopBrowser) {
+            $this->rules[] = [
+                'ua'    => $desktopBrowser,
+                'class' => 'desktop'
+            ];
+        }
+
+        return $this->rules;
     }
 }
