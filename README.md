@@ -30,7 +30,7 @@ $classifier = new \UAClassifier\Classifier();
 $classification = $classifier->classify($result);
 
 print $classification->isMobileDevice;
-print $classification->isMobile;
+print $classification->isPhone;
 print $classification->isTablet;
 print $classification->isSpider;
 print $classification->isComputer;

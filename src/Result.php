@@ -23,7 +23,7 @@ class Result
     /**
      * @var bool
      */
-    public $isMobile = false;
+    public $isPhone = false;
 
     /**
      * @var bool

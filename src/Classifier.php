@@ -44,8 +44,8 @@ class Classifier
                 continue;
             }
 
-            $result->isMobileDevice = in_array($rule['class'], ['tablet', 'mobile']);
-            $result->isMobile       = $rule['class'] === 'mobile';
+            $result->isMobileDevice = in_array($rule['class'], ['tablet', 'phone']);
+            $result->isPhone        = $rule['class'] === 'phone';
             $result->isTablet       = $rule['class'] === 'tablet';
             $result->isSpider       = $rule['class'] === 'spider';
             $result->isComputer     = $rule['class'] === 'desktop';
@@ -75,10 +75,10 @@ class Classifier
         ];
 
         // Device Rules
-        foreach (Rules\Mobile::$device as $mobileDevice) {
+        foreach (Rules\Phone::$device as $phoneDevice) {
             $this->rules[] = [
-                'device' => $mobileDevice,
-                'class'  => 'mobile'
+                'device' => $phoneDevice,
+                'class'  => 'phone'
             ];
         }
         foreach (Rules\Tablet::$device as $tabletDevice) {
@@ -95,10 +95,10 @@ class Classifier
         }
 
         // Operating System Rules
-        foreach (Rules\Mobile::$os as $mobileOS) {
+        foreach (Rules\Phone::$os as $phoneOS) {
             $this->rules[] = [
-                'os'    => $mobileOS,
-                'class' => 'mobile'
+                'os'    => $phoneOS,
+                'class' => 'phone'
             ];
         }
         foreach (Rules\Tablet::$os as $tabletOS) {
@@ -115,10 +115,10 @@ class Classifier
         }
 
         // Browser Rules
-        foreach (Rules\Mobile::$browser as $mobileBrowser) {
+        foreach (Rules\Phone::$browser as $phoneBrowser) {
             $this->rules[] = [
-                'ua'    => $mobileBrowser,
-                'class' => 'mobile'
+                'ua'    => $phoneBrowser,
+                'class' => 'phone'
             ];
         }
         foreach (Rules\Tablet::$browser as $tabletBrowser) {

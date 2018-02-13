@@ -4,21 +4,21 @@ declare(strict_types=1);
 namespace UAClassifier\Rules;
 
 /**
- * UAClassifier Rules Mobile
+ * UAClassifier Rules Phone
  *
  * @package UAClassifier
  */
-class Mobile
+class Phone
 {
     /**
-     * @var array Array of regular expressions which match mobile devices
+     * @var array Array of regular expressions which match phone devices
      */
     static $device = [
         'generic feature phone',
         'generic smartphone',
 
         /**
-         * Apple Mobile Devices
+         * Apple Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/List_of_iOS_devices
          */
@@ -26,7 +26,7 @@ class Mobile
         'ipod.*',
 
         /**
-         * Samsung Mobile Devices
+         * Samsung Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Samsung_Galaxy
          */
@@ -35,7 +35,7 @@ class Mobile
         'samsung s',
 
         /**
-         * Nokia Mobile Devices
+         * Nokia Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/List_of_Nokia_products
          */
@@ -46,21 +46,21 @@ class Mobile
         'nokia \d{3,4}.*',
 
         /**
-         * Motorola Mobile Devices
+         * Motorola Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/List_of_Motorola_products
          */
         'motorola (a|c|e|em|ex|i|m|mpx|q|zn|t|v|w|xt|krzr|k|pebl|u|razr|rizr|rokr|z|slvr|l|wx|zine)\d{0,4}.*',
 
         /**
-         * LG Mobile Devices
+         * LG Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/List_of_LG_mobile_phones
          */
         'lg (a|ad|ax|b|bd|bl|bp|bx|c|cb|cd|ce|cf|cg|cm|cp|ct|cu|cx|d|f|g|gb|gc|gd|gm|gr|gs|gt|gu|gw|kb|kc|ke|kf|kg|km|kp|ks|ku|lg|lu|lx|m|me|mg|mx|p|pm|s|su|t|td|tg|tm|te|tu|u|un|us|ux|v|vi|vn|vm|vs|vx|x)\d{2,5}.*',
 
         /**
-         * HTC Mobile Devices
+         * HTC Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Comparison_of_HTC_devices
          */
@@ -68,7 +68,7 @@ class Mobile
         'htc (htc(_| )?)?(mozart.*|schubert.*|gold.*|spark.*|mondrian.*|radar.*|eternity.*|radiant.*|accord.*|rio.*|rome.*|freestyle.*|canary.*|tanager.*|voyager.*|typhoon.*|feeler.*|sonata.*|amadeus.*|hurricane.*|tornado.*|faraday.*|douton.*|startrek.*|breeze.*|oxygen.*|monet.*|excalibur.*|vox.*|libra.*|cavalier.*|iris.*|phoebus.*|wings.*|rose.*|converse.*|willow.*|maple.*|cedar.*|raphael.*|opal.*|jade.*|herman.*|blackstone.*|quartz.*|iolite.*|topaz.*|rhodium.*|tungsten.*|citrine.*|barium.*|leo.*|mega.*|whitestone.*|qilin.*|tachi.*|photon.*|wallaby.*|falcon.*|himalaya.*|blueangel.*|harrier.*|magician.*|alpine.*|gemini.*|apache.*|galaxy.*|wizard.*|prophet.*|charmer.*|hermes.*|trinity.*|artemis.*|herald.*|census.*|love.*|gene.*|panda.*|atlas.*|elf.*|titan.*|vogue.*|wave.*|kaiser.*|nike.*|elfin.*|sedna.*|polaris.*|neon.*|pharos.*|diamond.*|fuwa.*|victor.*|imagio.*|universal.*|athena.*|clio.*|rosella.*|kiwi.*|greatwall.*|dextrous.*|roadster.*|bali.*|beetles.*|sable.*|eden.*|cheetah.*|panther.*|kovsky.*|passion.*|magic.*|tattoo.*|eris.*|desire.*|wildfire.*|aria.*|evo.*|panache.*|gratia.*|inspire.*|thunderbolt.*|incredible.*|merge.*|sensation.*|chacha.*|salsa.*|raider.*|vivid.*|velocity.*|rhyme.*|amaze.*|explorer.*|sensation.*|rezound.*|one.*|j butterfly.*|first.*|one.*|10.*|u ultra.*|u play.*|vision.*|sprint.*|shooter.*|saga.*|marvel.*|hero.*|droid.*|buzz.*|holiday.*|legend.*|7 .*|acquire.*|bahamas.*|bee.*|blizz.*|bravo.*|butterfly.*|click.*|doubleshot.*|dream.*|endeavoru.*|espresso.*|europe.*|glacier.*|golfu.*|jewel.*|joke.*|kingdom.*|lexikon.*|liberty.*|marshall.*|mazaa.*|mecha.*|mytouch.*|touch.*|nexus one.*|omega.*|sapphire.*|schuber.*|status.*|supersonic.*|surround).*',
 
         /**
-         * Huawei Mobile Devices
+         * Huawei Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Category:Huawei_mobile_phones
          */
@@ -76,21 +76,21 @@ class Mobile
         'huawei ideos ?(x|u).*',
 
         /**
-         * Sony Ericsson Mobile Devices
+         * Sony Ericsson Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/List_of_Sony_Ericsson_products
          */
         'ericsson (c|ck|e|f|g|j|k|lt|m|mt|p|r|s|t|tm|u|v|w|wt|x|z)\d{1,4}.*',
 
         /**
-         * Siemens Mobile Devices
+         * Siemens Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Siemens_Mobile
          */
         'siemens (a|af|ap|al|ax|c|cc|cf|cl|cx|e|ic|m|mc|me|mt|p|s|sf|sfg|sg|sk|sl|sp|st|sx|sxg|u).*',
 
         /**
-         * Asus Mobile Devices
+         * Asus Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Asus#Smartphones
          */
@@ -98,21 +98,21 @@ class Mobile
         'asus galaxy.*',
 
         /**
-         * Lenovo Mobile Devices
+         * Lenovo Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Lenovo_smartphones
          */
         'lenovo (a|e|i|k|p|s|v)\d{2,3}.*',
 
         /**
-         * Nintendo Mobile Devices
+         * Nintendo Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/Nintendo_video_game_consoles#Portable_consoles
          */
         'nintendo (ds|dsi|3ds)',
 
         /**
-         * PlayStation Mobile Devices
+         * PlayStation Phone Devices
          *
          * @link https://en.wikipedia.org/wiki/PlayStation
          */
@@ -120,11 +120,11 @@ class Mobile
     ];
 
     /**
-     * @var array Array of regular expressions which match mobile operating systems
+     * @var array Array of regular expressions which match phone operating systems
      */
     static $os = [
         /**
-         * Microsoft Mobile Operating Systems
+         * Microsoft Phone Operating Systems
          *
          * @link https://en.wikipedia.org/wiki/Windows_Mobile
          */
@@ -136,7 +136,7 @@ class Mobile
     ];
 
     /**
-     * @var array Array of regular expressions which match mobile browsers
+     * @var array Array of regular expressions which match phone browsers
      */
     static $browser = [
         'chrome mobile', 'firefox mobile','opera mobile','opera mini','mobile safari','webos','ie mobile',
