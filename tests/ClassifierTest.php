@@ -60,7 +60,7 @@ class ClassifierTest extends TestCase
             'Computer' . $msgString
         );
         $this->assertEquals(
-            in_array($class, ['tablet', 'mobile']),
+            in_array($class, ['tablet', 'phone']),
             $c12n->isMobileDevice,
             'Mobile device' . $msgString
         );
@@ -70,9 +70,9 @@ class ClassifierTest extends TestCase
             'Tablet' . $msgString
         );
         $this->assertEquals(
-            $class === 'mobile',
-            $c12n->isMobile,
-            'Mobile' . $msgString
+            $class === 'phone',
+            $c12n->isPhone,
+            'Phone' . $msgString
         );
         $this->assertEquals(
             $class === 'spider',
@@ -85,7 +85,7 @@ class ClassifierTest extends TestCase
     {
         $testData = Yaml::parse(file_get_contents(__DIR__ . '/test-cases.yaml'));
 
-        $validClass = ['desktop', 'tablet', 'mobile', 'spider'];
+        $validClass = ['desktop', 'tablet', 'phone', 'spider'];
         $data = [];
         foreach ($testData as $key => $testCase) {
             if (empty($testCase['c'])) {

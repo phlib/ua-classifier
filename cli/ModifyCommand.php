@@ -21,7 +21,7 @@ class ModifyCommand extends Command
      * @var array $classificationMap
      */
     protected $classificationMap = [
-        'm' => 'Mobile',
+        'p' => 'Phone',
         't' => 'Tablet',
         'd' => 'Desktop',
         's' => 'Spider'
