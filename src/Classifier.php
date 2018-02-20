@@ -25,7 +25,7 @@ class Classifier
      */
     public function classify(Client $parseResult) : Result
     {
-        $result = new Result();
+        $matchClass = '';
 
         foreach ($this->getRules() as $rule) {
             if (isset($rule['device']) &&
@@ -44,17 +44,11 @@ class Classifier
                 continue;
             }
 
-            $result->isMobileDevice = in_array($rule['class'], ['tablet', 'phone']);
-            $result->isPhone        = $rule['class'] === 'phone';
-            $result->isTablet       = $rule['class'] === 'tablet';
-            $result->isSpider       = $rule['class'] === 'spider';
-            $result->isComputer     = $rule['class'] === 'desktop';
-            $result->matchType      = $rule['class'];
-
+            $matchClass = $rule['class'];
             break;
         }
 
-        return $result;
+        return new Result($matchClass);
     }
 
     /**

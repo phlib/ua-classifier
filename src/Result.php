@@ -11,32 +11,37 @@ namespace UAClassifier;
 class Result
 {
     /**
-     * @var string UA-Parser element used for match: 'device', 'os', 'ua'
+     * @var string
      */
-    public $matchType;
+    public $matchClass;
 
-    /**
-     * @var bool
-     */
-    public $isMobileDevice = false;
+    public function __construct(string $matchClass = '')
+    {
+        $this->matchClass = $matchClass;
+    }
 
-    /**
-     * @var bool
-     */
-    public $isPhone = false;
+    public function isMobileDevice() : bool
+    {
+        return in_array($this->matchClass, ['tablet', 'phone']);
+    }
 
-    /**
-     * @var bool
-     */
-    public $isTablet = false;
+    public function isPhone() : bool
+    {
+        return $this->matchClass === 'phone';
+    }
 
-    /**
-     * @var bool
-     */
-    public $isSpider = false;
+    public function isTablet() : bool
+    {
+        return $this->matchClass === 'tablet';
+    }
 
-    /**
-     * @var bool
-     */
-    public $isComputer = true;
+    public function isSpider() : bool
+    {
+        return $this->matchClass === 'spider';
+    }
+
+    public function isComputer() : bool
+    {
+        return $this->matchClass === 'computer';
+    }
 }
