@@ -13,7 +13,7 @@ class Result
     /**
      * @var string
      */
-    public $matchClass;
+    private $matchClass;
 
     /**
      * @var array
@@ -26,6 +26,14 @@ class Result
             throw new \Exception('Invalid class: ' + $matchClass);
         }
         $this->matchClass = $matchClass;
+    }
+
+    /**
+     * @return string
+     */
+    public function getMatchClass(): string
+    {
+        return $this->matchClass;
     }
 
     public function isMobileDevice() : bool

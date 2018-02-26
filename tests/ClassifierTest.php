@@ -51,7 +51,7 @@ class ClassifierTest extends TestCase
         $this->mockResult->ua->family = $ua;
 
         $c12n = $this->classifier->classify($this->mockResult);
-        $msgString = " check for '{$key}' ('{$class}' match by '{$c12n->matchClass}')";
+        $msgString = " check for '{$key}' ('{$class}' match by '{$c12n->getMatchClass()}')";
 
         $this->assertEquals(
             $class === 'desktop',
