@@ -20,7 +20,7 @@ class Result
      */
     private $validClasses = ['phone', 'tablet', 'spider', 'computer'];
 
-    public function __construct(string $matchClass = '')
+    public function __construct(string $matchClass)
     {
         if (!in_array($matchClass, $this->validClasses)) {
             throw new \Exception('Invalid class: ' + $matchClass);
