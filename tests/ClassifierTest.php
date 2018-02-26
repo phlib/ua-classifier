@@ -51,32 +51,31 @@ class ClassifierTest extends TestCase
         $this->mockResult->ua->family = $ua;
 
         $c12n = $this->classifier->classify($this->mockResult);
-
-        $msgString = " check for '{$key}' ('{$class}' match by '{$c12n->matchType}')";
+        $msgString = " check for '{$key}' ('{$class}' match by '{$c12n->getMatchClass()}')";
 
         $this->assertEquals(
             $class === 'desktop',
-            $c12n->isComputer,
+            $c12n->isComputer(),
             'Computer' . $msgString
         );
         $this->assertEquals(
             in_array($class, ['tablet', 'phone']),
-            $c12n->isMobileDevice,
+            $c12n->isMobileDevice(),
             'Mobile device' . $msgString
         );
         $this->assertEquals(
             $class === 'tablet',
-            $c12n->isTablet,
+            $c12n->isTablet(),
             'Tablet' . $msgString
         );
         $this->assertEquals(
             $class === 'phone',
-            $c12n->isPhone,
+            $c12n->isPhone(),
             'Phone' . $msgString
         );
         $this->assertEquals(
             $class === 'spider',
-            $c12n->isSpider,
+            $c12n->isSpider(),
             'Spider' . $msgString
         );
     }
