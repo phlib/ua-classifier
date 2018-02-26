@@ -22,11 +22,10 @@ class Classifier
      *
      * @param Client $parseResult
      * @return Result
+     * @throws \Exception
      */
     public function classify(Client $parseResult) : Result
     {
-        $matchClass = '';
-
         foreach ($this->getRules() as $rule) {
             if (isset($rule['device']) &&
                 preg_match('/^' . $rule['device'] . '$/i', $parseResult->device->family) === 0
@@ -44,11 +43,9 @@ class Classifier
                 continue;
             }
 
-            $matchClass = $rule['class'];
-            break;
+            return new Result($rule['class']);
         }
-
-        return new Result($matchClass);
+        throw new \Exception('No matching classification found');
     }
 
     /**
