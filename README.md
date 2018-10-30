@@ -6,6 +6,12 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/phlib/ua-classifier.svg)](https://packagist.org/packages/phlib/ua-classifier)
 ![Licence](https://img.shields.io/github/license/phlib/ua-classifier.svg)
 
+## Abandoned
+
+This package is abandoned and no longer supported. We recommend trying [matomo-org/device-detector](https://github.com/matomo-org/device-detector).
+
+-----
+
 A PHP ua-parser device classification project, to provide functionality that was removed in [ua-parser](https://github.com/tobie/ua-parser) 2.0
 ([4c77b2a](https://github.com/tobie/ua-parser/commit/4c77b2aa8d1f26f21e59c4901ea8c75bcbfb00aa))
 
